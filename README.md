@@ -2,12 +2,12 @@
 
 rss translate any to any
 
-![](https://github.com/talengu/rss-translate/workflows/circle_translate/badge.svg)
-![](https://github.com/talengu/rss-translate/workflows/Deploy/badge.svg)
+![](https://github.com/Juijote/rss-translate-1/workflows/circle_translate/badge.svg)
+![](https://github.com/Juijote/rss-translate-1/workflows/Deploy/badge.svg)
 
-you can edit [test.ini](https://github.com/talengu/rss-translate/edit/main/test.ini) to add orginal rss url. [help](https://github.com/talengu/rss-translate/issues/2)
+you can edit [test.ini](https://github.com/Juijote/rss-translate-1/edit/main/test.ini) to add orginal rss url. [help](https://github.com/Juijote/rss-translate-1/issues/2)
 
-next find the translated link in [https://talengu.github.io/rss-translate/](https://talengu.github.io/rss-translate/)
+next find the translated link in [https://talengu.github.io/rss-translate/](https://Juijote.github.io/rss-translate-1/)
 
 ## rss translate links
 
