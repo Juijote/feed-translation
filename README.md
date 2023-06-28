@@ -6,7 +6,7 @@
 
 > [使用说明](https://github.com/talengu/rss-translate/issues/2) OR [使用 GitHub Action + Google Translate 实现翻译 RSS 订阅源全文](https://www.tjsky.net/tutorial/644)
 
-- 编辑 [test.ini](https://github.com/Juijote/rss-translate-1/edit/main/test.ini) 添加订阅源。
+- 编辑 [feed.ini](https://github.com/Juijote/rss-translate-1/edit/main/test.ini) 添加订阅源。
 - [订阅地址](https://Juijote.github.io/rss-translate/)
 
 ## 已翻译订阅源
