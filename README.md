@@ -7,7 +7,7 @@ rss translate any to any
 
 you can edit [test.ini](https://github.com/Juijote/rss-translate-1/edit/main/test.ini) to add orginal rss url. [help](https://github.com/Juijote/rss-translate-1/issues/2)
 
-next find the translated link in [https://talengu.github.io/rss-translate/](https://Juijote.github.io/rss-translate-1/)
+next find the translated link in [https://Juijote.github.io/rss-translate-1/](https://Juijote.github.io/rss-translate-1/)
 
 ## rss translate links
 
