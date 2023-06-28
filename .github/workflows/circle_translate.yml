@@ -37,7 +37,7 @@ jobs:
         run: |
           python main2.py
           python .github/cron_random.py
-          ls -al rss/
+          ls -al feed/
           
       - name: PUSH
         env:
