@@ -5,7 +5,7 @@ on:
   # Triggers the workflow on push or pull request events but only for the "master" branch
   # 每月26号4点4分 #
   schedule:
-   - cron: '23 9 * * *'
+   - cron: '* */6 * * *'
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -36,7 +36,6 @@ jobs:
       - name: ls_show
         run: |
           python main2.py
-          python .github/cron_random.py
           ls -al feed/
           
       - name: PUSH
@@ -50,7 +49,7 @@ jobs:
         
           git status -s
           git add feed/*
-          git add test.ini
+          git add feed.ini
           git add .github/workflows/circle_translate.yml
           git add README.md
         
