@@ -1,15 +1,15 @@
-# rss-translate
-
-rss translate any to any
+# rss-translate - 外文 RSS 订阅源翻译
+> [原项目](https://github.com/talengu/rss-translate)
 
 ![](https://github.com/Juijote/rss-translate-1/workflows/circle_translate/badge.svg)
 ![](https://github.com/Juijote/rss-translate-1/workflows/Deploy/badge.svg)
 
-you can edit [test.ini](https://github.com/Juijote/rss-translate-1/edit/main/test.ini) to add orginal rss url. [help](https://github.com/Juijote/rss-translate-1/issues/2)
+> [使用说明](https://github.com/talengu/rss-translate/issues/2) OR [使用 GitHub Action + Google Translate 实现翻译 RSS 订阅源全文](https://www.tjsky.net/tutorial/644)
 
-next find the translated link in [https://Juijote.github.io/rss-translate-1/](https://Juijote.github.io/rss-translate-1/)
+- 编辑 [test.ini](https://github.com/Juijote/rss-translate-1/edit/main/test.ini) 添加订阅源。
+- [订阅地址](https://Juijote.github.io/rss-translate/)
 
-## rss translate links
+## 已翻译订阅源
 
  - source001 [https://aeon.co/feed.rss](https://aeon.co/feed.rss) -> [aeon.xml](feed/aeon.xml)
  - source002 [https://thetinylife.com/feed/](https://thetinylife.com/feed/) -> [thetinylife.xml](feed/thetinylife.xml)
