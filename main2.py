@@ -74,7 +74,7 @@ class GoogleTran:
 
 
 
-with open('test.ini', mode = 'r') as f:
+with open('feed.ini', mode = 'r') as f:
     ini_data = parse.unquote(f.read())
 config = configparser.ConfigParser()
 config.read_string(ini_data)
@@ -140,7 +140,7 @@ for x in secs[1:]:
     tran(x)
     print(config.items(x))
 
-with open('test.ini','w') as configfile:
+with open('feed.ini','w') as configfile:
     config.write(configfile)
 
 
