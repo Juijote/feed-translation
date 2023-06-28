@@ -50,7 +50,7 @@ jobs:
         
           git status -s
           git add feed/*
-          git add test.ini
+          git add feed.ini
           git add .github/workflows/circle_translate.yml
           git add README.md
         
