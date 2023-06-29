@@ -1,7 +1,7 @@
 # coding:utf-8 
 import random
 min=random.randint(0, 59)
-h=random.randint(0, 23)
+h=random.randint(0, 5)
 
 
 YML=".github/workflows/circle_translate.yml"
