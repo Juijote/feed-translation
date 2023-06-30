@@ -36,6 +36,7 @@ jobs:
       - name: ls_show
         run: |
           python main2.py
+          python .github/cron_random.py
           ls -al feed/
           
       - name: PUSH
