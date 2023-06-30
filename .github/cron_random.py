@@ -7,7 +7,7 @@ YML=".github/workflows/circle_translate.yml"
 
 f = open(YML, "r+", encoding="UTF-8")
 list1 = f.readlines()           
-list1[7] = "   - cron: '%d */6 * * *'\n"%d(min)
+list1[7] = "   - cron: '%d */6 * * *'\n"%(min)
 
 f = open(YML, "w+", encoding="UTF-8")
 f.writelines(list1)
