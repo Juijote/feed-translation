@@ -3,6 +3,7 @@ import random
 min=random.randint(0, 59)
 # h=random.randint(0, 23)
 
+
 YML=".github/workflows/circle_translate.yml"
 
 f = open(YML, "r+", encoding="UTF-8")
