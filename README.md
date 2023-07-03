@@ -1,5 +1,5 @@
-# rss-translate - 外文 RSS 订阅源翻译
-> [本项目](https://github.com/Juijote/rss-translate) & [原项目](https://github.com/talengu/rss-translate)
+# feed-translation - 外文 RSS 订阅源翻译
+> [本项目](https://github.com/Juijote/rss-translate) & 参考项目 [talengu](https://github.com/talengu/rss-translate) & [rcy1314](https://github.com/rcy1314/Rss-Translation)
 
 ![翻译状态](https://github.com/Juijote/rss-translate-1/workflows/circle_translate/badge.svg)
 ![部署状态](https://github.com/Juijote/rss-translate-1/workflows/Deploy/badge.svg)
