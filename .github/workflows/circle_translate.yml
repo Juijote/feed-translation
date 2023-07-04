@@ -40,7 +40,7 @@ jobs:
           pip install requests
       - name: ls_show
         run: |
-          python google_translation.py
+          python bing_translation.py
           ls -al feed/
              
       - name: Push changes to remote repository
