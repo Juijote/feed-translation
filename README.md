@@ -11,7 +11,7 @@
 
 ## 已翻译订阅源文件
 
- - source001 [https://aeon.co/feed.rss](https://aeon.co/feed.rss) -> [aeon.xml](feed/aeon.xml)
- - source002 [https://thetinylife.com/feed/](https://thetinylife.com/feed/) -> [thetinylife.xml](feed/thetinylife.xml)
- - source003 [https://steamdeckhq.com/feed/](https://steamdeckhq.com/feed/) -> [steamdeckhq.xml](feed/steamdeckhq.xml)
- - source004 [https://www.gamingonlinux.com/article_rss.php](https://www.gamingonlinux.com/article_rss.php) -> [gamingonlinux.xml](feed/gamingonlinux.xml)
+ - source001 [https://aeon.co/feed.rss](https://aeon.co/feed.rss) -> [aeon](feed/aeon.xml)
+ - source002 [https://thetinylife.com/feed/](https://thetinylife.com/feed/) -> [thetinylife](feed/thetinylife.xml)
+ - source003 [https://steamdeckhq.com/feed/](https://steamdeckhq.com/feed/) -> [steamdeckhq](feed/steamdeckhq.xml)
+ - source004 [https://www.gamingonlinux.com/article_rss.php](https://www.gamingonlinux.com/article_rss.php) -> [gamingonlinux](feed/gamingonlinux.xml)
