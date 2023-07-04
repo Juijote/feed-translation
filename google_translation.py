@@ -9,7 +9,7 @@ import feedparser
 from pygtrans import Translator
 from bs4 import BeautifulSoup
 from jinja2 import Template
-import googletrans
+import requests
 
 def get_md5_value(src):
     _m = hashlib.md5()
