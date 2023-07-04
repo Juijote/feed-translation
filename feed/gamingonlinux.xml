@@ -4,11 +4,18 @@
     <title>GamingOnLinux 最新文章</title>
     <link>https://www.gamingonlinux.com/</link>
     <description>GamingOnLinux 的最新文章</description>
-    <lastBuildDate>Tue, 04 Jul 2023 13:26:36 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Jul 2023 15:10:51 GMT</lastBuildDate>
+    <item>
+      <title>《武士幸存者》通过 Steam Deck 验证并改进了游戏手柄</title>
+      <link>https://www.gamingonlinux.com/2023/07/samurai-survivors-gets-steam-deck-verified-with-gamepad-improvements/</link>
+      <description><![CDATA[《武士幸存者》是现在有点长的弹幕地狱部落风格游戏列表中的另一款，它的爆发得益于《吸血鬼幸存者》。它支持 Linux，现在也通过了 Steam Deck 验证。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/07/samurai-survivors-gets-steam-deck-verified-with-gamepad-improvements/</guid>
+      <pubDate>Tue, 04 Jul 2023 15:10:51 GMT</pubDate>
+    </item>
     <item>
       <title>晨风现代游戏引擎OpenMW 0.48准备发布</title>
       <link>https://www.gamingonlinux.com/2023/07/morrowind-modern-game-engine-openmw/</link>
-      <description><![CDATA[Morrowind 游戏引擎 OpenMW v0.48 的第一轮候选版本终于到来，这是一个免费的开源重新实现，旨在让 Morrowind 在现代平台上感觉更好。]]></description>
+      <description><![CDATA[OpenMW 是 Morrowind 的现代免费开源游戏引擎，现在它已经非常接近 0.48 版本的发布了，并且另一个候选版本已准备好进行更多测试。]]></description>
       <guid>https://www.gamingonlinux.com/2023/07/morrowind-modern-game-engine-openmw/</guid>
       <pubDate>Tue, 04 Jul 2023 13:26:36 GMT</pubDate>
     </item>
@@ -71,7 +78,7 @@
     <item>
       <title>BattleBit Remastered 很有趣，但 Steam Deck 和 Linux 的反作弊问题令人担忧</title>
       <link>https://www.gamingonlinux.com/2023/07/battlebit-remastered-anti-cheat-for-steam-deck-linux-is-concerning/</link>
-      <description><![CDATA[《BattleBit Remastered》是目前在 Steam 上排名不断攀升的游戏，由一个只有 3 人的小团队制作，但经常吸引数万名玩家。它可以在 Steam Deck 和桌面 Linux 上运行，但反作弊可能会成为一个大问题。]]></description>
+      <description><![CDATA[《BattleBit Remastered》是目前在 Steam 上排名不断攀升的游戏，由一个只有 3 人的小团队制作，但经常会吸引数万名玩家。它可以在 Steam Deck 和桌面 Linux 上运行，但反作弊可能会成为一个大问题。]]></description>
       <guid>https://www.gamingonlinux.com/2023/07/battlebit-remastered-anti-cheat-for-steam-deck-linux-is-concerning/</guid>
       <pubDate>Mon, 03 Jul 2023 15:30:54 GMT</pubDate>
     </item>
@@ -113,7 +120,7 @@
     <item>
       <title>Steam Deck 现已成为 Steam 全球销量第一</title>
       <link>https://www.gamingonlinux.com/2023/06/steam-deck-now-the-global-1-top-seller-on-steam/</link>
-      <description><![CDATA[随着 Steam 2023 年夏季特卖如火如荼地进行，加上 Steam Deck 的大幅折扣，该游戏在 Steam 排行榜上重新崛起。]]></description>
+      <description><![CDATA[随着 Steam 2023 年夏季特卖如火如荼地进行，加上 Steam Deck 的大幅折扣，它又重新登上了 Steam 排行榜的榜首。]]></description>
       <guid>https://www.gamingonlinux.com/2023/06/steam-deck-now-the-global-1-top-seller-on-steam/</guid>
       <pubDate>Fri, 30 Jun 2023 13:13:56 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[对于使用开源 RADV (Vulkan) Mesa 驱动程序的 AMD GPU 用户来说，有一些有趣的消息，因为它最近获得了对片段着色器互锁的支持。这对于仿真和翻译层很有用。]]></description>
       <guid>https://www.gamingonlinux.com/2023/06/amd-radv-gets-feature-to-help-emulation-and-translation-layers/</guid>
       <pubDate>Fri, 30 Jun 2023 08:25:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>Steam 2023 年夏季特卖现已上线，Steam Deck 最高可享受 20% 的折扣</title>
-      <link>https://www.gamingonlinux.com/2023/06/steam-summer-sale-2023-is-live/</link>
-      <description><![CDATA[今天，2023 年 Steam 夏季特卖会再次上线，众多开发商为他们的游戏提供了大幅折扣。你知道演习吗？你的钱包已经躲起来了。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/06/steam-summer-sale-2023-is-live/</guid>
-      <pubDate>Thu, 29 Jun 2023 17:23:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
