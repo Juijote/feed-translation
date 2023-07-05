@@ -4,11 +4,25 @@
     <title>GamingOnLinux 最新文章</title>
     <link>https://www.gamingonlinux.com/</link>
     <description>GamingOnLinux 的最新文章</description>
-    <lastBuildDate>Wed, 05 Jul 2023 09:52:34 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Jul 2023 16:29:02 GMT</lastBuildDate>
+    <item>
+      <title>黑龙法师是我这种子弹天堂幸存者般的疯狂</title>
+      <link>https://www.gamingonlinux.com/2023/07/black-dragon-mage-is-my-kind-of-bullet-heaven-survivor-like-insanity/</link>
+      <description><![CDATA[来自开发商 Datablob Studio 的黑龙法师看起来绝对是疯了！从《吸血鬼幸存者》、《布罗托》等所有子弹天堂游戏中汲取灵感，并从《流放之路》甚至……《炸弹人》中汲取一些元素？显然是这样。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/07/black-dragon-mage-is-my-kind-of-bullet-heaven-survivor-like-insanity/</guid>
+      <pubDate>Wed, 05 Jul 2023 16:29:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>ProtonUp-Qt v2.8.1 改进了 Heroic Games Launcher 支持</title>
+      <link>https://www.gamingonlinux.com/2023/07/protonup-qt-v281-improves-heroic-games-launcher-support/</link>
+      <description><![CDATA[ProtonUp-Qt 是一款允许您为 Steam、Lutris、Heroic Games Launcher 和 Boxtron 安装 GE-Proton、Wine-GE、Luxtorpeda 等应用程序的应用程序。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/07/protonup-qt-v281-improves-heroic-games-launcher-support/</guid>
+      <pubDate>Wed, 05 Jul 2023 14:02:38 GMT</pubDate>
+    </item>
     <item>
       <title>祝 GamingOnLinux 生日快乐 - 今天 14 岁了</title>
       <link>https://www.gamingonlinux.com/2023/07/happy-birthday-gamingonlinux-14-years-old-today/</link>
-      <description><![CDATA[您可能已经注意到该网站最近表现不佳，那是因为它现在已经进入了十几岁。 GamingOnLinux 生日快乐，我以为没有人会访问这个小网站，但 14 年后我们又来了。]]></description>
+      <description><![CDATA[您可能已经注意到该网站最近表现不佳，那是因为它现在已经进入了十几岁。 GamingOnLinux 生日快乐，我以为没有人会访问这个小网站，但 14 年后我们又来到了这里。]]></description>
       <guid>https://www.gamingonlinux.com/2023/07/happy-birthday-gamingonlinux-14-years-old-today/</guid>
       <pubDate>Wed, 05 Jul 2023 09:52:34 GMT</pubDate>
     </item>
@@ -130,20 +144,6 @@
       <description><![CDATA[GE-Proton 还有另一个可用版本（实际上有两个），因此这里介绍了这个社区维护的翻译层的新增功能。]]></description>
       <guid>https://www.gamingonlinux.com/2023/07/ge-proton-8-6-is-out-now-fixing-up-more-games-for-linux-and-steam-deck/</guid>
       <pubDate>Mon, 03 Jul 2023 08:47:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>提醒：更新您的电脑信息以用于我们的统计页面</title>
-      <link>https://www.gamingonlinux.com/2023/07/update-pc-info-202306/</link>
-      <description><![CDATA[这是每月一次的公开提醒，以确保您的用户个人资料中的电脑信息正确无误。每个月初都会生成一批新的统计数据。对于那些不了解我们的统计系统的人来说，这也是一个很好的提醒。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/07/update-pc-info-202306/</guid>
-      <pubDate>Mon, 03 Jul 2023 08:39:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>这是 2023 年 6 月最热门的 Steam Deck 游戏</title>
-      <link>https://www.gamingonlinux.com/2023/07/heres-the-top-steam-deck-games-for-june-2023/</link>
-      <description><![CDATA[又过了一个月，Valve 公布了上个月的热门内容，让我们来看看 2023 年 6 月的 Steam Deck 排行榜。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/07/heres-the-top-steam-deck-games-for-june-2023/</guid>
-      <pubDate>Mon, 03 Jul 2023 08:21:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
