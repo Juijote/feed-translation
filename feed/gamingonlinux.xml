@@ -4,7 +4,28 @@
     <title>GamingOnLinux 最新文章</title>
     <link>https://www.gamingonlinux.com/</link>
     <description>GamingOnLinux 的最新文章</description>
-    <lastBuildDate>Tue, 04 Jul 2023 19:51:02 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Jul 2023 09:52:34 GMT</lastBuildDate>
+    <item>
+      <title>祝 GamingOnLinux 生日快乐 - 今天 14 岁了</title>
+      <link>https://www.gamingonlinux.com/2023/07/happy-birthday-gamingonlinux-14-years-old-today/</link>
+      <description><![CDATA[您可能已经注意到该网站最近表现不佳，那是因为它现在已经进入了十几岁。 GamingOnLinux 生日快乐，我以为没有人会访问这个小网站，但 14 年后我们又来了。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/07/happy-birthday-gamingonlinux-14-years-old-today/</guid>
+      <pubDate>Wed, 05 Jul 2023 09:52:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>通过 Prime Gaming 获取免费的《Prey》副本</title>
+      <link>https://www.gamingonlinux.com/2023/07/get-a-free-copy-of-prey-with-prime-gaming/</link>
+      <description><![CDATA[想要另一个免费游戏吗？如果您拥有 Amazon Prime，您现在可以通过 Arkane Studios / Bethesda Softworks 与 GOG 合作伙伴索取免费的《Prey》副本。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/07/get-a-free-copy-of-prey-with-prime-gaming/</guid>
+      <pubDate>Wed, 05 Jul 2023 09:45:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>角色驱动的战术角色扮演游戏“Arcadian Atlas”将于 7 月 27 日发布</title>
+      <link>https://www.gamingonlinux.com/2023/07/character-driven-tactical-rpg-arcadian-atlas-releasing-july-27th/</link>
+      <description><![CDATA[如果您喜欢有有趣故事的回合制战术角色扮演游戏，或者像《最终幻想战略版》之类的游戏，您会想看看《Arcadian Atlas》。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/07/character-driven-tactical-rpg-arcadian-atlas-releasing-july-27th/</guid>
+      <pubDate>Wed, 05 Jul 2023 09:24:29 GMT</pubDate>
+    </item>
     <item>
       <title>《Humble Choice》将于 2023 年 7 月推出《天外世界》、《TemTem》、《如龙 4 重制版》</title>
       <link>https://www.gamingonlinux.com/2023/07/humble-choice-for-july-2023-has-the-outer-worlds-temtem-yakuza-4-remastered/</link>
@@ -123,27 +144,6 @@
       <description><![CDATA[又过了一个月，Valve 公布了上个月的热门内容，让我们来看看 2023 年 6 月的 Steam Deck 排行榜。]]></description>
       <guid>https://www.gamingonlinux.com/2023/07/heres-the-top-steam-deck-games-for-june-2023/</guid>
       <pubDate>Mon, 03 Jul 2023 08:21:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>2023 年 GOG 夏季特卖中最后一款免费游戏是《Beholder 2》</title>
-      <link>https://www.gamingonlinux.com/2023/06/the-final-free-game-in-the-gog-summer-sale-2023-is-beholder-2/</link>
-      <description><![CDATA[2023 年 GOG 夏季特卖期间，最后一款免费游戏将为您带来！您现在可以从 Warm Lamp Games 和 Alawar Premium 获得《Beholder 2》。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/06/the-final-free-game-in-the-gog-summer-sale-2023-is-beholder-2/</guid>
-      <pubDate>Fri, 30 Jun 2023 13:21:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>Steam Deck 现已成为 Steam 全球销量第一</title>
-      <link>https://www.gamingonlinux.com/2023/06/steam-deck-now-the-global-1-top-seller-on-steam/</link>
-      <description><![CDATA[随着 Steam 2023 年夏季特卖如火如荼地进行，加上 Steam Deck 的大幅折扣，该游戏在 Steam 排行榜上重新崛起。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/06/steam-deck-now-the-global-1-top-seller-on-steam/</guid>
-      <pubDate>Fri, 30 Jun 2023 13:13:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>Wayland Wine 工作的第 4 部分现已合并</title>
-      <link>https://www.gamingonlinux.com/2023/06/part-4-of-the-wine-work-for-wayland-is-now-merged/</link>
-      <description><![CDATA[为获得 Wayland 的全面支持而向 Wine 提交的一系列持续提交的第四部分已被合并。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/06/part-4-of-the-wine-work-for-wayland-is-now-merged/</guid>
-      <pubDate>Fri, 30 Jun 2023 12:57:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
