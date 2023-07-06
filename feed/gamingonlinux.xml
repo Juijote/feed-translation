@@ -4,7 +4,42 @@
     <title>GamingOnLinux 最新文章</title>
     <link>https://www.gamingonlinux.com/</link>
     <description>GamingOnLinux 的最新文章</description>
-    <lastBuildDate>Wed, 05 Jul 2023 19:34:31 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Jul 2023 15:34:42 GMT</lastBuildDate>
+    <item>
+      <title>MicroProse 现已推出《Dying Breed》，一款类似于《命令与征服》的复古 RTS</title>
+      <link>https://www.gamingonlinux.com/2023/07/microprose-now-publishing-dying-breed-a-retro-rts-like-command-conquer/</link>
+      <description><![CDATA[今天宣布，Sarnayer 的《Dying Breed》融合了原版《命令与征服》中的经典风格和游戏玩法，但带有僵尸，现已由 MicroProse 出版。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/07/microprose-now-publishing-dying-breed-a-retro-rts-like-command-conquer/</guid>
+      <pubDate>Thu, 06 Jul 2023 15:34:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Steam Beta 改进了 Openbox 支持并修复了 AMD / Intel 的焦点问题</title>
+      <link>https://www.gamingonlinux.com/2023/07/steam-beta-improves-openbox-support-and-fixes-focus-issues-with-amd-intel/</link>
+      <description><![CDATA[针对桌面和 Steam Deck 推出了全新的 Steam Beta 更新，其中包含大量小错误修复和改进。如果您有 AMD 或 Intel GPU，则在桌面上尤其好。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/07/steam-beta-improves-openbox-support-and-fixes-focus-issues-with-amd-intel/</guid>
+      <pubDate>Thu, 06 Jul 2023 13:59:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>得益于 Zink，Imagination GPU 现在支持 OpenGL 4.6</title>
+      <link>https://www.gamingonlinux.com/2023/07/imagination-gpus-now-support-opengl-46-thanks-to-zink/</link>
+      <description><![CDATA[这里有一些有趣的驱动程序和硬件新闻，Imagination 宣布他们的 GPU 现在支持从 OpenGL 3.3 升级到 OpenGL 4.6，这要归功于开源 Zink 驱动程序。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/07/imagination-gpus-now-support-opengl-46-thanks-to-zink/</guid>
+      <pubDate>Thu, 06 Jul 2023 13:40:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Godot Engine 4.1带来了可拆卸的脚本编辑器、Vulkan管道缓存</title>
+      <link>https://www.gamingonlinux.com/2023/07/godot-engine-4-1-brings-a-detachable-script-editor-vulkan-pipeline-cache/</link>
+      <description><![CDATA[Godot 4.1 现已发布，适合想要跨平台免费开源游戏引擎的游戏开发者。带来了大量的新功能。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/07/godot-engine-4-1-brings-a-detachable-script-editor-vulkan-pipeline-cache/</guid>
+      <pubDate>Thu, 06 Jul 2023 13:28:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>ChimeraOS 43 现已推出，添加华硕 ROG Ally 支持</title>
+      <link>https://www.gamingonlinux.com/2023/07/chimeraos-43-out-now-adding-asus-rog-ally-support/</link>
+      <description><![CDATA[ChimeraOS 43 今天发布，增加了对在华硕 ROG Ally 手持设备上运行这款受 SteamOS 启发的 Linux 发行版的支持。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/07/chimeraos-43-out-now-adding-asus-rog-ally-support/</guid>
+      <pubDate>Thu, 06 Jul 2023 13:00:40 GMT</pubDate>
+    </item>
     <item>
       <title>Fab 复古风格 FPS 《Selaco》获得 Steam Deck / Linux 演示升级</title>
       <link>https://www.gamingonlinux.com/2023/07/fab-retro-fuelled-fps-selaco-gets-a-demo-upgrade-for-steam-deck-linux/</link>
@@ -71,7 +106,7 @@
     <item>
       <title>晨风现代游戏引擎OpenMW 0.48准备发布</title>
       <link>https://www.gamingonlinux.com/2023/07/morrowind-modern-game-engine-openmw/</link>
-      <description><![CDATA[OpenMW 是 Morrowind 的现代免费开源游戏引擎，现在它已经非常接近 0.48 版本的发布了，并且另一个候选版本已准备好进行更多测试。]]></description>
+      <description><![CDATA[OpenMW 是 Morrowind 的现代免费开源游戏引擎，现在它已经非常接近 0.48 版的发布了，另一个候选版本已准备好进行更多测试。]]></description>
       <guid>https://www.gamingonlinux.com/2023/07/morrowind-modern-game-engine-openmw/</guid>
       <pubDate>Tue, 04 Jul 2023 13:26:36 GMT</pubDate>
     </item>
@@ -109,41 +144,6 @@
       <description><![CDATA[我的一位老读者 Grzegorz Budny 让我了解了德国独立开发商 Oliver Hamann 于 2001 年首次发布的驾驶模拟 Odyssey by Car。风格化的矢量外观图形赋予了永恒的品质，但遗憾的是更多的玩家将无法体验奥德赛。]]></description>
       <guid>https://www.gamingonlinux.com/2023/07/building-a-retro-linux-gaming-computer-part-29-the-odyssey/</guid>
       <pubDate>Tue, 04 Jul 2023 09:55:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>Steam 上近 40% 的 Linux 玩家都在 Steam Deck 上</title>
-      <link>https://www.gamingonlinux.com/2023/07/nearly-40-of-linux-gamers-on-steam-are-on-steam-deck/</link>
-      <description><![CDATA[最新的 Steam 硬件和软件调查将于 2023 年 6 月发布，它显示了 Linux 份额现在受 Steam Deck 的影响有多大。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/07/nearly-40-of-linux-gamers-on-steam-are-on-steam-deck/</guid>
-      <pubDate>Mon, 03 Jul 2023 17:56:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>Fanatical 最新的《Trinity Bundle》包含一些优质的独立热门作品</title>
-      <link>https://www.gamingonlinux.com/2023/07/fanaticals-latest-trinity-bundle-has-some-quality-indie-hits/</link>
-      <description><![CDATA[您不知何故需要更多游戏？好吧，这是最新的《狂热三位一体》捆绑包，其中包含一些独立的宝石。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/07/fanaticals-latest-trinity-bundle-has-some-quality-indie-hits/</guid>
-      <pubDate>Mon, 03 Jul 2023 17:14:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Evolution sim Thrive v0.6.3 展望未来</title>
-      <link>https://www.gamingonlinux.com/2023/07/evolution-sim-thrive-v063-gives-a-glimpse-of-the-future/</link>
-      <description><![CDATA[免费、开源、科学！ Thrive 是一款正在开发的进化模拟游戏，现在发布了新版本，为以后的生命阶段添加了一些更大的原型。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/07/evolution-sim-thrive-v063-gives-a-glimpse-of-the-future/</guid>
-      <pubDate>Mon, 03 Jul 2023 16:56:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>BattleBit Remastered 很有趣，但 Steam Deck 和 Linux 的反作弊问题令人担忧</title>
-      <link>https://www.gamingonlinux.com/2023/07/battlebit-remastered-anti-cheat-for-steam-deck-linux-is-concerning/</link>
-      <description><![CDATA[《BattleBit Remastered》是目前在 Steam 上排名不断攀升的游戏，由一个只有 3 人的小团队制作，但经常会吸引数万名玩家。它可以在 Steam Deck 和桌面 Linux 上运行，但反作弊可能会成为一个大问题。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/07/battlebit-remastered-anti-cheat-for-steam-deck-linux-is-concerning/</guid>
-      <pubDate>Mon, 03 Jul 2023 15:30:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>多人体素角色扮演游戏“Veloren”v0.15 已推出，添加了第一个世界首领</title>
-      <link>https://www.gamingonlinux.com/2023/07/multiplayer-voxel-rpg-veloren-v015-is-out-adding-the-first-world-boss/</link>
-      <description><![CDATA[免费、开源并持续扩展！ Veloren 是一款多人体素角色扮演游戏，灵感来自《魔方世界》、《塞尔达传说：旷野之息》、《矮人要塞》和《我的世界》。 0.15 版本现已发布，听起来很有趣。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/07/multiplayer-voxel-rpg-veloren-v015-is-out-adding-the-first-world-boss/</guid>
-      <pubDate>Mon, 03 Jul 2023 08:55:30 GMT</pubDate>
     </item>
     </channel>
 </rss>
