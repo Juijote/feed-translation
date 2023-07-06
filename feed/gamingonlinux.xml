@@ -4,7 +4,14 @@
     <title>GamingOnLinux 最新文章</title>
     <link>https://www.gamingonlinux.com/</link>
     <description>GamingOnLinux 的最新文章</description>
-    <lastBuildDate>Wed, 05 Jul 2023 16:29:02 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Jul 2023 19:34:31 GMT</lastBuildDate>
+    <item>
+      <title>Fab 复古风格 FPS 《Selaco》获得 Steam Deck / Linux 演示升级</title>
+      <link>https://www.gamingonlinux.com/2023/07/fab-retro-fuelled-fps-selaco-gets-a-demo-upgrade-for-steam-deck-linux/</link>
+      <description><![CDATA[Selaco 是一款真正值得您列入愿望清单的游戏，这是一款由 GZDoom 提供支持的复古第一人称射击游戏，具有令人印象深刻的世界设计和精彩的战斗。开发者最近也更新了演示！]]></description>
+      <guid>https://www.gamingonlinux.com/2023/07/fab-retro-fuelled-fps-selaco-gets-a-demo-upgrade-for-steam-deck-linux/</guid>
+      <pubDate>Wed, 05 Jul 2023 19:34:31 GMT</pubDate>
+    </item>
     <item>
       <title>黑龙法师是我这种子弹天堂幸存者般的疯狂</title>
       <link>https://www.gamingonlinux.com/2023/07/black-dragon-mage-is-my-kind-of-bullet-heaven-survivor-like-insanity/</link>
@@ -22,7 +29,7 @@
     <item>
       <title>祝 GamingOnLinux 生日快乐 - 今天 14 岁了</title>
       <link>https://www.gamingonlinux.com/2023/07/happy-birthday-gamingonlinux-14-years-old-today/</link>
-      <description><![CDATA[您可能已经注意到该网站最近表现不佳，那是因为它现在已经进入了十几岁。 GamingOnLinux 生日快乐，我以为没有人会访问这个小网站，但 14 年后我们又来到了这里。]]></description>
+      <description><![CDATA[您可能已经注意到该网站最近表现不佳，那是因为它现在已经进入了十几岁。 GamingOnLinux 生日快乐，我以为没有人会访问这个小网站，但 14 年后我们又来了。]]></description>
       <guid>https://www.gamingonlinux.com/2023/07/happy-birthday-gamingonlinux-14-years-old-today/</guid>
       <pubDate>Wed, 05 Jul 2023 09:52:34 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[免费、开源并持续扩展！ Veloren 是一款多人体素角色扮演游戏，灵感来自《魔方世界》、《塞尔达传说：旷野之息》、《矮人要塞》和《我的世界》。 0.15 版本现已发布，听起来很有趣。]]></description>
       <guid>https://www.gamingonlinux.com/2023/07/multiplayer-voxel-rpg-veloren-v015-is-out-adding-the-first-world-boss/</guid>
       <pubDate>Mon, 03 Jul 2023 08:55:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>GE-Proton 8-6 现已推出，为 Linux 和 Steam Deck 修复更多游戏</title>
-      <link>https://www.gamingonlinux.com/2023/07/ge-proton-8-6-is-out-now-fixing-up-more-games-for-linux-and-steam-deck/</link>
-      <description><![CDATA[GE-Proton 还有另一个可用版本（实际上有两个），因此这里介绍了这个社区维护的翻译层的新增功能。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/07/ge-proton-8-6-is-out-now-fixing-up-more-games-for-linux-and-steam-deck/</guid>
-      <pubDate>Mon, 03 Jul 2023 08:47:26 GMT</pubDate>
     </item>
     </channel>
 </rss>
