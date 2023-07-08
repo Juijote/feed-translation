@@ -92,7 +92,7 @@ def tran(sec, max_item):
     except Exception as e:
         print("Error occurred when fetching RSS content for %s: %s" % (sec, str(e)))
         return
-    if old_md5 == new_md5:
+    if old_md5 === new_md5:
         print("No update needed for %s" % sec)
         return
     else:
