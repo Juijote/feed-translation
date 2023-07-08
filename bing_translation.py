@@ -109,7 +109,7 @@ def tran(sec, max_item):
     
    # 处理 RSS 内容，生成新的 RSS 文件
     rss_items = []
-    for item in feed["items"]:
+    for item in feed["item"]:
         title = item["title"]
         link = item["link"]
         description = item["description"]
