@@ -4,7 +4,35 @@
     <title>GamingOnLinux 最新文章</title>
     <link>https://www.gamingonlinux.com/</link>
     <description>GamingOnLinux 的最新文章</description>
-    <lastBuildDate>Thu, 06 Jul 2023 15:34:42 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 08 Jul 2023 15:55:55 GMT</lastBuildDate>
+    <item>
+      <title>Fedora 考虑添加“隐私保护”遥测功能</title>
+      <link>https://www.gamingonlinux.com/2023/07/fedora-considering-adding-in-privacy-preserving-telemetry/</link>
+      <description><![CDATA[目前颇有争议的话题是，针对 Fedora Workstation 40 提出了一项变更提案，要求拥有一些“隐私保护”遥测功能，以“启用匿名 Fedora Workstation 使用指标的有限数据收集”。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/07/fedora-considering-adding-in-privacy-preserving-telemetry/</guid>
+      <pubDate>Sat, 08 Jul 2023 15:55:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Meta 宣布推出高性能跨平台图形库“IGL”</title>
+      <link>https://www.gamingonlinux.com/2023/07/meta-announced-igl-a-high-performance-cross-platform-graphics-library/</link>
+      <description><![CDATA[Meta（如 Facebook）在 MIT 许可下可用，已为开发人员发布了 IGL（中间图形库）。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/07/meta-announced-igl-a-high-performance-cross-platform-graphics-library/</guid>
+      <pubDate>Sat, 08 Jul 2023 15:19:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Proton Experimental 修复了《战争机器 5》、《守望先锋 2》和《Phasmophobia》</title>
+      <link>https://www.gamingonlinux.com/2023/07/proton-experimental-brings-fixes-for-gears-5-overwatch-2-phasmophobia/</link>
+      <description><![CDATA[Valve 发布了 Proton Experimental 的全新升级，让更多游戏（例如 Gears 5、Overwatch 2 和 Phasmophobia）在 Linux 和 Steam Deck 上运行得更好。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/07/proton-experimental-brings-fixes-for-gears-5-overwatch-2-phasmophobia/</guid>
+      <pubDate>Sat, 08 Jul 2023 14:50:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wine 8.12 带来了更多 Wayland 工作和性能改进</title>
+      <link>https://www.gamingonlinux.com/2023/07/wine-812-brings-more-wayland-work-and-performance-improvements/</link>
+      <description><![CDATA[兼容性层 Wine 的另一个双周版本现已发布！随着开发人员继续努力让 Wine 在 8.12 版本中与 Wayland 充分配合。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/07/wine-812-brings-more-wayland-work-and-performance-improvements/</guid>
+      <pubDate>Sat, 08 Jul 2023 14:43:42 GMT</pubDate>
+    </item>
     <item>
       <title>MicroProse 现已推出《Dying Breed》，一款类似于《命令与征服》的复古 RTS</title>
       <link>https://www.gamingonlinux.com/2023/07/microprose-now-publishing-dying-breed-a-retro-rts-like-command-conquer/</link>
@@ -41,7 +69,7 @@
       <pubDate>Thu, 06 Jul 2023 13:00:40 GMT</pubDate>
     </item>
     <item>
-      <title>Fab 复古风格 FPS “Selaco” 获得 Steam Deck / Linux 演示升级</title>
+      <title>Fab 复古风格 FPS 《Selaco》获得 Steam Deck / Linux 演示升级</title>
       <link>https://www.gamingonlinux.com/2023/07/fab-retro-fuelled-fps-selaco-gets-a-demo-upgrade-for-steam-deck-linux/</link>
       <description><![CDATA[Selaco 是一款真正值得您列入愿望清单的游戏，这是一款由 GZDoom 提供支持的复古第一人称射击游戏，具有令人印象深刻的世界设计和精彩的战斗。开发者最近也更新了演示！]]></description>
       <guid>https://www.gamingonlinux.com/2023/07/fab-retro-fuelled-fps-selaco-gets-a-demo-upgrade-for-steam-deck-linux/</guid>
@@ -50,7 +78,7 @@
     <item>
       <title>黑龙法师是我这种子弹天堂幸存者般的疯狂</title>
       <link>https://www.gamingonlinux.com/2023/07/black-dragon-mage-is-my-kind-of-bullet-heaven-survivor-like-insanity/</link>
-      <description><![CDATA[来自开发商 Datablob Studio 的黑龙法师看起来绝对是疯了！从《吸血鬼幸存者》、《布洛托》等所有子弹天堂游戏中汲取灵感，并从《流放之路》甚至……《炸弹人》中汲取一些元素？显然是这样。]]></description>
+      <description><![CDATA[来自开发商 Datablob Studio 的黑龙法师看起来绝对是疯了！从《吸血鬼幸存者》、《布罗托》等所有子弹天堂游戏中汲取灵感，并从《流放之路》甚至……《炸弹人》中汲取一些元素？显然是这样。]]></description>
       <guid>https://www.gamingonlinux.com/2023/07/black-dragon-mage-is-my-kind-of-bullet-heaven-survivor-like-insanity/</guid>
       <pubDate>Wed, 05 Jul 2023 16:29:02 GMT</pubDate>
     </item>
@@ -74,6 +102,13 @@
       <description><![CDATA[想要另一个免费游戏吗？如果您拥有 Amazon Prime，您现在可以通过 Arkane Studios / Bethesda Softworks 与 GOG 合作伙伴索取免费的《Prey》副本。]]></description>
       <guid>https://www.gamingonlinux.com/2023/07/get-a-free-copy-of-prey-with-prime-gaming/</guid>
       <pubDate>Wed, 05 Jul 2023 09:45:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>角色驱动的战术角色扮演游戏“Arcadian Atlas”将于 7 月 27 日发布</title>
+      <link>https://www.gamingonlinux.com/2023/07/character-driven-tactical-rpg-arcadian-atlas-releasing-july-27th/</link>
+      <description><![CDATA[如果您喜欢有有趣故事的回合制战术角色扮演游戏，或者像《最终幻想战略版》之类的游戏，您会想看看《Arcadian Atlas》。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/07/character-driven-tactical-rpg-arcadian-atlas-releasing-july-27th/</guid>
+      <pubDate>Wed, 05 Jul 2023 09:24:29 GMT</pubDate>
     </item>
     </channel>
 </rss>
