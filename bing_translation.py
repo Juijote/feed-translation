@@ -81,13 +81,13 @@ def tran(sec, max_item):
     xml_file = os.path.join(BASE, f'{get_cfg(sec, "name")}.xml')
     url = get_cfg(sec, 'url')
     old_md5 = get_cfg(sec, 'md5') 
+    headers = {'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.58'}
     # 读取旧的 MD5 散列值
     source, target = get_cfg_tra(sec, config)
     global links
     links += [" - %s [%s](%s) -> [%s](%s)\n" % (sec, url, (url), get_cfg(sec, 'name'), parse.quote(xml_file))]
     # 判断 RSS 内容是否有更新
     try:
-        headers = {'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.58'}
         r = requests.get(url,headers=headers)
         new_md5 = get_md5_value(r.text)
     except Exception as e:
