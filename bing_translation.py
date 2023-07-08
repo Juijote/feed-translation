@@ -81,7 +81,6 @@ def tran(sec, max_item):
     xml_file = os.path.join(BASE, f'{get_cfg(sec, "name")}.xml')
     url = get_cfg(sec, 'url')
     old_md5 = get_cfg(sec, 'md5') 
-    headers = {'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.58'}
     # 读取旧的 MD5 散列值
     source, target = get_cfg_tra(sec, config)
     global links
@@ -109,7 +108,7 @@ def tran(sec, max_item):
     
    # 处理 RSS 内容，生成新的 RSS 文件
     rss_items = []
-    for item in feed["item"]:
+    for item in feed["items"]:
         title = item["title"]
         link = item["link"]
         description = item["description"]
