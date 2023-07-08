@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GamingOnLinux 最新文章</title>
+    <link>https://www.gamingonlinux.com/</link>
+    <description>GamingOnLinux 的最新文章</description>
+    <lastBuildDate>Thu, 06 Jul 2023 15:34:42 GMT</lastBuildDate>
+    <item>
+      <title>MicroProse 现已推出《Dying Breed》，一款类似于《命令与征服》的复古 RTS</title>
+      <link>https://www.gamingonlinux.com/2023/07/microprose-now-publishing-dying-breed-a-retro-rts-like-command-conquer/</link>
+      <description><![CDATA[今天宣布，Sarnayer 的《Dying Breed》融合了原版《命令与征服》中的经典风格和游戏玩法，但带有僵尸，现已由 MicroProse 出版。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/07/microprose-now-publishing-dying-breed-a-retro-rts-like-command-conquer/</guid>
+      <pubDate>Thu, 06 Jul 2023 15:34:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Steam Beta 改进了 Openbox 支持并修复了 AMD / Intel 的焦点问题</title>
+      <link>https://www.gamingonlinux.com/2023/07/steam-beta-improves-openbox-support-and-fixes-focus-issues-with-amd-intel/</link>
+      <description><![CDATA[针对桌面和 Steam Deck 推出了全新的 Steam Beta 更新，其中包含大量小错误修复和改进。如果您有 AMD 或 Intel GPU，则在桌面上尤其好。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/07/steam-beta-improves-openbox-support-and-fixes-focus-issues-with-amd-intel/</guid>
+      <pubDate>Thu, 06 Jul 2023 13:59:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>得益于 Zink，Imagination GPU 现在支持 OpenGL 4.6</title>
+      <link>https://www.gamingonlinux.com/2023/07/imagination-gpus-now-support-opengl-46-thanks-to-zink/</link>
+      <description><![CDATA[这里有一些有趣的驱动程序和硬件新闻，Imagination 宣布他们的 GPU 现在支持从 OpenGL 3.3 升级到 OpenGL 4.6，这要归功于开源 Zink 驱动程序。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/07/imagination-gpus-now-support-opengl-46-thanks-to-zink/</guid>
+      <pubDate>Thu, 06 Jul 2023 13:40:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Godot Engine 4.1带来了可拆卸的脚本编辑器、Vulkan管道缓存</title>
+      <link>https://www.gamingonlinux.com/2023/07/godot-engine-4-1-brings-a-detachable-script-editor-vulkan-pipeline-cache/</link>
+      <description><![CDATA[Godot 4.1 现已发布，适合想要跨平台免费开源游戏引擎的游戏开发者。带来了大量的新功能。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/07/godot-engine-4-1-brings-a-detachable-script-editor-vulkan-pipeline-cache/</guid>
+      <pubDate>Thu, 06 Jul 2023 13:28:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>ChimeraOS 43 现已推出，添加华硕 ROG Ally 支持</title>
+      <link>https://www.gamingonlinux.com/2023/07/chimeraos-43-out-now-adding-asus-rog-ally-support/</link>
+      <description><![CDATA[ChimeraOS 43 今天发布，增加了对在华硕 ROG Ally 手持设备上运行这款受 SteamOS 启发的 Linux 发行版的支持。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/07/chimeraos-43-out-now-adding-asus-rog-ally-support/</guid>
+      <pubDate>Thu, 06 Jul 2023 13:00:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fab 复古风格 FPS “Selaco” 获得 Steam Deck / Linux 演示升级</title>
+      <link>https://www.gamingonlinux.com/2023/07/fab-retro-fuelled-fps-selaco-gets-a-demo-upgrade-for-steam-deck-linux/</link>
+      <description><![CDATA[Selaco 是一款真正值得您列入愿望清单的游戏，这是一款由 GZDoom 提供支持的复古第一人称射击游戏，具有令人印象深刻的世界设计和精彩的战斗。开发者最近也更新了演示！]]></description>
+      <guid>https://www.gamingonlinux.com/2023/07/fab-retro-fuelled-fps-selaco-gets-a-demo-upgrade-for-steam-deck-linux/</guid>
+      <pubDate>Wed, 05 Jul 2023 19:34:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>黑龙法师是我这种子弹天堂幸存者般的疯狂</title>
+      <link>https://www.gamingonlinux.com/2023/07/black-dragon-mage-is-my-kind-of-bullet-heaven-survivor-like-insanity/</link>
+      <description><![CDATA[来自开发商 Datablob Studio 的黑龙法师看起来绝对是疯了！从《吸血鬼幸存者》、《布洛托》等所有子弹天堂游戏中汲取灵感，并从《流放之路》甚至……《炸弹人》中汲取一些元素？显然是这样。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/07/black-dragon-mage-is-my-kind-of-bullet-heaven-survivor-like-insanity/</guid>
+      <pubDate>Wed, 05 Jul 2023 16:29:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>ProtonUp-Qt v2.8.1 改进了 Heroic Games Launcher 支持</title>
+      <link>https://www.gamingonlinux.com/2023/07/protonup-qt-v281-improves-heroic-games-launcher-support/</link>
+      <description><![CDATA[ProtonUp-Qt 是一款允许您为 Steam、Lutris、Heroic Games Launcher 和 Boxtron 安装 GE-Proton、Wine-GE、Luxtorpeda 等应用程序的应用程序。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/07/protonup-qt-v281-improves-heroic-games-launcher-support/</guid>
+      <pubDate>Wed, 05 Jul 2023 14:02:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>祝 GamingOnLinux 生日快乐 - 今天 14 岁了</title>
+      <link>https://www.gamingonlinux.com/2023/07/happy-birthday-gamingonlinux-14-years-old-today/</link>
+      <description><![CDATA[您可能已经注意到该网站最近表现不佳，那是因为它现在已经进入了十几岁。 GamingOnLinux 生日快乐，我以为没有人会访问这个小网站，但 14 年后我们又来了。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/07/happy-birthday-gamingonlinux-14-years-old-today/</guid>
+      <pubDate>Wed, 05 Jul 2023 09:52:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>通过 Prime Gaming 获取免费的《Prey》副本</title>
+      <link>https://www.gamingonlinux.com/2023/07/get-a-free-copy-of-prey-with-prime-gaming/</link>
+      <description><![CDATA[想要另一个免费游戏吗？如果您拥有 Amazon Prime，您现在可以通过 Arkane Studios / Bethesda Softworks 与 GOG 合作伙伴索取免费的《Prey》副本。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/07/get-a-free-copy-of-prey-with-prime-gaming/</guid>
+      <pubDate>Wed, 05 Jul 2023 09:45:06 GMT</pubDate>
+    </item>
+    </channel>
+</rss>
