@@ -87,7 +87,7 @@ def tran(sec, max_item):
     links += [" - %s [%s](%s) -> [%s](%s)\n" % (sec, url, (url), get_cfg(sec, 'name'), parse.quote(xml_file))]
     # 判断 RSS 内容是否有更新
     try:
-        r = requests.get(url,headers=headers)
+        r = requests.get(url)
         new_md5 = get_md5_value(r.text)
     except Exception as e:
         print("Error occurred when fetching RSS content for %s: %s" % (sec, str(e)))
