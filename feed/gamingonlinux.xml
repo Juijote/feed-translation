@@ -4,7 +4,28 @@
     <title>GamingOnLinux 最新文章</title>
     <link>https://www.gamingonlinux.com/</link>
     <description>GamingOnLinux 的最新文章</description>
-    <lastBuildDate>Mon, 10 Jul 2023 11:10:54 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Jul 2023 17:49:52 GMT</lastBuildDate>
+    <item>
+      <title>Fanatical 七月白金合集包含《铁尾》、《软盘骑士》等</title>
+      <link>https://www.gamingonlinux.com/2023/07/fanaticals-platinum-collection-for-july-has-tails-of-iron-floppy-knights-and-more/</link>
+      <description><![CDATA[Fanatical 于 2023 年 7 月推出了另一个精美的捆绑包及其最新的白金合集，以下是所有游戏以及 Steam Deck 和桌面 Linux 上的兼容性。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/07/fanaticals-platinum-collection-for-july-has-tails-of-iron-floppy-knights-and-more/</guid>
+      <pubDate>Mon, 10 Jul 2023 17:49:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>我花了太多时间玩《失落之剑》</title>
+      <link>https://www.gamingonlinux.com/2023/07/ive-spent-way-too-much-time-playing-lost-for-swords/</link>
+      <description><![CDATA[《Lost for Swords》是一款正在开发的回合制 Roguelike 卡牌游戏，具有独特的风格，可以通过 itch.io 在浏览器中玩，它最近占用了我相当多的时间。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/07/ive-spent-way-too-much-time-playing-lost-for-swords/</guid>
+      <pubDate>Mon, 10 Jul 2023 15:43:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Heroic Games Launcher 即将推出 Amazon Games 支持</title>
+      <link>https://www.gamingonlinux.com/2023/07/amazon-games-support-is-coming-soon-to-heroic-games-launcher/</link>
+      <description><![CDATA[Heroic Games Launcher 目前支持 GOG、Epic Games 和手动侧面加载，但 Amazon Games 的支持也正在开发中。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/07/amazon-games-support-is-coming-soon-to-heroic-games-launcher/</guid>
+      <pubDate>Mon, 10 Jul 2023 15:27:00 GMT</pubDate>
+    </item>
     <item>
       <title>SteamVR 在 v1.26 中改进了控制器支持</title>
       <link>https://www.gamingonlinux.com/2023/07/steamvr-improves-controller-support-in-v126/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[ChimeraOS 43 今天发布，增加了对在华硕 ROG Ally 手持设备上运行这款受 SteamOS 启发的 Linux 发行版的支持。]]></description>
       <guid>https://www.gamingonlinux.com/2023/07/chimeraos-43-out-now-adding-asus-rog-ally-support/</guid>
       <pubDate>Thu, 06 Jul 2023 13:00:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>Fab 复古风格 FPS “Selaco” 获得 Steam Deck / Linux 演示升级</title>
-      <link>https://www.gamingonlinux.com/2023/07/fab-retro-fuelled-fps-selaco-gets-a-demo-upgrade-for-steam-deck-linux/</link>
-      <description><![CDATA[Selaco 是一款真正值得您列入愿望清单的游戏，这是一款由 GZDoom 提供支持的复古第一人称射击游戏，具有令人印象深刻的世界设计和精彩的战斗。开发者最近也更新了演示！]]></description>
-      <guid>https://www.gamingonlinux.com/2023/07/fab-retro-fuelled-fps-selaco-gets-a-demo-upgrade-for-steam-deck-linux/</guid>
-      <pubDate>Wed, 05 Jul 2023 19:34:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>黑龙法师是我这种子弹天堂幸存者般的疯狂</title>
-      <link>https://www.gamingonlinux.com/2023/07/black-dragon-mage-is-my-kind-of-bullet-heaven-survivor-like-insanity/</link>
-      <description><![CDATA[来自开发商 Datablob Studio 的黑龙法师看起来绝对是疯了！从《吸血鬼幸存者》、《布洛托》等所有子弹天堂游戏中汲取灵感，并从《流放之路》甚至……《炸弹人》中汲取一些元素？显然是这样。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/07/black-dragon-mage-is-my-kind-of-bullet-heaven-survivor-like-insanity/</guid>
-      <pubDate>Wed, 05 Jul 2023 16:29:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>ProtonUp-Qt v2.8.1 改进了 Heroic Games Launcher 支持</title>
-      <link>https://www.gamingonlinux.com/2023/07/protonup-qt-v281-improves-heroic-games-launcher-support/</link>
-      <description><![CDATA[ProtonUp-Qt 是一款允许您为 Steam、Lutris、Heroic Games Launcher 和 Boxtron 安装 GE-Proton、Wine-GE、Luxtorpeda 等应用程序的应用程序。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/07/protonup-qt-v281-improves-heroic-games-launcher-support/</guid>
-      <pubDate>Wed, 05 Jul 2023 14:02:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
