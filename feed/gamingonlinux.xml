@@ -4,7 +4,28 @@
     <title>GamingOnLinux 最新文章</title>
     <link>https://www.gamingonlinux.com/</link>
     <description>GamingOnLinux 的最新文章</description>
-    <lastBuildDate>Sat, 08 Jul 2023 15:55:55 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Jul 2023 11:10:54 GMT</lastBuildDate>
+    <item>
+      <title>SteamVR 在 v1.26 中改进了控制器支持</title>
+      <link>https://www.gamingonlinux.com/2023/07/steamvr-improves-controller-support-in-v126/</link>
+      <description><![CDATA[由于 SteamVR 1.26 版本的发布带来了自动控制器重新绑定，SteamVR 现在可以更好地与各种类型的控制器配合使用。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/07/steamvr-improves-controller-support-in-v126/</guid>
+      <pubDate>Mon, 10 Jul 2023 11:10:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>多供应商 RGB 控制器应用程序 OpenRGB v0.9 现已推出</title>
+      <link>https://www.gamingonlinux.com/2023/07/multi-vendor-rgb-controller-app-openrgb-v09-is-out-now/</link>
+      <description><![CDATA[跨平台开源 RGB 控件不断变得更好，OpenRGB 0.9 版本现已推出，以下是新增内容。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/07/multi-vendor-rgb-controller-app-openrgb-v09-is-out-now/</guid>
+      <pubDate>Mon, 10 Jul 2023 10:47:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>受 Minecraft“MineClone2”v0.84 启发的免费沙盒游戏现已推出</title>
+      <link>https://www.gamingonlinux.com/2023/07/free-sandbox-game-inspired-by-minecraft-mineclone2-v084-is-out-now/</link>
+      <description><![CDATA[作为 Minecraft 的免费开源替代品，MineClone2 不断变得越来越好，现已推出 0.84 版本。以下是新增内容和改进内容的概述。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/07/free-sandbox-game-inspired-by-minecraft-mineclone2-v084-is-out-now/</guid>
+      <pubDate>Mon, 10 Jul 2023 10:31:25 GMT</pubDate>
+    </item>
     <item>
       <title>Fedora 考虑添加“隐私保护”遥测功能</title>
       <link>https://www.gamingonlinux.com/2023/07/fedora-considering-adding-in-privacy-preserving-telemetry/</link>
@@ -69,7 +90,7 @@
       <pubDate>Thu, 06 Jul 2023 13:00:40 GMT</pubDate>
     </item>
     <item>
-      <title>Fab 复古风格 FPS 《Selaco》获得 Steam Deck / Linux 演示升级</title>
+      <title>Fab 复古风格 FPS “Selaco” 获得 Steam Deck / Linux 演示升级</title>
       <link>https://www.gamingonlinux.com/2023/07/fab-retro-fuelled-fps-selaco-gets-a-demo-upgrade-for-steam-deck-linux/</link>
       <description><![CDATA[Selaco 是一款真正值得您列入愿望清单的游戏，这是一款由 GZDoom 提供支持的复古第一人称射击游戏，具有令人印象深刻的世界设计和精彩的战斗。开发者最近也更新了演示！]]></description>
       <guid>https://www.gamingonlinux.com/2023/07/fab-retro-fuelled-fps-selaco-gets-a-demo-upgrade-for-steam-deck-linux/</guid>
@@ -78,7 +99,7 @@
     <item>
       <title>黑龙法师是我这种子弹天堂幸存者般的疯狂</title>
       <link>https://www.gamingonlinux.com/2023/07/black-dragon-mage-is-my-kind-of-bullet-heaven-survivor-like-insanity/</link>
-      <description><![CDATA[来自开发商 Datablob Studio 的黑龙法师看起来绝对是疯了！从《吸血鬼幸存者》、《布罗托》等所有子弹天堂游戏中汲取灵感，并从《流放之路》甚至……《炸弹人》中汲取一些元素？显然是这样。]]></description>
+      <description><![CDATA[来自开发商 Datablob Studio 的黑龙法师看起来绝对是疯了！从《吸血鬼幸存者》、《布洛托》等所有子弹天堂游戏中汲取灵感，并从《流放之路》甚至……《炸弹人》中汲取一些元素？显然是这样。]]></description>
       <guid>https://www.gamingonlinux.com/2023/07/black-dragon-mage-is-my-kind-of-bullet-heaven-survivor-like-insanity/</guid>
       <pubDate>Wed, 05 Jul 2023 16:29:02 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[ProtonUp-Qt 是一款允许您为 Steam、Lutris、Heroic Games Launcher 和 Boxtron 安装 GE-Proton、Wine-GE、Luxtorpeda 等应用程序的应用程序。]]></description>
       <guid>https://www.gamingonlinux.com/2023/07/protonup-qt-v281-improves-heroic-games-launcher-support/</guid>
       <pubDate>Wed, 05 Jul 2023 14:02:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>祝 GamingOnLinux 生日快乐 - 今天 14 岁了</title>
-      <link>https://www.gamingonlinux.com/2023/07/happy-birthday-gamingonlinux-14-years-old-today/</link>
-      <description><![CDATA[您可能已经注意到该网站最近表现不佳，那是因为它现在已经进入了十几岁。 GamingOnLinux 生日快乐，我以为没有人会访问这个小网站，但 14 年后我们又来了。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/07/happy-birthday-gamingonlinux-14-years-old-today/</guid>
-      <pubDate>Wed, 05 Jul 2023 09:52:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>通过 Prime Gaming 获取免费的《Prey》副本</title>
-      <link>https://www.gamingonlinux.com/2023/07/get-a-free-copy-of-prey-with-prime-gaming/</link>
-      <description><![CDATA[想要另一个免费游戏吗？如果您拥有 Amazon Prime，您现在可以通过 Arkane Studios / Bethesda Softworks 与 GOG 合作伙伴索取免费的《Prey》副本。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/07/get-a-free-copy-of-prey-with-prime-gaming/</guid>
-      <pubDate>Wed, 05 Jul 2023 09:45:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>角色驱动的战术角色扮演游戏“Arcadian Atlas”将于 7 月 27 日发布</title>
-      <link>https://www.gamingonlinux.com/2023/07/character-driven-tactical-rpg-arcadian-atlas-releasing-july-27th/</link>
-      <description><![CDATA[如果您喜欢有有趣故事的回合制战术角色扮演游戏，或者像《最终幻想战略版》之类的游戏，您会想看看《Arcadian Atlas》。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/07/character-driven-tactical-rpg-arcadian-atlas-releasing-july-27th/</guid>
-      <pubDate>Wed, 05 Jul 2023 09:24:29 GMT</pubDate>
     </item>
     </channel>
 </rss>
