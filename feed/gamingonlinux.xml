@@ -4,7 +4,21 @@
     <title>GamingOnLinux 最新文章</title>
     <link>https://www.gamingonlinux.com/</link>
     <description>GamingOnLinux 的最新文章</description>
-    <lastBuildDate>Tue, 11 Jul 2023 11:57:34 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Jul 2023 15:44:28 GMT</lastBuildDate>
+    <item>
+      <title>微软击败联邦贸易委员会收购动视暴雪</title>
+      <link>https://www.gamingonlinux.com/2023/07/microsoft-wins-against-ftc-to-buy-activision-blizzard/</link>
+      <description><![CDATA[嗯，结果就在这里。在美国，联邦贸易委员会试图阻止微软收购动视暴雪，但微软赢得了这场战斗。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/07/microsoft-wins-against-ftc-to-buy-activision-blizzard/</guid>
+      <pubDate>Tue, 11 Jul 2023 15:44:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>战锤 40,000：爆弹枪现已在 Steam Deck 上完全畅玩</title>
+      <link>https://www.gamingonlinux.com/2023/07/warhammer-40000-boltgun-now-fully-playable-on-steam-deck/</link>
+      <description><![CDATA[《战锤 40,000：Boltgun》最近由 Auroch Digital 进行了更新，现在它应该可以在 Steam Deck 和桌面 Linux 上正常完整地运行。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/07/warhammer-40000-boltgun-now-fully-playable-on-steam-deck/</guid>
+      <pubDate>Tue, 11 Jul 2023 13:54:05 GMT</pubDate>
+    </item>
     <item>
       <title>Khronos Group 寻求付费开发人员在 OpenXR 运行时 Monado 上工作</title>
       <link>https://www.gamingonlinux.com/2023/07/the-khronos-group-seeking-paid-devs-to-work-on-openxr-runtime-monado/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[Meta（如 Facebook）在 MIT 许可下可用，已为开发人员发布了 IGL（中间图形库）。]]></description>
       <guid>https://www.gamingonlinux.com/2023/07/meta-announced-igl-a-high-performance-cross-platform-graphics-library/</guid>
       <pubDate>Sat, 08 Jul 2023 15:19:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Proton Experimental 修复了《战争机器 5》、《守望先锋 2》和《Phasmophobia》</title>
-      <link>https://www.gamingonlinux.com/2023/07/proton-experimental-brings-fixes-for-gears-5-overwatch-2-phasmophobia/</link>
-      <description><![CDATA[Valve 发布了 Proton Experimental 的全新升级，让更多游戏（例如 Gears 5、Overwatch 2 和 Phasmophobia）在 Linux 和 Steam Deck 上运行得更好。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/07/proton-experimental-brings-fixes-for-gears-5-overwatch-2-phasmophobia/</guid>
-      <pubDate>Sat, 08 Jul 2023 14:50:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Wine 8.12 带来了更多 Wayland 工作和性能改进</title>
-      <link>https://www.gamingonlinux.com/2023/07/wine-812-brings-more-wayland-work-and-performance-improvements/</link>
-      <description><![CDATA[兼容性层 Wine 的另一个双周版本现已发布！随着开发人员继续努力让 Wine 在 8.12 版本中与 Wayland 充分配合。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/07/wine-812-brings-more-wayland-work-and-performance-improvements/</guid>
-      <pubDate>Sat, 08 Jul 2023 14:43:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
