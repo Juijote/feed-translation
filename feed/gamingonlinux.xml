@@ -4,7 +4,42 @@
     <title>GamingOnLinux 最新文章</title>
     <link>https://www.gamingonlinux.com/</link>
     <description>GamingOnLinux 的最新文章</description>
-    <lastBuildDate>Mon, 10 Jul 2023 17:49:52 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Jul 2023 11:57:34 GMT</lastBuildDate>
+    <item>
+      <title>Khronos Group 寻求付费开发人员在 OpenXR 运行时 Monado 上工作</title>
+      <link>https://www.gamingonlinux.com/2023/07/the-khronos-group-seeking-paid-devs-to-work-on-openxr-runtime-monado/</link>
+      <description><![CDATA[负责监督 OpenGL、Vulkan 和 OpenXR 等各种标准的 Khronos Group 最近宣布，他们已提出“提案请求”来资助 Monado 的工作。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/07/the-khronos-group-seeking-paid-devs-to-work-on-openxr-runtime-monado/</guid>
+      <pubDate>Tue, 11 Jul 2023 11:57:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Valve 发布了 Steam Deck 和桌面版的新稳定更新</title>
+      <link>https://www.gamingonlinux.com/2023/07/valve-release-new-stable-update-for-steam-deck-and-desktops/</link>
+      <description><![CDATA[Valve 已将 Steam Deck 和桌面 Steam 的所有最新 Beta 更新捆绑到一个全新的稳定更新中，因此以下是新内容的列表。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/07/valve-release-new-stable-update-for-steam-deck-and-desktops/</guid>
+      <pubDate>Tue, 11 Jul 2023 10:44:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>星球大战黑暗力量源端口原力引擎升级</title>
+      <link>https://www.gamingonlinux.com/2023/07/star-wars-dark-forces-source-port-the-force-engine-gets-upgraded/</link>
+      <description><![CDATA[最近发布了 The Force Engine 的另一个新版本，这是一个重建的游戏引擎，可以在现代系统上很好地玩《星球大战 - 黑暗力量》以及最终的《亡命之徒》。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/07/star-wars-dark-forces-source-port-the-force-engine-gets-upgraded/</guid>
+      <pubDate>Tue, 11 Jul 2023 10:31:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>根据 Statcounter 的数据，Linux 桌面用户份额已超过 3%</title>
+      <link>https://www.gamingonlinux.com/2023/07/linux-hit-over-3-desktop-user-share/</link>
+      <description><![CDATA[我的眼睛会欺骗我吗？显然不是。据 Statcounter 称，Linux 在桌面上的份额实际上首次突破了 3%。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/07/linux-hit-over-3-desktop-user-share/</guid>
+      <pubDate>Tue, 11 Jul 2023 10:07:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>构建复古 Linux 游戏计算机第 30 部分：帝国紫</title>
+      <link>https://www.gamingonlinux.com/2023/07/building-a-retro-linux-gaming-computer-part-30-imperial-purple/</link>
+      <description><![CDATA[战争！ 《帝国主义时代》最初是一款棋盘游戏，由 Eagle Games 的 Glenn Drover 设计。玩家扮演一个意图征服世界其他地区的殖民帝国的角色。当时的报道对这款游戏的人工智能大加赞扬，这确实让计算机对手变得精明。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/07/building-a-retro-linux-gaming-computer-part-30-imperial-purple/</guid>
+      <pubDate>Tue, 11 Jul 2023 09:32:08 GMT</pubDate>
+    </item>
     <item>
       <title>Fanatical 七月白金合集包含《铁尾》、《软盘骑士》等</title>
       <link>https://www.gamingonlinux.com/2023/07/fanaticals-platinum-collection-for-july-has-tails-of-iron-floppy-knights-and-more/</link>
@@ -74,41 +109,6 @@
       <description><![CDATA[兼容性层 Wine 的另一个双周版本现已发布！随着开发人员继续努力让 Wine 在 8.12 版本中与 Wayland 充分配合。]]></description>
       <guid>https://www.gamingonlinux.com/2023/07/wine-812-brings-more-wayland-work-and-performance-improvements/</guid>
       <pubDate>Sat, 08 Jul 2023 14:43:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>MicroProse 现已推出《Dying Breed》，一款类似于《命令与征服》的复古 RTS</title>
-      <link>https://www.gamingonlinux.com/2023/07/microprose-now-publishing-dying-breed-a-retro-rts-like-command-conquer/</link>
-      <description><![CDATA[今天宣布，Sarnayer 的《Dying Breed》融合了原版《命令与征服》中的经典风格和游戏玩法，但带有僵尸，现已由 MicroProse 出版。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/07/microprose-now-publishing-dying-breed-a-retro-rts-like-command-conquer/</guid>
-      <pubDate>Thu, 06 Jul 2023 15:34:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>Steam Beta 改进了 Openbox 支持并修复了 AMD / Intel 的焦点问题</title>
-      <link>https://www.gamingonlinux.com/2023/07/steam-beta-improves-openbox-support-and-fixes-focus-issues-with-amd-intel/</link>
-      <description><![CDATA[针对桌面和 Steam Deck 推出了全新的 Steam Beta 更新，其中包含大量小错误修复和改进。如果您有 AMD 或 Intel GPU，则在桌面上尤其好。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/07/steam-beta-improves-openbox-support-and-fixes-focus-issues-with-amd-intel/</guid>
-      <pubDate>Thu, 06 Jul 2023 13:59:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>得益于 Zink，Imagination GPU 现在支持 OpenGL 4.6</title>
-      <link>https://www.gamingonlinux.com/2023/07/imagination-gpus-now-support-opengl-46-thanks-to-zink/</link>
-      <description><![CDATA[这里有一些有趣的驱动程序和硬件新闻，Imagination 宣布他们的 GPU 现在支持从 OpenGL 3.3 升级到 OpenGL 4.6，这要归功于开源 Zink 驱动程序。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/07/imagination-gpus-now-support-opengl-46-thanks-to-zink/</guid>
-      <pubDate>Thu, 06 Jul 2023 13:40:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>Godot Engine 4.1带来了可拆卸的脚本编辑器、Vulkan管道缓存</title>
-      <link>https://www.gamingonlinux.com/2023/07/godot-engine-4-1-brings-a-detachable-script-editor-vulkan-pipeline-cache/</link>
-      <description><![CDATA[Godot 4.1 现已发布，适合想要跨平台免费开源游戏引擎的游戏开发者。带来了大量的新功能。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/07/godot-engine-4-1-brings-a-detachable-script-editor-vulkan-pipeline-cache/</guid>
-      <pubDate>Thu, 06 Jul 2023 13:28:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>ChimeraOS 43 现已推出，添加华硕 ROG Ally 支持</title>
-      <link>https://www.gamingonlinux.com/2023/07/chimeraos-43-out-now-adding-asus-rog-ally-support/</link>
-      <description><![CDATA[ChimeraOS 43 今天发布，增加了对在华硕 ROG Ally 手持设备上运行这款受 SteamOS 启发的 Linux 发行版的支持。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/07/chimeraos-43-out-now-adding-asus-rog-ally-support/</guid>
-      <pubDate>Thu, 06 Jul 2023 13:00:40 GMT</pubDate>
     </item>
     </channel>
 </rss>
