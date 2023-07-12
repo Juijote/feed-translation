@@ -4,7 +4,35 @@
     <title>GamingOnLinux 最新文章</title>
     <link>https://www.gamingonlinux.com/</link>
     <description>GamingOnLinux 的最新文章</description>
-    <lastBuildDate>Wed, 12 Jul 2023 08:30:30 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Jul 2023 16:38:06 GMT</lastBuildDate>
+    <item>
+      <title>从 Steam 下架后，Betrayer 现在在 GOG 上免费</title>
+      <link>https://www.gamingonlinux.com/2023/07/after-being-removed-from-steam-betrayer-is-now-free-on-gog/</link>
+      <description><![CDATA[Blackpowder Games 的 Betrayer 在 2021 年从 Steam 上消失很久之后，又重新出现在 GOG 上，并且可以免费添加到您的帐户中。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/07/after-being-removed-from-steam-betrayer-is-now-free-on-gog/</guid>
+      <pubDate>Wed, 12 Jul 2023 16:38:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Infinity 引擎替代品 GemRB 0.9.2 改进了 Planescape: Torment 支持</title>
+      <link>https://www.gamingonlinux.com/2023/07/infinity-engine-replacement-gemrb-092-improves-planescape-torment-support/</link>
+      <description><![CDATA[GemRB 是一款免费开源游戏引擎，适用于 Infinity Engine 游戏，包括《Baldur’s Gate》、《Planescape: Torment》、《Icewind Dale 1》等。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/07/infinity-engine-replacement-gemrb-092-improves-planescape-torment-support/</guid>
+      <pubDate>Wed, 12 Jul 2023 15:59:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>Realms Deep 将于 9 月 30 日回归，带来更多爆炸性游戏</title>
+      <link>https://www.gamingonlinux.com/2023/07/realms-deep-returns-with-more-explosive-games-on-september-30th/</link>
+      <description><![CDATA[准备好享受更多第一人称射击游戏的好东西了吗？ 3D Realms 上周宣布该活动将于 9 月 30 日回归。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/07/realms-deep-returns-with-more-explosive-games-on-september-30th/</guid>
+      <pubDate>Wed, 12 Jul 2023 14:04:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>受桌面启发的 roguelike 冒险 Abalon 增加了对 Linux 和 SteamOS 的支持</title>
+      <link>https://www.gamingonlinux.com/2023/07/tabletop-inspired-roguelike-adventure-abalon-adds-linux-steamos-support/</link>
+      <description><![CDATA[Abalon（原名 Summoners Fate）是一款受桌面经典启发的 Roguelike 冒险游戏，最近宣布正式支持 Linux 和 SteamOS。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/07/tabletop-inspired-roguelike-adventure-abalon-adds-linux-steamos-support/</guid>
+      <pubDate>Wed, 12 Jul 2023 13:55:18 GMT</pubDate>
+    </item>
     <item>
       <title>《Deathbulge: Battle of the Bands》将于 8 月 8 日发售</title>
       <link>https://www.gamingonlinux.com/2023/07/deathbulge-battle-of-the-bands-releasing-august-8/</link>
@@ -81,34 +109,6 @@
       <description><![CDATA[Fanatical 于 2023 年 7 月推出了另一个精美的捆绑包及其最新的白金合集，以下是所有游戏以及 Steam Deck 和桌面 Linux 上的兼容性。]]></description>
       <guid>https://www.gamingonlinux.com/2023/07/fanaticals-platinum-collection-for-july-has-tails-of-iron-floppy-knights-and-more/</guid>
       <pubDate>Mon, 10 Jul 2023 17:49:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>我花了太多时间玩《失落之剑》</title>
-      <link>https://www.gamingonlinux.com/2023/07/ive-spent-way-too-much-time-playing-lost-for-swords/</link>
-      <description><![CDATA[《Lost for Swords》是一款正在开发的回合制 Roguelike 卡牌游戏，具有独特的风格，可以通过 itch.io 在浏览器中玩，它最近占用了我相当多的时间。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/07/ive-spent-way-too-much-time-playing-lost-for-swords/</guid>
-      <pubDate>Mon, 10 Jul 2023 15:43:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>Heroic Games Launcher 即将推出 Amazon Games 支持</title>
-      <link>https://www.gamingonlinux.com/2023/07/amazon-games-support-is-coming-soon-to-heroic-games-launcher/</link>
-      <description><![CDATA[Heroic Games Launcher 目前支持 GOG、Epic Games 和手动侧面加载，但 Amazon Games 的支持也正在开发中。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/07/amazon-games-support-is-coming-soon-to-heroic-games-launcher/</guid>
-      <pubDate>Mon, 10 Jul 2023 15:27:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>SteamVR 在 v1.26 中改进了控制器支持</title>
-      <link>https://www.gamingonlinux.com/2023/07/steamvr-improves-controller-support-in-v126/</link>
-      <description><![CDATA[由于 SteamVR 1.26 版本的发布带来了自动控制器重新绑定，SteamVR 现在可以更好地与各种类型的控制器配合使用。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/07/steamvr-improves-controller-support-in-v126/</guid>
-      <pubDate>Mon, 10 Jul 2023 11:10:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>多供应商 RGB 控制器应用程序 OpenRGB v0.9 现已推出</title>
-      <link>https://www.gamingonlinux.com/2023/07/multi-vendor-rgb-controller-app-openrgb-v09-is-out-now/</link>
-      <description><![CDATA[跨平台开源 RGB 控件不断变得更好，OpenRGB 0.9 版本现已推出，以下是新增内容。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/07/multi-vendor-rgb-controller-app-openrgb-v09-is-out-now/</guid>
-      <pubDate>Mon, 10 Jul 2023 10:47:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
