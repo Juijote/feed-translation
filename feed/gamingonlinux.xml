@@ -4,7 +4,28 @@
     <title>GamingOnLinux 最新文章</title>
     <link>https://www.gamingonlinux.com/</link>
     <description>GamingOnLinux 的最新文章</description>
-    <lastBuildDate>Tue, 11 Jul 2023 15:44:28 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Jul 2023 08:30:30 GMT</lastBuildDate>
+    <item>
+      <title>《Deathbulge: Battle of the Bands》将于 8 月 8 日发售</title>
+      <link>https://www.gamingonlinux.com/2023/07/deathbulge-battle-of-the-bands-releasing-august-8/</link>
+      <description><![CDATA[继 2019 年在 Kickstarter 上获得成功后，《Deathbulge: Battle of the Bands》终于确定了发行日期，即将于 8 月 8 日上市。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/07/deathbulge-battle-of-the-bands-releasing-august-8/</guid>
+      <pubDate>Wed, 12 Jul 2023 08:30:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>《吸血鬼幸存者》将于 8 月 17 日切换至新游戏引擎</title>
+      <link>https://www.gamingonlinux.com/2023/07/vampire-survivors-switching-to-new-game-engine-on-august-17/</link>
+      <description><![CDATA[红极一时的独立游戏《吸血鬼幸存者》计划于 8 月 17 日最终转向更新且升级的游戏引擎。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/07/vampire-survivors-switching-to-new-game-engine-on-august-17/</guid>
+      <pubDate>Wed, 12 Jul 2023 08:08:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>NVIDIA Vulkan Beta 驱动程序 525.47.31 发布</title>
+      <link>https://www.gamingonlinux.com/2023/07/nvidia-vulkan-beta-driver-5254731-released/</link>
+      <description><![CDATA[NVIDIA 已为开发人员发布了 Vulkan Beta 驱动程序的最新更新，版本 525.47.31 现已可供测试。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/07/nvidia-vulkan-beta-driver-5254731-released/</guid>
+      <pubDate>Wed, 12 Jul 2023 07:38:31 GMT</pubDate>
+    </item>
     <item>
       <title>微软击败联邦贸易委员会收购动视暴雪</title>
       <link>https://www.gamingonlinux.com/2023/07/microsoft-wins-against-ftc-to-buy-activision-blizzard/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[跨平台开源 RGB 控件不断变得更好，OpenRGB 0.9 版本现已推出，以下是新增内容。]]></description>
       <guid>https://www.gamingonlinux.com/2023/07/multi-vendor-rgb-controller-app-openrgb-v09-is-out-now/</guid>
       <pubDate>Mon, 10 Jul 2023 10:47:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>受 Minecraft“MineClone2”v0.84 启发的免费沙盒游戏现已推出</title>
-      <link>https://www.gamingonlinux.com/2023/07/free-sandbox-game-inspired-by-minecraft-mineclone2-v084-is-out-now/</link>
-      <description><![CDATA[作为 Minecraft 的免费开源替代品，MineClone2 不断变得越来越好，现已推出 0.84 版本。以下是新增内容和改进内容的概述。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/07/free-sandbox-game-inspired-by-minecraft-mineclone2-v084-is-out-now/</guid>
-      <pubDate>Mon, 10 Jul 2023 10:31:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>Fedora 考虑添加“隐私保护”遥测功能</title>
-      <link>https://www.gamingonlinux.com/2023/07/fedora-considering-adding-in-privacy-preserving-telemetry/</link>
-      <description><![CDATA[目前颇有争议的话题是，针对 Fedora Workstation 40 提出了一项变更提案，要求拥有一些“隐私保护”遥测功能，以“启用匿名 Fedora Workstation 使用指标的有限数据收集”。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/07/fedora-considering-adding-in-privacy-preserving-telemetry/</guid>
-      <pubDate>Sat, 08 Jul 2023 15:55:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>Meta 宣布推出高性能跨平台图形库“IGL”</title>
-      <link>https://www.gamingonlinux.com/2023/07/meta-announced-igl-a-high-performance-cross-platform-graphics-library/</link>
-      <description><![CDATA[Meta（如 Facebook）在 MIT 许可下可用，已为开发人员发布了 IGL（中间图形库）。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/07/meta-announced-igl-a-high-performance-cross-platform-graphics-library/</guid>
-      <pubDate>Sat, 08 Jul 2023 15:19:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
