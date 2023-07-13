@@ -4,7 +4,14 @@
     <title>GamingOnLinux 最新文章</title>
     <link>https://www.gamingonlinux.com/</link>
     <description>GamingOnLinux 的最新文章</description>
-    <lastBuildDate>Wed, 12 Jul 2023 16:38:06 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Jul 2023 18:51:39 GMT</lastBuildDate>
+    <item>
+      <title>在最新的捆绑包中获取大量赛博朋克游戏</title>
+      <link>https://www.gamingonlinux.com/2023/07/get-a-bunch-of-cyberpunk-games-in-this-latest-bundle/</link>
+      <description><![CDATA[喜欢整个赛博朋克主题吗？ Humble 推出了 Cyber​​punk Playground 捆绑包。以下是 Steam Deck 和桌面 Linux 的兼容性预期。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/07/get-a-bunch-of-cyberpunk-games-in-this-latest-bundle/</guid>
+      <pubDate>Wed, 12 Jul 2023 18:51:39 GMT</pubDate>
+    </item>
     <item>
       <title>从 Steam 下架后，Betrayer 现在在 GOG 上免费</title>
       <link>https://www.gamingonlinux.com/2023/07/after-being-removed-from-steam-betrayer-is-now-free-on-gog/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[战争！ 《帝国主义时代》最初是一款棋盘游戏，由 Eagle Games 的 Glenn Drover 设计。玩家扮演一个意图征服世界其他地区的殖民帝国的角色。当时的报道对这款游戏的人工智能大加赞扬，这确实让计算机对手变得精明。]]></description>
       <guid>https://www.gamingonlinux.com/2023/07/building-a-retro-linux-gaming-computer-part-30-imperial-purple/</guid>
       <pubDate>Tue, 11 Jul 2023 09:32:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Fanatical 七月白金合集包含《铁尾》、《软盘骑士》等</title>
-      <link>https://www.gamingonlinux.com/2023/07/fanaticals-platinum-collection-for-july-has-tails-of-iron-floppy-knights-and-more/</link>
-      <description><![CDATA[Fanatical 于 2023 年 7 月推出了另一个精美的捆绑包及其最新的白金合集，以下是所有游戏以及 Steam Deck 和桌面 Linux 上的兼容性。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/07/fanaticals-platinum-collection-for-july-has-tails-of-iron-floppy-knights-and-more/</guid>
-      <pubDate>Mon, 10 Jul 2023 17:49:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
