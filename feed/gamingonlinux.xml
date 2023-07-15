@@ -4,7 +4,21 @@
     <title>GamingOnLinux 最新文章</title>
     <link>https://www.gamingonlinux.com/</link>
     <description>GamingOnLinux 的最新文章</description>
-    <lastBuildDate>Fri, 14 Jul 2023 15:10:26 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Jul 2023 13:30:41 GMT</lastBuildDate>
+    <item>
+      <title>质子实验修复了新世界和光环：时代的命运</title>
+      <link>https://www.gamingonlinux.com/2023/07/proton-experimental-fixes-up-new-world-and-aura-fate-of-the-ages/</link>
+      <description><![CDATA[Valve 为 Proton Experimental 发布了一个小而甜蜜的更新，修复了更多游戏问题。以下是 7 月 14 日发生的变化。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/07/proton-experimental-fixes-up-new-world-and-aura-fate-of-the-ages/</guid>
+      <pubDate>Sat, 15 Jul 2023 13:30:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>在这个最新的捆绑包中获得一些家庭街机游戏的乐趣</title>
+      <link>https://www.gamingonlinux.com/2023/07/get-some-at-home-arcade-game-fun-in-this-latest-bundle/</link>
+      <description><![CDATA[Humble At-Home Arcade Bundle 现已上线，其中有一些您可能想要添加到您的收藏中的游戏。以下是 Steam Deck 和桌面 Linux 上的兼容性。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/07/get-some-at-home-arcade-game-fun-in-this-latest-bundle/</guid>
+      <pubDate>Sat, 15 Jul 2023 13:20:31 GMT</pubDate>
+    </item>
     <item>
       <title>CodeWeavers 博客介绍了他们在 Proton 上使用 PooShooter 进行的 Linux/Steam Deck 工作</title>
       <link>https://www.gamingonlinux.com/2023/07/codeweavers-blog-about-their-linux-steam-deck-work-on-proton-with-pooshooter/</link>
@@ -36,7 +50,7 @@
     <item>
       <title>尝试即将推出的 JRPG 风格四重奏的新演示</title>
       <link>https://www.gamingonlinux.com/2023/07/try-out-the-new-demo-of-the-upcoming-jrpg-inspired-quartet/</link>
-      <description><![CDATA[继在 Kickstarter 上取得成功后，回合制像素艺术 JRPG 游戏《Quartet》现在提供了支持 Native Linux 的演示版本。]]></description>
+      <description><![CDATA[继在 Kickstarter 上获得成功后，回合制像素艺术 JRPG 游戏《Quartet》现在提供了支持 Native Linux 的演示版。]]></description>
       <guid>https://www.gamingonlinux.com/2023/07/try-out-the-new-demo-of-the-upcoming-jrpg-inspired-quartet/</guid>
       <pubDate>Fri, 14 Jul 2023 09:19:01 GMT</pubDate>
     </item>
@@ -83,7 +97,7 @@
       <pubDate>Thu, 13 Jul 2023 15:24:50 GMT</pubDate>
     </item>
     <item>
-      <title>在最新的捆绑包中获得大量赛博朋克游戏</title>
+      <title>在最新的捆绑包中获取大量赛博朋克游戏</title>
       <link>https://www.gamingonlinux.com/2023/07/get-a-bunch-of-cyberpunk-games-in-this-latest-bundle/</link>
       <description><![CDATA[喜欢整个赛博朋克主题吗？ Humble 推出了 Cyber​​punk Playground 捆绑包。以下是 Steam Deck 和桌面 Linux 的兼容性预期。]]></description>
       <guid>https://www.gamingonlinux.com/2023/07/get-a-bunch-of-cyberpunk-games-in-this-latest-bundle/</guid>
@@ -95,20 +109,6 @@
       <description><![CDATA[Blackpowder Games 的 Betrayer 在 2021 年从 Steam 上消失很久之后，又重新出现在 GOG 上，并且可以免费添加到您的帐户中。]]></description>
       <guid>https://www.gamingonlinux.com/2023/07/after-being-removed-from-steam-betrayer-is-now-free-on-gog/</guid>
       <pubDate>Wed, 12 Jul 2023 16:38:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Infinity 引擎替代品 GemRB 0.9.2 改进了 Planescape: Torment 支持</title>
-      <link>https://www.gamingonlinux.com/2023/07/infinity-engine-replacement-gemrb-092-improves-planescape-torment-support/</link>
-      <description><![CDATA[GemRB 是一款免费开源游戏引擎，适用于 Infinity Engine 游戏，包括《Baldur’s Gate》、《Planescape: Torment》、《Icewind Dale 1》等。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/07/infinity-engine-replacement-gemrb-092-improves-planescape-torment-support/</guid>
-      <pubDate>Wed, 12 Jul 2023 15:59:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>Realms Deep 将于 9 月 30 日回归，带来更多爆炸性游戏</title>
-      <link>https://www.gamingonlinux.com/2023/07/realms-deep-returns-with-more-explosive-games-on-september-30th/</link>
-      <description><![CDATA[准备好享受更多第一人称射击游戏的好东西了吗？ 3D Realms 上周宣布该活动将于 9 月 30 日回归。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/07/realms-deep-returns-with-more-explosive-games-on-september-30th/</guid>
-      <pubDate>Wed, 12 Jul 2023 14:04:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
