@@ -4,7 +4,14 @@
     <title>GamingOnLinux 最新文章</title>
     <link>https://www.gamingonlinux.com/</link>
     <description>GamingOnLinux 的最新文章</description>
-    <lastBuildDate>Sat, 15 Jul 2023 13:30:41 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 16 Jul 2023 16:36:21 GMT</lastBuildDate>
+    <item>
+      <title>FACEIT 反作弊通过 BattleBit Remastered 支持 Linux / Steam Deck</title>
+      <link>https://www.gamingonlinux.com/2023/07/faceit-anti-cheat-to-support-linux-steam-deck-with-battlebit-remastered/</link>
+      <description><![CDATA[BattleBit Remastered 的开发者现在对他们的反作弊计划给出了更明确的答案，这对于 Steam Deck 和桌面 Linux 的游戏玩家来说似乎是个好消息。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/07/faceit-anti-cheat-to-support-linux-steam-deck-with-battlebit-remastered/</guid>
+      <pubDate>Sun, 16 Jul 2023 16:36:21 GMT</pubDate>
+    </item>
     <item>
       <title>质子实验修复了新世界和光环：时代的命运</title>
       <link>https://www.gamingonlinux.com/2023/07/proton-experimental-fixes-up-new-world-and-aura-fate-of-the-ages/</link>
@@ -50,7 +57,7 @@
     <item>
       <title>尝试即将推出的 JRPG 风格四重奏的新演示</title>
       <link>https://www.gamingonlinux.com/2023/07/try-out-the-new-demo-of-the-upcoming-jrpg-inspired-quartet/</link>
-      <description><![CDATA[继在 Kickstarter 上获得成功后，回合制像素艺术 JRPG 游戏《Quartet》现在提供了支持 Native Linux 的演示版。]]></description>
+      <description><![CDATA[继在 Kickstarter 上取得成功后，回合制像素艺术 JRPG 游戏《Quartet》现在提供了支持 Native Linux 的演示版本。]]></description>
       <guid>https://www.gamingonlinux.com/2023/07/try-out-the-new-demo-of-the-upcoming-jrpg-inspired-quartet/</guid>
       <pubDate>Fri, 14 Jul 2023 09:19:01 GMT</pubDate>
     </item>
@@ -97,18 +104,11 @@
       <pubDate>Thu, 13 Jul 2023 15:24:50 GMT</pubDate>
     </item>
     <item>
-      <title>在最新的捆绑包中获取大量赛博朋克游戏</title>
+      <title>在最新的捆绑包中获得大量赛博朋克游戏</title>
       <link>https://www.gamingonlinux.com/2023/07/get-a-bunch-of-cyberpunk-games-in-this-latest-bundle/</link>
       <description><![CDATA[喜欢整个赛博朋克主题吗？ Humble 推出了 Cyber​​punk Playground 捆绑包。以下是 Steam Deck 和桌面 Linux 的兼容性预期。]]></description>
       <guid>https://www.gamingonlinux.com/2023/07/get-a-bunch-of-cyberpunk-games-in-this-latest-bundle/</guid>
       <pubDate>Wed, 12 Jul 2023 18:51:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>从 Steam 下架后，Betrayer 现在在 GOG 上免费</title>
-      <link>https://www.gamingonlinux.com/2023/07/after-being-removed-from-steam-betrayer-is-now-free-on-gog/</link>
-      <description><![CDATA[Blackpowder Games 的 Betrayer 在 2021 年从 Steam 上消失很久之后，又重新出现在 GOG 上，并且可以免费添加到您的帐户中。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/07/after-being-removed-from-steam-betrayer-is-now-free-on-gog/</guid>
-      <pubDate>Wed, 12 Jul 2023 16:38:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
