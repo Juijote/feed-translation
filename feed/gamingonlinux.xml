@@ -4,7 +4,28 @@
     <title>GamingOnLinux 最新文章</title>
     <link>https://www.gamingonlinux.com/</link>
     <description>GamingOnLinux 的最新文章</description>
-    <lastBuildDate>Sun, 16 Jul 2023 16:36:21 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Jul 2023 10:20:24 GMT</lastBuildDate>
+    <item>
+      <title>乐高 Bricktales 获得免费夏季内容更新</title>
+      <link>https://www.gamingonlinux.com/2023/07/lego-bricktales-gets-a-free-summer-content-update/</link>
+      <description><![CDATA[LEGO Bricktales 是 ClockStone 和 Thunderful Publishing 推出的一款甜蜜的小型拼搭冒险游戏，支持原生 Linux，并且已通过 Steam Deck 验证。新的免费更新现已推出。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/07/lego-bricktales-gets-a-free-summer-content-update/</guid>
+      <pubDate>Mon, 17 Jul 2023 10:20:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Linux Mint 21.2 现已发布，包括应用程序升级、美术调整、登录改进</title>
+      <link>https://www.gamingonlinux.com/2023/07/linux-mint-212-is-out-now-with-app-upgrades-artwork-tweaks-login-improvements/</link>
+      <description><![CDATA[Linux Mint 21.2 现已发布，作为构建在 Ubuntu 之上的最新发行版，对基础软件进行了各种精心改进。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/07/linux-mint-212-is-out-now-with-app-upgrades-artwork-tweaks-login-improvements/</guid>
+      <pubDate>Mon, 17 Jul 2023 10:08:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>魔法门之英雄无敌 II 游戏引擎 fheroes2 v1.0.6 现已推出</title>
+      <link>https://www.gamingonlinux.com/2023/07/heroes-of-might-and-magic-ii-game-engine-fheroes2-v106-out-now/</link>
+      <description><![CDATA[fheroes2 继续改进经典的《魔法门之英雄无敌 II》，现已推出包含大量调整和改进的新版本。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/07/heroes-of-might-and-magic-ii-game-engine-fheroes2-v106-out-now/</guid>
+      <pubDate>Mon, 17 Jul 2023 09:44:42 GMT</pubDate>
+    </item>
     <item>
       <title>FACEIT 反作弊通过 BattleBit Remastered 支持 Linux / Steam Deck</title>
       <link>https://www.gamingonlinux.com/2023/07/faceit-anti-cheat-to-support-linux-steam-deck-with-battlebit-remastered/</link>
@@ -36,7 +57,7 @@
     <item>
       <title>复古日式角色扮演游戏“Alterium Shift”进入抢先体验</title>
       <link>https://www.gamingonlinux.com/2023/07/retro-inspired-jrpg-alterium-shift-enters-early-access/</link>
-      <description><![CDATA[喜欢经典日式角色扮演游戏吗？ Alterium Shift 是另一款好看的作品，最近在 Steam 上进入抢先体验阶段，并支持原生 Linux。]]></description>
+      <description><![CDATA[喜欢经典日式角色扮演游戏吗？ Alterium Shift 是另一个好看的作品，最近在 Steam 上进入抢先体验阶段，并支持原生 Linux。]]></description>
       <guid>https://www.gamingonlinux.com/2023/07/retro-inspired-jrpg-alterium-shift-enters-early-access/</guid>
       <pubDate>Fri, 14 Jul 2023 12:13:39 GMT</pubDate>
     </item>
@@ -85,30 +106,9 @@
     <item>
       <title>Nintendo Switch 模拟器 yuzu 在最新报告中取得了一些重大进展</title>
       <link>https://www.gamingonlinux.com/2023/07/nintendo-switch-emulator-yuzu-makes-some-big-progress-in-the-latest-report/</link>
-      <description><![CDATA[构建 Nintendo Switch 模拟器 yuzu 的令人难以置信的团队在 2023 年 6 月发布了一份新的进度报告，该报告相当出色。是的，六月，他们正在复习之前的工作。]]></description>
+      <description><![CDATA[构建 Nintendo Switch 模拟器 yuzu 的令人难以置信的团队在 2023 年 6 月发布了一份新的进度报告，该报告非常出色。是的，六月，他们正在复习之前的工作。]]></description>
       <guid>https://www.gamingonlinux.com/2023/07/nintendo-switch-emulator-yuzu-makes-some-big-progress-in-the-latest-report/</guid>
       <pubDate>Thu, 13 Jul 2023 16:07:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>AMD 开放 FidelityFX SDK，现已发布在 GitHub 上</title>
-      <link>https://www.gamingonlinux.com/2023/07/amd-opens-up-the-fidelityfx-sdk-and-its-now-on-github/</link>
-      <description><![CDATA[为了帮助游戏开发者将各种 AMD FidelityFX 技术集成到他们的游戏中，AMD 昨天开源了 FidelityFX SDK。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/07/amd-opens-up-the-fidelityfx-sdk-and-its-now-on-github/</guid>
-      <pubDate>Thu, 13 Jul 2023 15:36:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>《军团要塞 2》- 2023 年夏季活动现已上线，打破了玩家记录</title>
-      <link>https://www.gamingonlinux.com/2023/07/team-fortress-2-summer-2023-event-live-as-it-smashes-player-records/</link>
-      <description><![CDATA[终于来了！ Valve 更新了《军团要塞 2》，推出了 2023 年夏季活动，玩家数量似乎激增。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/07/team-fortress-2-summer-2023-event-live-as-it-smashes-player-records/</guid>
-      <pubDate>Thu, 13 Jul 2023 15:24:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>在最新的捆绑包中获得大量赛博朋克游戏</title>
-      <link>https://www.gamingonlinux.com/2023/07/get-a-bunch-of-cyberpunk-games-in-this-latest-bundle/</link>
-      <description><![CDATA[喜欢整个赛博朋克主题吗？ Humble 推出了 Cyber​​punk Playground 捆绑包。以下是 Steam Deck 和桌面 Linux 的兼容性预期。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/07/get-a-bunch-of-cyberpunk-games-in-this-latest-bundle/</guid>
-      <pubDate>Wed, 12 Jul 2023 18:51:39 GMT</pubDate>
     </item>
     </channel>
 </rss>
