@@ -4,7 +4,14 @@
     <title>GamingOnLinux 最新文章</title>
     <link>https://www.gamingonlinux.com/</link>
     <description>GamingOnLinux 的最新文章</description>
-    <lastBuildDate>Mon, 17 Jul 2023 13:18:42 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Jul 2023 18:47:29 GMT</lastBuildDate>
+    <item>
+      <title>Capcom 的 Exoprimal 在 Steam Deck 和桌面 Linux 上进行了测试</title>
+      <link>https://www.gamingonlinux.com/2023/07/exoprimal-from-capcom-tested-on-steam-deck-and-desktop-linux/</link>
+      <description><![CDATA[Capcom 现在发布了 Exoprimal，一款在线团队射击游戏，多亏了 Fanatical，我才得以一睹为快。另外，我还为您提供额外折扣。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/07/exoprimal-from-capcom-tested-on-steam-deck-and-desktop-linux/</guid>
+      <pubDate>Mon, 17 Jul 2023 18:47:29 GMT</pubDate>
+    </item>
     <item>
       <title>潜水员戴夫是一颗又大又漂亮的蓝色宝石</title>
       <link>https://www.gamingonlinux.com/2023/07/dave-the-diver-is-a-big-beautiful-blue-gem/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[工厂建筑和自动化模拟异星工厂现已推出全新稳定版本，持续多年的免费升级，现在还支持游戏手柄控制器。]]></description>
       <guid>https://www.gamingonlinux.com/2023/07/factorio-upgraded-with-controller-support-now-in-the-stable-release/</guid>
       <pubDate>Thu, 13 Jul 2023 17:27:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>Godot Engine 有了新的融资平台，他们正在寻求帮助</title>
-      <link>https://www.gamingonlinux.com/2023/07/godot-engine-has-a-new-funding-platform-and-theyre-calling-for-help/</link>
-      <description><![CDATA[随着 Godot Engine 转为由 Godot 基金会直接支持，他们开始推动人们通过受到 Blender 启发的新融资平台来支持他们的努力。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/07/godot-engine-has-a-new-funding-platform-and-theyre-calling-for-help/</guid>
-      <pubDate>Thu, 13 Jul 2023 16:25:36 GMT</pubDate>
     </item>
     </channel>
 </rss>
