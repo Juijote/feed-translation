@@ -4,7 +4,28 @@
     <title>GamingOnLinux 最新文章</title>
     <link>https://www.gamingonlinux.com/</link>
     <description>GamingOnLinux 的最新文章</description>
-    <lastBuildDate>Tue, 18 Jul 2023 18:51:05 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Jul 2023 10:40:16 GMT</lastBuildDate>
+    <item>
+      <title>英特尔向华硕授予搭载英特尔 NUC 系统的许可</title>
+      <link>https://www.gamingonlinux.com/2023/07/intel-gives-asus-a-license-to-carry-on-intel-nuc-systems/</link>
+      <description><![CDATA[最近有消息称英特尔计划停止直接生产英特尔 NUC 系统，现在他们宣布同意让华硕继续生产。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/07/intel-gives-asus-a-license-to-carry-on-intel-nuc-systems/</guid>
+      <pubDate>Wed, 19 Jul 2023 10:40:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>传送门：Prelude 获得 NVIDIA RTX 重制版，以及 NVIDIA 宣布的 RTX IO</title>
+      <link>https://www.gamingonlinux.com/2023/07/portal-prelude-gets-an-nvidia-rtx-remaster-plus-nvidia-announced-rtx-io/</link>
+      <description><![CDATA[NVIDIA 宣布了另一款使用 NVIDIA RTX Remix 来添加完整光线追踪的游戏，这一次它是原版《传送门》的模组《传送门：Prelude RTX》。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/07/portal-prelude-gets-an-nvidia-rtx-remaster-plus-nvidia-announced-rtx-io/</guid>
+      <pubDate>Wed, 19 Jul 2023 10:18:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>Valve 增加了在桌面 Steam 中查看 Steam Deck 验证的功能</title>
+      <link>https://www.gamingonlinux.com/2023/07/valve-adds-ability-to-see-steam-deck-verification-in-desktop-steam/</link>
+      <description><![CDATA[在最新的 Steam Beta 桌面客户端更新中，Valve 添加了一个新选项，可让您查看 Steam Deck 已验证状态。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/07/valve-adds-ability-to-see-steam-deck-verification-in-desktop-steam/</guid>
+      <pubDate>Wed, 19 Jul 2023 09:29:13 GMT</pubDate>
+    </item>
     <item>
       <title>NVIDIA 驱动程序 535.86.05 现已发布</title>
       <link>https://www.gamingonlinux.com/2023/07/nvidia-driver-535-86-05-out-now-linux/</link>
@@ -78,7 +99,7 @@
     <item>
       <title>魔法门之英雄无敌 II 游戏引擎 fheroes2 v1.0.6 现已推出</title>
       <link>https://www.gamingonlinux.com/2023/07/heroes-of-might-and-magic-ii-game-engine-fheroes2-v106-out-now/</link>
-      <description><![CDATA[fheroes2 继续改进经典的《魔法门之英雄无敌 II》，现已推出包含大量调整和改进的新版本。]]></description>
+      <description><![CDATA[fheroes2 继续改进经典的《魔法门之英雄无敌 II》，现在推出了包含大量调整和改进的新版本。]]></description>
       <guid>https://www.gamingonlinux.com/2023/07/heroes-of-might-and-magic-ii-game-engine-fheroes2-v106-out-now/</guid>
       <pubDate>Mon, 17 Jul 2023 09:44:42 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[BattleBit Remastered 的开发者现在对他们的反作弊计划给出了更明确的答案，这对于 Steam Deck 和桌面 Linux 的游戏玩家来说似乎是个好消息。]]></description>
       <guid>https://www.gamingonlinux.com/2023/07/faceit-anti-cheat-to-support-linux-steam-deck-with-battlebit-remastered/</guid>
       <pubDate>Sun, 16 Jul 2023 16:36:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>质子实验修复了新世界和光环：时代的命运</title>
-      <link>https://www.gamingonlinux.com/2023/07/proton-experimental-fixes-up-new-world-and-aura-fate-of-the-ages/</link>
-      <description><![CDATA[Valve 为 Proton Experimental 发布了一个小而甜蜜的更新，修复了更多游戏问题。以下是 7 月 14 日发生的变化。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/07/proton-experimental-fixes-up-new-world-and-aura-fate-of-the-ages/</guid>
-      <pubDate>Sat, 15 Jul 2023 13:30:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>在这个最新的捆绑包中获得一些家庭街机游戏的乐趣</title>
-      <link>https://www.gamingonlinux.com/2023/07/get-some-at-home-arcade-game-fun-in-this-latest-bundle/</link>
-      <description><![CDATA[Humble At-Home Arcade Bundle 现已上线，其中有一些您可能想要添加到您的收藏中的游戏。以下是 Steam Deck 和桌面 Linux 上的兼容性。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/07/get-some-at-home-arcade-game-fun-in-this-latest-bundle/</guid>
-      <pubDate>Sat, 15 Jul 2023 13:20:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>CodeWeavers 博客介绍了他们在 Proton 上使用 PooShooter 进行的 Linux/Steam Deck 工作</title>
-      <link>https://www.gamingonlinux.com/2023/07/codeweavers-blog-about-their-linux-steam-deck-work-on-proton-with-pooshooter/</link>
-      <description><![CDATA[PooShooter：厕所入侵者，是的，这是一款真正的游戏，当我们看到 Valve 最近在 Proton 变更日志中指出它已修复时，我们都笑了。 Valve 在 Proton 开发方面的合作伙伴 CodeWeavers 发表了一篇博客文章，讨论了为什么解决这个问题很有趣。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/07/codeweavers-blog-about-their-linux-steam-deck-work-on-proton-with-pooshooter/</guid>
-      <pubDate>Fri, 14 Jul 2023 15:10:26 GMT</pubDate>
     </item>
     </channel>
 </rss>
