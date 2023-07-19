@@ -4,7 +4,21 @@
     <title>GamingOnLinux 最新文章</title>
     <link>https://www.gamingonlinux.com/</link>
     <description>GamingOnLinux 的最新文章</description>
-    <lastBuildDate>Wed, 19 Jul 2023 13:09:33 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Jul 2023 17:29:24 GMT</lastBuildDate>
+    <item>
+      <title>《守望先锋 2》登陆 Steam，让 Steam Deck / Linux 上的体验变得更加轻松</title>
+      <link>https://www.gamingonlinux.com/2023/07/overwatch-2-heads-to-steam-making-it-even-easier-on-steam-deck-linux/</link>
+      <description><![CDATA[最后。少一个额外的发射器会成为麻烦吗？暴雪游戏终于登陆 Steam，《守望先锋 2》将于 8 月 10 日首发。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/07/overwatch-2-heads-to-steam-making-it-even-easier-on-steam-deck-linux/</guid>
+      <pubDate>Wed, 19 Jul 2023 17:29:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Roto Force 是一款旋转双棒子弹地狱，非常精彩</title>
+      <link>https://www.gamingonlinux.com/2023/07/roto-force-is-a-rotating-twin-stick-bullet-hell-and-its-glorious/</link>
+      <description><![CDATA[如果您需要一款新游戏来玩，我很乐意向您推荐 Roto Force。这是一个高能 2D 双棍弹幕地狱，你在小竞技场中旋转，周围一片混乱。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/07/roto-force-is-a-rotating-twin-stick-bullet-hell-and-its-glorious/</guid>
+      <pubDate>Wed, 19 Jul 2023 17:16:54 GMT</pubDate>
+    </item>
     <item>
       <title>Steam Deck 和 Proton 新闻的另一篇综述在这里</title>
       <link>https://www.gamingonlinux.com/2023/07/another-round-up-of-steam-deck-and-proton-news-is-here/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[LEGO Bricktales 是 ClockStone 和 Thunderful Publishing 推出的一款甜蜜的小型拼搭冒险游戏，支持原生 Linux，并且已通过 Steam Deck 验证。新的免费更新现已推出。]]></description>
       <guid>https://www.gamingonlinux.com/2023/07/lego-bricktales-gets-a-free-summer-content-update/</guid>
       <pubDate>Mon, 17 Jul 2023 10:20:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>Linux Mint 21.2 现已发布，包括应用程序升级、美术调整、登录改进</title>
-      <link>https://www.gamingonlinux.com/2023/07/linux-mint-212-is-out-now-with-app-upgrades-artwork-tweaks-login-improvements/</link>
-      <description><![CDATA[Linux Mint 21.2 现已发布，作为构建在 Ubuntu 之上的最新发行版，对所包含的基础软件进行了各种精心改进。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/07/linux-mint-212-is-out-now-with-app-upgrades-artwork-tweaks-login-improvements/</guid>
-      <pubDate>Mon, 17 Jul 2023 10:08:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>魔法门之英雄无敌 II 游戏引擎 fheroes2 v1.0.6 现已推出</title>
-      <link>https://www.gamingonlinux.com/2023/07/heroes-of-might-and-magic-ii-game-engine-fheroes2-v106-out-now/</link>
-      <description><![CDATA[fheroes2 继续改进经典的《魔法门之英雄无敌 II》，现在推出了包含大量调整和改进的新版本。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/07/heroes-of-might-and-magic-ii-game-engine-fheroes2-v106-out-now/</guid>
-      <pubDate>Mon, 17 Jul 2023 09:44:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
