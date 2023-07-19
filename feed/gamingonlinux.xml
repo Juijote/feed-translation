@@ -4,7 +4,21 @@
     <title>GamingOnLinux 最新文章</title>
     <link>https://www.gamingonlinux.com/</link>
     <description>GamingOnLinux 的最新文章</description>
-    <lastBuildDate>Tue, 18 Jul 2023 14:09:16 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Jul 2023 18:51:05 GMT</lastBuildDate>
+    <item>
+      <title>NVIDIA 驱动程序 535.86.05 现已发布</title>
+      <link>https://www.gamingonlinux.com/2023/07/nvidia-driver-535-86-05-out-now-linux/</link>
+      <description><![CDATA[NVIDIA 发布了最新的 Linux 显卡驱动程序更新，版本为 535.86.05。以下是为您提供的新功能和改进内容。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/07/nvidia-driver-535-86-05-out-now-linux/</guid>
+      <pubDate>Tue, 18 Jul 2023 18:51:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>模块化 Framework Laptop 16 开放预订</title>
+      <link>https://www.gamingonlinux.com/2023/07/the-modular-framework-laptop-16-opens-up-for-pre-orders/</link>
+      <description><![CDATA[Framework 现已推出模块化、可定制的 Framework Laptop 16 供预订，配备最新的 AMD Ryzen CPU 和 AMD Radeon GPU。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/07/the-modular-framework-laptop-16-opens-up-for-pre-orders/</guid>
+      <pubDate>Tue, 18 Jul 2023 18:41:13 GMT</pubDate>
+    </item>
     <item>
       <title>观看迷你吸血鬼幸存者纪录片</title>
       <link>https://www.gamingonlinux.com/2023/07/check-out-the-mini-vampire-survivors-documentary/</link>
@@ -29,7 +43,7 @@
     <item>
       <title>Lovux 是一款巧妙的玻璃粉碎益智游戏，现已推出</title>
       <link>https://www.gamingonlinux.com/2023/07/lovux-is-a-clever-glass-smashing-puzzle-game-out-now/</link>
-      <description><![CDATA[益智游戏爱好者一定会想看看 Lovux，这是开发商 MindLab 最新发布的一款游戏，游戏的主题是粉碎玻璃。]]></description>
+      <description><![CDATA[益智游戏爱好者一定会想要看看 Lovux，这是开发商 MindLab 最新发布的一款游戏，游戏的主题是粉碎玻璃。]]></description>
       <guid>https://www.gamingonlinux.com/2023/07/lovux-is-a-clever-glass-smashing-puzzle-game-out-now/</guid>
       <pubDate>Tue, 18 Jul 2023 13:01:33 GMT</pubDate>
     </item>
@@ -55,9 +69,9 @@
       <pubDate>Mon, 17 Jul 2023 10:20:24 GMT</pubDate>
     </item>
     <item>
-      <title>Linux Mint 21.2 现已推出，包括应用程序升级、美术调整、登录改进</title>
+      <title>Linux Mint 21.2 现已发布，包括应用程序升级、美术调整、登录改进</title>
       <link>https://www.gamingonlinux.com/2023/07/linux-mint-212-is-out-now-with-app-upgrades-artwork-tweaks-login-improvements/</link>
-      <description><![CDATA[Linux Mint 21.2 现已发布，作为构建在 Ubuntu 之上的最新发行版，对所包含的基础软件进行了各种精心改进。]]></description>
+      <description><![CDATA[Linux Mint 21.2 现已发布，作为构建在 Ubuntu 之上的最新发行版，对基础软件进行了各种精心改进。]]></description>
       <guid>https://www.gamingonlinux.com/2023/07/linux-mint-212-is-out-now-with-app-upgrades-artwork-tweaks-login-improvements/</guid>
       <pubDate>Mon, 17 Jul 2023 10:08:31 GMT</pubDate>
     </item>
@@ -83,7 +97,7 @@
       <pubDate>Sat, 15 Jul 2023 13:30:41 GMT</pubDate>
     </item>
     <item>
-      <title>在这个最新的捆绑包中享受家庭街机游戏的乐趣</title>
+      <title>在这个最新的捆绑包中获得一些家庭街机游戏的乐趣</title>
       <link>https://www.gamingonlinux.com/2023/07/get-some-at-home-arcade-game-fun-in-this-latest-bundle/</link>
       <description><![CDATA[Humble At-Home Arcade Bundle 现已上线，其中有一些您可能想要添加到您的收藏中的游戏。以下是 Steam Deck 和桌面 Linux 上的兼容性。]]></description>
       <guid>https://www.gamingonlinux.com/2023/07/get-some-at-home-arcade-game-fun-in-this-latest-bundle/</guid>
@@ -95,20 +109,6 @@
       <description><![CDATA[PooShooter：厕所入侵者，是的，这是一款真正的游戏，当我们看到 Valve 最近在 Proton 变更日志中指出它已修复时，我们都笑了。 Valve 在 Proton 开发方面的合作伙伴 CodeWeavers 发表了一篇博客文章，讨论了为什么解决这个问题很有趣。]]></description>
       <guid>https://www.gamingonlinux.com/2023/07/codeweavers-blog-about-their-linux-steam-deck-work-on-proton-with-pooshooter/</guid>
       <pubDate>Fri, 14 Jul 2023 15:10:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>复古日式角色扮演游戏“Alterium Shift”进入抢先体验</title>
-      <link>https://www.gamingonlinux.com/2023/07/retro-inspired-jrpg-alterium-shift-enters-early-access/</link>
-      <description><![CDATA[喜欢经典日式角色扮演游戏吗？ Alterium Shift 是另一款好看的作品，最近在 Steam 上进入抢先体验阶段，并支持原生 Linux。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/07/retro-inspired-jrpg-alterium-shift-enters-early-access/</guid>
-      <pubDate>Fri, 14 Jul 2023 12:13:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>Cartridges 游戏启动器增加了对 Epic Games 和 Flatpaks Legendary 的支持</title>
-      <link>https://www.gamingonlinux.com/2023/07/cartridges-game-launcher-adds-support-for-legendary-for-epic-games-and-flatpaks/</link>
-      <description><![CDATA[还记得墨盒吗？这个简单的启动器旨在成为一种一体化解决方案，将所有来源的游戏汇集在一起​​。嗯，它刚刚进行了一次不错的升级。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/07/cartridges-game-launcher-adds-support-for-legendary-for-epic-games-and-flatpaks/</guid>
-      <pubDate>Fri, 14 Jul 2023 11:48:27 GMT</pubDate>
     </item>
     </channel>
 </rss>
