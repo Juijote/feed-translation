@@ -4,11 +4,25 @@
     <title>GamingOnLinux 最新文章</title>
     <link>https://www.gamingonlinux.com/</link>
     <description>GamingOnLinux 的最新文章</description>
-    <lastBuildDate>Wed, 19 Jul 2023 18:47:06 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Jul 2023 09:52:46 GMT</lastBuildDate>
+    <item>
+      <title>Dolphin Emulator 开发者放弃 Steam 发布</title>
+      <link>https://www.gamingonlinux.com/2023/07/dolphin-emulator-devs-give-up-on-steam-release/</link>
+      <description><![CDATA[最近，关于 Wii 的 Dolphin Emulator 和 GameCube 登陆 Steam，然后又被屏蔽的争议不断，该团队现在已经放弃了 Steam 版本。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/07/dolphin-emulator-devs-give-up-on-steam-release/</guid>
+      <pubDate>Thu, 20 Jul 2023 09:52:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>《Gravity Circuit》发布，向《洛克人》等经典平台游戏致敬</title>
+      <link>https://www.gamingonlinux.com/2023/07/gravity-circuit-released-paying-tribute-to-classic-platformers-like-mega-man/</link>
+      <description><![CDATA[Gravity Circuit 是一款横向卷轴平台游戏，可将动作数量增加到 11 个，并以 20 世纪 80 年代和 90 年代流行游戏机游戏的传统为基础，现已发布，它有一个原生 Linux 版本。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/07/gravity-circuit-released-paying-tribute-to-classic-platformers-like-mega-man/</guid>
+      <pubDate>Thu, 20 Jul 2023 09:34:00 GMT</pubDate>
+    </item>
     <item>
       <title>在这个捆绑包中获得一些舒适的游戏，例如《猫咖啡馆经理》和《花园故事》</title>
       <link>https://www.gamingonlinux.com/2023/07/get-some-cozy-games-in-this-bundle-like-cat-cafe-manager-and-garden-story/</link>
-      <description><![CDATA[在 Humble Cozy Games Collection 中，您可以以便宜的价格获得另一组游戏。因此，这里是对 Steam Deck 和桌面 Linux 的兼容性的测试。]]></description>
+      <description><![CDATA[在 Humble Cozy Games Collection 中，您可以以便宜的价格获得另一组游戏。下面是对 Steam Deck 和桌面 Linux 的兼容性的测试。]]></description>
       <guid>https://www.gamingonlinux.com/2023/07/get-some-cozy-games-in-this-bundle-like-cat-cafe-manager-and-garden-story/</guid>
       <pubDate>Wed, 19 Jul 2023 18:47:06 GMT</pubDate>
     </item>
@@ -92,7 +106,7 @@
     <item>
       <title>Lovux 是一款巧妙的玻璃粉碎益智游戏，现已推出</title>
       <link>https://www.gamingonlinux.com/2023/07/lovux-is-a-clever-glass-smashing-puzzle-game-out-now/</link>
-      <description><![CDATA[益智游戏爱好者一定会想要看看 Lovux，这是开发商 MindLab 最新发布的一款游戏，游戏的主题是粉碎玻璃。]]></description>
+      <description><![CDATA[益智游戏爱好者一定会想看看 Lovux，这是开发商 MindLab 最新发布的一款游戏，游戏的主题是粉碎玻璃。]]></description>
       <guid>https://www.gamingonlinux.com/2023/07/lovux-is-a-clever-glass-smashing-puzzle-game-out-now/</guid>
       <pubDate>Tue, 18 Jul 2023 13:01:33 GMT</pubDate>
     </item>
@@ -130,20 +144,6 @@
       <description><![CDATA[fheroes2 继续改进经典的《魔法门之英雄无敌 II》，现在推出了包含大量调整和改进的新版本。]]></description>
       <guid>https://www.gamingonlinux.com/2023/07/heroes-of-might-and-magic-ii-game-engine-fheroes2-v106-out-now/</guid>
       <pubDate>Mon, 17 Jul 2023 09:44:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>FACEIT 反作弊通过 BattleBit Remastered 支持 Linux / Steam Deck</title>
-      <link>https://www.gamingonlinux.com/2023/07/faceit-anti-cheat-to-support-linux-steam-deck-with-battlebit-remastered/</link>
-      <description><![CDATA[BattleBit Remastered 的开发者现在对他们的反作弊计划给出了更明确的答案，这对于 Steam Deck 和桌面 Linux 的游戏玩家来说似乎是个好消息。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/07/faceit-anti-cheat-to-support-linux-steam-deck-with-battlebit-remastered/</guid>
-      <pubDate>Sun, 16 Jul 2023 16:36:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>质子实验修复了新世界和光环：时代的命运</title>
-      <link>https://www.gamingonlinux.com/2023/07/proton-experimental-fixes-up-new-world-and-aura-fate-of-the-ages/</link>
-      <description><![CDATA[Valve 为 Proton Experimental 发布了一个小而甜蜜的更新，修复了更多游戏问题。以下是 7 月 14 日发生的变化。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/07/proton-experimental-fixes-up-new-world-and-aura-fate-of-the-ages/</guid>
-      <pubDate>Sat, 15 Jul 2023 13:30:41 GMT</pubDate>
     </item>
     </channel>
 </rss>
