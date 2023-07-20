@@ -35,7 +35,7 @@ class GoogleTran:
         if not content:  # 添加判断，如果内容为空则直接返回
             return ''
         
-        return Translate(content, target).text
+        return Translate(content,  self.target).text
 
     def get_newcontent(self, max_item=10):
         item_set = set()  # 使用集合来去除重复项
