@@ -4,7 +4,21 @@
     <title>GamingOnLinux 最新文章</title>
     <link>https://www.gamingonlinux.com/</link>
     <description>GamingOnLinux 的最新文章</description>
-    <lastBuildDate>Thu, 20 Jul 2023 09:52:46 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Jul 2023 12:59:05 GMT</lastBuildDate>
+    <item>
+      <title>Starfox 遇见吸血鬼幸存者 - Whisker Squadron: Survivor 将于 8 月 21 日上映</title>
+      <link>https://www.gamingonlinux.com/2023/07/starfox-meets-vampire-survivors-whisker-squadron-survivor-out-august-21st/</link>
+      <description><![CDATA[嗯，这当然是描述它的一种方式。 Whisker Squadron: Survivor 的风格非常像经典的铁路射击游戏 Starfox，但加入了一些吸血鬼幸存者流行的元素。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/07/starfox-meets-vampire-survivors-whisker-squadron-survivor-out-august-21st/</guid>
+      <pubDate>Thu, 20 Jul 2023 12:59:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>关注受 Olli Olli、Super Meat Boy 和 Celeste 启发的跑酷传奇</title>
+      <link>https://www.gamingonlinux.com/2023/07/keep-an-eye-on-parkour-legends-inspired-by-olli-olli-super-meat-boy-and-celeste/</link>
+      <description><![CDATA[喜欢快节奏的挑战？ Enter Grip 正在开发 Parkour Legends，这是一款快节奏的横向卷轴跑酷平台游戏，看起来很有趣。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/07/keep-an-eye-on-parkour-legends-inspired-by-olli-olli-super-meat-boy-and-celeste/</guid>
+      <pubDate>Thu, 20 Jul 2023 12:42:24 GMT</pubDate>
+    </item>
     <item>
       <title>Dolphin Emulator 开发者放弃 Steam 发布</title>
       <link>https://www.gamingonlinux.com/2023/07/dolphin-emulator-devs-give-up-on-steam-release/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[LEGO Bricktales 是 ClockStone 和 Thunderful Publishing 推出的一款甜蜜的小型拼搭冒险游戏，支持原生 Linux，并且已通过 Steam Deck 验证。新的免费更新现已推出。]]></description>
       <guid>https://www.gamingonlinux.com/2023/07/lego-bricktales-gets-a-free-summer-content-update/</guid>
       <pubDate>Mon, 17 Jul 2023 10:20:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>Linux Mint 21.2 现已发布，包括应用程序升级、美术调整、登录改进</title>
-      <link>https://www.gamingonlinux.com/2023/07/linux-mint-212-is-out-now-with-app-upgrades-artwork-tweaks-login-improvements/</link>
-      <description><![CDATA[Linux Mint 21.2 现已发布，作为构建在 Ubuntu 之上的最新发行版，对所包含的基础软件进行了各种精心改进。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/07/linux-mint-212-is-out-now-with-app-upgrades-artwork-tweaks-login-improvements/</guid>
-      <pubDate>Mon, 17 Jul 2023 10:08:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>魔法门之英雄无敌 II 游戏引擎 fheroes2 v1.0.6 现已推出</title>
-      <link>https://www.gamingonlinux.com/2023/07/heroes-of-might-and-magic-ii-game-engine-fheroes2-v106-out-now/</link>
-      <description><![CDATA[fheroes2 继续改进经典的《魔法门之英雄无敌 II》，现在推出了包含大量调整和改进的新版本。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/07/heroes-of-might-and-magic-ii-game-engine-fheroes2-v106-out-now/</guid>
-      <pubDate>Mon, 17 Jul 2023 09:44:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
