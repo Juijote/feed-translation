@@ -4,7 +4,14 @@
     <title>GamingOnLinux 最新文章</title>
     <link>https://www.gamingonlinux.com/</link>
     <description>GamingOnLinux 的最新文章</description>
-    <lastBuildDate>Wed, 19 Jul 2023 17:29:24 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Jul 2023 18:47:06 GMT</lastBuildDate>
+    <item>
+      <title>在这个捆绑包中获得一些舒适的游戏，例如《猫咖啡馆经理》和《花园故事》</title>
+      <link>https://www.gamingonlinux.com/2023/07/get-some-cozy-games-in-this-bundle-like-cat-cafe-manager-and-garden-story/</link>
+      <description><![CDATA[在 Humble Cozy Games Collection 中，您可以以便宜的价格获得另一组游戏。下面是对 Steam Deck 和桌面 Linux 的兼容性的测试。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/07/get-some-cozy-games-in-this-bundle-like-cat-cafe-manager-and-garden-story/</guid>
+      <pubDate>Wed, 19 Jul 2023 18:47:06 GMT</pubDate>
+    </item>
     <item>
       <title>《守望先锋 2》登陆 Steam，让 Steam Deck / Linux 上的体验变得更加轻松</title>
       <link>https://www.gamingonlinux.com/2023/07/overwatch-2-heads-to-steam-making-it-even-easier-on-steam-deck-linux/</link>
@@ -85,7 +92,7 @@
     <item>
       <title>Lovux 是一款巧妙的玻璃粉碎益智游戏，现已推出</title>
       <link>https://www.gamingonlinux.com/2023/07/lovux-is-a-clever-glass-smashing-puzzle-game-out-now/</link>
-      <description><![CDATA[益智游戏爱好者一定会想要看看 Lovux，这是开发商 MindLab 最新发布的一款游戏，游戏的主题是粉碎玻璃。]]></description>
+      <description><![CDATA[益智游戏爱好者一定会想看看 Lovux，这是开发商 MindLab 最新发布的一款游戏，游戏的主题是粉碎玻璃。]]></description>
       <guid>https://www.gamingonlinux.com/2023/07/lovux-is-a-clever-glass-smashing-puzzle-game-out-now/</guid>
       <pubDate>Tue, 18 Jul 2023 13:01:33 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[我一直在玩一款名为 Dave the Diver 的游戏，由开发商 MINTROCKET 于 2023 年 6 月 28 日发布。它似乎在 Steam 上掀起了一场风暴，超过 36,000 条用户评论给予了它压倒性的积极评价。在给自己买了一本并玩了之后，我明白了为什么人们如此喜欢它。]]></description>
       <guid>https://www.gamingonlinux.com/2023/07/dave-the-diver-is-a-big-beautiful-blue-gem/</guid>
       <pubDate>Mon, 17 Jul 2023 13:18:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>乐高 Bricktales 获得免费夏季内容更新</title>
-      <link>https://www.gamingonlinux.com/2023/07/lego-bricktales-gets-a-free-summer-content-update/</link>
-      <description><![CDATA[LEGO Bricktales 是 ClockStone 和 Thunderful Publishing 推出的一款甜蜜的小型拼搭冒险游戏，支持原生 Linux，并且已通过 Steam Deck 验证。新的免费更新现已推出。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/07/lego-bricktales-gets-a-free-summer-content-update/</guid>
-      <pubDate>Mon, 17 Jul 2023 10:20:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
