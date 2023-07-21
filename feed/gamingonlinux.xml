@@ -4,7 +4,28 @@
     <title>GamingOnLinux 最新文章</title>
     <link>https://www.gamingonlinux.com/</link>
     <description>GamingOnLinux 的最新文章</description>
-    <lastBuildDate>Fri, 21 Jul 2023 11:15:38 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Jul 2023 18:01:00 GMT</lastBuildDate>
+    <item>
+      <title>由人工智能驱动的新闻网站很愚蠢，Reddit 用户成功地欺骗了他们</title>
+      <link>https://www.gamingonlinux.com/2023/07/ai-powered-news-sites-are-dumb-and-redditors-managed-to-trick-them/</link>
+      <description><![CDATA[这看起来很有趣。与 Linux / Steam Deck 游戏没有什么真正相关的，但更多的是我认为您可能也会发现乐趣的行业状况帖子。 Reddit 用户成功欺骗了人工智能驱动的新闻抓取工具。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/07/ai-powered-news-sites-are-dumb-and-redditors-managed-to-trick-them/</guid>
+      <pubDate>Fri, 21 Jul 2023 18:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>JSAUX 推出 Steam Deck RGB 背板和 RGB 扩展坞</title>
+      <link>https://www.gamingonlinux.com/2023/07/jsaux-launch-their-steam-deck-rgb-backplate-and-rgb-docking-station/</link>
+      <description><![CDATA[喜欢为您的游戏生活增添一点色彩吗？ JSAUX 今天有两个新版本可供订购，其中包括 RGB 扩展坞和适用于 Steam Deck 的 RGB 透明背板。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/07/jsaux-launch-their-steam-deck-rgb-backplate-and-rgb-docking-station/</guid>
+      <pubDate>Fri, 21 Jul 2023 17:28:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>FACEMINER 是一款复古反乌托邦叙事驱动的人工智能。管理模拟</title>
+      <link>https://www.gamingonlinux.com/2023/07/faceminer-is-a-retro-dystopian-narrative-driven-ai-management-sim/</link>
+      <description><![CDATA[准备好回到 90 年代了吗？敬请关注 FACEMINER，这是一款 1999 年推出的关于人工智能、监视和大规模生物识别数据收集的模拟游戏。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/07/faceminer-is-a-retro-dystopian-narrative-driven-ai-management-sim/</guid>
+      <pubDate>Fri, 21 Jul 2023 17:04:25 GMT</pubDate>
+    </item>
     <item>
       <title>Steam Stealth Fest 将于 7 月 24 日启动</title>
       <link>https://www.gamingonlinux.com/2023/07/steam-stealth-fest-launches-july-24th/</link>
@@ -22,14 +43,14 @@
     <item>
       <title>体素毁灭战士 II 8 月 1 日发售</title>
       <link>https://www.gamingonlinux.com/2023/07/voxel-doom-ii-releasing-august-1st/</link>
-      <description><![CDATA[准备好体验更多复古动作了吗？ Voxel Doom II 是用 GZDoom 制作的模组，将于 8 月 1 日发布，为您提供完全基于 3D 体素的模型，为 Doom 提供第二次帮助。]]></description>
+      <description><![CDATA[准备好体验更多复古动作了吗？ Voxel Doom II（使用 GZDoom 制作的 mod）将于 8 月 1 日发布，为您提供完全基于 3D 体素的模型，这是 Doom 的第二个帮助。]]></description>
       <guid>https://www.gamingonlinux.com/2023/07/voxel-doom-ii-releasing-august-1st/</guid>
       <pubDate>Fri, 21 Jul 2023 10:46:33 GMT</pubDate>
     </item>
     <item>
       <title>Roguelite 射击游戏 Arcadegeddon 登陆 Steam 并支持 Steam Deck</title>
       <link>https://www.gamingonlinux.com/2023/07/roguelite-shooter-arcadegeddon-hits-steam-with-steam-deck-support/</link>
-      <description><![CDATA[《Arcadegeddon》是 Epic 独占游戏，最近从 IllFonic 登陆 Steam。这是一款华丽且不断发展的合作 Roguelite 射击游戏，开发人员计划确保它与 Linux / Steam Deck 保持兼容。]]></description>
+      <description><![CDATA[Arcadegeddon 在成为 Epic 独占游戏后最近从 IllFonic 登陆 Steam。这是一款华丽且不断发展的合作 Roguelite 射击游戏，开发人员计划确保它与 Linux / Steam Deck 保持兼容。]]></description>
       <guid>https://www.gamingonlinux.com/2023/07/roguelite-shooter-arcadegeddon-hits-steam-with-steam-deck-support/</guid>
       <pubDate>Thu, 20 Jul 2023 19:52:16 GMT</pubDate>
     </item>
@@ -57,7 +78,7 @@
     <item>
       <title>Dolphin Emulator 开发者放弃 Steam 发布</title>
       <link>https://www.gamingonlinux.com/2023/07/dolphin-emulator-devs-give-up-on-steam-release/</link>
-      <description><![CDATA[最近，关于 Wii 和 GameCube 的 Dolphin 模拟器即将登陆 Steam，然后又被屏蔽，引发了诸多争议，该团队现在已经放弃了 Steam 版本。]]></description>
+      <description><![CDATA[最近，关于 Wii 的 Dolphin Emulator 和 GameCube 登陆 Steam，然后又被屏蔽的争议不断，该团队现在已经放弃了 Steam 版本。]]></description>
       <guid>https://www.gamingonlinux.com/2023/07/dolphin-emulator-devs-give-up-on-steam-release/</guid>
       <pubDate>Thu, 20 Jul 2023 09:52:46 GMT</pubDate>
     </item>
@@ -71,7 +92,7 @@
     <item>
       <title>在这个捆绑包中获得一些舒适的游戏，例如《猫咖啡馆经理》和《花园故事》</title>
       <link>https://www.gamingonlinux.com/2023/07/get-some-cozy-games-in-this-bundle-like-cat-cafe-manager-and-garden-story/</link>
-      <description><![CDATA[在 Humble Cozy Games Collection 中，您可以以便宜的价格获得另一组游戏。因此，这里是对 Steam Deck 和桌面 Linux 的兼容性的测试。]]></description>
+      <description><![CDATA[在 Humble Cozy Games Collection 中，您可以以便宜的价格获得另一组游戏。下面是对 Steam Deck 和桌面 Linux 的兼容性的测试。]]></description>
       <guid>https://www.gamingonlinux.com/2023/07/get-some-cozy-games-in-this-bundle-like-cat-cafe-manager-and-garden-story/</guid>
       <pubDate>Wed, 19 Jul 2023 18:47:06 GMT</pubDate>
     </item>
@@ -123,27 +144,6 @@
       <description><![CDATA[NVIDIA 发布了最新的 Linux 显卡驱动程序更新，版本为 535.86.05。以下是为您提供的新功能和改进内容。]]></description>
       <guid>https://www.gamingonlinux.com/2023/07/nvidia-driver-535-86-05-out-now-linux/</guid>
       <pubDate>Tue, 18 Jul 2023 18:51:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>模块化 Framework Laptop 16 开放预订</title>
-      <link>https://www.gamingonlinux.com/2023/07/the-modular-framework-laptop-16-opens-up-for-pre-orders/</link>
-      <description><![CDATA[Framework 现已推出模块化、可定制的 Framework Laptop 16 供预订，配备最新的 AMD Ryzen CPU 和 AMD Radeon GPU。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/07/the-modular-framework-laptop-16-opens-up-for-pre-orders/</guid>
-      <pubDate>Tue, 18 Jul 2023 18:41:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>观看迷你吸血鬼幸存者纪录片</title>
-      <link>https://www.gamingonlinux.com/2023/07/check-out-the-mini-vampire-survivors-documentary/</link>
-      <description><![CDATA[想了解更多有关吸血鬼幸存者如何诞生的信息吗？ Noclip 的伟大人们即将推出他们的下一部纪录片。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/07/check-out-the-mini-vampire-survivors-documentary/</guid>
-      <pubDate>Tue, 18 Jul 2023 14:09:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>在GOG“Make Classics Last Forever Sale”中挑选一些绝对经典的作品</title>
-      <link>https://www.gamingonlinux.com/2023/07/pick-up-some-absolute-classic-in-the-gog-make-classics-last-forever-sale/</link>
-      <description><![CDATA[游戏商店GOG推出了Make Classics Last Forever特卖，让你有机会用闲钱挑选一些复古美女。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/07/pick-up-some-absolute-classic-in-the-gog-make-classics-last-forever-sale/</guid>
-      <pubDate>Tue, 18 Jul 2023 13:31:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
