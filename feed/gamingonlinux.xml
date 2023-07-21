@@ -4,7 +4,28 @@
     <title>GamingOnLinux 最新文章</title>
     <link>https://www.gamingonlinux.com/</link>
     <description>GamingOnLinux 的最新文章</description>
-    <lastBuildDate>Thu, 20 Jul 2023 19:52:16 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Jul 2023 11:15:38 GMT</lastBuildDate>
+    <item>
+      <title>Steam Stealth Fest 将于 7 月 24 日启动</title>
+      <link>https://www.gamingonlinux.com/2023/07/steam-stealth-fest-launches-july-24th/</link>
+      <description><![CDATA[谁说的？你看到什么了吗？ Steam Stealth Fest 将于 7 月 24 日向您发起冲击 - 所以请准备好钱包。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/07/steam-stealth-fest-launches-july-24th/</guid>
+      <pubDate>Fri, 21 Jul 2023 11:15:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>GE-Proton 8-7 发布，恢复 AMD FSR 支持</title>
+      <link>https://www.gamingonlinux.com/2023/07/ge-proton-8-7-released-bringing-back-amd-fsr-support/</link>
+      <description><![CDATA[兼容层 GE-Proton 版本 8-7 已发布，带来了 AMD FSR 支持的回归。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/07/ge-proton-8-7-released-bringing-back-amd-fsr-support/</guid>
+      <pubDate>Fri, 21 Jul 2023 11:01:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>体素毁灭战士 II 8 月 1 日发售</title>
+      <link>https://www.gamingonlinux.com/2023/07/voxel-doom-ii-releasing-august-1st/</link>
+      <description><![CDATA[准备好体验更多复古动作了吗？ Voxel Doom II 是用 GZDoom 制作的模组，将于 8 月 1 日发布，为您提供完全基于 3D 体素的模型，为 Doom 提供第二次帮助。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/07/voxel-doom-ii-releasing-august-1st/</guid>
+      <pubDate>Fri, 21 Jul 2023 10:46:33 GMT</pubDate>
+    </item>
     <item>
       <title>Roguelite 射击游戏 Arcadegeddon 登陆 Steam 并支持 Steam Deck</title>
       <link>https://www.gamingonlinux.com/2023/07/roguelite-shooter-arcadegeddon-hits-steam-with-steam-deck-support/</link>
@@ -120,30 +141,9 @@
     <item>
       <title>在GOG“Make Classics Last Forever Sale”中挑选一些绝对经典的作品</title>
       <link>https://www.gamingonlinux.com/2023/07/pick-up-some-absolute-classic-in-the-gog-make-classics-last-forever-sale/</link>
-      <description><![CDATA[游戏商店GOG推出了Make Classics Last Forever特卖，这是一个让你有闲钱挑选一些复古美女的好机会。]]></description>
+      <description><![CDATA[游戏商店GOG推出了Make Classics Last Forever特卖，让你有机会用闲钱挑选一些复古美女。]]></description>
       <guid>https://www.gamingonlinux.com/2023/07/pick-up-some-absolute-classic-in-the-gog-make-classics-last-forever-sale/</guid>
       <pubDate>Tue, 18 Jul 2023 13:31:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>电影级 2D 解谜平台游戏《Full Void》现已推出</title>
-      <link>https://www.gamingonlinux.com/2023/07/cinematic-2d-puzzle-platformer-full-void-is-out-now/</link>
-      <description><![CDATA[OutOfTheBit Ltd 的《Full Void》以反乌托邦的未来为背景，现已推出原生 Linux 支持。这是一款电影级 2D 解谜平台游戏，讲述了一名青少年独自生活在由流氓人工智能控制的敌对世界中的故事。奋力解决谜题和障碍，揭开这个破碎、破败的社会的故事，那里只有孩子仍然是自由的。但持续多久呢？]]></description>
-      <guid>https://www.gamingonlinux.com/2023/07/cinematic-2d-puzzle-platformer-full-void-is-out-now/</guid>
-      <pubDate>Tue, 18 Jul 2023 13:18:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>Lovux 是一款巧妙的玻璃粉碎益智游戏，现已推出</title>
-      <link>https://www.gamingonlinux.com/2023/07/lovux-is-a-clever-glass-smashing-puzzle-game-out-now/</link>
-      <description><![CDATA[益智游戏爱好者一定会想要看看 Lovux，这是开发商 MindLab 最新发布的一款游戏，游戏的主题是粉碎玻璃。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/07/lovux-is-a-clever-glass-smashing-puzzle-game-out-now/</guid>
-      <pubDate>Tue, 18 Jul 2023 13:01:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>Capcom 的 Exoprimal 在 Steam Deck 和桌面 Linux 上进行了测试</title>
-      <link>https://www.gamingonlinux.com/2023/07/exoprimal-from-capcom-tested-on-steam-deck-and-desktop-linux/</link>
-      <description><![CDATA[Capcom 现在发布了 Exoprimal，一款在线团队射击游戏，多亏了 Fanatical，我才得以一睹为快。另外，我还为您提供额外折扣。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/07/exoprimal-from-capcom-tested-on-steam-deck-and-desktop-linux/</guid>
-      <pubDate>Mon, 17 Jul 2023 18:47:29 GMT</pubDate>
     </item>
     </channel>
 </rss>
