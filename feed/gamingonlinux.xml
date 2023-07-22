@@ -4,7 +4,14 @@
     <title>GamingOnLinux 最新文章</title>
     <link>https://www.gamingonlinux.com/</link>
     <description>GamingOnLinux 的最新文章</description>
-    <lastBuildDate>Fri, 21 Jul 2023 20:03:14 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Jul 2023 08:41:29 GMT</lastBuildDate>
+    <item>
+      <title>Wine 8.13 现已发布，修复了大量错误</title>
+      <link>https://www.gamingonlinux.com/2023/07/wine-813-is-out-now-with-plenty-of-bug-fixes/</link>
+      <description><![CDATA[Windows 兼容层 Wine 的持续开发周期中的最新版本已发布，即 Wine 8.13，它带来了大量修复和一些新功能。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/07/wine-813-is-out-now-with-plenty-of-bug-fixes/</guid>
+      <pubDate>Sat, 22 Jul 2023 08:41:29 GMT</pubDate>
+    </item>
     <item>
       <title>Valve 发布适用于 Linux 和 Steam Deck 的 Proton 8.0-3</title>
       <link>https://www.gamingonlinux.com/2023/07/valve-releases-proton-8-0-3-for-linux-and-steam-deck/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>ΔV：土星之环是一款专为真正的太空迷打造的游戏 - 现已推出</title>
       <link>https://www.gamingonlinux.com/2023/07/dv-rings-of-saturn/</link>
-      <description><![CDATA[开发商 Kodera Software 开发的 ΔV：土星环是一款基于物理的硬科学采矿模拟游戏，1.0 版本现已发布。]]></description>
+      <description><![CDATA[开发商 Kodera Software 开发的《ΔV：土星环》是一款基于物理的硬科学采矿模拟游戏，1.0 版本现已发布。]]></description>
       <guid>https://www.gamingonlinux.com/2023/07/dv-rings-of-saturn/</guid>
       <pubDate>Fri, 21 Jul 2023 19:50:38 GMT</pubDate>
     </item>
@@ -106,7 +113,7 @@
     <item>
       <title>在这个捆绑包中获得一些舒适的游戏，例如《猫咖啡馆经理》和《花园故事》</title>
       <link>https://www.gamingonlinux.com/2023/07/get-some-cozy-games-in-this-bundle-like-cat-cafe-manager-and-garden-story/</link>
-      <description><![CDATA[在 Humble Cozy Games Collection 中，您可以以便宜的价格获得另一组游戏。下面是对 Steam Deck 和桌面 Linux 的兼容性的测试。]]></description>
+      <description><![CDATA[在 Humble Cozy Games Collection 中，您可以以便宜的价格获得另一组游戏。因此，这里是对 Steam Deck 和桌面 Linux 的兼容性的测试。]]></description>
       <guid>https://www.gamingonlinux.com/2023/07/get-some-cozy-games-in-this-bundle-like-cat-cafe-manager-and-garden-story/</guid>
       <pubDate>Wed, 19 Jul 2023 18:47:06 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[最近有消息称英特尔计划停止直接生产英特尔 NUC 系统，现在他们宣布同意让华硕继续生产。]]></description>
       <guid>https://www.gamingonlinux.com/2023/07/intel-gives-asus-a-license-to-carry-on-intel-nuc-systems/</guid>
       <pubDate>Wed, 19 Jul 2023 10:40:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>传送门：Prelude 获得 NVIDIA RTX 重制版，以及 NVIDIA 宣布的 RTX IO</title>
-      <link>https://www.gamingonlinux.com/2023/07/portal-prelude-gets-an-nvidia-rtx-remaster-plus-nvidia-announced-rtx-io/</link>
-      <description><![CDATA[NVIDIA 宣布了另一款使用 NVIDIA RTX Remix 来添加完整光线追踪的游戏，这一次它是原版《传送门》的模组《传送门：Prelude RTX》。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/07/portal-prelude-gets-an-nvidia-rtx-remaster-plus-nvidia-announced-rtx-io/</guid>
-      <pubDate>Wed, 19 Jul 2023 10:18:54 GMT</pubDate>
     </item>
     </channel>
 </rss>
