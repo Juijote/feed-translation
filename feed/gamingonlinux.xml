@@ -4,7 +4,35 @@
     <title>GamingOnLinux 最新文章</title>
     <link>https://www.gamingonlinux.com/</link>
     <description>GamingOnLinux 的最新文章</description>
-    <lastBuildDate>Sat, 22 Jul 2023 08:41:29 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Jul 2023 10:39:41 GMT</lastBuildDate>
+    <item>
+      <title>飞艇：征服天空获得一个 DLC，增加了船长和州长</title>
+      <link>https://www.gamingonlinux.com/2023/07/airships-conquer-the-skies-gets-a-dlc-adding-in-captains-and-governors/</link>
+      <description><![CDATA[你玩过《飞艇：征服天空》吗？这是一款关于建造可怕的飞艇和陆地车辆的游戏，让你在大规模空战中获得优势。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/07/airships-conquer-the-skies-gets-a-dlc-adding-in-captains-and-governors/</guid>
+      <pubDate>Mon, 24 Jul 2023 10:39:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>Morrowind 引擎替代品 OpenMW v0.48 现已推出，带有着色器</title>
+      <link>https://www.gamingonlinux.com/2023/07/morrowind-engine-replacement-openmw-v0-48-out-now-with-shaders/</link>
+      <description><![CDATA[Morrowind 引擎替代品 OpenMW 版本 0.48.0 现已推出，带来了一些非常奇特的新功能。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/07/morrowind-engine-replacement-openmw-v0-48-out-now-with-shaders/</guid>
+      <pubDate>Mon, 24 Jul 2023 10:26:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>在这个捆绑包中获得大量《神秘岛》和其他冒险游戏</title>
+      <link>https://www.gamingonlinux.com/2023/07/get-a-whole-lot-of-myst-and-other-adventures-in-this-bundle/</link>
+      <description><![CDATA[喜欢神秘岛这样的神秘解谜冒险游戏吗？那么 Humble Myst &amp; More Redux Bundle 可能值得您关注。以下是 Steam Deck 和桌面 Linux 上预期的兼容性。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/07/get-a-whole-lot-of-myst-and-other-adventures-in-this-bundle/</guid>
+      <pubDate>Mon, 24 Jul 2023 09:55:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>适用于手持设备和沙发游戏的 ChimeraOS Linux v43-1 发布</title>
+      <link>https://www.gamingonlinux.com/2023/07/chimeraos-linux-for-handhelds-and-couch-gaming-v43-1-released/</link>
+      <description><![CDATA[在最近发布了 43 版本并带来了最初的 ASUS ROG Ally 支持之后，ChimeraOS Linux 发布了第一个错误修复版本。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/07/chimeraos-linux-for-handhelds-and-couch-gaming-v43-1-released/</guid>
+      <pubDate>Mon, 24 Jul 2023 09:28:30 GMT</pubDate>
+    </item>
     <item>
       <title>Wine 8.13 现已发布，修复了大量错误</title>
       <link>https://www.gamingonlinux.com/2023/07/wine-813-is-out-now-with-plenty-of-bug-fixes/</link>
@@ -22,7 +50,7 @@
     <item>
       <title>ΔV：土星之环是一款专为真正的太空迷打造的游戏 - 现已推出</title>
       <link>https://www.gamingonlinux.com/2023/07/dv-rings-of-saturn/</link>
-      <description><![CDATA[开发商 Kodera Software 开发的《ΔV：土星环》是一款基于物理的硬科学采矿模拟游戏，1.0 版本现已发布。]]></description>
+      <description><![CDATA[开发商 Kodera Software 开发的 ΔV：土星环是一款基于物理的硬科学采矿模拟游戏，1.0 版本现已发布。]]></description>
       <guid>https://www.gamingonlinux.com/2023/07/dv-rings-of-saturn/</guid>
       <pubDate>Fri, 21 Jul 2023 19:50:38 GMT</pubDate>
     </item>
@@ -50,28 +78,28 @@
     <item>
       <title>Steam Stealth Fest 将于 7 月 24 日启动</title>
       <link>https://www.gamingonlinux.com/2023/07/steam-stealth-fest-launches-july-24th/</link>
-      <description><![CDATA[谁说的？你看到什么了吗？ Steam Stealth Fest 将于 7 月 24 日向您发起冲击 - 所以请准备好钱包。]]></description>
+      <description><![CDATA[谁说的？你看到什么了吗？ Steam Stealth Fest 即将于 7 月 24 日向您开放 - 所以请准备好钱包。]]></description>
       <guid>https://www.gamingonlinux.com/2023/07/steam-stealth-fest-launches-july-24th/</guid>
       <pubDate>Fri, 21 Jul 2023 11:15:38 GMT</pubDate>
     </item>
     <item>
-      <title>GE-Proton 8-7 发布，恢复 AMD FSR 支持</title>
+      <title>GE-Proton 8-7 发布，恢复 AMD FSR 支持（已更新）</title>
       <link>https://www.gamingonlinux.com/2023/07/ge-proton-8-7-released-bringing-back-amd-fsr-support/</link>
-      <description><![CDATA[兼容层 GE-Proton 版本 8-7 已发布，带来了 AMD FSR 支持的回归。]]></description>
+      <description><![CDATA[兼容层 GE-Proton 版本 8-7 已发布，带来了 AMD FSR 支持的回归。更新。]]></description>
       <guid>https://www.gamingonlinux.com/2023/07/ge-proton-8-7-released-bringing-back-amd-fsr-support/</guid>
       <pubDate>Fri, 21 Jul 2023 11:01:47 GMT</pubDate>
     </item>
     <item>
       <title>体素毁灭战士 II 8 月 1 日发售</title>
       <link>https://www.gamingonlinux.com/2023/07/voxel-doom-ii-releasing-august-1st/</link>
-      <description><![CDATA[准备好体验更多复古动作了吗？ Voxel Doom II（使用 GZDoom 制作的 mod）将于 8 月 1 日发布，为您提供完全基于 3D 体素的模型，这是 Doom 的第二个帮助。]]></description>
+      <description><![CDATA[准备好体验更多复古动作了吗？ Voxel Doom II（使用 GZDoom 制作的模组）将于 8 月 1 日发布，为您提供完全基于 3D 体素的模型，为 Doom 提供第二次帮助。]]></description>
       <guid>https://www.gamingonlinux.com/2023/07/voxel-doom-ii-releasing-august-1st/</guid>
       <pubDate>Fri, 21 Jul 2023 10:46:33 GMT</pubDate>
     </item>
     <item>
       <title>Roguelite 射击游戏 Arcadegeddon 登陆 Steam 并支持 Steam Deck</title>
       <link>https://www.gamingonlinux.com/2023/07/roguelite-shooter-arcadegeddon-hits-steam-with-steam-deck-support/</link>
-      <description><![CDATA[Arcadegeddon 在成为 Epic 独占游戏后最近从 IllFonic 登陆 Steam。这是一款华丽且不断发展的合作 Roguelite 射击游戏，开发人员计划确保它与 Linux / Steam Deck 保持兼容。]]></description>
+      <description><![CDATA[《Arcadegeddon》是 Epic 独占游戏，最近从 IllFonic 登陆 Steam。这是一款华丽且不断发展的合作 Roguelite 射击游戏，开发人员计划确保它与 Linux / Steam Deck 保持兼容。]]></description>
       <guid>https://www.gamingonlinux.com/2023/07/roguelite-shooter-arcadegeddon-hits-steam-with-steam-deck-support/</guid>
       <pubDate>Thu, 20 Jul 2023 19:52:16 GMT</pubDate>
     </item>
@@ -116,34 +144,6 @@
       <description><![CDATA[在 Humble Cozy Games Collection 中，您可以以便宜的价格获得另一组游戏。因此，这里是对 Steam Deck 和桌面 Linux 的兼容性的测试。]]></description>
       <guid>https://www.gamingonlinux.com/2023/07/get-some-cozy-games-in-this-bundle-like-cat-cafe-manager-and-garden-story/</guid>
       <pubDate>Wed, 19 Jul 2023 18:47:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>《守望先锋 2》登陆 Steam，让 Steam Deck / Linux 上的体验变得更加轻松</title>
-      <link>https://www.gamingonlinux.com/2023/07/overwatch-2-heads-to-steam-making-it-even-easier-on-steam-deck-linux/</link>
-      <description><![CDATA[最后。少一个额外的发射器会成为麻烦吗？暴雪游戏终于登陆 Steam，《守望先锋 2》将于 8 月 10 日首发。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/07/overwatch-2-heads-to-steam-making-it-even-easier-on-steam-deck-linux/</guid>
-      <pubDate>Wed, 19 Jul 2023 17:29:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>Roto Force 是一款旋转双棒子弹地狱，非常精彩</title>
-      <link>https://www.gamingonlinux.com/2023/07/roto-force-is-a-rotating-twin-stick-bullet-hell-and-its-glorious/</link>
-      <description><![CDATA[如果您需要一款新游戏来玩，我很乐意向您推荐 Roto Force。这是一个高能 2D 双棍弹幕地狱，你在小竞技场中旋转，周围一片混乱。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/07/roto-force-is-a-rotating-twin-stick-bullet-hell-and-its-glorious/</guid>
-      <pubDate>Wed, 19 Jul 2023 17:16:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>Steam Deck 和 Proton 新闻的另一篇综述在这里</title>
-      <link>https://www.gamingonlinux.com/2023/07/another-round-up-of-steam-deck-and-proton-news-is-here/</link>
-      <description><![CDATA[休息一周后，这里为您提供了一些近期 Steam Deck 和 Proton 游戏新闻的新鲜视频概述。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/07/another-round-up-of-steam-deck-and-proton-news-is-here/</guid>
-      <pubDate>Wed, 19 Jul 2023 13:09:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>英特尔向华硕授予搭载英特尔 NUC 系统的许可</title>
-      <link>https://www.gamingonlinux.com/2023/07/intel-gives-asus-a-license-to-carry-on-intel-nuc-systems/</link>
-      <description><![CDATA[最近有消息称英特尔计划停止直接生产英特尔 NUC 系统，现在他们宣布同意让华硕继续生产。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/07/intel-gives-asus-a-license-to-carry-on-intel-nuc-systems/</guid>
-      <pubDate>Wed, 19 Jul 2023 10:40:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
