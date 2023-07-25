@@ -4,11 +4,32 @@
     <title>GamingOnLinux 最新文章</title>
     <link>https://www.gamingonlinux.com/</link>
     <description>GamingOnLinux 的最新文章</description>
-    <lastBuildDate>Tue, 25 Jul 2023 11:12:51 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Jul 2023 15:24:25 GMT</lastBuildDate>
+    <item>
+      <title>Atari 和 Graphite Lab 的《Mr. Run and Jump》现已推出</title>
+      <link>https://www.gamingonlinux.com/2023/07/mr-run-and-jump-from-atari-and-graphite-lab-is-out-now/</link>
+      <description><![CDATA[《跑跳先生》最初是在 2021 年为 Atari 2600 创建的（是的，真的），现在 Atari 和 Graphite Lab 已针对现代系统进行了适当的重新创建。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/07/mr-run-and-jump-from-atari-and-graphite-lab-is-out-now/</guid>
+      <pubDate>Tue, 25 Jul 2023 15:24:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>查看《网络骑士：闪点》的升级演示版</title>
+      <link>https://www.gamingonlinux.com/2023/07/check-out-the-upgraded-demo-for-cyber-knights-flashpoint/</link>
+      <description><![CDATA[《网络骑士：闪点》是一款即将推出的小队战术抢劫角色扮演游戏，由《星际商人：前沿》和《圣殿骑士战队》的开发者 Trese Brothers 打造。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/07/check-out-the-upgraded-demo-for-cyber-knights-flashpoint/</guid>
+      <pubDate>Tue, 25 Jul 2023 13:02:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>立即免费获取 Dungeon of the ENDLESS 和 SEGA Bass Fishing</title>
+      <link>https://www.gamingonlinux.com/2023/07/get-dungeon-of-the-endless-and-sega-bass-fishing-free-right-now/</link>
+      <description><![CDATA[需要更多免费游戏吗？您目前可以获得 SEGA Bass Fishing 和 Dungeon of the ENDLESS 的免费 Steam 密钥！]]></description>
+      <guid>https://www.gamingonlinux.com/2023/07/get-dungeon-of-the-endless-and-sega-bass-fishing-free-right-now/</guid>
+      <pubDate>Tue, 25 Jul 2023 12:28:01 GMT</pubDate>
+    </item>
     <item>
       <title>《Superior: Vengeance》的开发者详细介绍了他们的 Steam Deck 支持</title>
       <link>https://www.gamingonlinux.com/2023/07/devs-of-superior-vengeance-detail-their-steam-deck-support/</link>
-      <description><![CDATA[《Superior: Vengeance》是一款抢先体验的超风格化超级英雄第三人称合作射击游戏，对于 Steam Deck 玩家来说，好消息是开发者正在确保它的出色表现。]]></description>
+      <description><![CDATA[《Superior: Vengeance》是一款抢先体验的超风格化超级英雄第三人称合作射击游戏，对于 Steam Deck 玩家来说，好消息是开发商正在确保其出色的表现。]]></description>
       <guid>https://www.gamingonlinux.com/2023/07/devs-of-superior-vengeance-detail-their-steam-deck-support/</guid>
       <pubDate>Tue, 25 Jul 2023 11:12:51 GMT</pubDate>
     </item>
@@ -123,27 +144,6 @@
       <description><![CDATA[谁说的？你看到什么了吗？ Steam Stealth Fest 即将于 7 月 24 日向您开放 - 所以请准备好钱包。]]></description>
       <guid>https://www.gamingonlinux.com/2023/07/steam-stealth-fest-launches-july-24th/</guid>
       <pubDate>Fri, 21 Jul 2023 11:15:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>GE-Proton 8-7 发布，恢复 AMD FSR 支持（已更新）</title>
-      <link>https://www.gamingonlinux.com/2023/07/ge-proton-8-7-released-bringing-back-amd-fsr-support/</link>
-      <description><![CDATA[兼容层 GE-Proton 版本 8-7 已发布，带来了 AMD FSR 支持的回归。更新。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/07/ge-proton-8-7-released-bringing-back-amd-fsr-support/</guid>
-      <pubDate>Fri, 21 Jul 2023 11:01:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>体素毁灭战士 II 8 月 1 日发售</title>
-      <link>https://www.gamingonlinux.com/2023/07/voxel-doom-ii-releasing-august-1st/</link>
-      <description><![CDATA[准备好体验更多复古动作了吗？ Voxel Doom II（使用 GZDoom 制作的模组）将于 8 月 1 日发布，为您提供完全基于 3D 体素的模型，为 Doom 提供第二次帮助。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/07/voxel-doom-ii-releasing-august-1st/</guid>
-      <pubDate>Fri, 21 Jul 2023 10:46:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>Roguelite 射击游戏 Arcadegeddon 登陆 Steam 并支持 Steam Deck</title>
-      <link>https://www.gamingonlinux.com/2023/07/roguelite-shooter-arcadegeddon-hits-steam-with-steam-deck-support/</link>
-      <description><![CDATA[《Arcadegeddon》是 Epic 独占游戏，最近从 IllFonic 登陆 Steam。这是一款华丽且不断发展的合作 Roguelite 射击游戏，开发人员计划确保它与 Linux / Steam Deck 保持兼容。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/07/roguelite-shooter-arcadegeddon-hits-steam-with-steam-deck-support/</guid>
-      <pubDate>Thu, 20 Jul 2023 19:52:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
