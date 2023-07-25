@@ -4,7 +4,28 @@
     <title>GamingOnLinux 最新文章</title>
     <link>https://www.gamingonlinux.com/</link>
     <description>GamingOnLinux 的最新文章</description>
-    <lastBuildDate>Mon, 24 Jul 2023 17:50:51 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Jul 2023 11:12:51 GMT</lastBuildDate>
+    <item>
+      <title>《Superior: Vengeance》的开发者详细介绍了他们的 Steam Deck 支持</title>
+      <link>https://www.gamingonlinux.com/2023/07/devs-of-superior-vengeance-detail-their-steam-deck-support/</link>
+      <description><![CDATA[《Superior: Vengeance》是一款抢先体验的超风格化超级英雄第三人称合作射击游戏，对于 Steam Deck 玩家来说，好消息是开发者正在确保它的出色表现。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/07/devs-of-superior-vengeance-detail-their-steam-deck-support/</guid>
+      <pubDate>Tue, 25 Jul 2023 11:12:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Heroic Games Launcher 2.9 现已推出，支持 Amazon Games</title>
+      <link>https://www.gamingonlinux.com/2023/07/heroic-games-launcher-29-out-now-with-amazon-games-support/</link>
+      <description><![CDATA[Heroic Games Launcher 版本 2.9.0 现已推出，并带来了 Amazon Games 支持，让您比以往更轻松地获取所有游戏。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/07/heroic-games-launcher-29-out-now-with-amazon-games-support/</guid>
+      <pubDate>Tue, 25 Jul 2023 10:40:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>NVIDIA Vulkan Beta 驱动程序 525.47.34 现已发布</title>
+      <link>https://www.gamingonlinux.com/2023/07/nvidia-vulkan-beta-driver-525-47-34-out-now/</link>
+      <description><![CDATA[NVIDIA 发布了 Vulkan Beta 驱动程序系列的另一个更新，现已发布 525.47.34。这是新增内容和修复内容。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/07/nvidia-vulkan-beta-driver-525-47-34-out-now/</guid>
+      <pubDate>Tue, 25 Jul 2023 10:36:33 GMT</pubDate>
+    </item>
     <item>
       <title>Fanatical 的 Diamond Collection 残酷版有一些不错的游戏选择</title>
       <link>https://www.gamingonlinux.com/2023/07/fanaticals-diamond-collection-brutal-edition-has-some-good-game-picks/</link>
@@ -71,7 +92,7 @@
     <item>
       <title>ΔV：土星之环是一款专为真正的太空迷打造的游戏 - 现已推出</title>
       <link>https://www.gamingonlinux.com/2023/07/dv-rings-of-saturn/</link>
-      <description><![CDATA[开发商 Kodera Software 开发的《ΔV：土星环》是一款基于物理的硬科学采矿模拟游戏，1.0 版本现已发布。]]></description>
+      <description><![CDATA[开发商 Kodera Software 开发的 ΔV：土星环是一款基于物理的硬科学采矿模拟游戏，1.0 版本现已发布。]]></description>
       <guid>https://www.gamingonlinux.com/2023/07/dv-rings-of-saturn/</guid>
       <pubDate>Fri, 21 Jul 2023 19:50:38 GMT</pubDate>
     </item>
@@ -99,7 +120,7 @@
     <item>
       <title>Steam Stealth Fest 将于 7 月 24 日启动</title>
       <link>https://www.gamingonlinux.com/2023/07/steam-stealth-fest-launches-july-24th/</link>
-      <description><![CDATA[谁说的？你看到什么了吗？ Steam Stealth Fest 将于 7 月 24 日向您发起冲击 - 所以请准备好钱包。]]></description>
+      <description><![CDATA[谁说的？你看到什么了吗？ Steam Stealth Fest 即将于 7 月 24 日向您开放 - 所以请准备好钱包。]]></description>
       <guid>https://www.gamingonlinux.com/2023/07/steam-stealth-fest-launches-july-24th/</guid>
       <pubDate>Fri, 21 Jul 2023 11:15:38 GMT</pubDate>
     </item>
@@ -113,7 +134,7 @@
     <item>
       <title>体素毁灭战士 II 8 月 1 日发售</title>
       <link>https://www.gamingonlinux.com/2023/07/voxel-doom-ii-releasing-august-1st/</link>
-      <description><![CDATA[准备好体验更多复古动作了吗？ Voxel Doom II（使用 GZDoom 制作的 mod）将于 8 月 1 日发布，为您提供完全基于 3D 体素的模型，这是 Doom 的第二个帮助。]]></description>
+      <description><![CDATA[准备好体验更多复古动作了吗？ Voxel Doom II（使用 GZDoom 制作的模组）将于 8 月 1 日发布，为您提供完全基于 3D 体素的模型，为 Doom 提供第二次帮助。]]></description>
       <guid>https://www.gamingonlinux.com/2023/07/voxel-doom-ii-releasing-august-1st/</guid>
       <pubDate>Fri, 21 Jul 2023 10:46:33 GMT</pubDate>
     </item>
@@ -123,27 +144,6 @@
       <description><![CDATA[《Arcadegeddon》是 Epic 独占游戏，最近从 IllFonic 登陆 Steam。这是一款华丽且不断发展的合作 Roguelite 射击游戏，开发人员计划确保它与 Linux / Steam Deck 保持兼容。]]></description>
       <guid>https://www.gamingonlinux.com/2023/07/roguelite-shooter-arcadegeddon-hits-steam-with-steam-deck-support/</guid>
       <pubDate>Thu, 20 Jul 2023 19:52:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>流浪村迎来大海洋更新，你可以赢得一把钥匙</title>
-      <link>https://www.gamingonlinux.com/2023/07/the-wandering-village-gets-a-big-ocean-update-and-you-can-win-a-key/</link>
-      <description><![CDATA[流浪村是一个奇妙的城市建设者，你在一个巨大生物的背上建造。目前处于抢先体验阶段，Stray Fawn Studio 刚刚发布了一次重大升级。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/07/the-wandering-village-gets-a-big-ocean-update-and-you-can-win-a-key/</guid>
-      <pubDate>Thu, 20 Jul 2023 18:31:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>Starfox 遇见吸血鬼幸存者 - Whisker Squadron: Survivor 将于 8 月 21 日上映</title>
-      <link>https://www.gamingonlinux.com/2023/07/starfox-meets-vampire-survivors-whisker-squadron-survivor-out-august-21st/</link>
-      <description><![CDATA[嗯，这当然是描述它的一种方式。 Whisker Squadron: Survivor 的风格非常像经典的铁路射击游戏 Starfox，但加入了一些吸血鬼幸存者流行的元素。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/07/starfox-meets-vampire-survivors-whisker-squadron-survivor-out-august-21st/</guid>
-      <pubDate>Thu, 20 Jul 2023 12:59:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>关注受 Olli Olli、Super Meat Boy 和 Celeste 启发的跑酷传奇</title>
-      <link>https://www.gamingonlinux.com/2023/07/keep-an-eye-on-parkour-legends-inspired-by-olli-olli-super-meat-boy-and-celeste/</link>
-      <description><![CDATA[喜欢快节奏的挑战？ Enter Grip 正在开发 Parkour Legends，这是一款快节奏的横向卷轴跑酷平台游戏，看起来很有趣。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/07/keep-an-eye-on-parkour-legends-inspired-by-olli-olli-super-meat-boy-and-celeste/</guid>
-      <pubDate>Thu, 20 Jul 2023 12:42:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
