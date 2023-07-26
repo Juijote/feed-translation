@@ -6,7 +6,7 @@ import hashlib
 import datetime
 import time
 import feedparser
-from pygtrans import Translate
+from pygtrans import Translator
 from bs4 import BeautifulSoup
 from jinja2 import Template
 import requests
@@ -35,7 +35,8 @@ class GoogleTran:
         if not content:  # 添加判断，如果内容为空则直接返回
             return ''
         
-        return Translate(content,  self.target).text
+        translator = Translator()
+        return translator.translate(content, target_lang=self.target, source_lang=self.source).text
 
     def get_newcontent(self, max_item=10):
         item_set = set()  # 使用集合来去除重复项
