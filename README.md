@@ -15,3 +15,4 @@
  - source002 [https://thetinylife.com/feed/](https://thetinylife.com/feed/) -> [thetinylife](feed/thetinylife.xml)
  - source003 [https://steamdeckhq.com/feed/](https://steamdeckhq.com/feed/) -> [steamdeckhq](feed/steamdeckhq.xml)
  - source004 [https://www.gamingonlinux.com/article_rss.php](https://www.gamingonlinux.com/article_rss.php) -> [gamingonlinux](feed/gamingonlinux.xml)
+ - source005 [https://boilingsteam.com/feed/](https://boilingsteam.com/feed/) -> [boilingsteam](feed/boilingsteam.xml)
