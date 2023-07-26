@@ -4,7 +4,35 @@
     <title>GamingOnLinux 最新文章</title>
     <link>https://www.gamingonlinux.com/</link>
     <description>GamingOnLinux 的最新文章</description>
-    <lastBuildDate>Tue, 25 Jul 2023 20:19:31 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Jul 2023 14:33:12 GMT</lastBuildDate>
+    <item>
+      <title>学习使用 GDevelop 和 Fanatical 制作无代码游戏</title>
+      <link>https://www.gamingonlinux.com/2023/07/learn-to-make-no-code-games-with-gdevelop-and-fanatical/</link>
+      <description><![CDATA[想制作游戏但不知道如何编码？免费开源的 GDevelop 是一款出色的跨平台工具，具有事件驱动系统。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/07/learn-to-make-no-code-games-with-gdevelop-and-fanatical/</guid>
+      <pubDate>Wed, 26 Jul 2023 14:33:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>《军团要塞 2》获得另一次更新，其中包含大量修复</title>
+      <link>https://www.gamingonlinux.com/2023/07/team-fortress-2-gets-another-update-with-lots-of-fixes/</link>
+      <description><![CDATA[夏季活动将持续到 2023 年 9 月 15 日，Valve 似乎还没有完全完成《军团要塞 2》的更新，以重新获得人气。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/07/team-fortress-2-gets-another-update-with-lots-of-fixes/</guid>
+      <pubDate>Wed, 26 Jul 2023 14:09:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Steam Deck 上将“全面支持”装甲核心 VI</title>
+      <link>https://www.gamingonlinux.com/2023/07/armored-core-vi-will-be-fully-supported-on-steam-deck/</link>
+      <description><![CDATA[好吧，这太令人兴奋了。据 FromSoftware 称，《Armored Core VI Fires Of Rubicon》将在 Steam Deck 上得到“完全支持”。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/07/armored-core-vi-will-be-fully-supported-on-steam-deck/</guid>
+      <pubDate>Wed, 26 Jul 2023 13:59:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ratchet & Clank: Rift Apart 已通过 Steam Deck 验证并于今日发布</title>
+      <link>https://www.gamingonlinux.com/2023/07/ratchet-clank-rift-apart-is-steam-deck-verified-and-out-today/</link>
+      <description><![CDATA[很高兴看到这一点。 《Ratchet &amp; Clank: Rift》除了 Insomniac Games 之外，Nixxes Software 和 PlayStation 今天也在 Steam 上发布，并且已通过 Steam Deck 验证！]]></description>
+      <guid>https://www.gamingonlinux.com/2023/07/ratchet-clank-rift-apart-is-steam-deck-verified-and-out-today/</guid>
+      <pubDate>Wed, 26 Jul 2023 13:51:15 GMT</pubDate>
+    </item>
     <item>
       <title>战锤主题的射击游戏 Boltgun 终于通过 Steam Deck 验证</title>
       <link>https://www.gamingonlinux.com/2023/07/warhammer-boomer-shooter-boltgun-is-steam-deck-verified/</link>
@@ -116,34 +144,6 @@
       <description><![CDATA[Proton 8.0-3 现已发布，改进了 Linux 桌面和 Steam Deck 上 Windows 游戏的兼容性。这就是您需要了解的全部内容。]]></description>
       <guid>https://www.gamingonlinux.com/2023/07/valve-releases-proton-8-0-3-for-linux-and-steam-deck/</guid>
       <pubDate>Fri, 21 Jul 2023 20:03:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>ΔV：土星之环是一款专为真正的太空迷打造的游戏 - 现已推出</title>
-      <link>https://www.gamingonlinux.com/2023/07/dv-rings-of-saturn/</link>
-      <description><![CDATA[开发商 Kodera Software 开发的 ΔV：土星环是一款基于物理的硬科学采矿模拟游戏，1.0 版本现已发布。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/07/dv-rings-of-saturn/</guid>
-      <pubDate>Fri, 21 Jul 2023 19:50:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>由人工智能驱动的新闻网站很愚蠢，Reddit 用户成功地欺骗了他们</title>
-      <link>https://www.gamingonlinux.com/2023/07/ai-powered-news-sites-are-dumb-and-redditors-managed-to-trick-them/</link>
-      <description><![CDATA[这看起来很有趣。与 Linux / Steam Deck 游戏没有什么真正相关的，但更多的是我认为您可能也会发现乐趣的行业状况帖子。 Reddit 用户成功欺骗了人工智能驱动的新闻抓取工具。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/07/ai-powered-news-sites-are-dumb-and-redditors-managed-to-trick-them/</guid>
-      <pubDate>Fri, 21 Jul 2023 18:01:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>JSAUX 推出 Steam Deck RGB 背板和 RGB 扩展坞</title>
-      <link>https://www.gamingonlinux.com/2023/07/jsaux-launch-their-steam-deck-rgb-backplate-and-rgb-docking-station/</link>
-      <description><![CDATA[喜欢为您的游戏生活增添一点色彩吗？ JSAUX 今天有两个新版本可供订购，其中包括 RGB 扩展坞和适用于 Steam Deck 的 RGB 透明背板。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/07/jsaux-launch-their-steam-deck-rgb-backplate-and-rgb-docking-station/</guid>
-      <pubDate>Fri, 21 Jul 2023 17:28:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>FACEMINER 是一款复古反乌托邦叙事驱动的人工智能。管理模拟</title>
-      <link>https://www.gamingonlinux.com/2023/07/faceminer-is-a-retro-dystopian-narrative-driven-ai-management-sim/</link>
-      <description><![CDATA[准备好回到 90 年代了吗？敬请关注 FACEMINER，这是一款 1999 年推出的关于人工智能、监视和大规模生物识别数据收集的模拟游戏。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/07/faceminer-is-a-retro-dystopian-narrative-driven-ai-management-sim/</guid>
-      <pubDate>Fri, 21 Jul 2023 17:04:25 GMT</pubDate>
     </item>
     </channel>
 </rss>
