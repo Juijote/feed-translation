@@ -4,12 +4,33 @@
     <title>GamingOnLinux 最新文章</title>
     <link>https://www.gamingonlinux.com/</link>
     <description>GamingOnLinux 的最新文章</description>
-    <lastBuildDate>Wed, 26 Jul 2023 20:57:22 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Jul 2023 10:41:27 GMT</lastBuildDate>
     <item>
-      <title>此捆绑包中包含《神话之力》、《博德之门》、《无冬之夜》以及更多内容</title>
-      <link>https://www.gamingonlinux.com/2023/07/mythforce-baldurs-gate-neverwinter-nights-and-more-in-this-bundle/</link>
+      <title>适用于 Minecraft Java 的 Prism Launcher 发布了一个很好的错误修复版本</title>
+      <link>https://www.gamingonlinux.com/2023/07/prism-launcher-for-minecraft-java-has-a-nice-bug-fix-release-out/</link>
+      <description><![CDATA[由于清晰的界面和出色的模组支持，Prism Launcher 无疑是在 Steam Deck 和桌面 Linux 上玩 Minecraft Java 的最佳方式之一。 Prism Launcher 7.2 刚刚发布以修复一些问题。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/07/prism-launcher-for-minecraft-java-has-a-nice-bug-fix-release-out/</guid>
+      <pubDate>Thu, 27 Jul 2023 10:41:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>Heroic Games Launcher 在 2.9.1 中获得重要修补程序</title>
+      <link>https://www.gamingonlinux.com/2023/07/heroic-games-launcher-gets-a-critical-hotfix-in-2-9-1/</link>
+      <description><![CDATA[Heroic Games Launcher 最近发布了 2.9.0 版本，其中包含一些很棒的新功能，例如亚马逊游戏集成。不过，也只是有一点破损而已。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/07/heroic-games-launcher-gets-a-critical-hotfix-in-2-9-1/</guid>
+      <pubDate>Thu, 27 Jul 2023 10:19:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>开源 NVIDIA Vulkan 驱动程序“NVK”准备合并到 Mesa</title>
+      <link>https://www.gamingonlinux.com/2023/07/open-source-nvidia-vulkan-driver-nvk-gears-up-for-merging-into-mesa/</link>
+      <description><![CDATA[这太令人兴奋了！ Collabora 开发者 Faith Ekstrand 和各种贡献者一直致力于开发 NVK（NVIDIA 的开源 Vulkan 驱动程序）。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/07/open-source-nvidia-vulkan-driver-nvk-gears-up-for-merging-into-mesa/</guid>
+      <pubDate>Thu, 27 Jul 2023 09:42:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>此捆绑包中包含《博德之门》、《无冬之夜》、《探路者》以及更多内容</title>
+      <link>https://www.gamingonlinux.com/2023/07/baldurs-gate-neverwinter-nights-pathfinder-and-more-in-this-bundle/</link>
       <description><![CDATA[如果你是角色扮演游戏迷，这似乎是一个不容错过的游戏捆绑包。 Humble Bundle 与 Beamdog 合作开发了 RPG Legends: Baldur&#39;s Gate &amp; Beyond。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/07/mythforce-baldurs-gate-neverwinter-nights-and-more-in-this-bundle/</guid>
+      <guid>https://www.gamingonlinux.com/2023/07/baldurs-gate-neverwinter-nights-pathfinder-and-more-in-this-bundle/</guid>
       <pubDate>Wed, 26 Jul 2023 20:57:22 GMT</pubDate>
     </item>
     <item>
@@ -57,7 +78,7 @@
     <item>
       <title>Atari 和 Graphite Lab 的《Mr. Run and Jump》现已推出</title>
       <link>https://www.gamingonlinux.com/2023/07/mr-run-and-jump-from-atari-and-graphite-lab-is-out-now/</link>
-      <description><![CDATA[《跑跳先生》最初是在 2021 年为 Atari 2600 创建的（是的，真的），现在 Atari 和 Graphite Lab 已针对现代系统进行了适当的重新创建。]]></description>
+      <description><![CDATA[《跑跳先生》最初是在 2021 年为 Atari 2600 创建的（是的，确实如此），现在 Atari 和 Graphite Lab 已针对现代系统进行了适当的重新创建。]]></description>
       <guid>https://www.gamingonlinux.com/2023/07/mr-run-and-jump-from-atari-and-graphite-lab-is-out-now/</guid>
       <pubDate>Tue, 25 Jul 2023 15:24:25 GMT</pubDate>
     </item>
@@ -78,7 +99,7 @@
     <item>
       <title>《Superior: Vengeance》的开发者详细介绍了他们的 Steam Deck 支持</title>
       <link>https://www.gamingonlinux.com/2023/07/devs-of-superior-vengeance-detail-their-steam-deck-support/</link>
-      <description><![CDATA[《Superior: Vengeance》是一款抢先体验的超风格化超级英雄第三人称合作射击游戏，对于 Steam Deck 玩家来说，好消息是开发商正在确保其出色的表现。]]></description>
+      <description><![CDATA[《Superior: Vengeance》是一款抢先体验的超风格化超级英雄第三人称合作射击游戏，对于 Steam Deck 玩家来说，好消息是开发者正在确保它的出色表现。]]></description>
       <guid>https://www.gamingonlinux.com/2023/07/devs-of-superior-vengeance-detail-their-steam-deck-support/</guid>
       <pubDate>Tue, 25 Jul 2023 11:12:51 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[Heroic Games Launcher 版本 2.9.0 现已推出，并带来了 Amazon Games 支持，让您比以往更轻松地获取所有游戏。]]></description>
       <guid>https://www.gamingonlinux.com/2023/07/heroic-games-launcher-29-out-now-with-amazon-games-support/</guid>
       <pubDate>Tue, 25 Jul 2023 10:40:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>NVIDIA Vulkan Beta 驱动程序 525.47.34 现已发布</title>
-      <link>https://www.gamingonlinux.com/2023/07/nvidia-vulkan-beta-driver-525-47-34-out-now/</link>
-      <description><![CDATA[NVIDIA 发布了 Vulkan Beta 驱动程序系列的另一个更新，现已发布 525.47.34。这是新增内容和修复内容。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/07/nvidia-vulkan-beta-driver-525-47-34-out-now/</guid>
-      <pubDate>Tue, 25 Jul 2023 10:36:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>Fanatical 的 Diamond Collection 残酷版有一些不错的游戏选择</title>
-      <link>https://www.gamingonlinux.com/2023/07/fanaticals-diamond-collection-brutal-edition-has-some-good-game-picks/</link>
-      <description><![CDATA[Fanatical 发布了另一款捆绑包，对于喜欢动作游戏的玩家来说这是一个不错的选择。钻石系列残酷版构建您自己的捆绑包就在这里。请继续阅读以了解桌面 Linux 和 Steam Deck 的兼容性。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/07/fanaticals-diamond-collection-brutal-edition-has-some-good-game-picks/</guid>
-      <pubDate>Mon, 24 Jul 2023 17:50:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>腾讯获得 Dying Light dev Techland 多数股权</title>
-      <link>https://www.gamingonlinux.com/2023/07/tencent-to-get-a-majority-stake-in-dying-light-dev-techland/</link>
-      <description><![CDATA[这是为您提供的一些行业新闻。 《消逝的光芒》的开发商 Techland 宣布了一些有关其工作室未来的“令人兴奋的消息”。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/07/tencent-to-get-a-majority-stake-in-dying-light-dev-techland/</guid>
-      <pubDate>Mon, 24 Jul 2023 17:21:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
