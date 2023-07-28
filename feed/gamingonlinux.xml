@@ -4,7 +4,14 @@
     <title>GamingOnLinux 最新文章</title>
     <link>https://www.gamingonlinux.com/</link>
     <description>GamingOnLinux 的最新文章</description>
-    <lastBuildDate>Fri, 28 Jul 2023 07:53:55 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Jul 2023 12:37:53 GMT</lastBuildDate>
+    <item>
+      <title>育碧的《荣耀战魂》获得反作弊更新 - 现在可以在 Steam Deck 上玩</title>
+      <link>https://www.gamingonlinux.com/2023/07/for-honor-ubisoft-anti-cheat-update-now-playable-on-steam-deck/</link>
+      <description><![CDATA[很高兴看到更多更大的发行商加入进来，让他们的游戏在 Steam Deck 和桌面 Linux 上运行。育碧现已升级《荣耀战魂》以支持 Deck 上的 Easy Anti-Cheat。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/07/for-honor-ubisoft-anti-cheat-update-now-playable-on-steam-deck/</guid>
+      <pubDate>Fri, 28 Jul 2023 12:37:53 GMT</pubDate>
+    </item>
     <item>
       <title>Proton Experimental 修复了《最终幻想 XIII》、《黑暗之魂 II》等游戏</title>
       <link>https://www.gamingonlinux.com/2023/07/proton-experimental-fixes-up-final-fantasy-xiii-dark-souls-ii-and-more/</link>
@@ -64,7 +71,7 @@
     <item>
       <title>此捆绑包中包含《博德之门》、《无冬之夜》、《探路者》以及更多内容</title>
       <link>https://www.gamingonlinux.com/2023/07/baldurs-gate-neverwinter-nights-pathfinder-and-more-in-this-bundle/</link>
-      <description><![CDATA[如果您是角色扮演游戏迷，这似乎是一个不容错过的游戏捆绑包。 Humble Bundle 与 Beamdog 合作开发了 RPG Legends: Baldur&#39;s Gate &amp; Beyond。]]></description>
+      <description><![CDATA[如果你是角色扮演游戏迷，这似乎是一个不容错过的游戏捆绑包。 Humble Bundle 与 Beamdog 合作开发了 RPG Legends: Baldur&#39;s Gate &amp; Beyond。]]></description>
       <guid>https://www.gamingonlinux.com/2023/07/baldurs-gate-neverwinter-nights-pathfinder-and-more-in-this-bundle/</guid>
       <pubDate>Wed, 26 Jul 2023 20:57:22 GMT</pubDate>
     </item>
@@ -97,18 +104,11 @@
       <pubDate>Wed, 26 Jul 2023 13:59:49 GMT</pubDate>
     </item>
     <item>
-      <title>Ratchet & Clank: Rift Apart 已通过 Steam Deck 验证并于今天发布</title>
+      <title>Ratchet & Clank: Rift Apart 已通过 Steam Deck 验证并于今日发布</title>
       <link>https://www.gamingonlinux.com/2023/07/ratchet-clank-rift-apart-is-steam-deck-verified-and-out-today/</link>
       <description><![CDATA[很高兴看到这一点。 《Ratchet &amp; Clank: Rift》除了 Insomniac Games 之外，Nixxes Software 和 PlayStation 今天也在 Steam 上发布，并且已通过 Steam Deck 验证！]]></description>
       <guid>https://www.gamingonlinux.com/2023/07/ratchet-clank-rift-apart-is-steam-deck-verified-and-out-today/</guid>
       <pubDate>Wed, 26 Jul 2023 13:51:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>战锤主题的射击游戏 Boltgun 终于通过 Steam Deck 验证</title>
-      <link>https://www.gamingonlinux.com/2023/07/warhammer-boomer-shooter-boltgun-is-steam-deck-verified/</link>
-      <description><![CDATA[根据其自己的 Steam 页面，最新的射击游戏《战锤 40K：爆弹枪》今天终于获得了 Steam 平台验证。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/07/warhammer-boomer-shooter-boltgun-is-steam-deck-verified/</guid>
-      <pubDate>Tue, 25 Jul 2023 20:19:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
