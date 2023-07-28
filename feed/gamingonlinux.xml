@@ -4,7 +4,21 @@
     <title>GamingOnLinux 最新文章</title>
     <link>https://www.gamingonlinux.com/</link>
     <description>GamingOnLinux 的最新文章</description>
-    <lastBuildDate>Thu, 27 Jul 2023 16:32:35 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Jul 2023 07:53:55 GMT</lastBuildDate>
+    <item>
+      <title>Proton Experimental 修复了《最终幻想 XIII》、《黑暗之魂 II》等游戏</title>
+      <link>https://www.gamingonlinux.com/2023/07/proton-experimental-fixes-up-final-fantasy-xiii-dark-souls-ii-and-more/</link>
+      <description><![CDATA[Valve 于 7 月 27 日发布了适用于 Steam Deck 和桌面 Linux 的 Proton Experimental 的另一次升级，以下是为您带来的新内容和改进内容的运行。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/07/proton-experimental-fixes-up-final-fantasy-xiii-dark-souls-ii-and-more/</guid>
+      <pubDate>Fri, 28 Jul 2023 07:53:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>通过此调整，《女神异闻录 5 前锋》可在 Steam Deck 上完全畅玩</title>
+      <link>https://www.gamingonlinux.com/2023/07/persona-5-strikers-fully-playable-on-steam-deck-with-this-tweak/</link>
+      <description><![CDATA[自 2022 年 10 月发布以来，《女神异闻录 5 Royal》一直是最完美的 Steam Deck 游戏之一。 《女神异闻录 5 Royal》的设计非常适合手持游戏；整体而言，它是一个非常优化的 PC 端口。它的续作/衍生作品《女神异闻录 5 Strikers》表现不佳。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/07/persona-5-strikers-fully-playable-on-steam-deck-with-this-tweak/</guid>
+      <pubDate>Fri, 28 Jul 2023 07:39:58 GMT</pubDate>
+    </item>
     <item>
       <title>以神秘图书馆为背景的非战斗角色扮演游戏《BOOK OF HOURS》将于 8 月 17 日推出</title>
       <link>https://www.gamingonlinux.com/2023/07/combat-free-rpg-set-in-an-occult-library-book-of-hours-launches-august-17th/</link>
@@ -83,7 +97,7 @@
       <pubDate>Wed, 26 Jul 2023 13:59:49 GMT</pubDate>
     </item>
     <item>
-      <title>Ratchet & Clank: Rift Apart 已通过 Steam Deck 验证并于今日发布</title>
+      <title>Ratchet & Clank: Rift Apart 已通过 Steam Deck 验证并于今天发布</title>
       <link>https://www.gamingonlinux.com/2023/07/ratchet-clank-rift-apart-is-steam-deck-verified-and-out-today/</link>
       <description><![CDATA[很高兴看到这一点。 《Ratchet &amp; Clank: Rift》除了 Insomniac Games 之外，Nixxes Software 和 PlayStation 今天也在 Steam 上发布，并且已通过 Steam Deck 验证！]]></description>
       <guid>https://www.gamingonlinux.com/2023/07/ratchet-clank-rift-apart-is-steam-deck-verified-and-out-today/</guid>
@@ -95,20 +109,6 @@
       <description><![CDATA[根据其自己的 Steam 页面，最新的射击游戏《战锤 40K：爆弹枪》今天终于获得了 Steam 平台验证。]]></description>
       <guid>https://www.gamingonlinux.com/2023/07/warhammer-boomer-shooter-boltgun-is-steam-deck-verified/</guid>
       <pubDate>Tue, 25 Jul 2023 20:19:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>Atari 和 Graphite Lab 的《Mr. Run and Jump》现已推出</title>
-      <link>https://www.gamingonlinux.com/2023/07/mr-run-and-jump-from-atari-and-graphite-lab-is-out-now/</link>
-      <description><![CDATA[《跑跳先生》最初是在 2021 年为 Atari 2600 创建的（是的，真的），现在 Atari 和 Graphite Lab 已针对现代系统进行了适当的重新创建。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/07/mr-run-and-jump-from-atari-and-graphite-lab-is-out-now/</guid>
-      <pubDate>Tue, 25 Jul 2023 15:24:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>查看《网络骑士：闪点》的升级演示版</title>
-      <link>https://www.gamingonlinux.com/2023/07/check-out-the-upgraded-demo-for-cyber-knights-flashpoint/</link>
-      <description><![CDATA[《网络骑士：闪点》是一款即将推出的小队战术抢劫角色扮演游戏，由《星际商人：前沿》和《圣殿骑士战队》的开发者 Trese Brothers 打造。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/07/check-out-the-upgraded-demo-for-cyber-knights-flashpoint/</guid>
-      <pubDate>Tue, 25 Jul 2023 13:02:44 GMT</pubDate>
     </item>
     </channel>
 </rss>
