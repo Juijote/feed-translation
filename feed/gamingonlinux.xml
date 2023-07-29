@@ -4,7 +4,28 @@
     <title>GamingOnLinux 最新文章</title>
     <link>https://www.gamingonlinux.com/</link>
     <description>GamingOnLinux 的最新文章</description>
-    <lastBuildDate>Fri, 28 Jul 2023 12:37:53 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Jul 2023 14:17:13 GMT</lastBuildDate>
+    <item>
+      <title>这款传奇动作平台游戏《Broforce FOREVER》将于 8 月 8 日登陆</title>
+      <link>https://www.gamingonlinux.com/2023/07/broforce-forever-arrives-for-the-legendary-action-platformer-on-august-8th/</link>
+      <description><![CDATA[Broforce 可能是我最喜欢的动作平台游戏，它的超时动作和搞笑角色将于 8 月 8 日推出 Broforce FOREVER 更新。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/07/broforce-forever-arrives-for-the-legendary-action-platformer-on-august-8th/</guid>
+      <pubDate>Sat, 29 Jul 2023 14:17:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>《矮人要塞》发行商 Kitfox 帮助 Roguelike Caves of Qud 发行</title>
+      <link>https://www.gamingonlinux.com/2023/07/dwarf-fortress-publisher-kitfox-helping-roguelike-caves-of-qud/</link>
+      <description><![CDATA[Freehold Games 的 Caves of Qud 可能是我玩过的最狂野的 Roguelike 游戏，现在开发者正在与 Dwarf Fortress 发行商 Kitfox Games 合作，于 2024 年发布最终版本。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/07/dwarf-fortress-publisher-kitfox-helping-roguelike-caves-of-qud/</guid>
+      <pubDate>Sat, 29 Jul 2023 13:50:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>我喜欢 Stone Story RPG 中的动画 ASCII 艺术作品 - 现已推出</title>
+      <link>https://www.gamingonlinux.com/2023/07/stone-story-rpg-out-now-ascii-art/</link>
+      <description><![CDATA[Stone Story RPG 具有一些非常有趣的动画 ASCII 艺术作品，是自动 RPG 与战略战斗、制作、编程等的真正有趣的结合。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/07/stone-story-rpg-out-now-ascii-art/</guid>
+      <pubDate>Sat, 29 Jul 2023 13:36:56 GMT</pubDate>
+    </item>
     <item>
       <title>育碧的《荣耀战魂》获得反作弊更新 - 现在可以在 Steam Deck 上玩</title>
       <link>https://www.gamingonlinux.com/2023/07/for-honor-ubisoft-anti-cheat-update-now-playable-on-steam-deck/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[想制作游戏但不知道如何编码？免费开源的 GDevelop 是一款出色的跨平台工具，具有事件驱动系统。]]></description>
       <guid>https://www.gamingonlinux.com/2023/07/learn-to-make-no-code-games-with-gdevelop-and-fanatical/</guid>
       <pubDate>Wed, 26 Jul 2023 14:33:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>《军团要塞 2》获得另一次更新，其中包含大量修复</title>
-      <link>https://www.gamingonlinux.com/2023/07/team-fortress-2-gets-another-update-with-lots-of-fixes/</link>
-      <description><![CDATA[夏季活动将持续到 2023 年 9 月 15 日，Valve 似乎还没有完全完成《军团要塞 2》的更新，以重新获得人气。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/07/team-fortress-2-gets-another-update-with-lots-of-fixes/</guid>
-      <pubDate>Wed, 26 Jul 2023 14:09:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Steam Deck 上将“全面支持”装甲核心 VI</title>
-      <link>https://www.gamingonlinux.com/2023/07/armored-core-vi-will-be-fully-supported-on-steam-deck/</link>
-      <description><![CDATA[好吧，这太令人兴奋了。据 FromSoftware 称，《Armored Core VI Fires Of Rubicon》将在 Steam Deck 上得到“完全支持”。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/07/armored-core-vi-will-be-fully-supported-on-steam-deck/</guid>
-      <pubDate>Wed, 26 Jul 2023 13:59:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ratchet & Clank: Rift Apart 已通过 Steam Deck 验证并于今日发布</title>
-      <link>https://www.gamingonlinux.com/2023/07/ratchet-clank-rift-apart-is-steam-deck-verified-and-out-today/</link>
-      <description><![CDATA[很高兴看到这一点。 《Ratchet &amp; Clank: Rift》除了 Insomniac Games 之外，Nixxes Software 和 PlayStation 今天也在 Steam 上发布，并且已通过 Steam Deck 验证！]]></description>
-      <guid>https://www.gamingonlinux.com/2023/07/ratchet-clank-rift-apart-is-steam-deck-verified-and-out-today/</guid>
-      <pubDate>Wed, 26 Jul 2023 13:51:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
