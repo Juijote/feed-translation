@@ -4,7 +4,28 @@
     <title>GamingOnLinux 最新文章</title>
     <link>https://www.gamingonlinux.com/</link>
     <description>GamingOnLinux 的最新文章</description>
-    <lastBuildDate>Mon, 31 Jul 2023 10:59:31 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Jul 2023 17:29:33 GMT</lastBuildDate>
+    <item>
+      <title>Steam Deck 上的《博德之门 3》“绝对狂野”，目标是在 Medium 上实现 30FPS</title>
+      <link>https://www.gamingonlinux.com/2023/07/baldurs-gate-3-on-steam-deck-is-absolutely-wild/</link>
+      <description><![CDATA[嗯，这确实令人兴奋！ 《博德之门 3》很容易成为今年最热门的游戏之一，在它发布之前，Larian Studios 的发行总监在 Twitter 上调侃说可以在 Steam Deck 上玩这款游戏（呃，对“X”表示抱歉）。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/07/baldurs-gate-3-on-steam-deck-is-absolutely-wild/</guid>
+      <pubDate>Mon, 31 Jul 2023 17:29:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>诚然，《Beary Arms》是一款极其奇异的弹幕射击游戏</title>
+      <link>https://www.gamingonlinux.com/2023/07/rightfully-beary-arms-is-an-incredibly-bizarre-bullet-hell-shooter/</link>
+      <description><![CDATA[理所当然，Beary Arms 是一款奇怪而精彩的双摇杆射击 Rogue-lite 游戏，现已进入抢先体验阶段，支持原生 Linux，并且也可以在 Steam Deck 上运行。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/07/rightfully-beary-arms-is-an-incredibly-bizarre-bullet-hell-shooter/</guid>
+      <pubDate>Mon, 31 Jul 2023 15:41:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>包裹模拟器开发者对 Steam Deck 支持您寻找违禁品感到兴奋</title>
+      <link>https://www.gamingonlinux.com/2023/07/parcel-simulator-dev-excited-about-steam-deck-support/</link>
+      <description><![CDATA[《包裹模拟器》当然不是那种通常会引起我注意的游戏类型，但《Papers, Please》的灵感和游戏功能看起来异常有吸引力。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/07/parcel-simulator-dev-excited-about-steam-deck-support/</guid>
+      <pubDate>Mon, 31 Jul 2023 14:18:22 GMT</pubDate>
+    </item>
     <item>
       <title>经典《暗黑破坏神》和《地狱火》的 DevilutionX 现已在 Flathub 上推出</title>
       <link>https://www.gamingonlinux.com/2023/07/devilutionx-for-classic-diablo-and-hellfire-now-on-flathub/</link>
@@ -36,14 +57,14 @@
     <item>
       <title>《矮人要塞》发行商 Kitfox 帮助 Roguelike Caves of Qud 发行</title>
       <link>https://www.gamingonlinux.com/2023/07/dwarf-fortress-publisher-kitfox-helping-roguelike-caves-of-qud/</link>
-      <description><![CDATA[Freehold Games 的 Caves of Qud 可能是我玩过的最狂野的 Roguelike 游戏，现在开发者正在与 Dwarf Fortress 发行商 Kitfox Games 合作，于 2024 年发布最终版本。]]></description>
+      <description><![CDATA[Freehold Games 的 Caves of Qud 可能是我玩过的最狂野的 Roguelike 游戏，现在开发者正在与 Dwarf Fortress 发行商 Kitfox Games 合作，于 2024 年发布最终版。]]></description>
       <guid>https://www.gamingonlinux.com/2023/07/dwarf-fortress-publisher-kitfox-helping-roguelike-caves-of-qud/</guid>
       <pubDate>Sat, 29 Jul 2023 13:50:38 GMT</pubDate>
     </item>
     <item>
       <title>我喜欢 Stone Story RPG 中的动画 ASCII 艺术作品 - 现已推出</title>
       <link>https://www.gamingonlinux.com/2023/07/stone-story-rpg-out-now-ascii-art/</link>
-      <description><![CDATA[Stone Story RPG 具有一些非常有趣的动画 ASCII 艺术作品，是自动 RPG 与战略战斗、制作、编程等的真正有趣的结合。]]></description>
+      <description><![CDATA[Stone Story RPG 拥有一些非常有趣的动画 ASCII 艺术作品，是一款非常有趣的自动 RPG 与战略战斗、制作、编程等的结合体。]]></description>
       <guid>https://www.gamingonlinux.com/2023/07/stone-story-rpg-out-now-ascii-art/</guid>
       <pubDate>Sat, 29 Jul 2023 13:36:56 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[《奥罗拉：失落的奖章 - 洞穴》是一部即将上映的关于命运、友谊和发现的成长故事。]]></description>
       <guid>https://www.gamingonlinux.com/2023/07/check-out-the-new-demo-for-aurora-the-lost-medallion-the-cave/</guid>
       <pubDate>Thu, 27 Jul 2023 15:13:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>适用于 Minecraft Java 的 Prism Launcher 发布了一个很好的错误修复版本</title>
-      <link>https://www.gamingonlinux.com/2023/07/prism-launcher-for-minecraft-java-has-a-nice-bug-fix-release-out/</link>
-      <description><![CDATA[由于清晰的界面和出色的模组支持，Prism Launcher 无疑是在 Steam Deck 和桌面 Linux 上玩 Minecraft Java 的最佳方式之一。 Prism Launcher 7.2 刚刚发布以修复一些问题。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/07/prism-launcher-for-minecraft-java-has-a-nice-bug-fix-release-out/</guid>
-      <pubDate>Thu, 27 Jul 2023 10:41:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>Heroic Games Launcher 在 2.9.1 中获得重要修补程序</title>
-      <link>https://www.gamingonlinux.com/2023/07/heroic-games-launcher-gets-a-critical-hotfix-in-2-9-1/</link>
-      <description><![CDATA[Heroic Games Launcher 最近发布了 2.9.0 版本，其中包含一些很棒的新功能，例如亚马逊游戏集成。不过，也只是有一点破损而已。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/07/heroic-games-launcher-gets-a-critical-hotfix-in-2-9-1/</guid>
-      <pubDate>Thu, 27 Jul 2023 10:19:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源 NVIDIA Vulkan 驱动程序“NVK”准备合并到 Mesa</title>
-      <link>https://www.gamingonlinux.com/2023/07/open-source-nvidia-vulkan-driver-nvk-gears-up-for-merging-into-mesa/</link>
-      <description><![CDATA[这太令人兴奋了！ Collabora 开发者 Faith Ekstrand 和各种贡献者一直致力于开发 NVK（NVIDIA 的开源 Vulkan 驱动程序）。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/07/open-source-nvidia-vulkan-driver-nvk-gears-up-for-merging-into-mesa/</guid>
-      <pubDate>Thu, 27 Jul 2023 09:42:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
