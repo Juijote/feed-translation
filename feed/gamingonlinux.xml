@@ -4,7 +4,28 @@
     <title>GamingOnLinux 最新文章</title>
     <link>https://www.gamingonlinux.com/</link>
     <description>GamingOnLinux 的最新文章</description>
-    <lastBuildDate>Sat, 29 Jul 2023 14:17:13 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Jul 2023 10:59:31 GMT</lastBuildDate>
+    <item>
+      <title>经典《暗黑破坏神》和《地狱火》的 DevilutionX 现已在 Flathub 上推出</title>
+      <link>https://www.gamingonlinux.com/2023/07/devilutionx-for-classic-diablo-and-hellfire-now-on-flathub/</link>
+      <description><![CDATA[想要一种可能更简单的方法来获得在 Steam Deck 和桌面 Linux 上运行的经典《暗黑破坏神》的 DevilutionX？嗯，它现在在 Flathub 上。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/07/devilutionx-for-classic-diablo-and-hellfire-now-on-flathub/</guid>
+      <pubDate>Mon, 31 Jul 2023 10:59:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>《Black Pepper Crew》是一款看起来很有前途的战术回合制 Roguelite 游戏</title>
+      <link>https://www.gamingonlinux.com/2023/07/the-black-pepper-crew-is-a-promising-looking-tactical-turn-based-roguelite/</link>
+      <description><![CDATA[另一款看起来很有前途的战术回合制 Roguelite 游戏是《The Black Pepper Crew》，现已在 Steam 上提供抢先体验并支持原生 Linux。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/07/the-black-pepper-crew-is-a-promising-looking-tactical-turn-based-roguelite/</guid>
+      <pubDate>Mon, 31 Jul 2023 10:44:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>战术角色扮演游戏“Arcadian Atlas”现已推出</title>
+      <link>https://www.gamingonlinux.com/2023/07/tactical-rpg-arcadian-atlas-is-out-now/</link>
+      <description><![CDATA[Arcadian Atlas 是一款 2D 等距战术角色扮演游戏，讲述人们在追求自己热爱的事物时所做的选择，以及它对王国造成的破坏。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/07/tactical-rpg-arcadian-atlas-is-out-now/</guid>
+      <pubDate>Mon, 31 Jul 2023 10:38:02 GMT</pubDate>
+    </item>
     <item>
       <title>这款传奇动作平台游戏《Broforce FOREVER》将于 8 月 8 日登陆</title>
       <link>https://www.gamingonlinux.com/2023/07/broforce-forever-arrives-for-the-legendary-action-platformer-on-august-8th/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[这太令人兴奋了！ Collabora 开发者 Faith Ekstrand 和各种贡献者一直致力于开发 NVK（NVIDIA 的开源 Vulkan 驱动程序）。]]></description>
       <guid>https://www.gamingonlinux.com/2023/07/open-source-nvidia-vulkan-driver-nvk-gears-up-for-merging-into-mesa/</guid>
       <pubDate>Thu, 27 Jul 2023 09:42:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>此捆绑包中包含《博德之门》、《无冬之夜》、《探路者》以及更多内容</title>
-      <link>https://www.gamingonlinux.com/2023/07/baldurs-gate-neverwinter-nights-pathfinder-and-more-in-this-bundle/</link>
-      <description><![CDATA[如果你是角色扮演游戏迷，这似乎是一个不容错过的游戏捆绑包。 Humble Bundle 与 Beamdog 合作开发了 RPG Legends: Baldur&#39;s Gate &amp; Beyond。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/07/baldurs-gate-neverwinter-nights-pathfinder-and-more-in-this-bundle/</guid>
-      <pubDate>Wed, 26 Jul 2023 20:57:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>再见空闲时间我发现了 Timberborn</title>
-      <link>https://www.gamingonlinux.com/2023/07/goodbye-free-time-i-have-discovered-timberborn/</link>
-      <description><![CDATA[在我们讨厌的人类灭绝很久之后，一群海狸正在建立一个社会的城市建设殖民地模拟游戏并不是我认为我需要的东西，但廷伯伯恩确实很棒。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/07/goodbye-free-time-i-have-discovered-timberborn/</guid>
-      <pubDate>Wed, 26 Jul 2023 19:33:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>学习使用 GDevelop 和 Fanatical 制作无代码游戏</title>
-      <link>https://www.gamingonlinux.com/2023/07/learn-to-make-no-code-games-with-gdevelop-and-fanatical/</link>
-      <description><![CDATA[想制作游戏但不知道如何编码？免费开源的 GDevelop 是一款出色的跨平台工具，具有事件驱动系统。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/07/learn-to-make-no-code-games-with-gdevelop-and-fanatical/</guid>
-      <pubDate>Wed, 26 Jul 2023 14:33:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
