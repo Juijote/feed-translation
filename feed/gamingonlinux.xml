@@ -4,7 +4,42 @@
     <title>GamingOnLinux 最新文章</title>
     <link>https://www.gamingonlinux.com/</link>
     <description>GamingOnLinux 的最新文章</description>
-    <lastBuildDate>Mon, 31 Jul 2023 17:29:33 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Aug 2023 11:49:49 GMT</lastBuildDate>
+    <item>
+      <title>在 Humble Choice 中获取《极乐迪斯科》和《骑士精神 2》</title>
+      <link>https://www.gamingonlinux.com/2023/08/get-disco-elysium-and-chivalry-2-in-humble-choice/</link>
+      <description><![CDATA[最新的 Humble Choice 已发布，因此这里简要介绍了 Steam Deck 和桌面 Linux 上的兼容性。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/08/get-disco-elysium-and-chivalry-2-in-humble-choice/</guid>
+      <pubDate>Wed, 02 Aug 2023 11:49:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>2023 年 7 月最热门的 Steam Deck 游戏中，《DAVE THE DIVER》排名第一</title>
+      <link>https://www.gamingonlinux.com/2023/08/top-steam-deck-games-for-july-2023-dave-the-diver-number-1/</link>
+      <description><![CDATA[Valve 公布了 2023 年 7 月最受欢迎的 Steam Deck 游戏，显示《吸血鬼幸存者》现已被牢牢击倒了几位。潜水员戴夫现在排名第一！]]></description>
+      <guid>https://www.gamingonlinux.com/2023/08/top-steam-deck-games-for-july-2023-dave-the-diver-number-1/</guid>
+      <pubDate>Wed, 02 Aug 2023 11:20:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ubisoft Connect 再次崩溃，但 Valve 在 Proton Experimental 中修复了它</title>
+      <link>https://www.gamingonlinux.com/2023/08/ubisoft-connect-broke-again-but-valve-fixed-it-in-proton-experimental/</link>
+      <description><![CDATA[发射器。一定要爱他们吧？主要发行商就是喜欢让 Steam Deck 和 Linux 游戏变得更加困难。 Ubisoft Connect 再次崩溃，但 Valve 来拯救世界。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/08/ubisoft-connect-broke-again-but-valve-fixed-it-in-proton-experimental/</guid>
+      <pubDate>Wed, 02 Aug 2023 10:34:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Steam 桌面和 Steam Deck 获得全新稳定更新</title>
+      <link>https://www.gamingonlinux.com/2023/08/steam-desktop-and-steam-deck-get-a-fresh-stable-update/</link>
+      <description><![CDATA[Valve 发布了 Steam 桌面版和 Steam Deck 客户端的另一个重大稳定更新。下面我们来回顾一下新增内容和更改内容。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/08/steam-desktop-and-steam-deck-get-a-fresh-stable-update/</guid>
+      <pubDate>Wed, 02 Aug 2023 10:25:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>得益于 Steam Deck，Linux 在 Steam 上的用户数量超过了 macOS</title>
+      <link>https://www.gamingonlinux.com/2023/08/linux-overtakes-macos-users-on-steam-thanks-to-steam-deck/</link>
+      <description><![CDATA[好吧，它终于发生了。根据最新的 2023 年 7 月 Steam 硬件和软件调查，我们可以看到 Linux 用户已经超过 macOS。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/08/linux-overtakes-macos-users-on-steam-thanks-to-steam-deck/</guid>
+      <pubDate>Wed, 02 Aug 2023 10:06:06 GMT</pubDate>
+    </item>
     <item>
       <title>Steam Deck 上的《博德之门 3》“绝对狂野”，目标是在 Medium 上实现 30FPS</title>
       <link>https://www.gamingonlinux.com/2023/07/baldurs-gate-3-on-steam-deck-is-absolutely-wild/</link>
@@ -13,7 +48,7 @@
       <pubDate>Mon, 31 Jul 2023 17:29:33 GMT</pubDate>
     </item>
     <item>
-      <title>诚然，《Beary Arms》是一款极其奇异的弹幕射击游戏</title>
+      <title>理所当然，《Beary Arms》是一款极其奇异的弹幕射击游戏</title>
       <link>https://www.gamingonlinux.com/2023/07/rightfully-beary-arms-is-an-incredibly-bizarre-bullet-hell-shooter/</link>
       <description><![CDATA[理所当然，Beary Arms 是一款奇怪而精彩的双摇杆射击 Rogue-lite 游戏，现已进入抢先体验阶段，支持原生 Linux，并且也可以在 Steam Deck 上运行。]]></description>
       <guid>https://www.gamingonlinux.com/2023/07/rightfully-beary-arms-is-an-incredibly-bizarre-bullet-hell-shooter/</guid>
@@ -55,9 +90,9 @@
       <pubDate>Sat, 29 Jul 2023 14:17:13 GMT</pubDate>
     </item>
     <item>
-      <title>《矮人要塞》发行商 Kitfox 帮助 Roguelike Caves of Qud 发行</title>
+      <title>《矮人要塞》发行商 Kitfox 帮助发行 Roguelike Caves of Qud</title>
       <link>https://www.gamingonlinux.com/2023/07/dwarf-fortress-publisher-kitfox-helping-roguelike-caves-of-qud/</link>
-      <description><![CDATA[Freehold Games 的 Caves of Qud 可能是我玩过的最狂野的 Roguelike 游戏，现在开发者正在与 Dwarf Fortress 发行商 Kitfox Games 合作，于 2024 年发布最终版。]]></description>
+      <description><![CDATA[Freehold Games 的 Caves of Qud 可能是我玩过的最狂野的 Roguelike 游戏，现在开发者正在与 Dwarf Fortress 发行商 Kitfox Games 合作，于 2024 年发布最终版本。]]></description>
       <guid>https://www.gamingonlinux.com/2023/07/dwarf-fortress-publisher-kitfox-helping-roguelike-caves-of-qud/</guid>
       <pubDate>Sat, 29 Jul 2023 13:50:38 GMT</pubDate>
     </item>
@@ -74,41 +109,6 @@
       <description><![CDATA[很高兴看到更多更大的发行商加入进来，让他们的游戏在 Steam Deck 和桌面 Linux 上运行。育碧现已升级《荣耀战魂》以支持 Deck 上的 Easy Anti-Cheat。]]></description>
       <guid>https://www.gamingonlinux.com/2023/07/for-honor-ubisoft-anti-cheat-update-now-playable-on-steam-deck/</guid>
       <pubDate>Fri, 28 Jul 2023 12:37:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>Proton Experimental 修复了《最终幻想 XIII》、《黑暗之魂 II》等游戏</title>
-      <link>https://www.gamingonlinux.com/2023/07/proton-experimental-fixes-up-final-fantasy-xiii-dark-souls-ii-and-more/</link>
-      <description><![CDATA[Valve 于 7 月 27 日发布了适用于 Steam Deck 和桌面 Linux 的 Proton Experimental 的另一次升级，以下是为您带来的新内容和改进内容的运行。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/07/proton-experimental-fixes-up-final-fantasy-xiii-dark-souls-ii-and-more/</guid>
-      <pubDate>Fri, 28 Jul 2023 07:53:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>通过此调整，《女神异闻录 5 前锋》可在 Steam Deck 上完全畅玩</title>
-      <link>https://www.gamingonlinux.com/2023/07/persona-5-strikers-fully-playable-on-steam-deck-with-this-tweak/</link>
-      <description><![CDATA[自 2022 年 10 月发布以来，《女神异闻录 5 Royal》一直是最完美的 Steam Deck 游戏之一。 《女神异闻录 5 Royal》的设计非常适合手持游戏；整体而言，它是一个非常优化的 PC 端口。它的续作/衍生作品《女神异闻录 5 Strikers》表现不佳。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/07/persona-5-strikers-fully-playable-on-steam-deck-with-this-tweak/</guid>
-      <pubDate>Fri, 28 Jul 2023 07:39:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>以神秘图书馆为背景的非战斗角色扮演游戏《BOOK OF HOURS》将于 8 月 17 日推出</title>
-      <link>https://www.gamingonlinux.com/2023/07/combat-free-rpg-set-in-an-occult-library-book-of-hours-launches-august-17th/</link>
-      <description><![CDATA[开发商 Weather Factory 于 8 月 17 日发布的《BOOK OF HOURS》是一款“以神秘图书馆为背景的优雅、忧郁、无战斗的角色扮演游戏”，它看起来确实与众不同。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/07/combat-free-rpg-set-in-an-occult-library-book-of-hours-launches-august-17th/</guid>
-      <pubDate>Thu, 27 Jul 2023 16:32:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>《Homeworld Remastered Collection》和《Severed Steel》在 Epic Games 上免费</title>
-      <link>https://www.gamingonlinux.com/2023/07/homeworld-remastered-collection-and-severed-steel-are-free-on-epic-games/</link>
-      <description><![CDATA[作为一名太空迷，我不能错过告诉您，您现在可以在 Epic Games 上免费获取整个《家园重制版》合集。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/07/homeworld-remastered-collection-and-severed-steel-are-free-on-epic-games/</guid>
-      <pubDate>Thu, 27 Jul 2023 16:10:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>查看《奥罗拉：失落的奖章 - 洞穴》的新演示</title>
-      <link>https://www.gamingonlinux.com/2023/07/check-out-the-new-demo-for-aurora-the-lost-medallion-the-cave/</link>
-      <description><![CDATA[《奥罗拉：失落的奖章 - 洞穴》是一部即将上映的关于命运、友谊和发现的成长故事。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/07/check-out-the-new-demo-for-aurora-the-lost-medallion-the-cave/</guid>
-      <pubDate>Thu, 27 Jul 2023 15:13:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
