@@ -4,7 +4,14 @@
     <title>GamingOnLinux 最新文章</title>
     <link>https://www.gamingonlinux.com/</link>
     <description>GamingOnLinux 的最新文章</description>
-    <lastBuildDate>Wed, 02 Aug 2023 11:49:49 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Aug 2023 16:33:42 GMT</lastBuildDate>
+    <item>
+      <title>Deceive Inc. 迅速成为最受欢迎的多人游戏</title>
+      <link>https://www.gamingonlinux.com/2023/08/deceive-inc-quickly-became-a-favourite-multiplayer-game/</link>
+      <description><![CDATA[Sweet Bandits Studios 和 Tripwire Presents 的《Deceive Inc.》于 3 月份发布，最近已通过 Steam Deck 验证。玩了几个小时后，它很快成为桌面 Linux 和 Steam Deck 上的最爱。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/08/deceive-inc-quickly-became-a-favourite-multiplayer-game/</guid>
+      <pubDate>Wed, 02 Aug 2023 16:33:42 GMT</pubDate>
+    </item>
     <item>
       <title>在 Humble Choice 中获取《极乐迪斯科》和《骑士精神 2》</title>
       <link>https://www.gamingonlinux.com/2023/08/get-disco-elysium-and-chivalry-2-in-humble-choice/</link>
@@ -36,7 +43,7 @@
     <item>
       <title>得益于 Steam Deck，Linux 在 Steam 上的用户数量超过了 macOS</title>
       <link>https://www.gamingonlinux.com/2023/08/linux-overtakes-macos-users-on-steam-thanks-to-steam-deck/</link>
-      <description><![CDATA[好吧，它终于发生了。根据最新的 2023 年 7 月 Steam 硬件和软件调查，我们可以看到 Linux 用户已经超过 macOS。]]></description>
+      <description><![CDATA[好吧，它终于发生了。根据 2023 年 7 月最新的 Steam 硬件和软件调查，我们可以看到 Linux 用户已经超过 macOS。]]></description>
       <guid>https://www.gamingonlinux.com/2023/08/linux-overtakes-macos-users-on-steam-thanks-to-steam-deck/</guid>
       <pubDate>Wed, 02 Aug 2023 10:06:06 GMT</pubDate>
     </item>
@@ -90,25 +97,18 @@
       <pubDate>Sat, 29 Jul 2023 14:17:13 GMT</pubDate>
     </item>
     <item>
-      <title>《矮人要塞》发行商 Kitfox 帮助发行 Roguelike Caves of Qud</title>
+      <title>《矮人要塞》发行商 Kitfox 帮助 Roguelike Caves of Qud 发行</title>
       <link>https://www.gamingonlinux.com/2023/07/dwarf-fortress-publisher-kitfox-helping-roguelike-caves-of-qud/</link>
-      <description><![CDATA[Freehold Games 的 Caves of Qud 可能是我玩过的最狂野的 Roguelike 游戏，现在开发者正在与 Dwarf Fortress 发行商 Kitfox Games 合作，于 2024 年发布最终版本。]]></description>
+      <description><![CDATA[Freehold Games 的 Caves of Qud 可能是我玩过的最狂野的 Roguelike 游戏，现在开发者正在与 Dwarf Fortress 发行商 Kitfox Games 合作，于 2024 年发布最终版。]]></description>
       <guid>https://www.gamingonlinux.com/2023/07/dwarf-fortress-publisher-kitfox-helping-roguelike-caves-of-qud/</guid>
       <pubDate>Sat, 29 Jul 2023 13:50:38 GMT</pubDate>
     </item>
     <item>
       <title>我喜欢 Stone Story RPG 中的动画 ASCII 艺术作品 - 现已推出</title>
       <link>https://www.gamingonlinux.com/2023/07/stone-story-rpg-out-now-ascii-art/</link>
-      <description><![CDATA[Stone Story RPG 拥有一些非常有趣的动画 ASCII 艺术作品，是一款非常有趣的自动 RPG 与战略战斗、制作、编程等的结合体。]]></description>
+      <description><![CDATA[Stone Story RPG 具有一些非常有趣的动画 ASCII 艺术作品，是自动 RPG 与战略战斗、制作、编程等的真正有趣的结合。]]></description>
       <guid>https://www.gamingonlinux.com/2023/07/stone-story-rpg-out-now-ascii-art/</guid>
       <pubDate>Sat, 29 Jul 2023 13:36:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>育碧的《荣耀战魂》获得反作弊更新 - 现在可以在 Steam Deck 上玩</title>
-      <link>https://www.gamingonlinux.com/2023/07/for-honor-ubisoft-anti-cheat-update-now-playable-on-steam-deck/</link>
-      <description><![CDATA[很高兴看到更多更大的发行商加入进来，让他们的游戏在 Steam Deck 和桌面 Linux 上运行。育碧现已升级《荣耀战魂》以支持 Deck 上的 Easy Anti-Cheat。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/07/for-honor-ubisoft-anti-cheat-update-now-playable-on-steam-deck/</guid>
-      <pubDate>Fri, 28 Jul 2023 12:37:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
