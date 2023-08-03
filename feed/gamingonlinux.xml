@@ -4,7 +4,42 @@
     <title>GamingOnLinux 最新文章</title>
     <link>https://www.gamingonlinux.com/</link>
     <description>GamingOnLinux 的最新文章</description>
-    <lastBuildDate>Wed, 02 Aug 2023 16:33:42 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Aug 2023 11:39:01 GMT</lastBuildDate>
+    <item>
+      <title>第一人称合作地下城探索游戏“Barony”进行重大升级并通过 Steam Deck 验证</title>
+      <link>https://www.gamingonlinux.com/2023/08/first-person-co-op-dungeon-crawler-barony-has-major-upgrade-and-steam-deck-verified/</link>
+      <description><![CDATA[开发商 Turning Wheel LLC 的 Barony 最近进行了相当大的升级，因此它现在也通过了 Steam Deck 验证，并提供了可用的 Native Linux 版本。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/08/first-person-co-op-dungeon-crawler-barony-has-major-upgrade-and-steam-deck-verified/</guid>
+      <pubDate>Thu, 03 Aug 2023 11:39:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>具有挑战性的生存城市建设游戏 Landnama 现已推出</title>
+      <link>https://www.gamingonlinux.com/2023/08/challenging-survival-city-builder-landnama-is-out-now/</link>
+      <description><![CDATA[开发商 Sonderland 的 Landnama 带来了一种非常奇怪的渴望，因为它将探索、生存和城市建设融为一体，这也是一个相当大的挑战。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/08/challenging-survival-city-builder-landnama-is-out-now/</guid>
+      <pubDate>Thu, 03 Aug 2023 11:23:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>八位堂复古机械键盘看起来棒极了</title>
+      <link>https://www.gamingonlinux.com/2023/08/the-8bitdo-retro-mechanical-keyboard-looks-awesome/</link>
+      <description><![CDATA[虽然他们的编程软件仅正式支持 Windows 和 Android，但 8BitDo 复古机械键盘看起来确实很棒。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/08/the-8bitdo-retro-mechanical-keyboard-looks-awesome/</guid>
+      <pubDate>Thu, 03 Aug 2023 09:53:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>GZDoom 现已推出 Voxel Doom II</title>
+      <link>https://www.gamingonlinux.com/2023/08/voxel-doom-ii-is-out-now-for-gzdoom/</link>
+      <description><![CDATA[现在推出全新 Voxel Doom II 模组，带来精美的新怪物模型，为您的下一次《Doom II》游戏增添趣味。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/08/voxel-doom-ii-is-out-now-for-gzdoom/</guid>
+      <pubDate>Thu, 03 Aug 2023 09:10:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Statcounter 上 Linux 桌面用户份额继续保持在 3% 以上</title>
+      <link>https://www.gamingonlinux.com/2023/08/linux-continues-hitting-above-3-desktop-user-share/</link>
+      <description><![CDATA[又过了一个月，我们可以看到 Linux 桌面用户份额持续上升，而不仅仅是在最近的 Steam 调查中。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/08/linux-continues-hitting-above-3-desktop-user-share/</guid>
+      <pubDate>Thu, 03 Aug 2023 08:51:49 GMT</pubDate>
+    </item>
     <item>
       <title>Deceive Inc. 迅速成为最受欢迎的多人游戏</title>
       <link>https://www.gamingonlinux.com/2023/08/deceive-inc-quickly-became-a-favourite-multiplayer-game/</link>
@@ -50,7 +85,7 @@
     <item>
       <title>Steam Deck 上的《博德之门 3》“绝对狂野”，目标是在 Medium 上实现 30FPS</title>
       <link>https://www.gamingonlinux.com/2023/07/baldurs-gate-3-on-steam-deck-is-absolutely-wild/</link>
-      <description><![CDATA[嗯，这确实令人兴奋！ 《博德之门 3》很容易成为今年最热门的游戏之一，在它发布之前，Larian Studios 的发行总监在 Twitter 上调侃说可以在 Steam Deck 上玩这款游戏（呃，对“X”表示抱歉）。]]></description>
+      <description><![CDATA[嗯，这确实令人兴奋！ 《博德之门 3》很容易成为今年最热门的游戏之一，在其发布之前，Larian Studios 的发行总监在 Twitter 上调侃称可以在 Steam Deck 上玩这款游戏（呃，对“X”表示抱歉）。]]></description>
       <guid>https://www.gamingonlinux.com/2023/07/baldurs-gate-3-on-steam-deck-is-absolutely-wild/</guid>
       <pubDate>Mon, 31 Jul 2023 17:29:33 GMT</pubDate>
     </item>
@@ -74,41 +109,6 @@
       <description><![CDATA[想要一种可能更简单的方法来获得在 Steam Deck 和桌面 Linux 上运行的经典《暗黑破坏神》的 DevilutionX？嗯，它现在在 Flathub 上。]]></description>
       <guid>https://www.gamingonlinux.com/2023/07/devilutionx-for-classic-diablo-and-hellfire-now-on-flathub/</guid>
       <pubDate>Mon, 31 Jul 2023 10:59:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>《Black Pepper Crew》是一款看起来很有前途的战术回合制 Roguelite 游戏</title>
-      <link>https://www.gamingonlinux.com/2023/07/the-black-pepper-crew-is-a-promising-looking-tactical-turn-based-roguelite/</link>
-      <description><![CDATA[另一款看起来很有前途的战术回合制 Roguelite 游戏是《The Black Pepper Crew》，现已在 Steam 上提供抢先体验并支持原生 Linux。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/07/the-black-pepper-crew-is-a-promising-looking-tactical-turn-based-roguelite/</guid>
-      <pubDate>Mon, 31 Jul 2023 10:44:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>战术角色扮演游戏“Arcadian Atlas”现已推出</title>
-      <link>https://www.gamingonlinux.com/2023/07/tactical-rpg-arcadian-atlas-is-out-now/</link>
-      <description><![CDATA[Arcadian Atlas 是一款 2D 等距战术角色扮演游戏，讲述人们在追求自己热爱的事物时所做的选择，以及它对王国造成的破坏。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/07/tactical-rpg-arcadian-atlas-is-out-now/</guid>
-      <pubDate>Mon, 31 Jul 2023 10:38:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>这款传奇动作平台游戏《Broforce FOREVER》将于 8 月 8 日登陆</title>
-      <link>https://www.gamingonlinux.com/2023/07/broforce-forever-arrives-for-the-legendary-action-platformer-on-august-8th/</link>
-      <description><![CDATA[Broforce 可能是我最喜欢的动作平台游戏，它的超时动作和搞笑角色将于 8 月 8 日推出 Broforce FOREVER 更新。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/07/broforce-forever-arrives-for-the-legendary-action-platformer-on-august-8th/</guid>
-      <pubDate>Sat, 29 Jul 2023 14:17:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>《矮人要塞》发行商 Kitfox 帮助 Roguelike Caves of Qud 发行</title>
-      <link>https://www.gamingonlinux.com/2023/07/dwarf-fortress-publisher-kitfox-helping-roguelike-caves-of-qud/</link>
-      <description><![CDATA[Freehold Games 的 Caves of Qud 可能是我玩过的最狂野的 Roguelike 游戏，现在开发者正在与 Dwarf Fortress 发行商 Kitfox Games 合作，于 2024 年发布最终版。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/07/dwarf-fortress-publisher-kitfox-helping-roguelike-caves-of-qud/</guid>
-      <pubDate>Sat, 29 Jul 2023 13:50:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>我喜欢 Stone Story RPG 中的动画 ASCII 艺术作品 - 现已推出</title>
-      <link>https://www.gamingonlinux.com/2023/07/stone-story-rpg-out-now-ascii-art/</link>
-      <description><![CDATA[Stone Story RPG 具有一些非常有趣的动画 ASCII 艺术作品，是自动 RPG 与战略战斗、制作、编程等的真正有趣的结合。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/07/stone-story-rpg-out-now-ascii-art/</guid>
-      <pubDate>Sat, 29 Jul 2023 13:36:56 GMT</pubDate>
     </item>
     </channel>
 </rss>
