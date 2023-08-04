@@ -4,7 +4,14 @@
     <title>GamingOnLinux 最新文章</title>
     <link>https://www.gamingonlinux.com/</link>
     <description>GamingOnLinux 的最新文章</description>
-    <lastBuildDate>Thu, 03 Aug 2023 16:13:51 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Aug 2023 22:08:29 GMT</lastBuildDate>
+    <item>
+      <title>《博德之门 3》现已推出，可在 Steam Deck 和桌面 Linux 上运行</title>
+      <link>https://www.gamingonlinux.com/2023/08/baldurs-gate-3-steam-deck-and-desktop-linux/</link>
+      <description><![CDATA[对于那些对 Larian Studios 的最新大型 RPG 感兴趣的人，这里是我关于在 Steam Deck 和桌面 Linux 上运行的《博德之门 3》的快速初步报告。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/08/baldurs-gate-3-steam-deck-and-desktop-linux/</guid>
+      <pubDate>Thu, 03 Aug 2023 22:08:29 GMT</pubDate>
+    </item>
     <item>
       <title>战锤 40,000：Gladius 开发者新游戏 ZEPHON 发布了演示版</title>
       <link>https://www.gamingonlinux.com/2023/08/warhammer-40000-gladius-devs-new-game-zephon-has-a-demo-up/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>《Kingdom Come》、《The Ascent》、《Oblivion》、《Rain World》以及 Fanatical 白金合集中的更多内容</title>
       <link>https://www.gamingonlinux.com/2023/08/kingdom-come-the-ascent-oblivion-rain-world-fanatical-platinum-collection/</link>
-      <description><![CDATA[哦，现在看来它为您提供了一些不错的选择。 Fanatical 推出了最新的 DIY 白金系列游戏套装。]]></description>
+      <description><![CDATA[哦，现在看来它为您提供了一些不错的选择。 Fanatical 推出了最新的 DIY 白金系列游戏捆绑包。]]></description>
       <guid>https://www.gamingonlinux.com/2023/08/kingdom-come-the-ascent-oblivion-rain-world-fanatical-platinum-collection/</guid>
       <pubDate>Thu, 03 Aug 2023 15:27:31 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[Valve 发布了 Steam 桌面版和 Steam Deck 客户端的另一个重大稳定更新。下面我们来回顾一下新增内容和更改内容。]]></description>
       <guid>https://www.gamingonlinux.com/2023/08/steam-desktop-and-steam-deck-get-a-fresh-stable-update/</guid>
       <pubDate>Wed, 02 Aug 2023 10:25:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>得益于 Steam Deck，Linux 在 Steam 上的用户数量超过了 macOS</title>
-      <link>https://www.gamingonlinux.com/2023/08/linux-overtakes-macos-users-on-steam-thanks-to-steam-deck/</link>
-      <description><![CDATA[好吧，它终于发生了。根据最新的 2023 年 7 月 Steam 硬件和软件调查，我们可以看到 Linux 用户已经超过 macOS。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/08/linux-overtakes-macos-users-on-steam-thanks-to-steam-deck/</guid>
-      <pubDate>Wed, 02 Aug 2023 10:06:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
