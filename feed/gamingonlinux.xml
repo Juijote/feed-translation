@@ -4,9 +4,16 @@
     <title>GamingOnLinux 最新文章</title>
     <link>https://www.gamingonlinux.com/</link>
     <description>GamingOnLinux 的最新文章</description>
-    <lastBuildDate>Mon, 07 Aug 2023 17:30:23 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Aug 2023 09:45:28 GMT</lastBuildDate>
     <item>
-      <title>Steam 将举办视觉小说节，直至 8 月 14 日</title>
+      <title>构建复古 Linux 游戏计算机第 31 部分：对损失的恐惧</title>
+      <link>https://www.gamingonlinux.com/2023/08/building-a-retro-linux-gaming-computer-part-31-the-fear-of-loss/</link>
+      <description><![CDATA[一天晚上，我在旧网络上搜寻有关早期 Linux 游戏的更多资源，这时我发现了一款​​我以前从未听说过的免费软件游戏。我几乎不知道这将是一场漫长而艰巨的探索的开始；它真的开始看起来像 Phobia III - Edge Of Humanity 已经成为 Linux 游戏失落的媒体。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/08/building-a-retro-linux-gaming-computer-part-31-the-fear-of-loss/</guid>
+      <pubDate>Tue, 08 Aug 2023 09:45:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Steam 正在举办视觉小说节，截止日期为 8 月 14 日</title>
       <link>https://www.gamingonlinux.com/2023/08/steam-is-having-a-festival-for-visual-novels-until-august-14th/</link>
       <description><![CDATA[准备好听故事了吗？如果您热衷于视觉小说，那么您很有机会在 Steam 的视觉小说节中找到新的游戏内容。]]></description>
       <guid>https://www.gamingonlinux.com/2023/08/steam-is-having-a-festival-for-visual-novels-until-august-14th/</guid>
@@ -62,7 +69,7 @@
       <pubDate>Fri, 04 Aug 2023 19:48:42 GMT</pubDate>
     </item>
     <item>
-      <title>Neon Noodles 现已推出使用编程机器人实现厨房自动化</title>
+      <title>Neon Noodles 中的编程机器人现已推出，让厨房实现自动化</title>
       <link>https://www.gamingonlinux.com/2023/08/automate-a-kitchen-with-programmed-robots-in-neon-noodles-out-now/</link>
       <description><![CDATA[自 2019 年开始抢先体验后，Neon Noodles - Cyber​​punk Kitchen Automation 现已完全发布，看起来很棒。]]></description>
       <guid>https://www.gamingonlinux.com/2023/08/automate-a-kitchen-with-programmed-robots-in-neon-noodles-out-now/</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[ZEPHON 是 Proxy Studios 即将推出的策略游戏，该工作室曾创作了《战锤 40,000：短剑 - 战争遗迹》和《潘多拉：第一次接触》。您可以在有限的时间内查看 ZEPHON 的第一个演示。]]></description>
       <guid>https://www.gamingonlinux.com/2023/08/warhammer-40000-gladius-devs-new-game-zephon-has-a-demo-up/</guid>
       <pubDate>Thu, 03 Aug 2023 16:13:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>《Kingdom Come》、《The Ascent》、《Oblivion》、《Rain World》以及 Fanatical 白金合集中的更多内容</title>
-      <link>https://www.gamingonlinux.com/2023/08/kingdom-come-the-ascent-oblivion-rain-world-fanatical-platinum-collection/</link>
-      <description><![CDATA[哦，现在看来它为您提供了一些不错的选择。 Fanatical 推出了最新的 DIY 白金系列游戏捆绑包。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/08/kingdom-come-the-ascent-oblivion-rain-world-fanatical-platinum-collection/</guid>
-      <pubDate>Thu, 03 Aug 2023 15:27:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
