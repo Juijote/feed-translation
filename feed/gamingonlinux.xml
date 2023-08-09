@@ -4,7 +4,21 @@
     <title>GamingOnLinux 最新文章</title>
     <link>https://www.gamingonlinux.com/</link>
     <description>GamingOnLinux 的最新文章</description>
-    <lastBuildDate>Tue, 08 Aug 2023 17:33:59 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Aug 2023 21:06:21 GMT</lastBuildDate>
+    <item>
+      <title>NVIDIA 驱动程序 535.98 现已可用于 Linux</title>
+      <link>https://www.gamingonlinux.com/2023/08/nvidia-driver-535-98-now-available-for-linux/</link>
+      <description><![CDATA[NVIDIA GPU 用户可能想要获取一些更新，因为驱动程序 535.98 现已发布。下面来看看发生了什么变化。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/08/nvidia-driver-535-98-now-available-for-linux/</guid>
+      <pubDate>Tue, 08 Aug 2023 21:06:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>现在官方：您可以从 Valve 购买翻新的 Steam Deck</title>
+      <link>https://www.gamingonlinux.com/2023/08/now-official-you-can-buy-a-refurbished-steam-deck-from-valve/</link>
+      <description><![CDATA[在它被泄露得有点过早之后，Valve 现在已经确认并放置了所有三个 Steam Deck 模型，以便直接从 Steam 商店购买翻新产品。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/08/now-official-you-can-buy-a-refurbished-steam-deck-from-valve/</guid>
+      <pubDate>Tue, 08 Aug 2023 18:15:43 GMT</pubDate>
+    </item>
     <item>
       <title>最受欢迎的 100 款 Steam 游戏中有 83 款可在 Steam Deck 上运行</title>
       <link>https://www.gamingonlinux.com/2023/08/83-of-the-top-100-most-played-steam-games-work-on-steam-deck/</link>
@@ -15,7 +29,7 @@
     <item>
       <title>我最喜欢的 roguelike 游戏之一 Jupiter Hell 增加了模组支持</title>
       <link>https://www.gamingonlinux.com/2023/08/one-of-my-favourite-roguelikes-jupiter-hell-adds-modding-support/</link>
-      <description><![CDATA[哦地狱！我想是时候再跑几趟了。 《Jupiter Hell》是我最喜欢的 Roguelike 游戏之一，它的动作设计非常流畅，现在有了模组支持。]]></description>
+      <description><![CDATA[哦地狱！我想是时候再跑几趟了。 《Jupiter Hell》是我最喜欢的 Roguelike 游戏之一，其动作设计非常流畅，现在有了模组支持。]]></description>
       <guid>https://www.gamingonlinux.com/2023/08/one-of-my-favourite-roguelikes-jupiter-hell-adds-modding-support/</guid>
       <pubDate>Tue, 08 Aug 2023 15:48:58 GMT</pubDate>
     </item>
@@ -41,7 +55,7 @@
       <pubDate>Tue, 08 Aug 2023 09:45:28 GMT</pubDate>
     </item>
     <item>
-      <title>Steam 将举办视觉小说节，直至 8 月 14 日</title>
+      <title>Steam 正在举办视觉小说节，截止日期为 8 月 14 日</title>
       <link>https://www.gamingonlinux.com/2023/08/steam-is-having-a-festival-for-visual-novels-until-august-14th/</link>
       <description><![CDATA[准备好听故事了吗？如果您热衷于视觉小说，那么您很有机会在 Steam 的视觉小说节中找到新的游戏内容。]]></description>
       <guid>https://www.gamingonlinux.com/2023/08/steam-is-having-a-festival-for-visual-novels-until-august-14th/</guid>
@@ -95,20 +109,6 @@
       <description><![CDATA[两套游戏？没错，这是一种填满游戏库的简单方法，因为多玩几个也没什么坏处。 Humble Bundle 为您提供了两个充满游戏的新捆绑包。]]></description>
       <guid>https://www.gamingonlinux.com/2023/08/get-some-racing-sims-and-party-games-with-these-two-big-bundles/</guid>
       <pubDate>Fri, 04 Aug 2023 19:48:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>Neon Noodles 现已推出使用编程机器人实现厨房自动化</title>
-      <link>https://www.gamingonlinux.com/2023/08/automate-a-kitchen-with-programmed-robots-in-neon-noodles-out-now/</link>
-      <description><![CDATA[自 2019 年开始抢先体验后，Neon Noodles - Cyber​​punk Kitchen Automation 现已完全发布，看起来很棒。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/08/automate-a-kitchen-with-programmed-robots-in-neon-noodles-out-now/</guid>
-      <pubDate>Fri, 04 Aug 2023 19:33:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>《缺氧》有新的动画短片和免费内容升级</title>
-      <link>https://www.gamingonlinux.com/2023/08/oxygen-not-included-has-a-new-animated-short-and-free-content-upgrade/</link>
-      <description><![CDATA[为您的殖民地提供更多内容？绝对地。 Klei 发布了《缺氧》的最新免费更新，还有他们的另一部精美动画短片。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/08/oxygen-not-included-has-a-new-animated-short-and-free-content-upgrade/</guid>
-      <pubDate>Fri, 04 Aug 2023 16:43:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
