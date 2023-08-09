@@ -4,7 +4,35 @@
     <title>GamingOnLinux 最新文章</title>
     <link>https://www.gamingonlinux.com/</link>
     <description>GamingOnLinux 的最新文章</description>
-    <lastBuildDate>Tue, 08 Aug 2023 21:06:21 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Aug 2023 14:56:25 GMT</lastBuildDate>
+    <item>
+      <title>崩溃是英特尔CPU的一个新的“严重”缺陷，而AMD正在处理INCEPTION</title>
+      <link>https://www.gamingonlinux.com/2023/08/downfall-inception-amd-intel-security/</link>
+      <description><![CDATA[呃哦！英特尔 CPU 中发现了另一个相当严重的安全漏洞，名为 Downfall，因此这里有一些相关信息。此外，AMD 还在处理 INCEPTION。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/08/downfall-inception-amd-intel-security/</guid>
+      <pubDate>Wed, 09 Aug 2023 14:56:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>Vagrus - 裂痕国度获得 Steam 套牌验证</title>
+      <link>https://www.gamingonlinux.com/2023/08/vagrus-the-riven-realms-gets-steam-deck-verified/</link>
+      <description><![CDATA[Vagrus - The Riven Realms 是一款叙事性很强的角色扮演游戏，融合了探索、回合制战斗、资源管理等内容。截至最新升级，它现已通过 Steam Deck 验证。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/08/vagrus-the-riven-realms-gets-steam-deck-verified/</guid>
+      <pubDate>Wed, 09 Aug 2023 13:48:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenRA 进行了新的游戏测试，其中包含另一个红色警报任务</title>
+      <link>https://www.gamingonlinux.com/2023/08/openra-has-a-new-playtest-with-another-red-alert-mission/</link>
+      <description><![CDATA[OpenRA 开发人员正在稳步致力于下一个稳定版本的发布，以继续支持现代平台上的《红色警戒》、《命令与征服》和《沙丘 2000》，并提供完整的跨平台游戏。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/08/openra-has-a-new-playtest-with-another-red-alert-mission/</guid>
+      <pubDate>Wed, 09 Aug 2023 13:30:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>《Valheim》在测试中有一个相当大的错误修复版本</title>
+      <link>https://www.gamingonlinux.com/2023/08/valheim-has-a-rather-large-bug-fix-release-in-testing/</link>
+      <description><![CDATA[准备好迎接生存游戏《瓦尔海姆》的下一个更大补丁了吗？开发商 Iron Gate 进行了一项新的公开测试，其中包含许多修复程序。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/08/valheim-has-a-rather-large-bug-fix-release-in-testing/</guid>
+      <pubDate>Wed, 09 Aug 2023 13:06:29 GMT</pubDate>
+    </item>
     <item>
       <title>NVIDIA 驱动程序 535.98 现已可用于 Linux</title>
       <link>https://www.gamingonlinux.com/2023/08/nvidia-driver-535-98-now-available-for-linux/</link>
@@ -81,34 +109,6 @@
       <description><![CDATA[Minecraft 的 Modrinth 启动器现在处于测试阶段，可供更多人测试，并提供更多功能和错误修复。]]></description>
       <guid>https://www.gamingonlinux.com/2023/08/modrinth-announce-their-minecraft-launcher-is-now-in-beta/</guid>
       <pubDate>Mon, 07 Aug 2023 11:08:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>《博德之门 3》现已通过 Steam Deck 验证</title>
-      <link>https://www.gamingonlinux.com/2023/08/baldurs-gate-3-is-now-steam-deck-verified/</link>
-      <description><![CDATA[作为 Steam 上有史以来最大的 RPG 游戏之一，《博德之门 3》现已获得 Valve 批准的 Steam Deck Verified 徽章。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/08/baldurs-gate-3-is-now-steam-deck-verified/</guid>
-      <pubDate>Mon, 07 Aug 2023 10:52:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>Jackbox Party Pack 10 将于 10 月推出</title>
-      <link>https://www.gamingonlinux.com/2023/08/the-jackbox-party-pack-10-is-coming-in-october/</link>
-      <description><![CDATA[Jackbox Party Pack 10 最近发布，提供了另一组与朋友和家人一起玩的有趣游戏，并将于 10 月推出。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/08/the-jackbox-party-pack-10-is-coming-in-october/</guid>
-      <pubDate>Mon, 07 Aug 2023 10:29:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>《魔法门之英雄无敌 III》游戏引擎 VCMI 1.3 现已推出</title>
-      <link>https://www.gamingonlinux.com/2023/08/heroes-of-might-and-magic-iii-game-engine-vcmi-13-out-now/</link>
-      <description><![CDATA[这是另一个有趣的开源重新实现：VCMI 用于在现代系统上运行《魔法门之英雄无敌 III》，具有大量增强功能，并且刚刚发布了新版本。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/08/heroes-of-might-and-magic-iii-game-engine-vcmi-13-out-now/</guid>
-      <pubDate>Mon, 07 Aug 2023 10:22:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>通过这两个大捆绑包获得一些赛车模拟游戏和派对游戏</title>
-      <link>https://www.gamingonlinux.com/2023/08/get-some-racing-sims-and-party-games-with-these-two-big-bundles/</link>
-      <description><![CDATA[两套游戏？没错，这是一种填满游戏库的简单方法，因为多玩几个也没什么坏处。 Humble Bundle 为您提供了两个充满游戏的新捆绑包。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/08/get-some-racing-sims-and-party-games-with-these-two-big-bundles/</guid>
-      <pubDate>Fri, 04 Aug 2023 19:48:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
