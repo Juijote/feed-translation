@@ -4,7 +4,14 @@
     <title>GamingOnLinux 最新文章</title>
     <link>https://www.gamingonlinux.com/</link>
     <description>GamingOnLinux 的最新文章</description>
-    <lastBuildDate>Wed, 09 Aug 2023 14:56:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Aug 2023 20:05:38 GMT</lastBuildDate>
+    <item>
+      <title>《生化危机》村庄以及这个新捆绑包中提供的更多内容</title>
+      <link>https://www.gamingonlinux.com/2023/08/resident-evil-village-and-plenty-more-available-in-this-new-bundle/</link>
+      <description><![CDATA[由于 Humble Bundle 的《生化危机：数十年的恐怖》乡村版捆绑包现已上线，我可能终于可以畅玩《生化危机村庄》了。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/08/resident-evil-village-and-plenty-more-available-in-this-new-bundle/</guid>
+      <pubDate>Wed, 09 Aug 2023 20:05:38 GMT</pubDate>
+    </item>
     <item>
       <title>崩溃是英特尔CPU的一个新的“严重”缺陷，而AMD正在处理INCEPTION</title>
       <link>https://www.gamingonlinux.com/2023/08/downfall-inception-amd-intel-security/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[好吧，它发生了！名为 NVK 的 NVIDIA GPU 开源 Vulkan 驱动程序已正式合并到 Mesa 中。]]></description>
       <guid>https://www.gamingonlinux.com/2023/08/nvk-the-open-source-vulkan-driver-for-nvidia-merged-into-mesa/</guid>
       <pubDate>Mon, 07 Aug 2023 11:26:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>Modrinth 宣布他们的 Minecraft 启动器现已进入测试阶段</title>
-      <link>https://www.gamingonlinux.com/2023/08/modrinth-announce-their-minecraft-launcher-is-now-in-beta/</link>
-      <description><![CDATA[Minecraft 的 Modrinth 启动器现在处于测试阶段，可供更多人测试，并提供更多功能和错误修复。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/08/modrinth-announce-their-minecraft-launcher-is-now-in-beta/</guid>
-      <pubDate>Mon, 07 Aug 2023 11:08:45 GMT</pubDate>
     </item>
     </channel>
 </rss>
