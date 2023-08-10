@@ -4,7 +4,35 @@
     <title>GamingOnLinux 最新文章</title>
     <link>https://www.gamingonlinux.com/</link>
     <description>GamingOnLinux 的最新文章</description>
-    <lastBuildDate>Thu, 10 Aug 2023 10:27:50 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Aug 2023 17:29:31 GMT</lastBuildDate>
+    <item>
+      <title>自动战斗套牌构建 Roguelike“Hadean Tactics”增加了游戏手柄支持</title>
+      <link>https://www.gamingonlinux.com/2023/08/auto-battling-deck-building-roguelike-hadean-tactics-adds-gamepad-support/</link>
+      <description><![CDATA[Hadean Tactics 是一款融合了自动战斗功能的 Roguelike 牌组构建游戏，现在支持游戏手柄，让您可以更加放松。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/08/auto-battling-deck-building-roguelike-hadean-tactics-adds-gamepad-support/</guid>
+      <pubDate>Thu, 10 Aug 2023 17:29:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Papers, Please 十周年了，销量突破 500 万份</title>
+      <link>https://www.gamingonlinux.com/2023/08/papers-please-turns-10-and-hits-5-million-sales/</link>
+      <description><![CDATA[Papers, Please 是一款关于在名为 Arstotzka 的虚构反乌托邦国家担任移民官员的游戏。这是一次非常独特的体验，对于开发者 Lucas Pope 来说显然做得很好。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/08/papers-please-turns-10-and-hits-5-million-sales/</guid>
+      <pubDate>Thu, 10 Aug 2023 15:36:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Broforce Forever 已推出，包含新角色、敌人等</title>
+      <link>https://www.gamingonlinux.com/2023/08/broforce-forever-has-launched-with-new-characters-enemies-and-more/</link>
+      <description><![CDATA[《Broforce Forever》现已为所有用户提供免费大型升级，以下是我最喜欢的动作平台游戏的一些新功能。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/08/broforce-forever-has-launched-with-new-characters-enemies-and-more/</guid>
+      <pubDate>Thu, 10 Aug 2023 13:58:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>VIDEOVERSE 是一封写给早期互联网粉丝社区的情书 - 现已发布</title>
+      <link>https://www.gamingonlinux.com/2023/08/videoverse-is-a-love-letter-to-early-internet-fan-communities/</link>
+      <description><![CDATA[受到 Miiverse、MSN Messenger、早期互联网论坛和 00 年代技术 VIDEOVERSE 的启发，这款视觉小说冒险游戏让您通过虚构的 Kinmoku Shark 游戏系统及其在线社交网络重温过去的互联网。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/08/videoverse-is-a-love-letter-to-early-internet-fan-communities/</guid>
+      <pubDate>Thu, 10 Aug 2023 12:40:39 GMT</pubDate>
+    </item>
     <item>
       <title>Proton Experimental 改进了英特尔 GPU 上的 Baldur's Gate 3 启动器和虚幻引擎 4 错误</title>
       <link>https://www.gamingonlinux.com/2023/08/proton-experimental-baldurs-gate-3-unreal-engine-4-intel-gpus/</link>
@@ -15,7 +43,7 @@
     <item>
       <title>《生化危机》村庄以及这个新捆绑包中提供的更多内容</title>
       <link>https://www.gamingonlinux.com/2023/08/resident-evil-village-and-plenty-more-available-in-this-new-bundle/</link>
-      <description><![CDATA[由于 Humble Bundle 的《生化危机：数十年的恐怖 - 乡村版捆绑包》现已上线，我可能终于可以畅玩《生化危机村庄》了。]]></description>
+      <description><![CDATA[由于 Humble Bundle 的《生化危机：数十年的恐怖》乡村版捆绑包现已上线，我可能终于可以畅玩《生化危机村庄》了。]]></description>
       <guid>https://www.gamingonlinux.com/2023/08/resident-evil-village-and-plenty-more-available-in-this-new-bundle/</guid>
       <pubDate>Wed, 09 Aug 2023 20:05:38 GMT</pubDate>
     </item>
@@ -41,7 +69,7 @@
       <pubDate>Wed, 09 Aug 2023 13:30:14 GMT</pubDate>
     </item>
     <item>
-      <title>Valheim 在测试中有一个相当大的错误修复版本</title>
+      <title>《Valheim》在测试中有一个相当大的错误修复版本</title>
       <link>https://www.gamingonlinux.com/2023/08/valheim-has-a-rather-large-bug-fix-release-in-testing/</link>
       <description><![CDATA[准备好迎接生存游戏《瓦尔海姆》的下一个更大补丁了吗？开发商 Iron Gate 进行了一项新的公开测试，其中包含许多修复程序。]]></description>
       <guid>https://www.gamingonlinux.com/2023/08/valheim-has-a-rather-large-bug-fix-release-in-testing/</guid>
@@ -71,7 +99,7 @@
     <item>
       <title>我最喜欢的 roguelike 游戏之一 Jupiter Hell 增加了模组支持</title>
       <link>https://www.gamingonlinux.com/2023/08/one-of-my-favourite-roguelikes-jupiter-hell-adds-modding-support/</link>
-      <description><![CDATA[哦地狱！我想是时候再跑几趟了。 《Jupiter Hell》是我最喜欢的 Roguelike 游戏之一，它的动作设计非常流畅，现在有了模组支持。]]></description>
+      <description><![CDATA[哦地狱！我想是时候再跑几趟了。 《Jupiter Hell》是我最喜欢的 Roguelike 游戏之一，其动作设计非常流畅，现在有了模组支持。]]></description>
       <guid>https://www.gamingonlinux.com/2023/08/one-of-my-favourite-roguelikes-jupiter-hell-adds-modding-support/</guid>
       <pubDate>Tue, 08 Aug 2023 15:48:58 GMT</pubDate>
     </item>
@@ -81,34 +109,6 @@
       <description><![CDATA[Valve 似乎提前透露了他们计划以更便宜的价格出售 Steam Deck 翻新型号的消息，但商店页面很快就被隐藏了。]]></description>
       <guid>https://www.gamingonlinux.com/2023/08/looks-like-valve-will-sell-refurbished-steam-decks/</guid>
       <pubDate>Tue, 08 Aug 2023 13:08:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>通过 Capcom Steam 特卖来庆祝夏季结束</title>
-      <link>https://www.gamingonlinux.com/2023/08/celebrate-the-end-of-summer-with-this-capcom-steam-sale/</link>
-      <description><![CDATA[夏季即将结束；学生们陆续返回学校，科技交易从左到右不断涌现。 Capcom 认为适合通过 Steam 夏末特惠来进入这个季节。这里有一堆经过 Steam Deck 验证的游戏。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/08/celebrate-the-end-of-summer-with-this-capcom-steam-sale/</guid>
-      <pubDate>Tue, 08 Aug 2023 12:59:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>构建复古 Linux 游戏计算机第 31 部分：对损失的恐惧</title>
-      <link>https://www.gamingonlinux.com/2023/08/building-a-retro-linux-gaming-computer-part-31-the-fear-of-loss/</link>
-      <description><![CDATA[一天晚上，我在旧网络上搜寻有关早期 Linux 游戏的更多资源，这时我发现了一款​​我以前从未听说过的免费软件游戏。我几乎不知道这将是一场漫长而艰巨的探索的开始；它真的开始看起来像 Phobia III - Edge Of Humanity 已经成为 Linux 游戏失落的媒体。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/08/building-a-retro-linux-gaming-computer-part-31-the-fear-of-loss/</guid>
-      <pubDate>Tue, 08 Aug 2023 09:45:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>Steam 将举办视觉小说节，直至 8 月 14 日</title>
-      <link>https://www.gamingonlinux.com/2023/08/steam-is-having-a-festival-for-visual-novels-until-august-14th/</link>
-      <description><![CDATA[准备好听故事了吗？如果您热衷于视觉小说，那么您很有机会在 Steam 的视觉小说节中找到新的游戏内容。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/08/steam-is-having-a-festival-for-visual-novels-until-august-14th/</guid>
-      <pubDate>Mon, 07 Aug 2023 17:30:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>查看 Heroes Of Loot: Gauntlet Of Power 和 Regulator City 的演示</title>
-      <link>https://www.gamingonlinux.com/2023/08/check-out-the-demos-for-heroes-of-loot-gauntlet-of-power-and-regulator-city/</link>
-      <description><![CDATA[独立开发商 Orangepixel 目前有两款非常有趣的游戏值得研究，两者都提供完整的原生 Linux 支持，并且都有更新的演示可供尝试。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/08/check-out-the-demos-for-heroes-of-loot-gauntlet-of-power-and-regulator-city/</guid>
-      <pubDate>Mon, 07 Aug 2023 16:49:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
