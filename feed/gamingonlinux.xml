@@ -4,11 +4,18 @@
     <title>GamingOnLinux 最新文章</title>
     <link>https://www.gamingonlinux.com/</link>
     <description>GamingOnLinux 的最新文章</description>
-    <lastBuildDate>Wed, 09 Aug 2023 20:05:38 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Aug 2023 10:27:50 GMT</lastBuildDate>
+    <item>
+      <title>Proton Experimental 改进了英特尔 GPU 上的 Baldur's Gate 3 启动器和虚幻引擎 4 错误</title>
+      <link>https://www.gamingonlinux.com/2023/08/proton-experimental-baldurs-gate-3-unreal-engine-4-intel-gpus/</link>
+      <description><![CDATA[全新的 Proton Experimental 版本现已于 8 月 9 日上线，其中包含一些漂亮的修复，因此以下是 Linux 桌面和 Steam Deck 的预期内容。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/08/proton-experimental-baldurs-gate-3-unreal-engine-4-intel-gpus/</guid>
+      <pubDate>Thu, 10 Aug 2023 10:27:50 GMT</pubDate>
+    </item>
     <item>
       <title>《生化危机》村庄以及这个新捆绑包中提供的更多内容</title>
       <link>https://www.gamingonlinux.com/2023/08/resident-evil-village-and-plenty-more-available-in-this-new-bundle/</link>
-      <description><![CDATA[由于 Humble Bundle 的《生化危机：数十年的恐怖》乡村版捆绑包现已上线，我可能终于可以畅玩《生化危机村庄》了。]]></description>
+      <description><![CDATA[由于 Humble Bundle 的《生化危机：数十年的恐怖 - 乡村版捆绑包》现已上线，我可能终于可以畅玩《生化危机村庄》了。]]></description>
       <guid>https://www.gamingonlinux.com/2023/08/resident-evil-village-and-plenty-more-available-in-this-new-bundle/</guid>
       <pubDate>Wed, 09 Aug 2023 20:05:38 GMT</pubDate>
     </item>
@@ -34,7 +41,7 @@
       <pubDate>Wed, 09 Aug 2023 13:30:14 GMT</pubDate>
     </item>
     <item>
-      <title>《Valheim》在测试中有一个相当大的错误修复版本</title>
+      <title>Valheim 在测试中有一个相当大的错误修复版本</title>
       <link>https://www.gamingonlinux.com/2023/08/valheim-has-a-rather-large-bug-fix-release-in-testing/</link>
       <description><![CDATA[准备好迎接生存游戏《瓦尔海姆》的下一个更大补丁了吗？开发商 Iron Gate 进行了一项新的公开测试，其中包含许多修复程序。]]></description>
       <guid>https://www.gamingonlinux.com/2023/08/valheim-has-a-rather-large-bug-fix-release-in-testing/</guid>
@@ -64,7 +71,7 @@
     <item>
       <title>我最喜欢的 roguelike 游戏之一 Jupiter Hell 增加了模组支持</title>
       <link>https://www.gamingonlinux.com/2023/08/one-of-my-favourite-roguelikes-jupiter-hell-adds-modding-support/</link>
-      <description><![CDATA[哦地狱！我想是时候再跑几趟了。 《Jupiter Hell》是我最喜欢的 Roguelike 游戏之一，其动作设计非常流畅，现在有了模组支持。]]></description>
+      <description><![CDATA[哦地狱！我想是时候再跑几趟了。 《Jupiter Hell》是我最喜欢的 Roguelike 游戏之一，它的动作设计非常流畅，现在有了模组支持。]]></description>
       <guid>https://www.gamingonlinux.com/2023/08/one-of-my-favourite-roguelikes-jupiter-hell-adds-modding-support/</guid>
       <pubDate>Tue, 08 Aug 2023 15:48:58 GMT</pubDate>
     </item>
@@ -90,7 +97,7 @@
       <pubDate>Tue, 08 Aug 2023 09:45:28 GMT</pubDate>
     </item>
     <item>
-      <title>Steam 正在举办视觉小说节，截止日期为 8 月 14 日</title>
+      <title>Steam 将举办视觉小说节，直至 8 月 14 日</title>
       <link>https://www.gamingonlinux.com/2023/08/steam-is-having-a-festival-for-visual-novels-until-august-14th/</link>
       <description><![CDATA[准备好听故事了吗？如果您热衷于视觉小说，那么您很有机会在 Steam 的视觉小说节中找到新的游戏内容。]]></description>
       <guid>https://www.gamingonlinux.com/2023/08/steam-is-having-a-festival-for-visual-novels-until-august-14th/</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[独立开发商 Orangepixel 目前有两款非常有趣的游戏值得研究，两者都提供完整的原生 Linux 支持，并且都有更新的演示可供尝试。]]></description>
       <guid>https://www.gamingonlinux.com/2023/08/check-out-the-demos-for-heroes-of-loot-gauntlet-of-power-and-regulator-city/</guid>
       <pubDate>Mon, 07 Aug 2023 16:49:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>NVIDIA 的开源 Vulkan 驱动程序 NVK 合并到 Mesa</title>
-      <link>https://www.gamingonlinux.com/2023/08/nvk-the-open-source-vulkan-driver-for-nvidia-merged-into-mesa/</link>
-      <description><![CDATA[好吧，它发生了！名为 NVK 的 NVIDIA GPU 开源 Vulkan 驱动程序已正式合并到 Mesa 中。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/08/nvk-the-open-source-vulkan-driver-for-nvidia-merged-into-mesa/</guid>
-      <pubDate>Mon, 07 Aug 2023 11:26:20 GMT</pubDate>
     </item>
     </channel>
 </rss>
