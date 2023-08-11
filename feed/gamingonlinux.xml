@@ -4,7 +4,21 @@
     <title>GamingOnLinux 最新文章</title>
     <link>https://www.gamingonlinux.com/</link>
     <description>GamingOnLinux 的最新文章</description>
-    <lastBuildDate>Thu, 10 Aug 2023 17:29:31 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Aug 2023 22:08:25 GMT</lastBuildDate>
+    <item>
+      <title>《守望先锋 2》在 Steam 上发布 - 在 Steam Deck 和桌面 Linux 上运行良好</title>
+      <link>https://www.gamingonlinux.com/2023/08/overwatch-2-out-on-steam-works-fine-on-steam-deck-and-desktop-linux/</link>
+      <description><![CDATA[暴雪的《守望先锋 2》现已在 Steam 上发布，因此，在 Steam Deck 和桌面 Linux 上运行它变得非常简单。尽管Steam Deck玩家会想要更改Proton版本。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/08/overwatch-2-out-on-steam-works-fine-on-steam-deck-and-desktop-linux/</guid>
+      <pubDate>Thu, 10 Aug 2023 22:08:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>《雷神之锤 II 重制版》阴影掉落，可在 Steam Deck 上玩</title>
+      <link>https://www.gamingonlinux.com/2023/08/quake-ii-remastered-shadow-dropped-playable-on-steam-deck/</link>
+      <description><![CDATA[id Software 和 Nightdive Studios 再次推出了 Quake II 的增强版，现在可用于所有平台，最棒的是，如果您已经在 Steam 上拥有 Quake II，则可以免费更新。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/08/quake-ii-remastered-shadow-dropped-playable-on-steam-deck/</guid>
+      <pubDate>Thu, 10 Aug 2023 19:01:45 GMT</pubDate>
+    </item>
     <item>
       <title>自动战斗套牌构建 Roguelike“Hadean Tactics”增加了游戏手柄支持</title>
       <link>https://www.gamingonlinux.com/2023/08/auto-battling-deck-building-roguelike-hadean-tactics-adds-gamepad-support/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[按玩家数量查看 Steam 上玩得最多的游戏，以下是其中有多少可以在 Steam Deck 和桌面 Linux 上玩的游戏。]]></description>
       <guid>https://www.gamingonlinux.com/2023/08/83-of-the-top-100-most-played-steam-games-work-on-steam-deck/</guid>
       <pubDate>Tue, 08 Aug 2023 17:33:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>我最喜欢的 roguelike 游戏之一 Jupiter Hell 增加了模组支持</title>
-      <link>https://www.gamingonlinux.com/2023/08/one-of-my-favourite-roguelikes-jupiter-hell-adds-modding-support/</link>
-      <description><![CDATA[哦地狱！我想是时候再跑几趟了。 《Jupiter Hell》是我最喜欢的 Roguelike 游戏之一，其动作设计非常流畅，现在有了模组支持。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/08/one-of-my-favourite-roguelikes-jupiter-hell-adds-modding-support/</guid>
-      <pubDate>Tue, 08 Aug 2023 15:48:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>看起来 Valve 将出售翻新的 Steam Decks</title>
-      <link>https://www.gamingonlinux.com/2023/08/looks-like-valve-will-sell-refurbished-steam-decks/</link>
-      <description><![CDATA[Valve 似乎提前透露了他们计划以更便宜的价格出售 Steam Deck 翻新型号的消息，但商店页面很快就被隐藏了。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/08/looks-like-valve-will-sell-refurbished-steam-decks/</guid>
-      <pubDate>Tue, 08 Aug 2023 13:08:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
