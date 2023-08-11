@@ -4,7 +4,14 @@
     <title>GamingOnLinux 最新文章</title>
     <link>https://www.gamingonlinux.com/</link>
     <description>GamingOnLinux 的最新文章</description>
-    <lastBuildDate>Fri, 11 Aug 2023 11:06:47 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Aug 2023 16:36:36 GMT</lastBuildDate>
+    <item>
+      <title>Escape Simulator 将获得免费的 Portal 跨界 DLC</title>
+      <link>https://www.gamingonlinux.com/2023/08/escape-simulator-is-getting-a-free-portal-cross-over-dlc/</link>
+      <description><![CDATA[Pine Studio 宣布，他们的热门益智游戏 Escape Simulator 将获得 Valve 批准的 Portal 主题免费 DLC Escape Simulator：Portal Escape Chamber。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/08/escape-simulator-is-getting-a-free-portal-cross-over-dlc/</guid>
+      <pubDate>Fri, 11 Aug 2023 16:36:36 GMT</pubDate>
+    </item>
     <item>
       <title>Linux Mint 计划新的“EDGE”ISO，以及将于 12 月发布的 Linux Mint 21.3</title>
       <link>https://www.gamingonlinux.com/2023/08/linux-mint-planning-new-edge-iso-plus-linux-mint-213-due-in-december/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[呃哦！英特尔 CPU 中发现了另一个相当严重的安全漏洞，名为 Downfall，因此这里有一些相关信息。此外，AMD 还在处理 INCEPTION。]]></description>
       <guid>https://www.gamingonlinux.com/2023/08/downfall-inception-amd-intel-security/</guid>
       <pubDate>Wed, 09 Aug 2023 14:56:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>Vagrus - 裂痕国度获得 Steam 套牌验证</title>
-      <link>https://www.gamingonlinux.com/2023/08/vagrus-the-riven-realms-gets-steam-deck-verified/</link>
-      <description><![CDATA[Vagrus - The Riven Realms 是一款叙事性很强的角色扮演游戏，融合了探索、回合制战斗、资源管理等内容。截至最新升级，它现已通过 Steam Deck 验证。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/08/vagrus-the-riven-realms-gets-steam-deck-verified/</guid>
-      <pubDate>Wed, 09 Aug 2023 13:48:21 GMT</pubDate>
     </item>
     </channel>
 </rss>
