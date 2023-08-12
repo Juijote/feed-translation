@@ -4,7 +4,14 @@
     <title>GamingOnLinux 最新文章</title>
     <link>https://www.gamingonlinux.com/</link>
     <description>GamingOnLinux 的最新文章</description>
-    <lastBuildDate>Fri, 11 Aug 2023 16:36:36 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Aug 2023 19:05:57 GMT</lastBuildDate>
+    <item>
+      <title>Humble 推出了包含 Jupiter Hell、Coromon、Songs of Conquest 的新捆绑包</title>
+      <link>https://www.gamingonlinux.com/2023/08/humble-has-a-new-bundle-with-jupiter-hell-coromon-songs-of-conquest/</link>
+      <description><![CDATA[现在，这是一个看起来很美味的捆绑包，里面装满了战术好东西！ Take Your Turn &amp; RPGs Bundle 现已上线，其中有一系列非常棒的游戏可供选择。不容错过的一个。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/08/humble-has-a-new-bundle-with-jupiter-hell-coromon-songs-of-conquest/</guid>
+      <pubDate>Fri, 11 Aug 2023 19:05:57 GMT</pubDate>
+    </item>
     <item>
       <title>Escape Simulator 将获得免费的 Portal 跨界 DLC</title>
       <link>https://www.gamingonlinux.com/2023/08/escape-simulator-is-getting-a-free-portal-cross-over-dlc/</link>
@@ -22,7 +29,7 @@
     <item>
       <title>Proton Experimental 修复了《街头霸王 6》并禁用了《Rachet & Clank》的 NVAPI</title>
       <link>https://www.gamingonlinux.com/2023/08/proton-experimental-fixes-street-fighter-6-and-disables-nvapi-for-rachet-clank/</link>
-      <description><![CDATA[8 月 10 日，针对 Steam Deck 和桌面 Linux 推出了 Proton Experimental 的小更新，以修复两款有问题的游戏。]]></description>
+      <description><![CDATA[8 月 10 日针对 Steam Deck 和桌面 Linux 推出了 Proton Experimental 的小更新，以修复两款有问题的游戏。]]></description>
       <guid>https://www.gamingonlinux.com/2023/08/proton-experimental-fixes-street-fighter-6-and-disables-nvapi-for-rachet-clank/</guid>
       <pubDate>Fri, 11 Aug 2023 10:48:59 GMT</pubDate>
     </item>
@@ -55,7 +62,7 @@
       <pubDate>Thu, 10 Aug 2023 22:08:25 GMT</pubDate>
     </item>
     <item>
-      <title>《雷神之锤 II 重制版》暗影掉落，可在 Steam Deck 上畅玩</title>
+      <title>《雷神之锤 II 重制版》阴影掉落，可在 Steam Deck 上玩</title>
       <link>https://www.gamingonlinux.com/2023/08/quake-ii-remastered-shadow-dropped-playable-on-steam-deck/</link>
       <description><![CDATA[id Software 和 Nightdive Studios 再次推出了 Quake II 的增强版，现在可用于所有平台，最棒的是，如果您已经在 Steam 上拥有 Quake II，则可以免费更新。]]></description>
       <guid>https://www.gamingonlinux.com/2023/08/quake-ii-remastered-shadow-dropped-playable-on-steam-deck/</guid>
@@ -99,16 +106,9 @@
     <item>
       <title>《生化危机》村庄以及这个新捆绑包中提供的更多内容</title>
       <link>https://www.gamingonlinux.com/2023/08/resident-evil-village-and-plenty-more-available-in-this-new-bundle/</link>
-      <description><![CDATA[由于 Humble Bundle 的《生化危机：数十年的恐怖 - 乡村版捆绑包》现已上线，我可能终于可以畅玩《生化危机村庄》了。]]></description>
+      <description><![CDATA[由于 Humble Bundle 的《生化危机：数十年的恐怖》乡村版捆绑包现已上线，我可能终于可以畅玩《生化危机村庄》了。]]></description>
       <guid>https://www.gamingonlinux.com/2023/08/resident-evil-village-and-plenty-more-available-in-this-new-bundle/</guid>
       <pubDate>Wed, 09 Aug 2023 20:05:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>崩溃是英特尔CPU的一个新的“严重”缺陷，而AMD正在处理INCEPTION</title>
-      <link>https://www.gamingonlinux.com/2023/08/downfall-inception-amd-intel-security/</link>
-      <description><![CDATA[呃哦！英特尔 CPU 中发现了另一个相当严重的安全漏洞，名为 Downfall，因此这里有一些相关信息。此外，AMD 还在处理 INCEPTION。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/08/downfall-inception-amd-intel-security/</guid>
-      <pubDate>Wed, 09 Aug 2023 14:56:25 GMT</pubDate>
     </item>
     </channel>
 </rss>
