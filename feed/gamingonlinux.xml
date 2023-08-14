@@ -4,7 +4,42 @@
     <title>GamingOnLinux 最新文章</title>
     <link>https://www.gamingonlinux.com/</link>
     <description>GamingOnLinux 的最新文章</description>
-    <lastBuildDate>Mon, 14 Aug 2023 12:17:14 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Aug 2023 14:28:35 GMT</lastBuildDate>
+    <item>
+      <title>《守望先锋 2》成为 Steam 上用户评价最差的游戏</title>
+      <link>https://www.gamingonlinux.com/2023/08/overwatch-2-becomes-the-worst-user-reviewed-game-on-steam/</link>
+      <description><![CDATA[虽然 Larian 等其他开发商在《博德之门 3》上表现出色，但暴雪似乎表现不佳，最近在 Steam 上发布的《守望先锋 2》成为 Steam 上有史以来用户评价最差的游戏。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/08/overwatch-2-becomes-the-worst-user-reviewed-game-on-steam/</guid>
+      <pubDate>Mon, 14 Aug 2023 14:28:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>看看经典赛车 wipEout 的现代重写</title>
+      <link>https://www.gamingonlinux.com/2023/08/check-out-this-modern-rewrite-of-the-classic-racer-wipeout/</link>
+      <description><![CDATA[你还记得原来的wipEout吗？一款绝对经典的赛车游戏，最初于 1995 年针对 Sony PlayStation、DOS 以及后来的 SEGA Saturn 发布。现在有一个现代的跨平台重制版可供尝试。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/08/check-out-this-modern-rewrite-of-the-classic-racer-wipeout/</guid>
+      <pubDate>Mon, 14 Aug 2023 13:55:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>《Crowsworn》的最新预告片让我非常想要这款类似《空洞骑士》的游戏</title>
+      <link>https://www.gamingonlinux.com/2023/08/latest-trailer-for-crowsworn-hollow-knight-like/</link>
+      <description><![CDATA[《Crowsworn》看起来进展顺利，《空洞骑士》的粉丝们会想要密切关注它。为了庆祝 Kickstarter 上市两周年，他们推出了新预告片。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/08/latest-trailer-for-crowsworn-hollow-knight-like/</guid>
+      <pubDate>Mon, 14 Aug 2023 13:24:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Linux 内核获得针对 Steam Deck APU 的 AMD Zenbleed 修复</title>
+      <link>https://www.gamingonlinux.com/2023/08/linux-kernel-gets-an-amd-zenbleed-fix-for-the-steam-deck-apu/</link>
+      <description><![CDATA[我在 7 月份不知何故错过的一个安全问题是 Zenbleed，这是 AMD CPU 的一个问题，已在 Linux 内核中进行了修补，现在 Steam Deck 也正在针对该问题进行内核修复。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/08/linux-kernel-gets-an-amd-zenbleed-fix-for-the-steam-deck-apu/</guid>
+      <pubDate>Mon, 14 Aug 2023 12:54:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>AMD RADV 光线追踪在 Linux 上可能会变得更快</title>
+      <link>https://www.gamingonlinux.com/2023/08/amd-radv-ray-tracing-to-potentially-get-much-faster-on-linux/</link>
+      <description><![CDATA[目前一些工作有待纳入 Mesa，开源 AMD RADV 驱动程序可能会通过光线追踪而变得更快，这是令人兴奋的。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/08/amd-radv-ray-tracing-to-potentially-get-much-faster-on-linux/</guid>
+      <pubDate>Mon, 14 Aug 2023 12:32:11 GMT</pubDate>
+    </item>
     <item>
       <title>在 KDE Plasma 6 壁纸大赛中赢得一台 Framework Laptop 13</title>
       <link>https://www.gamingonlinux.com/2023/08/win-a-framework-laptop-13-in-the-kde-plasma-6-wallpaper-competition/</link>
@@ -74,41 +109,6 @@
       <description><![CDATA[早些时候，我们报道了 id Software 和 Nightdive Studios 如何再次合作，为新一代重新制作《雷神之锤 II》，并在 QuakeCon 上将其抛在了身后。好吧，这只是庆祝活动的一部分，因为 id 和 Bethesda 已经发售了一系列热门游戏来庆祝 QuakeCon。]]></description>
       <guid>https://www.gamingonlinux.com/2023/08/celebrate-quakecon-and-quake-ii-remastered-with-this-steam-sale/</guid>
       <pubDate>Fri, 11 Aug 2023 09:39:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>生存恐怖牌组构建游戏《Draft of Darkness》将于 8 月 23 日推出</title>
-      <link>https://www.gamingonlinux.com/2023/08/survival-horror-deck-builder-draft-of-darkness-launches-august-23rd/</link>
-      <description><![CDATA[将生存、恐怖、套牌构建和 Roguelike 地牢探索融为一体 - 《Draft of Darkness》应有尽有。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/08/survival-horror-deck-builder-draft-of-darkness-launches-august-23rd/</guid>
-      <pubDate>Fri, 11 Aug 2023 09:33:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>《守望先锋 2》在 Steam 上发布 - 在 Steam Deck 和桌面 Linux 上运行良好</title>
-      <link>https://www.gamingonlinux.com/2023/08/overwatch-2-out-on-steam-works-fine-on-steam-deck-and-desktop-linux/</link>
-      <description><![CDATA[暴雪的《守望先锋 2》现已在 Steam 上发布，因此，在 Steam Deck 和桌面 Linux 上运行它变得非常简单。尽管Steam Deck玩家会想要更改Proton版本。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/08/overwatch-2-out-on-steam-works-fine-on-steam-deck-and-desktop-linux/</guid>
-      <pubDate>Thu, 10 Aug 2023 22:08:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>《雷神之锤 II 重制版》阴影掉落，可在 Steam Deck 上玩</title>
-      <link>https://www.gamingonlinux.com/2023/08/quake-ii-remastered-shadow-dropped-playable-on-steam-deck/</link>
-      <description><![CDATA[id Software 和 Nightdive Studios 再次推出了 Quake II 的增强版，现在可用于所有平台，最棒的是，如果您已经在 Steam 上拥有 Quake II，则可以免费更新。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/08/quake-ii-remastered-shadow-dropped-playable-on-steam-deck/</guid>
-      <pubDate>Thu, 10 Aug 2023 19:01:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>自动战斗套牌构建 Roguelike“Hadean Tactics”增加了游戏手柄支持</title>
-      <link>https://www.gamingonlinux.com/2023/08/auto-battling-deck-building-roguelike-hadean-tactics-adds-gamepad-support/</link>
-      <description><![CDATA[Hadean Tactics 是一款融合了自动战斗功能的 Roguelike 牌组构建游戏，现在支持游戏手柄，让您可以更加放松。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/08/auto-battling-deck-building-roguelike-hadean-tactics-adds-gamepad-support/</guid>
-      <pubDate>Thu, 10 Aug 2023 17:29:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>Papers, Please 十周年了，销量突破 500 万份</title>
-      <link>https://www.gamingonlinux.com/2023/08/papers-please-turns-10-and-hits-5-million-sales/</link>
-      <description><![CDATA[Papers, Please 是一款关于在名为 Arstotzka 的虚构反乌托邦国家担任移民官员的游戏。这是一次非常独特的体验，对于开发者 Lucas Pope 来说显然做得很好。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/08/papers-please-turns-10-and-hits-5-million-sales/</guid>
-      <pubDate>Thu, 10 Aug 2023 15:36:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
