@@ -4,7 +4,35 @@
     <title>GamingOnLinux 最新文章</title>
     <link>https://www.gamingonlinux.com/</link>
     <description>GamingOnLinux 的最新文章</description>
-    <lastBuildDate>Fri, 11 Aug 2023 19:05:57 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Aug 2023 12:17:14 GMT</lastBuildDate>
+    <item>
+      <title>在 KDE Plasma 6 壁纸大赛中赢得一台 Framework Laptop 13</title>
+      <link>https://www.gamingonlinux.com/2023/08/win-a-framework-laptop-13-in-the-kde-plasma-6-wallpaper-competition/</link>
+      <description><![CDATA[随着 KDE Plasma 6 发布的临近​​，壁纸大赛正在进行中，奖品非常丰厚 - 您可以赢得 Framework Laptop 13 DIY 版！]]></description>
+      <guid>https://www.gamingonlinux.com/2023/08/win-a-framework-laptop-13-in-the-kde-plasma-6-wallpaper-competition/</guid>
+      <pubDate>Mon, 14 Aug 2023 12:17:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>Arcen Games 的 Heart of the Machine 放弃了 Proton 的 Native Linux</title>
+      <link>https://www.gamingonlinux.com/2023/08/heart-of-the-machine-from-arcen-games-dropping-native-linux-for-proton/</link>
+      <description><![CDATA[AI War、The Last Federation、Bionic Dues 的 Arcen Games 开发商表示，他们不再为即将推出的游戏 Heart of the Machine 提供原生 Linux 支持，而是将依赖 Proton。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/08/heart-of-the-machine-from-arcen-games-dropping-native-linux-for-proton/</guid>
+      <pubDate>Mon, 14 Aug 2023 12:07:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>主题医院开源重新实现 CorsixTH 0.67 现已发布</title>
+      <link>https://www.gamingonlinux.com/2023/08/theme-hospital-open-source-corsixth-0-67-out-now/</link>
+      <description><![CDATA[随着游戏引擎重新实现 CorsixTH 版本 0.67 的发布，在现代系统上玩经典主题医院的最佳方式就在这里。继续阅读以了解新内容。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/08/theme-hospital-open-source-corsixth-0-67-out-now/</guid>
+      <pubDate>Mon, 14 Aug 2023 11:36:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>安息吧 Dustin 'Crusader' Reyes，Linux 游戏新闻先驱</title>
+      <link>https://www.gamingonlinux.com/2023/08/rest-in-peace-dustin-crusader-reyes-a-pioneer-of-linux-gaming-news/</link>
+      <description><![CDATA[本周一早上要分享一些悲伤的消息。我想很多新读者实际上并不知道这个名字，Dustin “Crusader” Reyes 不幸去世了，他是 Linux 游戏新闻的先驱。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/08/rest-in-peace-dustin-crusader-reyes-a-pioneer-of-linux-gaming-news/</guid>
+      <pubDate>Mon, 14 Aug 2023 10:28:56 GMT</pubDate>
+    </item>
     <item>
       <title>Humble 推出了包含 Jupiter Hell、Coromon、Songs of Conquest 的新捆绑包</title>
       <link>https://www.gamingonlinux.com/2023/08/humble-has-a-new-bundle-with-jupiter-hell-coromon-songs-of-conquest/</link>
@@ -81,34 +109,6 @@
       <description><![CDATA[Papers, Please 是一款关于在名为 Arstotzka 的虚构反乌托邦国家担任移民官员的游戏。这是一次非常独特的体验，对于开发者 Lucas Pope 来说显然做得很好。]]></description>
       <guid>https://www.gamingonlinux.com/2023/08/papers-please-turns-10-and-hits-5-million-sales/</guid>
       <pubDate>Thu, 10 Aug 2023 15:36:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>Broforce Forever 已推出，包含新角色、敌人等</title>
-      <link>https://www.gamingonlinux.com/2023/08/broforce-forever-has-launched-with-new-characters-enemies-and-more/</link>
-      <description><![CDATA[《Broforce Forever》现已为所有用户提供免费大型升级，以下是我最喜欢的动作平台游戏的一些新功能。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/08/broforce-forever-has-launched-with-new-characters-enemies-and-more/</guid>
-      <pubDate>Thu, 10 Aug 2023 13:58:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>VIDEOVERSE 是一封写给早期互联网粉丝社区的情书 - 现已发布</title>
-      <link>https://www.gamingonlinux.com/2023/08/videoverse-is-a-love-letter-to-early-internet-fan-communities/</link>
-      <description><![CDATA[受到 Miiverse、MSN Messenger、早期互联网论坛和 00 年代技术 VIDEOVERSE 的启发，这款视觉小说冒险游戏让您通过虚构的 Kinmoku Shark 游戏系统及其在线社交网络重温过去的互联网。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/08/videoverse-is-a-love-letter-to-early-internet-fan-communities/</guid>
-      <pubDate>Thu, 10 Aug 2023 12:40:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>Proton Experimental 改进了英特尔 GPU 上的 Baldur's Gate 3 启动器和虚幻引擎 4 错误</title>
-      <link>https://www.gamingonlinux.com/2023/08/proton-experimental-baldurs-gate-3-unreal-engine-4-intel-gpus/</link>
-      <description><![CDATA[全新的 Proton Experimental 版本现已于 8 月 9 日上线，其中包含一些漂亮的修复，因此以下是 Linux 桌面和 Steam Deck 的预期内容。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/08/proton-experimental-baldurs-gate-3-unreal-engine-4-intel-gpus/</guid>
-      <pubDate>Thu, 10 Aug 2023 10:27:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>《生化危机》村庄以及这个新捆绑包中提供的更多内容</title>
-      <link>https://www.gamingonlinux.com/2023/08/resident-evil-village-and-plenty-more-available-in-this-new-bundle/</link>
-      <description><![CDATA[由于 Humble Bundle 的《生化危机：数十年的恐怖》乡村版捆绑包现已上线，我可能终于可以畅玩《生化危机村庄》了。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/08/resident-evil-village-and-plenty-more-available-in-this-new-bundle/</guid>
-      <pubDate>Wed, 09 Aug 2023 20:05:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
