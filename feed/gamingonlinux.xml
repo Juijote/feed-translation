@@ -4,7 +4,28 @@
     <title>GamingOnLinux 最新文章</title>
     <link>https://www.gamingonlinux.com/</link>
     <description>GamingOnLinux 的最新文章</description>
-    <lastBuildDate>Mon, 14 Aug 2023 14:28:35 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Aug 2023 18:49:10 GMT</lastBuildDate>
+    <item>
+      <title>Steam Beta 更新，支持印度尼西亚语，4K 高品质流媒体预设</title>
+      <link>https://www.gamingonlinux.com/2023/08/steam-beta-updated-with-indonesian-support-4k-high-quality-streaming-preset/</link>
+      <description><![CDATA[Valve 发布了适用于桌面和 Steam Deck 的 Steam 客户端的新 Beta 版本，以及添加印度尼西亚语支持的扩展。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/08/steam-beta-updated-with-indonesian-support-4k-high-quality-streaming-preset/</guid>
+      <pubDate>Tue, 15 Aug 2023 18:49:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>漫画冒险《佩妮盗窃：零工经济超级恶棍》现已出版</title>
+      <link>https://www.gamingonlinux.com/2023/08/comic-book-adventure-penny-larceny-gig-economy-supervillain-is-out-now/</link>
+      <description><![CDATA[喜欢漫画和视觉小说吗？超级英雄呢？你应该看看最近发布的《便士盗窃：零工经济超级恶棍》，它看起来很棒。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/08/comic-book-adventure-penny-larceny-gig-economy-supervillain-is-out-now/</guid>
+      <pubDate>Tue, 15 Aug 2023 18:30:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>We Stay Behind 是 Unforeseen Incidents 开发商的下一款游戏</title>
+      <link>https://www.gamingonlinux.com/2023/08/we-stay-behind-is-the-next-game-from-unforeseen-incidents-developer/</link>
+      <description><![CDATA[您喜欢 Backwoods Entertainment 的《不可预见的事件》吗？他们发布了新游戏《We Stay Behind》，这是一款介于梦想与现实之间的单人第三人称悬疑游戏。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/08/we-stay-behind-is-the-next-game-from-unforeseen-incidents-developer/</guid>
+      <pubDate>Tue, 15 Aug 2023 18:24:22 GMT</pubDate>
+    </item>
     <item>
       <title>《守望先锋 2》成为 Steam 上用户评价最差的游戏</title>
       <link>https://www.gamingonlinux.com/2023/08/overwatch-2-becomes-the-worst-user-reviewed-game-on-steam/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[Linux Mint 团队即将推出一些有趣的计划，包括用于在较新的硬件上运行 Mint 的新 EDGE ISO、有关下一个 Linux Mint 版本的信息以及他们对 Ubuntu 和 Snap 的担忧。]]></description>
       <guid>https://www.gamingonlinux.com/2023/08/linux-mint-planning-new-edge-iso-plus-linux-mint-213-due-in-december/</guid>
       <pubDate>Fri, 11 Aug 2023 11:06:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>Proton Experimental 修复了《街头霸王 6》并禁用了《Rachet & Clank》的 NVAPI</title>
-      <link>https://www.gamingonlinux.com/2023/08/proton-experimental-fixes-street-fighter-6-and-disables-nvapi-for-rachet-clank/</link>
-      <description><![CDATA[8 月 10 日针对 Steam Deck 和桌面 Linux 推出了 Proton Experimental 的小更新，以修复两款有问题的游戏。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/08/proton-experimental-fixes-street-fighter-6-and-disables-nvapi-for-rachet-clank/</guid>
-      <pubDate>Fri, 11 Aug 2023 10:48:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>Fanatical 为 Steam Deck 推出 Play On The Go 夏季捆绑包</title>
-      <link>https://www.gamingonlinux.com/2023/08/fanatical-has-play-on-the-go-summer-bundle-for-steam-deck/</link>
-      <description><![CDATA[Fanatical 目前正在进行他们自己的特别夏季促销，推出新捆绑包，例如 Play On The Go Bundle - 夏季版、免费游戏和大量折扣。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/08/fanatical-has-play-on-the-go-summer-bundle-for-steam-deck/</guid>
-      <pubDate>Fri, 11 Aug 2023 10:05:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>通过此次 Steam 特卖来庆祝 QuakeCon 和 Quake II Remastered</title>
-      <link>https://www.gamingonlinux.com/2023/08/celebrate-quakecon-and-quake-ii-remastered-with-this-steam-sale/</link>
-      <description><![CDATA[早些时候，我们报道了 id Software 和 Nightdive Studios 如何再次合作，为新一代重新制作《雷神之锤 II》，并在 QuakeCon 上将其抛在了身后。好吧，这只是庆祝活动的一部分，因为 id 和 Bethesda 已经发售了一系列热门游戏来庆祝 QuakeCon。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/08/celebrate-quakecon-and-quake-ii-remastered-with-this-steam-sale/</guid>
-      <pubDate>Fri, 11 Aug 2023 09:39:36 GMT</pubDate>
     </item>
     </channel>
 </rss>
