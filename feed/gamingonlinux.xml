@@ -4,7 +4,49 @@
     <title>GamingOnLinux 最新文章</title>
     <link>https://www.gamingonlinux.com/</link>
     <description>GamingOnLinux 的最新文章</description>
-    <lastBuildDate>Tue, 15 Aug 2023 18:49:10 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Aug 2023 11:46:59 GMT</lastBuildDate>
+    <item>
+      <title>《暴风雨崛起》带回了《命令与征服》的回忆</title>
+      <link>https://www.gamingonlinux.com/2023/08/tempest-rising-brings-back-memories-of-command-conquer/</link>
+      <description><![CDATA[《Tempest Rising》是 Slipgate Ironworks 和 2B Games 即将推出的一款基地建设 RTS，通过 THQ Nordic 和 3D Realms 发行，第一个可玩预览版已随第一个 GDF 任务一起发布。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/08/tempest-rising-brings-back-memories-of-command-conquer/</guid>
+      <pubDate>Wed, 16 Aug 2023 11:46:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sandtrix 是一款类似俄罗斯方块的落块游戏，即将在 Steam 上发布 Sandtrix+ 版本</title>
+      <link>https://www.gamingonlinux.com/2023/08/sandtrix-the-falling-block-tetris-like-is-getting-a-sandtrix-steam-release/</link>
+      <description><![CDATA[Sandtrix 最初被称为 Setris，直到 Tetris Holding, LLC 的 DMCA 出现后，Sandtrix 现在获得了 Sandtrix+ 处理，并将于 9 月 1 日在 Steam 上发布完整版。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/08/sandtrix-the-falling-block-tetris-like-is-getting-a-sandtrix-steam-release/</guid>
+      <pubDate>Wed, 16 Aug 2023 10:23:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>ProtonDB 现在具有 PC 和 Steam Deck 报告的过滤器</title>
+      <link>https://www.gamingonlinux.com/2023/08/protondb-now-has-filters-for-pc-and-steam-deck-reports/</link>
+      <description><![CDATA[ProtonDB 是很多人了解游戏如何在 Linux 桌面和 Steam Deck 上运行的首选，虽然它的评级系统远非完美，但拥有它还是很不错的。最近的升级也让浏览变得更加顺畅。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/08/protondb-now-has-filters-for-pc-and-steam-deck-reports/</guid>
+      <pubDate>Wed, 16 Aug 2023 10:01:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>《去月球 - 海滩》剧集发布预告片，此外还将推出纸牌游戏</title>
+      <link>https://www.gamingonlinux.com/2023/08/to-the-moon-beach-episode-gets-a-trailer-plus-theres-going-to-be-a-card-game/</link>
+      <description><![CDATA[Freebird Games 发布了《To the Moon - Beach Episode》的全新预告片，下一个是这个 2D RPG 冒险系列，甚至还有现实生活中的卡牌游戏。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/08/to-the-moon-beach-episode-gets-a-trailer-plus-theres-going-to-be-a-card-game/</guid>
+      <pubDate>Wed, 16 Aug 2023 09:35:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>《博德之门 3》将迎来一些重大更新</title>
+      <link>https://www.gamingonlinux.com/2023/08/baldurs-gate-3-is-going-to-get-some-big-updates/</link>
+      <description><![CDATA[我仍然完全迷上了《博德之门 3》，这是我一段时间以来第一次完全沉迷于一款游戏，而且它也将获得一些重大更新。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/08/baldurs-gate-3-is-going-to-get-some-big-updates/</guid>
+      <pubDate>Wed, 16 Aug 2023 09:24:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Debian 日快乐 - 持续 30 周年</title>
+      <link>https://www.gamingonlinux.com/2023/08/happy-debian-day-going-30-years-strong/</link>
+      <description><![CDATA[今天是 Debian Day，这是一个非常特别的日子，因为 Debian 项目至今已经走过了 30 年，这是一个非常令人印象深刻的里程碑。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/08/happy-debian-day-going-30-years-strong/</guid>
+      <pubDate>Wed, 16 Aug 2023 09:06:54 GMT</pubDate>
+    </item>
     <item>
       <title>Steam Beta 更新，支持印度尼西亚语，4K 高品质流媒体预设</title>
       <link>https://www.gamingonlinux.com/2023/08/steam-beta-updated-with-indonesian-support-4k-high-quality-streaming-preset/</link>
@@ -67,48 +109,6 @@
       <description><![CDATA[随着 KDE Plasma 6 发布的临近​​，壁纸大赛正在进行中，奖品非常丰厚 - 您可以赢得 Framework Laptop 13 DIY 版！]]></description>
       <guid>https://www.gamingonlinux.com/2023/08/win-a-framework-laptop-13-in-the-kde-plasma-6-wallpaper-competition/</guid>
       <pubDate>Mon, 14 Aug 2023 12:17:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>Arcen Games 的 Heart of the Machine 放弃了 Proton 的 Native Linux</title>
-      <link>https://www.gamingonlinux.com/2023/08/heart-of-the-machine-from-arcen-games-dropping-native-linux-for-proton/</link>
-      <description><![CDATA[AI War、The Last Federation、Bionic Dues 的 Arcen Games 开发商表示，他们不再为即将推出的游戏 Heart of the Machine 提供原生 Linux 支持，而是将依赖 Proton。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/08/heart-of-the-machine-from-arcen-games-dropping-native-linux-for-proton/</guid>
-      <pubDate>Mon, 14 Aug 2023 12:07:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>主题医院开源重新实现 CorsixTH 0.67 现已发布</title>
-      <link>https://www.gamingonlinux.com/2023/08/theme-hospital-open-source-corsixth-0-67-out-now/</link>
-      <description><![CDATA[随着游戏引擎重新实现 CorsixTH 版本 0.67 的发布，在现代系统上玩经典主题医院的最佳方式就在这里。继续阅读以了解新内容。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/08/theme-hospital-open-source-corsixth-0-67-out-now/</guid>
-      <pubDate>Mon, 14 Aug 2023 11:36:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>安息吧 Dustin 'Crusader' Reyes，Linux 游戏新闻先驱</title>
-      <link>https://www.gamingonlinux.com/2023/08/rest-in-peace-dustin-crusader-reyes-a-pioneer-of-linux-gaming-news/</link>
-      <description><![CDATA[本周一早上要分享一些悲伤的消息。我想很多新读者实际上并不知道这个名字，Dustin “Crusader” Reyes 不幸去世了，他是 Linux 游戏新闻的先驱。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/08/rest-in-peace-dustin-crusader-reyes-a-pioneer-of-linux-gaming-news/</guid>
-      <pubDate>Mon, 14 Aug 2023 10:28:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>Humble 推出了包含 Jupiter Hell、Coromon、Songs of Conquest 的新捆绑包</title>
-      <link>https://www.gamingonlinux.com/2023/08/humble-has-a-new-bundle-with-jupiter-hell-coromon-songs-of-conquest/</link>
-      <description><![CDATA[现在，这是一个看起来很美味的捆绑包，里面装满了战术好东西！ Take Your Turn &amp; RPGs Bundle 现已上线，其中有一系列非常棒的游戏可供选择。不容错过的一个。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/08/humble-has-a-new-bundle-with-jupiter-hell-coromon-songs-of-conquest/</guid>
-      <pubDate>Fri, 11 Aug 2023 19:05:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>Escape Simulator 将获得免费的 Portal 跨界 DLC</title>
-      <link>https://www.gamingonlinux.com/2023/08/escape-simulator-is-getting-a-free-portal-cross-over-dlc/</link>
-      <description><![CDATA[Pine Studio 宣布，他们的热门益智游戏 Escape Simulator 将获得 Valve 批准的 Portal 主题免费 DLC Escape Simulator：Portal Escape Chamber。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/08/escape-simulator-is-getting-a-free-portal-cross-over-dlc/</guid>
-      <pubDate>Fri, 11 Aug 2023 16:36:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>Linux Mint 计划新的“EDGE”ISO，以及将于 12 月发布的 Linux Mint 21.3</title>
-      <link>https://www.gamingonlinux.com/2023/08/linux-mint-planning-new-edge-iso-plus-linux-mint-213-due-in-december/</link>
-      <description><![CDATA[Linux Mint 团队即将推出一些有趣的计划，包括用于在较新的硬件上运行 Mint 的新 EDGE ISO、有关下一个 Linux Mint 版本的信息以及他们对 Ubuntu 和 Snap 的担忧。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/08/linux-mint-planning-new-edge-iso-plus-linux-mint-213-due-in-december/</guid>
-      <pubDate>Fri, 11 Aug 2023 11:06:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
