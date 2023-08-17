@@ -4,7 +4,28 @@
     <title>GamingOnLinux 最新文章</title>
     <link>https://www.gamingonlinux.com/</link>
     <description>GamingOnLinux 的最新文章</description>
-    <lastBuildDate>Wed, 16 Aug 2023 11:46:59 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Aug 2023 20:39:23 GMT</lastBuildDate>
+    <item>
+      <title>Ratchet & Clank: Rift Apart 更新包括针对 Linux 游戏玩家的修复</title>
+      <link>https://www.gamingonlinux.com/2023/08/ratchet-clank-rift-apart-update-includes-a-fix-for-linux-gamers/</link>
+      <description><![CDATA[Ratchet &amp; Clank: Rift Apart 于 7 月底发布，Insomniac Games / Nixxes Software 为其发布了另一个补丁，其中包括针对 Linux 游戏玩家的修复。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/08/ratchet-clank-rift-apart-update-includes-a-fix-for-linux-gamers/</guid>
+      <pubDate>Wed, 16 Aug 2023 20:39:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>此捆绑包中包含《High On Life》、《天外世界》、《野蛮星球之旅》等更多内容</title>
+      <link>https://www.gamingonlinux.com/2023/08/high-on-life-the-outer-worlds-journey-to-the-savage-planet-and-more-in-this-bundle/</link>
+      <description><![CDATA[在这个 Spaced Out Humble Bundle 中，您可以找到大量疯狂的太空科幻小说，其中有一些非常不错的选择。以下是您可以在 Steam Deck 和桌面 Linux 上获得的功能以及期望的兼容性。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/08/high-on-life-the-outer-worlds-journey-to-the-savage-planet-and-more-in-this-bundle/</guid>
+      <pubDate>Wed, 16 Aug 2023 20:28:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>忍者神龟：碎纸机的复仇 - Dimension Shellshock DLC 将于 8 月 31 日发布</title>
+      <link>https://www.gamingonlinux.com/2023/08/tmnt-shredders-revenge-dimension-shellshock-dlc-to-release-on-august-31st/</link>
+      <description><![CDATA[之前发布的原生 Linux 版 DLC Dimension Shellshock 格斗游戏《忍者神龟：碎纸机的复仇》现在已经确定了发布日期和价格，并且同一天还会有单独的免费更新。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/08/tmnt-shredders-revenge-dimension-shellshock-dlc-to-release-on-august-31st/</guid>
+      <pubDate>Wed, 16 Aug 2023 20:19:00 GMT</pubDate>
+    </item>
     <item>
       <title>《暴风雨崛起》带回了《命令与征服》的回忆</title>
       <link>https://www.gamingonlinux.com/2023/08/tempest-rising-brings-back-memories-of-command-conquer/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[《Crowsworn》看起来进展顺利，《空洞骑士》的粉丝们会想要密切关注它。为了庆祝 Kickstarter 上市两周年，他们推出了新预告片。]]></description>
       <guid>https://www.gamingonlinux.com/2023/08/latest-trailer-for-crowsworn-hollow-knight-like/</guid>
       <pubDate>Mon, 14 Aug 2023 13:24:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Linux 内核获得针对 Steam Deck APU 的 AMD Zenbleed 修复</title>
-      <link>https://www.gamingonlinux.com/2023/08/linux-kernel-gets-an-amd-zenbleed-fix-for-the-steam-deck-apu/</link>
-      <description><![CDATA[我在 7 月份不知何故错过的一个安全问题是 Zenbleed，这是 AMD CPU 的一个问题，已在 Linux 内核中进行了修补，现在 Steam Deck 也正在针对该问题进行内核修复。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/08/linux-kernel-gets-an-amd-zenbleed-fix-for-the-steam-deck-apu/</guid>
-      <pubDate>Mon, 14 Aug 2023 12:54:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>AMD RADV 光线追踪在 Linux 上可能会变得更快</title>
-      <link>https://www.gamingonlinux.com/2023/08/amd-radv-ray-tracing-to-potentially-get-much-faster-on-linux/</link>
-      <description><![CDATA[目前一些工作有待纳入 Mesa，开源 AMD RADV 驱动程序可能会通过光线追踪而变得更快，这是令人兴奋的。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/08/amd-radv-ray-tracing-to-potentially-get-much-faster-on-linux/</guid>
-      <pubDate>Mon, 14 Aug 2023 12:32:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 KDE Plasma 6 壁纸大赛中赢得一台 Framework Laptop 13</title>
-      <link>https://www.gamingonlinux.com/2023/08/win-a-framework-laptop-13-in-the-kde-plasma-6-wallpaper-competition/</link>
-      <description><![CDATA[随着 KDE Plasma 6 发布的临近​​，壁纸大赛正在进行中，奖品非常丰厚 - 您可以赢得 Framework Laptop 13 DIY 版！]]></description>
-      <guid>https://www.gamingonlinux.com/2023/08/win-a-framework-laptop-13-in-the-kde-plasma-6-wallpaper-competition/</guid>
-      <pubDate>Mon, 14 Aug 2023 12:17:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
