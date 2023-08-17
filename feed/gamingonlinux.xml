@@ -4,7 +4,14 @@
     <title>GamingOnLinux 最新文章</title>
     <link>https://www.gamingonlinux.com/</link>
     <description>GamingOnLinux 的最新文章</description>
-    <lastBuildDate>Wed, 16 Aug 2023 20:39:23 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Aug 2023 09:29:38 GMT</lastBuildDate>
+    <item>
+      <title>大理石它！获得 Linux 支持，现已通过 Steam Deck 验证</title>
+      <link>https://www.gamingonlinux.com/2023/08/marble-it-up-gets-linux-support-and-now-steam-deck-verified/</link>
+      <description><![CDATA[大理石它！ Ultra 是 Marble It Up! 的全新免费改造！附带原生 Linux 支持，并且现已通过 Steam Deck 验证。现有业主也可以免费升级。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/08/marble-it-up-gets-linux-support-and-now-steam-deck-verified/</guid>
+      <pubDate>Thu, 17 Aug 2023 09:29:38 GMT</pubDate>
+    </item>
     <item>
       <title>Ratchet & Clank: Rift Apart 更新包括针对 Linux 游戏玩家的修复</title>
       <link>https://www.gamingonlinux.com/2023/08/ratchet-clank-rift-apart-update-includes-a-fix-for-linux-gamers/</link>
@@ -29,7 +36,7 @@
     <item>
       <title>《暴风雨崛起》带回了《命令与征服》的回忆</title>
       <link>https://www.gamingonlinux.com/2023/08/tempest-rising-brings-back-memories-of-command-conquer/</link>
-      <description><![CDATA[《Tempest Rising》是 Slipgate Ironworks 和 2B Games 即将推出的一款基地建设 RTS，通过 THQ Nordic 和 3D Realms 发行，第一个可玩预览版已随第一个 GDF 任务一起发布。]]></description>
+      <description><![CDATA[《Tempest Rising》是 Slipgate Ironworks 和 2B Games 即将推出的一款基地建设 RTS，通过 THQ Nordic 和 3D Realms 发行，首个可玩预览版已随第一个 GDF 任务一起发布。]]></description>
       <guid>https://www.gamingonlinux.com/2023/08/tempest-rising-brings-back-memories-of-command-conquer/</guid>
       <pubDate>Wed, 16 Aug 2023 11:46:59 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[你还记得原来的wipEout吗？一款绝对经典的赛车游戏，最初于 1995 年针对 Sony PlayStation、DOS 以及后来的 SEGA Saturn 发布。现在有一个现代的跨平台重制版可供尝试。]]></description>
       <guid>https://www.gamingonlinux.com/2023/08/check-out-this-modern-rewrite-of-the-classic-racer-wipeout/</guid>
       <pubDate>Mon, 14 Aug 2023 13:55:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>《Crowsworn》的最新预告片让我非常想要这款类似《空洞骑士》的游戏</title>
-      <link>https://www.gamingonlinux.com/2023/08/latest-trailer-for-crowsworn-hollow-knight-like/</link>
-      <description><![CDATA[《Crowsworn》看起来进展顺利，《空洞骑士》的粉丝们会想要密切关注它。为了庆祝 Kickstarter 上市两周年，他们推出了新预告片。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/08/latest-trailer-for-crowsworn-hollow-knight-like/</guid>
-      <pubDate>Mon, 14 Aug 2023 13:24:10 GMT</pubDate>
     </item>
     </channel>
 </rss>

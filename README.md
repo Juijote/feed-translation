@@ -13,6 +13,6 @@
 
  - source001 [https://aeon.co/feed.rss](https://aeon.co/feed.rss) -> [aeon](feed/aeon.xml)
  - source002 [https://thetinylife.com/feed/](https://thetinylife.com/feed/) -> [thetinylife](feed/thetinylife.xml)
- - source003 [https://steamdeckhq.com/feed/](https://steamdeckhq.com/feed/) -> [steamdeckhq](feed/steamdeckhq.xml)
+ - source003 [https://auto.juijote.eu.org/feed/steamdeckhq](https://auto.juijote.eu.org/feed/steamdeckhq) -> [steamdeckhq](feed/steamdeckhq.xml)
  - source004 [https://www.gamingonlinux.com/article_rss.php](https://www.gamingonlinux.com/article_rss.php) -> [gamingonlinux](feed/gamingonlinux.xml)
  - source005 [https://boilingsteam.com/feed/](https://boilingsteam.com/feed/) -> [boilingsteam](feed/boilingsteam.xml)
