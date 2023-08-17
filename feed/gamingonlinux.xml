@@ -4,11 +4,32 @@
     <title>GamingOnLinux 最新文章</title>
     <link>https://www.gamingonlinux.com/</link>
     <description>GamingOnLinux 的最新文章</description>
-    <lastBuildDate>Thu, 17 Aug 2023 09:29:38 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Aug 2023 11:42:51 GMT</lastBuildDate>
+    <item>
+      <title>CrossOver 23 发布，适用于 Linux、ChromeOS 和 macOS 上的 Windows 应用程序和游戏</title>
+      <link>https://www.gamingonlinux.com/2023/08/crossover-23-released-for-windows-apps-and-games-on-linux-chromeos-and-macos/</link>
+      <description><![CDATA[与 Valve on Proton 合作的 CodeWeavers 公司发布了 CrossOver 23 - 他们的应用程序的最新版本，可帮助在 Linux、ChromeOS 和 macOS 等其他平台上运行 Windows 应用程序和游戏。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/08/crossover-23-released-for-windows-apps-and-games-on-linux-chromeos-and-macos/</guid>
+      <pubDate>Thu, 17 Aug 2023 11:42:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nintendo Switch 模拟器 yuzu 获得大量优化，修复了 Pikmin 4 的问题</title>
+      <link>https://www.gamingonlinux.com/2023/08/nintendo-switch-emulator-yuzu-gets-lots-of-optimizations-fixes-for-pikmin-4/</link>
+      <description><![CDATA[Nintendo Switch 模拟器 yuzu 的开发团队又发布了一份进度报告，和往常一样，它看起来非常好，所以这里简单介绍一下他们最近所做的事情。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/08/nintendo-switch-emulator-yuzu-gets-lots-of-optimizations-fixes-for-pikmin-4/</guid>
+      <pubDate>Thu, 17 Aug 2023 10:57:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>查看科幻策略游戏 Silence of the Siren 的第一个游戏玩法</title>
+      <link>https://www.gamingonlinux.com/2023/08/first-gameplay-for-sci-fi-strategy-game-silence-of-the-siren/</link>
+      <description><![CDATA[Silence of the Siren 是一款令人兴奋的游戏，如果您是策略游戏的粉丝，您需要关注，该游戏由创建 Project Hospital 的 Oxymoron Games 开发。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/08/first-gameplay-for-sci-fi-strategy-game-silence-of-the-siren/</guid>
+      <pubDate>Thu, 17 Aug 2023 10:34:48 GMT</pubDate>
+    </item>
     <item>
       <title>大理石它！获得 Linux 支持，现已通过 Steam Deck 验证</title>
       <link>https://www.gamingonlinux.com/2023/08/marble-it-up-gets-linux-support-and-now-steam-deck-verified/</link>
-      <description><![CDATA[大理石它！ Ultra 是 Marble It Up! 的全新免费改造！附带原生 Linux 支持，并且现已通过 Steam Deck 验证。现有业主也可以免费升级。]]></description>
+      <description><![CDATA[大理石它！ Ultra 是 Marble It Up! 的全新免费改造！它附带原生 Linux 支持，并且现在也已通过 Steam Deck 验证。现有业主也可以免费升级。]]></description>
       <guid>https://www.gamingonlinux.com/2023/08/marble-it-up-gets-linux-support-and-now-steam-deck-verified/</guid>
       <pubDate>Thu, 17 Aug 2023 09:29:38 GMT</pubDate>
     </item>
@@ -27,9 +48,9 @@
       <pubDate>Wed, 16 Aug 2023 20:28:35 GMT</pubDate>
     </item>
     <item>
-      <title>忍者神龟：碎纸机的复仇 - Dimension Shellshock DLC 将于 8 月 31 日发布</title>
+      <title>《忍者神龟：粉碎者的复仇》DLC Dimension Shellshock 将于 8 月 31 日发布</title>
       <link>https://www.gamingonlinux.com/2023/08/tmnt-shredders-revenge-dimension-shellshock-dlc-to-release-on-august-31st/</link>
-      <description><![CDATA[之前发布的原生 Linux 版 DLC Dimension Shellshock 格斗游戏《忍者神龟：碎纸机的复仇》现在已经确定了发布日期和价格，并且同一天还会有单独的免费更新。]]></description>
+      <description><![CDATA[之前发布的适用于 Native Linux 版格斗游戏《忍者神龟：碎纸机的复仇》的 DLC Dimension Shellshock 现在已经确定了发布日期和价格，并且同一天还会有单独的免费更新。]]></description>
       <guid>https://www.gamingonlinux.com/2023/08/tmnt-shredders-revenge-dimension-shellshock-dlc-to-release-on-august-31st/</guid>
       <pubDate>Wed, 16 Aug 2023 20:19:00 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[喜欢漫画和视觉小说吗？超级英雄呢？你应该看看最近发布的《便士盗窃：零工经济超级恶棍》，它看起来很棒。]]></description>
       <guid>https://www.gamingonlinux.com/2023/08/comic-book-adventure-penny-larceny-gig-economy-supervillain-is-out-now/</guid>
       <pubDate>Tue, 15 Aug 2023 18:30:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>We Stay Behind 是 Unforeseen Incidents 开发商的下一款游戏</title>
-      <link>https://www.gamingonlinux.com/2023/08/we-stay-behind-is-the-next-game-from-unforeseen-incidents-developer/</link>
-      <description><![CDATA[您喜欢 Backwoods Entertainment 的《不可预见的事件》吗？他们发布了新游戏《We Stay Behind》，这是一款介于梦想与现实之间的单人第三人称悬疑游戏。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/08/we-stay-behind-is-the-next-game-from-unforeseen-incidents-developer/</guid>
-      <pubDate>Tue, 15 Aug 2023 18:24:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>《守望先锋 2》成为 Steam 上用户评价最差的游戏</title>
-      <link>https://www.gamingonlinux.com/2023/08/overwatch-2-becomes-the-worst-user-reviewed-game-on-steam/</link>
-      <description><![CDATA[虽然 Larian 等其他开发商在《博德之门 3》上表现出色，但暴雪似乎表现不佳，最近在 Steam 上发布的《守望先锋 2》成为 Steam 上有史以来用户评价最差的游戏。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/08/overwatch-2-becomes-the-worst-user-reviewed-game-on-steam/</guid>
-      <pubDate>Mon, 14 Aug 2023 14:28:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>看看经典赛车 wipEout 的现代重写</title>
-      <link>https://www.gamingonlinux.com/2023/08/check-out-this-modern-rewrite-of-the-classic-racer-wipeout/</link>
-      <description><![CDATA[你还记得原来的wipEout吗？一款绝对经典的赛车游戏，最初于 1995 年针对 Sony PlayStation、DOS 以及后来的 SEGA Saturn 发布。现在有一个现代的跨平台重制版可供尝试。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/08/check-out-this-modern-rewrite-of-the-classic-racer-wipeout/</guid>
-      <pubDate>Mon, 14 Aug 2023 13:55:40 GMT</pubDate>
     </item>
     </channel>
 </rss>
