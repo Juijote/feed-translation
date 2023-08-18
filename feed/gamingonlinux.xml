@@ -4,7 +4,28 @@
     <title>GamingOnLinux 最新文章</title>
     <link>https://www.gamingonlinux.com/</link>
     <description>GamingOnLinux 的最新文章</description>
-    <lastBuildDate>Fri, 18 Aug 2023 11:31:43 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Aug 2023 16:45:29 GMT</lastBuildDate>
+    <item>
+      <title>《无人深空》发布“Echoes”更新预告片以庆祝 7 周年</title>
+      <link>https://www.gamingonlinux.com/2023/08/no-mans-sky-echoes-teaser-celebrate-7-years/</link>
+      <description><![CDATA[他们表示，《无人深空》的全新重大更新即将推出，他们将用新视频来庆祝发布 7 周年。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/08/no-mans-sky-echoes-teaser-celebrate-7-years/</guid>
+      <pubDate>Fri, 18 Aug 2023 16:45:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>Linux 上的《战争雷霆》没有声音？这是一个潜在的解决方案</title>
+      <link>https://www.gamingonlinux.com/2023/08/no-sound-in-war-thunder-on-linux-heres-a-potential-solution/</link>
+      <description><![CDATA[War Thunder 是一款我非常喜欢和朋友一起玩的游戏，最近 Linux 发行版从 Fedora 跳到 openSUSE，然后又回到安全的 Kubuntu - 我在 War Thunder 中的声音不起作用。但我有一个对我有用的潜在解决方案。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/08/no-sound-in-war-thunder-on-linux-heres-a-potential-solution/</guid>
+      <pubDate>Fri, 18 Aug 2023 16:06:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>SteamVR Beta 对 Linux 进行了一些改进</title>
+      <link>https://www.gamingonlinux.com/2023/08/steamvr-beta-gets-some-improvements-for-linux/</link>
+      <description><![CDATA[Valve 推出了新的 SteamVR Beta，他们似乎已经开始清理 Linux 方面最近遇到的一些问题。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/08/steamvr-beta-gets-some-improvements-for-linux/</guid>
+      <pubDate>Fri, 18 Aug 2023 13:06:08 GMT</pubDate>
+    </item>
     <item>
       <title>Fallout 4：年度游戏版在 GOG 上发布并享受 75% 折扣</title>
       <link>https://www.gamingonlinux.com/2023/08/fallout-4-game-of-the-year-edition-gets-a-gog-release-and-75-off/</link>
@@ -48,9 +69,9 @@
       <pubDate>Thu, 17 Aug 2023 12:54:32 GMT</pubDate>
     </item>
     <item>
-      <title>Paradox Interactive 收购了 Across the Obelisk，并发布了新的扩展包</title>
+      <title>Paradox Interactive 收购了 Across the Obelisk，并发布了新扩展包</title>
       <link>https://www.gamingonlinux.com/2023/08/paradox-interactive-acquires-across-the-obelisk-plus-new-expansion-released/</link>
-      <description><![CDATA[最初隶属于 Paradox Arc 出版部门后，《Across the Obelisk》似乎表现得足够好，让 Paradox Interactive 直接想要它 - 所以他们收购了它。]]></description>
+      <description><![CDATA[最初隶属于 Paradox Arc 出版部门后，《Across the Obelisk》似乎表现出色，足以让 Paradox Interactive 直接想要它 - 所以他们收购了它。]]></description>
       <guid>https://www.gamingonlinux.com/2023/08/paradox-interactive-acquires-across-the-obelisk-plus-new-expansion-released/</guid>
       <pubDate>Thu, 17 Aug 2023 12:35:51 GMT</pubDate>
     </item>
@@ -64,7 +85,7 @@
     <item>
       <title>Nintendo Switch 模拟器 yuzu 获得大量优化，修复了 Pikmin 4 的问题</title>
       <link>https://www.gamingonlinux.com/2023/08/nintendo-switch-emulator-yuzu-gets-lots-of-optimizations-fixes-for-pikmin-4/</link>
-      <description><![CDATA[Nintendo Switch 模拟器 yuzu 的开发团队又发布了一份进度报告，和往常一样，它看起来非常好，所以这里简单介绍一下他们最近所做的事情。]]></description>
+      <description><![CDATA[开发 Nintendo Switch 模拟器 yuzu 的团队又发布了一份进度报告，和往常一样，它看起来非常好，所以这里简单介绍一下他们最近所做的事情。]]></description>
       <guid>https://www.gamingonlinux.com/2023/08/nintendo-switch-emulator-yuzu-gets-lots-of-optimizations-fixes-for-pikmin-4/</guid>
       <pubDate>Thu, 17 Aug 2023 10:57:28 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[Ratchet &amp; Clank: Rift Apart 于 7 月底发布，Insomniac Games / Nixxes Software 为其发布了另一个补丁，其中包括针对 Linux 游戏玩家的修复。]]></description>
       <guid>https://www.gamingonlinux.com/2023/08/ratchet-clank-rift-apart-update-includes-a-fix-for-linux-gamers/</guid>
       <pubDate>Wed, 16 Aug 2023 20:39:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>此捆绑包中包含《High On Life》、《天外世界》、《野蛮星球之旅》等更多内容</title>
-      <link>https://www.gamingonlinux.com/2023/08/high-on-life-the-outer-worlds-journey-to-the-savage-planet-and-more-in-this-bundle/</link>
-      <description><![CDATA[在这个 Spaced Out Humble Bundle 中，您可以找到大量疯狂的太空科幻小说，其中有一些非常不错的选择。以下是您可以在 Steam Deck 和桌面 Linux 上获得的功能以及期望的兼容性。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/08/high-on-life-the-outer-worlds-journey-to-the-savage-planet-and-more-in-this-bundle/</guid>
-      <pubDate>Wed, 16 Aug 2023 20:28:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>忍者神龟：碎纸机的复仇 - Dimension Shellshock DLC 将于 8 月 31 日发布</title>
-      <link>https://www.gamingonlinux.com/2023/08/tmnt-shredders-revenge-dimension-shellshock-dlc-to-release-on-august-31st/</link>
-      <description><![CDATA[之前发布的原生 Linux 版 DLC Dimension Shellshock 格斗游戏《忍者神龟：碎纸机的复仇》现在已经确定了发布日期和价格，并且同一天还会有单独的免费更新。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/08/tmnt-shredders-revenge-dimension-shellshock-dlc-to-release-on-august-31st/</guid>
-      <pubDate>Wed, 16 Aug 2023 20:19:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>《暴风雨崛起》带回了《命令与征服》的回忆</title>
-      <link>https://www.gamingonlinux.com/2023/08/tempest-rising-brings-back-memories-of-command-conquer/</link>
-      <description><![CDATA[《Tempest Rising》是 Slipgate Ironworks 和 2B Games 即将推出的一款基地建设 RTS，通过 THQ Nordic 和 3D Realms 发行，第一个可玩预览版已随第一个 GDF 任务一起发布。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/08/tempest-rising-brings-back-memories-of-command-conquer/</guid>
-      <pubDate>Wed, 16 Aug 2023 11:46:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
