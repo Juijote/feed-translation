@@ -4,11 +4,39 @@
     <title>GamingOnLinux 最新文章</title>
     <link>https://www.gamingonlinux.com/</link>
     <description>GamingOnLinux 的最新文章</description>
-    <lastBuildDate>Thu, 17 Aug 2023 16:06:55 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Aug 2023 11:31:43 GMT</lastBuildDate>
+    <item>
+      <title>Fallout 4：年度游戏版在 GOG 上发布并享受 75% 折扣</title>
+      <link>https://www.gamingonlinux.com/2023/08/fallout-4-game-of-the-year-edition-gets-a-gog-release-and-75-off/</link>
+      <description><![CDATA[对于 DRM 免费游戏迷和 GOG 商店用户来说，这是个好消息，《辐射 4》：年度游戏版现已推出，尽管它不支持 Creation Club。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/08/fallout-4-game-of-the-year-edition-gets-a-gog-release-and-75-off/</guid>
+      <pubDate>Fri, 18 Aug 2023 11:31:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>OBS Studio 30.0 Beta 1 发布，支持 Linux 上的 Intel QSV</title>
+      <link>https://www.gamingonlinux.com/2023/08/obs-studio-300-beta-1-released-supporting-intel-qsv-on-linux/</link>
+      <description><![CDATA[免费开源视频录制和直播应用程序 OBS Studio 正在准备另一个版本，OBS Studio 30.0 Beta 1 现已可供测试。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/08/obs-studio-300-beta-1-released-supporting-intel-qsv-on-linux/</guid>
+      <pubDate>Fri, 18 Aug 2023 11:25:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>Star Labs 推出了新的 StarLite，一款类似 Surface 的 Linux 平板电脑</title>
+      <link>https://www.gamingonlinux.com/2023/08/star-labs-reveal-their-new-starlite-a-surface-like-linux-tablet/</link>
+      <description><![CDATA[在市场上购买新的笔记本电脑或类似 Microsoft Surface 的平板电脑风格系统吗？ Star Labs 已经将他们的 StarLite 笔记本电脑变成了平板电脑。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/08/star-labs-reveal-their-new-starlite-a-surface-like-linux-tablet/</guid>
+      <pubDate>Fri, 18 Aug 2023 10:10:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>最新的 NVIDIA 驱动程序导致 Proton 出现问题</title>
+      <link>https://www.gamingonlinux.com/2023/08/recent-nvidia-drivers-are-causing-issues-for-proton/</link>
+      <description><![CDATA[当您尝试使用 Proton 在 Linux 上运行 Steam 游戏时，您是否遇到过 NVIDIA 535 驱动程序系列的一些问题？好吧，你并不孤单，但调查正在进行中。这就是发生的事情。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/08/recent-nvidia-drivers-are-causing-issues-for-proton/</guid>
+      <pubDate>Fri, 18 Aug 2023 09:22:56 GMT</pubDate>
+    </item>
     <item>
       <title>吸血鬼幸存者合作社和新游戏引擎升级上线</title>
       <link>https://www.gamingonlinux.com/2023/08/vampire-survivors-co-op-and-new-game-engine-upgrade-is-live/</link>
-      <description><![CDATA[吸血鬼幸存者 1.6 引发了突然的热潮和大量的克隆游戏，现已推出本地合作模式，并转向 Unity 游戏引擎。]]></description>
+      <description><![CDATA[Vampire Survivors 1.6 引发了突然的热潮和大量的克隆游戏，现已推出本地合作模式，并转向 Unity 游戏引擎。]]></description>
       <guid>https://www.gamingonlinux.com/2023/08/vampire-survivors-co-op-and-new-game-engine-upgrade-is-live/</guid>
       <pubDate>Thu, 17 Aug 2023 16:06:55 GMT</pubDate>
     </item>
@@ -20,9 +48,9 @@
       <pubDate>Thu, 17 Aug 2023 12:54:32 GMT</pubDate>
     </item>
     <item>
-      <title>Paradox Interactive 收购了 Across the Obelisk，并发布了新扩展包</title>
+      <title>Paradox Interactive 收购了 Across the Obelisk，并发布了新的扩展包</title>
       <link>https://www.gamingonlinux.com/2023/08/paradox-interactive-acquires-across-the-obelisk-plus-new-expansion-released/</link>
-      <description><![CDATA[最初隶属于 Paradox Arc 出版部门后，《Across the Obelisk》似乎表现出色，足以让 Paradox Interactive 直接想要它 - 所以他们收购了它。]]></description>
+      <description><![CDATA[最初隶属于 Paradox Arc 出版部门后，《Across the Obelisk》似乎表现得足够好，让 Paradox Interactive 直接想要它 - 所以他们收购了它。]]></description>
       <guid>https://www.gamingonlinux.com/2023/08/paradox-interactive-acquires-across-the-obelisk-plus-new-expansion-released/</guid>
       <pubDate>Thu, 17 Aug 2023 12:35:51 GMT</pubDate>
     </item>
@@ -36,7 +64,7 @@
     <item>
       <title>Nintendo Switch 模拟器 yuzu 获得大量优化，修复了 Pikmin 4 的问题</title>
       <link>https://www.gamingonlinux.com/2023/08/nintendo-switch-emulator-yuzu-gets-lots-of-optimizations-fixes-for-pikmin-4/</link>
-      <description><![CDATA[开发 Nintendo Switch 模拟器 yuzu 的团队又发布了一份进度报告，和往常一样，它看起来非常好，所以这里简单介绍一下他们最近所做的事情。]]></description>
+      <description><![CDATA[Nintendo Switch 模拟器 yuzu 的开发团队又发布了一份进度报告，和往常一样，它看起来非常好，所以这里简单介绍一下他们最近所做的事情。]]></description>
       <guid>https://www.gamingonlinux.com/2023/08/nintendo-switch-emulator-yuzu-gets-lots-of-optimizations-fixes-for-pikmin-4/</guid>
       <pubDate>Thu, 17 Aug 2023 10:57:28 GMT</pubDate>
     </item>
@@ -78,37 +106,9 @@
     <item>
       <title>《暴风雨崛起》带回了《命令与征服》的回忆</title>
       <link>https://www.gamingonlinux.com/2023/08/tempest-rising-brings-back-memories-of-command-conquer/</link>
-      <description><![CDATA[《Tempest Rising》是 Slipgate Ironworks 和 2B Games 即将推出的一款基地建设 RTS，通过 THQ Nordic 和 3D Realms 发行，首个可玩预览版已随第一个 GDF 任务一起发布。]]></description>
+      <description><![CDATA[《Tempest Rising》是 Slipgate Ironworks 和 2B Games 即将推出的一款基地建设 RTS，通过 THQ Nordic 和 3D Realms 发行，第一个可玩预览版已随第一个 GDF 任务一起发布。]]></description>
       <guid>https://www.gamingonlinux.com/2023/08/tempest-rising-brings-back-memories-of-command-conquer/</guid>
       <pubDate>Wed, 16 Aug 2023 11:46:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>Sandtrix 是一款类似俄罗斯方块的落块游戏，即将在 Steam 上发布 Sandtrix+ 版本</title>
-      <link>https://www.gamingonlinux.com/2023/08/sandtrix-the-falling-block-tetris-like-is-getting-a-sandtrix-steam-release/</link>
-      <description><![CDATA[Sandtrix 最初被称为 Setris，直到 Tetris Holding, LLC 的 DMCA 出现后，Sandtrix 现在获得了 Sandtrix+ 处理，并将于 9 月 1 日在 Steam 上发布完整版。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/08/sandtrix-the-falling-block-tetris-like-is-getting-a-sandtrix-steam-release/</guid>
-      <pubDate>Wed, 16 Aug 2023 10:23:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>ProtonDB 现在具有 PC 和 Steam Deck 报告的过滤器</title>
-      <link>https://www.gamingonlinux.com/2023/08/protondb-now-has-filters-for-pc-and-steam-deck-reports/</link>
-      <description><![CDATA[ProtonDB 是很多人了解游戏如何在 Linux 桌面和 Steam Deck 上运行的首选，虽然它的评级系统远非完美，但拥有它还是很不错的。最近的升级也让浏览变得更加顺畅。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/08/protondb-now-has-filters-for-pc-and-steam-deck-reports/</guid>
-      <pubDate>Wed, 16 Aug 2023 10:01:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>《去月球 - 海滩》剧集发布预告片，此外还将推出纸牌游戏</title>
-      <link>https://www.gamingonlinux.com/2023/08/to-the-moon-beach-episode-gets-a-trailer-plus-theres-going-to-be-a-card-game/</link>
-      <description><![CDATA[Freebird Games 发布了《To the Moon - Beach Episode》的全新预告片，下一个是这个 2D RPG 冒险系列，甚至还有现实生活中的卡牌游戏。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/08/to-the-moon-beach-episode-gets-a-trailer-plus-theres-going-to-be-a-card-game/</guid>
-      <pubDate>Wed, 16 Aug 2023 09:35:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>《博德之门 3》将迎来一些重大更新</title>
-      <link>https://www.gamingonlinux.com/2023/08/baldurs-gate-3-is-going-to-get-some-big-updates/</link>
-      <description><![CDATA[我仍然完全迷上了《博德之门 3》，这是我一段时间以来第一次完全沉迷于一款游戏，而且它也将获得一些重大更新。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/08/baldurs-gate-3-is-going-to-get-some-big-updates/</guid>
-      <pubDate>Wed, 16 Aug 2023 09:24:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
