@@ -4,7 +4,28 @@
     <title>GamingOnLinux 最新文章</title>
     <link>https://www.gamingonlinux.com/</link>
     <description>GamingOnLinux 的最新文章</description>
-    <lastBuildDate>Fri, 18 Aug 2023 19:12:54 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Aug 2023 16:26:19 GMT</lastBuildDate>
+    <item>
+      <title>《ARMORED CORE VI FIRES OF RUBICON》在发行前已被评为 Steam 套牌</title>
+      <link>https://www.gamingonlinux.com/2023/08/armored-core-vi-fires-of-rubicon-steam-deck-playable/</link>
+      <description><![CDATA[ARMORED CORE VI FIRES OF RUBICON 是 ELDEN RING 开发商 FromSoftware 即将推出的令人兴奋的版本。看起来它在发布时会在 Steam Deck 上运行得足够好！]]></description>
+      <guid>https://www.gamingonlinux.com/2023/08/armored-core-vi-fires-of-rubicon-steam-deck-playable/</guid>
+      <pubDate>Sat, 19 Aug 2023 16:26:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Linux 玩家再次被禁止玩 Apex Legends</title>
+      <link>https://www.gamingonlinux.com/2023/08/linux-players-getting-banned-on-apex-legends-again/</link>
+      <description><![CDATA[作为 PSA 的一点警告，EA / Respawn 似乎已经开始了另一波小规模禁令浪潮，或者他们在反作弊中调整了一些内容，导致 Linux / Steam Deck 玩家在《Apex Legends》中陷入困境。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/08/linux-players-getting-banned-on-apex-legends-again/</guid>
+      <pubDate>Sat, 19 Aug 2023 16:15:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Proton Experimental 于 8 月 18 日更新，修复了更多回归问题</title>
+      <link>https://www.gamingonlinux.com/2023/08/proton-experimental-updated-for-august-18-fixing-up-more-regressions/</link>
+      <description><![CDATA[Valve 于 8 月 18 日发布了新的 Proton Experimental 版本，继续清理回归问题，以下是这次整理的内容。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/08/proton-experimental-updated-for-august-18-fixing-up-more-regressions/</guid>
+      <pubDate>Sat, 19 Aug 2023 13:07:43 GMT</pubDate>
+    </item>
     <item>
       <title>在这个新鲜的 Humble Bundle 中获得一堆建筑和管理模拟游戏</title>
       <link>https://www.gamingonlinux.com/2023/08/get-a-bunch-of-building-and-management-sims-in-this-fresh-humble-bundle/</link>
@@ -69,14 +90,14 @@
       <pubDate>Thu, 17 Aug 2023 16:06:55 GMT</pubDate>
     </item>
     <item>
-      <title>现代文字冒险片《我不存在》9 月 12 日上映</title>
+      <title>现代文字冒险游戏《我不存在》9 月 12 日上映</title>
       <link>https://www.gamingonlinux.com/2023/08/modern-text-adventure-i-doesnt-exist-releasing-september-12th/</link>
       <description><![CDATA[受到《初学者指南》、《不为人知的故事》、《好友模拟器》和《Zork》等游戏的启发，《[I] 不存在》是一封写给以叙事为中心的游戏起源的情书，并通过使用对话文本提升了文本冒险类型的水平识别、美丽、超现实的像素艺术，以及非传统的、内在的主题。]]></description>
       <guid>https://www.gamingonlinux.com/2023/08/modern-text-adventure-i-doesnt-exist-releasing-september-12th/</guid>
       <pubDate>Thu, 17 Aug 2023 12:54:32 GMT</pubDate>
     </item>
     <item>
-      <title>Paradox Interactive 收购了 Across the Obelisk，并发布了新扩展包</title>
+      <title>Paradox Interactive 收购了 Across the Obelisk，并发布了新的扩展包</title>
       <link>https://www.gamingonlinux.com/2023/08/paradox-interactive-acquires-across-the-obelisk-plus-new-expansion-released/</link>
       <description><![CDATA[最初隶属于 Paradox Arc 出版部门后，《Across the Obelisk》似乎表现出色，足以让 Paradox Interactive 直接想要它 - 所以他们收购了它。]]></description>
       <guid>https://www.gamingonlinux.com/2023/08/paradox-interactive-acquires-across-the-obelisk-plus-new-expansion-released/</guid>
@@ -88,27 +109,6 @@
       <description><![CDATA[与 Valve on Proton 合作的 CodeWeavers 公司发布了 CrossOver 23 - 他们的应用程序的最新版本，可帮助在 Linux、ChromeOS 和 macOS 等其他平台上运行 Windows 应用程序和游戏。]]></description>
       <guid>https://www.gamingonlinux.com/2023/08/crossover-23-released-for-windows-apps-and-games-on-linux-chromeos-and-macos/</guid>
       <pubDate>Thu, 17 Aug 2023 11:42:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>Nintendo Switch 模拟器 yuzu 获得大量优化，修复了 Pikmin 4 的问题</title>
-      <link>https://www.gamingonlinux.com/2023/08/nintendo-switch-emulator-yuzu-gets-lots-of-optimizations-fixes-for-pikmin-4/</link>
-      <description><![CDATA[开发 Nintendo Switch 模拟器 yuzu 的团队又发布了一份进度报告，和往常一样，它看起来非常好，所以这里简单介绍一下他们最近所做的事情。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/08/nintendo-switch-emulator-yuzu-gets-lots-of-optimizations-fixes-for-pikmin-4/</guid>
-      <pubDate>Thu, 17 Aug 2023 10:57:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>查看科幻策略游戏 Silence of the Siren 的第一个游戏玩法</title>
-      <link>https://www.gamingonlinux.com/2023/08/first-gameplay-for-sci-fi-strategy-game-silence-of-the-siren/</link>
-      <description><![CDATA[Silence of the Siren 是一款令人兴奋的游戏，如果您是策略游戏的粉丝，您需要关注，该游戏由创建 Project Hospital 的 Oxymoron Games 开发。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/08/first-gameplay-for-sci-fi-strategy-game-silence-of-the-siren/</guid>
-      <pubDate>Thu, 17 Aug 2023 10:34:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>大理石它！获得 Linux 支持，现已通过 Steam Deck 验证</title>
-      <link>https://www.gamingonlinux.com/2023/08/marble-it-up-gets-linux-support-and-now-steam-deck-verified/</link>
-      <description><![CDATA[大理石它！ Ultra 是 Marble It Up! 的全新免费改造！附带原生 Linux 支持，并且现已通过 Steam Deck 验证。现有业主也可以免费升级。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/08/marble-it-up-gets-linux-support-and-now-steam-deck-verified/</guid>
-      <pubDate>Thu, 17 Aug 2023 09:29:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
