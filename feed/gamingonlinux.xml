@@ -4,7 +4,42 @@
     <title>GamingOnLinux 最新文章</title>
     <link>https://www.gamingonlinux.com/</link>
     <description>GamingOnLinux 的最新文章</description>
-    <lastBuildDate>Sun, 20 Aug 2023 09:29:15 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Aug 2023 11:08:09 GMT</lastBuildDate>
+    <item>
+      <title>5 年前 Valve 发布了永远改变 Linux 游戏的 Proton</title>
+      <link>https://www.gamingonlinux.com/2023/08/5-years-ago-valve-released-proton-forever-changing-linux-gaming/</link>
+      <description><![CDATA[真的那么久了吗？显然是这样。 Valve 最初于 2018 年 8 月 21 日宣布与 Proton 一起对 Steam Play 进行品牌重塑。现在似乎是一个快速反思 Steam Deck 诞生的技术已经有 50 年历史的好时机。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/08/5-years-ago-valve-released-proton-forever-changing-linux-gaming/</guid>
+      <pubDate>Mon, 21 Aug 2023 11:08:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>开放世界殖民地建设生存游戏“Necesse”获得巨大扩展</title>
+      <link>https://www.gamingonlinux.com/2023/08/open-world-colony-building-survival-game-necesse-gets-a-huge-expansion/</link>
+      <description><![CDATA[Necesse 是一款非常有趣的类型混合游戏，融合了殖民地建设、冒险、沙盒生存等等内容。随着最新的免费更新，它也变得更大了。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/08/open-world-colony-building-survival-game-necesse-gets-a-huge-expansion/</guid>
+      <pubDate>Mon, 21 Aug 2023 10:46:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fanatical 的“Into Games Bundle”帮助人们进入游戏开发</title>
+      <link>https://www.gamingonlinux.com/2023/08/the-into-games-bundle-from-fanatical-helps-get-people-into-game-development/</link>
+      <description><![CDATA[Fanatical 举办了一个新的慈善机构 Into Games Bundle，其中包含一系列有趣的游戏，所有收益都将捐赠给英国领先的全国性游戏技能和职业非营利组织。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/08/the-into-games-bundle-from-fanatical-helps-get-people-into-game-development/</guid>
+      <pubDate>Mon, 21 Aug 2023 10:38:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>GE-Proton 8-13 和 8-12 发布，FSR 不再默认，许多游戏修复</title>
+      <link>https://www.gamingonlinux.com/2023/08/ge-proton-8-13-and-8-12-released-fsr-no-longer-default-and-many-game-fixes/</link>
+      <description><![CDATA[社区维护的 GE-Proton 有两个新版本可用，因此以下是最新版本的更改和改进内容。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/08/ge-proton-8-13-and-8-12-released-fsr-no-longer-default-and-many-game-fixes/</guid>
+      <pubDate>Mon, 21 Aug 2023 10:20:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>《矮人要塞》在 Steam 上推出 Linux Beta</title>
+      <link>https://www.gamingonlinux.com/2023/08/dwarf-fortress-gets-a-linux-beta-on-steam/</link>
+      <description><![CDATA[准备好深入挖掘了吗？ 《矮人要塞》现在在 Steam 上提供了 Linux Beta，因此您可以进行测试并了解这个新版本有什么大惊小怪的。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/08/dwarf-fortress-gets-a-linux-beta-on-steam/</guid>
+      <pubDate>Mon, 21 Aug 2023 10:09:48 GMT</pubDate>
+    </item>
     <item>
       <title>Wine 8.14 现已发布，以下是新内容</title>
       <link>https://www.gamingonlinux.com/2023/08/wine-814-is-out-now-and-heres-whats-new/</link>
@@ -74,41 +109,6 @@
       <description><![CDATA[对于 DRM 免费游戏迷和 GOG 商店用户来说，这是个好消息，《辐射 4》：年度游戏版现已推出，尽管它不支持 Creation Club。]]></description>
       <guid>https://www.gamingonlinux.com/2023/08/fallout-4-game-of-the-year-edition-gets-a-gog-release-and-75-off/</guid>
       <pubDate>Fri, 18 Aug 2023 11:31:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>OBS Studio 30.0 Beta 1 发布，支持 Linux 上的 Intel QSV</title>
-      <link>https://www.gamingonlinux.com/2023/08/obs-studio-300-beta-1-released-supporting-intel-qsv-on-linux/</link>
-      <description><![CDATA[免费开源视频录制和直播应用程序 OBS Studio 正在准备另一个版本，OBS Studio 30.0 Beta 1 现已可供测试。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/08/obs-studio-300-beta-1-released-supporting-intel-qsv-on-linux/</guid>
-      <pubDate>Fri, 18 Aug 2023 11:25:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>Star Labs 推出了新的 StarLite，一款类似 Surface 的 Linux 平板电脑</title>
-      <link>https://www.gamingonlinux.com/2023/08/star-labs-reveal-their-new-starlite-a-surface-like-linux-tablet/</link>
-      <description><![CDATA[在市场上购买新的笔记本电脑或类似 Microsoft Surface 的平板电脑风格系统吗？ Star Labs 已经将他们的 StarLite 笔记本电脑变成了平板电脑。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/08/star-labs-reveal-their-new-starlite-a-surface-like-linux-tablet/</guid>
-      <pubDate>Fri, 18 Aug 2023 10:10:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>最新的 NVIDIA 驱动程序导致 Proton 出现问题</title>
-      <link>https://www.gamingonlinux.com/2023/08/recent-nvidia-drivers-are-causing-issues-for-proton/</link>
-      <description><![CDATA[当您尝试使用 Proton 在 Linux 上运行 Steam 游戏时，您是否遇到过 NVIDIA 535 驱动程序系列的一些问题？好吧，你并不孤单，但调查正在进行中。这就是发生的事情。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/08/recent-nvidia-drivers-are-causing-issues-for-proton/</guid>
-      <pubDate>Fri, 18 Aug 2023 09:22:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>吸血鬼幸存者合作社和新游戏引擎升级上线</title>
-      <link>https://www.gamingonlinux.com/2023/08/vampire-survivors-co-op-and-new-game-engine-upgrade-is-live/</link>
-      <description><![CDATA[Vampire Survivors 1.6 引发了突然的热潮和大量的克隆游戏，现已推出本地合作模式，并转向 Unity 游戏引擎。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/08/vampire-survivors-co-op-and-new-game-engine-upgrade-is-live/</guid>
-      <pubDate>Thu, 17 Aug 2023 16:06:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>现代文字冒险片《我不存在》9 月 12 日上映</title>
-      <link>https://www.gamingonlinux.com/2023/08/modern-text-adventure-i-doesnt-exist-releasing-september-12th/</link>
-      <description><![CDATA[受到《初学者指南》、《不为人知的故事》、《好友模拟器》和《Zork》等游戏的启发，《[I] 不存在》是一封写给以叙事为中心的游戏起源的情书，并通过使用对话文本提升了文本冒险类型的水平识别、美丽、超现实的像素艺术，以及非传统的、内在的主题。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/08/modern-text-adventure-i-doesnt-exist-releasing-september-12th/</guid>
-      <pubDate>Thu, 17 Aug 2023 12:54:32 GMT</pubDate>
     </item>
     </channel>
 </rss>
