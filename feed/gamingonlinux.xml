@@ -4,7 +4,28 @@
     <title>GamingOnLinux 最新文章</title>
     <link>https://www.gamingonlinux.com/</link>
     <description>GamingOnLinux 的最新文章</description>
-    <lastBuildDate>Tue, 22 Aug 2023 11:18:31 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Aug 2023 15:16:48 GMT</lastBuildDate>
+    <item>
+      <title>《狙击精英 5》现已评级为 Steam Deck 可玩，并进行了反作弊更新</title>
+      <link>https://www.gamingonlinux.com/2023/08/sniper-elite-5-now-rated-steam-deck-playable-with-an-anti-cheat-update/</link>
+      <description><![CDATA[今天《狙击精英 5》进行了更新，他们似乎从 Epic Online Services 升级了 Easy Anti-Cheat，包括确保它可以在 Linux 和 Steam Deck 上运行。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/08/sniper-elite-5-now-rated-steam-deck-playable-with-an-anti-cheat-update/</guid>
+      <pubDate>Tue, 22 Aug 2023 15:16:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>Valheim 的重大更新现已上线，包括世界修改器、新地点、新 NPC</title>
+      <link>https://www.gamingonlinux.com/2023/08/major-update-for-valheim-live-now-with-world-modifiers-new-locations-new-npc/</link>
+      <description><![CDATA[《瓦尔海姆》刚刚进行了自抢先体验以来最好的更新之一，最终让您可以更好地控制如何使用世界修改器等来玩它。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/08/major-update-for-valheim-live-now-with-world-modifiers-new-locations-new-npc/</guid>
+      <pubDate>Tue, 22 Aug 2023 15:01:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>NVIDIA DLSS 3.5 和《半条命 2》RTX 发布</title>
+      <link>https://www.gamingonlinux.com/2023/08/nvidia-dlss-3-5-and-half-life-2-rtx-announced/</link>
+      <description><![CDATA[今天，NVIDIA 宣布了进一步增强光线追踪的 DLSS 3.5，同时还宣布了《半条命 2》RTX。让我们看一下详细信息。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/08/nvidia-dlss-3-5-and-half-life-2-rtx-announced/</guid>
+      <pubDate>Tue, 22 Aug 2023 14:38:15 GMT</pubDate>
+    </item>
     <item>
       <title>《黑暗地牢 II》添加了完整的 Steam Deck 支持</title>
       <link>https://www.gamingonlinux.com/2023/08/darkest-dungeon-ii-added-full-steam-deck-support/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[ARMORED CORE VI FIRES OF RUBICON 是 ELDEN RING 开发商 FromSoftware 即将推出的令人兴奋的版本。看起来它在发布时会在 Steam Deck 上运行得足够好！]]></description>
       <guid>https://www.gamingonlinux.com/2023/08/armored-core-vi-fires-of-rubicon-steam-deck-playable/</guid>
       <pubDate>Sat, 19 Aug 2023 16:26:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>Linux 玩家再次被禁止玩 Apex Legends</title>
-      <link>https://www.gamingonlinux.com/2023/08/linux-players-getting-banned-on-apex-legends-again/</link>
-      <description><![CDATA[作为 PSA 的一点警告，EA / Respawn 似乎已经开始了另一波小规模禁令浪潮，或者他们在反作弊中调整了一些内容，导致 Linux / Steam Deck 玩家在《Apex Legends》中陷入困境。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/08/linux-players-getting-banned-on-apex-legends-again/</guid>
-      <pubDate>Sat, 19 Aug 2023 16:15:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>Proton Experimental 于 8 月 18 日更新，修复了更多回归问题</title>
-      <link>https://www.gamingonlinux.com/2023/08/proton-experimental-updated-for-august-18-fixing-up-more-regressions/</link>
-      <description><![CDATA[Valve 于 8 月 18 日发布了新的 Proton Experimental 版本，继续清理回归问题，以下是这次整理的内容。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/08/proton-experimental-updated-for-august-18-fixing-up-more-regressions/</guid>
-      <pubDate>Sat, 19 Aug 2023 13:07:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>在这个新鲜的 Humble Bundle 中获得一堆建筑和管理模拟游戏</title>
-      <link>https://www.gamingonlinux.com/2023/08/get-a-bunch-of-building-and-management-sims-in-this-fresh-humble-bundle/</link>
-      <description><![CDATA[另一套看起来很有趣的游戏是 If You Build It - Cities &amp; More Bundle。以下是桌面 Linux 和 Steam Deck 上常见的兼容性问题。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/08/get-a-bunch-of-building-and-management-sims-in-this-fresh-humble-bundle/</guid>
-      <pubDate>Fri, 18 Aug 2023 19:12:54 GMT</pubDate>
     </item>
     </channel>
 </rss>
