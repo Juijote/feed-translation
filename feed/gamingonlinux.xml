@@ -4,7 +4,35 @@
     <title>GamingOnLinux 最新文章</title>
     <link>https://www.gamingonlinux.com/</link>
     <description>GamingOnLinux 的最新文章</description>
-    <lastBuildDate>Mon, 21 Aug 2023 11:08:09 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Aug 2023 11:18:31 GMT</lastBuildDate>
+    <item>
+      <title>《黑暗地牢 II》添加了完整的 Steam Deck 支持</title>
+      <link>https://www.gamingonlinux.com/2023/08/darkest-dungeon-ii-added-full-steam-deck-support/</link>
+      <description><![CDATA[想跳进黑暗地牢 II 吗？现在，由于增加了控制器支持和完整的 Steam Deck 支持，它比以往任何时候都更容易。现在它甚至已经通过了 Steam Deck 验证。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/08/darkest-dungeon-ii-added-full-steam-deck-support/</guid>
+      <pubDate>Tue, 22 Aug 2023 11:18:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Steam OS 3.5 for Steam Deck 获得屏幕色温设置</title>
+      <link>https://www.gamingonlinux.com/2023/08/steamos-35-for-steam-deck-gets-a-screen-colour-temperature-setting/</link>
+      <description><![CDATA[不久前我提到了即将推出的 SteamOS 3.5 for Steam Deck 如何添加颜色鲜艳度设置，现在 Valve 似乎还通过屏幕色温设置进一步扩展了它。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/08/steamos-35-for-steam-deck-gets-a-screen-colour-temperature-setting/</guid>
+      <pubDate>Tue, 22 Aug 2023 10:56:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>JSAUX 推出 Steam Deck 防眩光屏幕替代品</title>
+      <link>https://www.gamingonlinux.com/2023/08/jsaux-launch-a-steam-deck-anti-glare-screen-replacement/</link>
+      <description><![CDATA[虽然 DeckHD 推出了更高分辨率的 Steam Deck 屏幕替代品，但现在 JSAUX 也推出了自己的 Steam Deck 防眩光屏幕替代品。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/08/jsaux-launch-a-steam-deck-anti-glare-screen-replacement/</guid>
+      <pubDate>Tue, 22 Aug 2023 10:20:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>Linux 上的 Wine 将恢复 Roblox 支持</title>
+      <link>https://www.gamingonlinux.com/2023/08/roblox-support-is-coming-back-to-wine-on-linux/</link>
+      <description><![CDATA[对于 Roblox 粉丝来说是个好消息，因为自新客户端出现重大故障以来，开发人员一直在努力更新该游戏，因此该游戏很快将再次在 Wine 中运行。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/08/roblox-support-is-coming-back-to-wine-on-linux/</guid>
+      <pubDate>Tue, 22 Aug 2023 09:52:12 GMT</pubDate>
+    </item>
     <item>
       <title>5 年前 Valve 发布了永远改变 Linux 游戏的 Proton</title>
       <link>https://www.gamingonlinux.com/2023/08/5-years-ago-valve-released-proton-forever-changing-linux-gaming/</link>
@@ -55,9 +83,9 @@
       <pubDate>Sun, 20 Aug 2023 08:43:35 GMT</pubDate>
     </item>
     <item>
-      <title>《ARMORED CORE VI FIRES OF RUBICON》在发布前已被评为 Steam 套牌</title>
+      <title>《ARMORED CORE VI FIRES OF RUBICON》在发行前已被评为 Steam 套牌</title>
       <link>https://www.gamingonlinux.com/2023/08/armored-core-vi-fires-of-rubicon-steam-deck-playable/</link>
-      <description><![CDATA[ARMORED CORE VI FIRES OF RUBICON 是 ELDEN RING 开发商 FromSoftware 即将推出的令人兴奋的版本。看来它在发布时会在 Steam Deck 上运行良好！]]></description>
+      <description><![CDATA[ARMORED CORE VI FIRES OF RUBICON 是 ELDEN RING 开发商 FromSoftware 即将推出的令人兴奋的版本。看起来它在发布时会在 Steam Deck 上运行得足够好！]]></description>
       <guid>https://www.gamingonlinux.com/2023/08/armored-core-vi-fires-of-rubicon-steam-deck-playable/</guid>
       <pubDate>Sat, 19 Aug 2023 16:26:19 GMT</pubDate>
     </item>
@@ -81,34 +109,6 @@
       <description><![CDATA[另一套看起来很有趣的游戏是 If You Build It - Cities &amp; More Bundle。以下是桌面 Linux 和 Steam Deck 上常见的兼容性问题。]]></description>
       <guid>https://www.gamingonlinux.com/2023/08/get-a-bunch-of-building-and-management-sims-in-this-fresh-humble-bundle/</guid>
       <pubDate>Fri, 18 Aug 2023 19:12:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>《无人深空》发布“Echoes”更新预告片以庆祝 7 周年</title>
-      <link>https://www.gamingonlinux.com/2023/08/no-mans-sky-echoes-teaser-celebrate-7-years/</link>
-      <description><![CDATA[他们表示，《无人深空》的全新重大更新即将推出，他们将用新视频来庆祝发布 7 周年。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/08/no-mans-sky-echoes-teaser-celebrate-7-years/</guid>
-      <pubDate>Fri, 18 Aug 2023 16:45:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>Linux 上的《战争雷霆》没有声音？这是一个潜在的解决方案</title>
-      <link>https://www.gamingonlinux.com/2023/08/no-sound-in-war-thunder-on-linux-heres-a-potential-solution/</link>
-      <description><![CDATA[War Thunder 是一款我非常喜欢和朋友一起玩的游戏，最近 Linux 发行版从 Fedora 跳到 openSUSE，然后又回到安全的 Kubuntu - 我在 War Thunder 中的声音不起作用。但我有一个对我有用的潜在解决方案。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/08/no-sound-in-war-thunder-on-linux-heres-a-potential-solution/</guid>
-      <pubDate>Fri, 18 Aug 2023 16:06:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>SteamVR Beta 对 Linux 进行了一些改进</title>
-      <link>https://www.gamingonlinux.com/2023/08/steamvr-beta-gets-some-improvements-for-linux/</link>
-      <description><![CDATA[Valve 推出了新的 SteamVR Beta，他们似乎已经开始清理 Linux 方面最近遇到的一些问题。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/08/steamvr-beta-gets-some-improvements-for-linux/</guid>
-      <pubDate>Fri, 18 Aug 2023 13:06:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Fallout 4：年度游戏版在 GOG 上发布并享受 75% 折扣</title>
-      <link>https://www.gamingonlinux.com/2023/08/fallout-4-game-of-the-year-edition-gets-a-gog-release-and-75-off/</link>
-      <description><![CDATA[对于 DRM 免费游戏迷和 GOG 商店用户来说，这是个好消息，《辐射 4》：年度游戏版现已推出，尽管它不支持 Creation Club。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/08/fallout-4-game-of-the-year-edition-gets-a-gog-release-and-75-off/</guid>
-      <pubDate>Fri, 18 Aug 2023 11:31:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
