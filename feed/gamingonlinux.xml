@@ -4,9 +4,44 @@
     <title>GamingOnLinux 最新文章</title>
     <link>https://www.gamingonlinux.com/</link>
     <description>GamingOnLinux 的最新文章</description>
-    <lastBuildDate>Tue, 22 Aug 2023 15:16:48 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Aug 2023 11:17:00 GMT</lastBuildDate>
     <item>
-      <title>《狙击精英 5》现已评级为 Steam Deck 可玩，并进行了反作弊更新</title>
+      <title>Denuvo 扩展了其防篡改功能并添加了特殊的虚幻引擎保护</title>
+      <link>https://www.gamingonlinux.com/2023/08/denuvo-expand-their-anti-tamper-and-add-special-unreal-engine-protection/</link>
+      <description><![CDATA[你们都非常喜欢 Denuvo，对吗？好吧，它即将扩展，为游戏开发者提供更多选项来添加到他们的游戏中，所以这就是即将推出的内容。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/08/denuvo-expand-their-anti-tamper-and-add-special-unreal-engine-protection/</guid>
+      <pubDate>Wed, 23 Aug 2023 11:17:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bazzite 是一款基于 Fedora 的新 Linux 发行版，适用于 Steam Deck 和游戏 PC</title>
+      <link>https://www.gamingonlinux.com/2023/08/bazzite-is-a-new-fedora-based-linux-distro-for-steam-deck-and-gaming-pcs/</link>
+      <description><![CDATA[想尝试一些不同的东西吗？ Bazzite 最近宣布作为基于 Fedora 38 的 Linux 发行版，旨在为 PC 和 Steam Deck 带来最好的 Linux 游戏。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/08/bazzite-is-a-new-fedora-based-linux-distro-for-steam-deck-and-gaming-pcs/</guid>
+      <pubDate>Wed, 23 Aug 2023 11:01:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>《赛博朋克 2077：幻影自由》新预告片上线，还有大型免费更新即将推出</title>
+      <link>https://www.gamingonlinux.com/2023/08/cyberpunk-2077-phantom-liberty-new-trailer-live-plus-big-free-update-coming/</link>
+      <description><![CDATA[《赛博朋克 2077：幻影自由》是 CD PROJEKT RED 即将推出的开放世界游戏付费扩展包。这是为您提供的所有新详细信息。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/08/cyberpunk-2077-phantom-liberty-new-trailer-live-plus-big-free-update-coming/</guid>
+      <pubDate>Wed, 23 Aug 2023 10:48:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>《侠盗猎车手 2》将 GTA 与杀出重围融为一体，推出首款预告片</title>
+      <link>https://www.gamingonlinux.com/2023/08/blending-gta-with-deus-ex-streets-of-rogue-2-gets-a-first-trailer/</link>
+      <description><![CDATA[作为原版游戏的忠实粉丝，我对《盗贼之街 2》感到非常兴奋。它为您提供了一个融合了 GTA、杀出重围和各种沙盒游戏元素的不可预测的开放世界。第一个预告片在 Gamescom 期间展示。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/08/blending-gta-with-deus-ex-streets-of-rogue-2-gets-a-first-trailer/</guid>
+      <pubDate>Wed, 23 Aug 2023 10:27:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nightdive Studios 宣布《Turok 3》和《星球大战：黑暗力量》重制版</title>
+      <link>https://www.gamingonlinux.com/2023/08/nightdive-studios-announce-turok-3-and-star-wars-dark-forces-remasters/</link>
+      <description><![CDATA[Nightdive Studios 似乎还有更多的重制版即将推出，他们现在已经宣布了《图洛克 3：湮灭之影重制版》和《星球大战：黑暗力量重制版》。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/08/nightdive-studios-announce-turok-3-and-star-wars-dark-forces-remasters/</guid>
+      <pubDate>Wed, 23 Aug 2023 10:19:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>《狙击精英 5》现已评级为 Steam Deck 可玩并进行了反作弊更新</title>
       <link>https://www.gamingonlinux.com/2023/08/sniper-elite-5-now-rated-steam-deck-playable-with-an-anti-cheat-update/</link>
       <description><![CDATA[今天《狙击精英 5》进行了更新，他们似乎从 Epic Online Services 升级了 Easy Anti-Cheat，包括确保它可以在 Linux 和 Steam Deck 上运行。]]></description>
       <guid>https://www.gamingonlinux.com/2023/08/sniper-elite-5-now-rated-steam-deck-playable-with-an-anti-cheat-update/</guid>
@@ -57,7 +92,7 @@
     <item>
       <title>5 年前 Valve 发布了永远改变 Linux 游戏的 Proton</title>
       <link>https://www.gamingonlinux.com/2023/08/5-years-ago-valve-released-proton-forever-changing-linux-gaming/</link>
-      <description><![CDATA[真的那么久了吗？显然是这样。 Valve 最初于 2018 年 8 月 21 日宣布与 Proton 一起对 Steam Play 进行品牌重塑。现在似乎是一个快速反思 Steam Deck 诞生的技术已经有 50 年历史的好时机。]]></description>
+      <description><![CDATA[真的那么久了吗？显然是这样。 Valve 最初于 2018 年 8 月 21 日宣布与 Proton 一起对 Steam Play 进行品牌重塑。现在似乎是一个快速反思一下 Steam Deck 诞生的技术已经有 50 年历史的好时机。]]></description>
       <guid>https://www.gamingonlinux.com/2023/08/5-years-ago-valve-released-proton-forever-changing-linux-gaming/</guid>
       <pubDate>Mon, 21 Aug 2023 11:08:09 GMT</pubDate>
     </item>
@@ -74,41 +109,6 @@
       <description><![CDATA[Fanatical 举办了一个新的慈善机构 Into Games Bundle，其中包含一系列有趣的游戏，所有收益都将捐赠给英国领先的全国性游戏技能和职业非营利组织。]]></description>
       <guid>https://www.gamingonlinux.com/2023/08/the-into-games-bundle-from-fanatical-helps-get-people-into-game-development/</guid>
       <pubDate>Mon, 21 Aug 2023 10:38:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>GE-Proton 8-13 和 8-12 发布，FSR 不再默认，许多游戏修复</title>
-      <link>https://www.gamingonlinux.com/2023/08/ge-proton-8-13-and-8-12-released-fsr-no-longer-default-and-many-game-fixes/</link>
-      <description><![CDATA[社区维护的 GE-Proton 有两个新版本可用，因此以下是最新版本的更改和改进内容。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/08/ge-proton-8-13-and-8-12-released-fsr-no-longer-default-and-many-game-fixes/</guid>
-      <pubDate>Mon, 21 Aug 2023 10:20:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>《矮人要塞》在 Steam 上推出 Linux Beta</title>
-      <link>https://www.gamingonlinux.com/2023/08/dwarf-fortress-gets-a-linux-beta-on-steam/</link>
-      <description><![CDATA[准备好深入挖掘了吗？ 《矮人要塞》现在在 Steam 上提供了 Linux Beta，因此您可以进行测试并了解这个新版本有什么大惊小怪的。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/08/dwarf-fortress-gets-a-linux-beta-on-steam/</guid>
-      <pubDate>Mon, 21 Aug 2023 10:09:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>Wine 8.14 现已发布，以下是新内容</title>
-      <link>https://www.gamingonlinux.com/2023/08/wine-814-is-out-now-and-heres-whats-new/</link>
-      <description><![CDATA[开源兼容层 Wine 有一个全新的开发版本可用。以下是 Wine 8.14 中的新增内容和更改。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/08/wine-814-is-out-now-and-heres-whats-new/</guid>
-      <pubDate>Sun, 20 Aug 2023 09:29:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>Steam Deck 最近发布了两个 Beta 版本，以下是更改内容</title>
-      <link>https://www.gamingonlinux.com/2023/08/steam-deck-recent-betas-whats-changed/</link>
-      <description><![CDATA[Valve 在 8 月 17 日和 8 月 19 日两天内推出了 Steam Deck Beta 分支的两次更新。这是改变的内容。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/08/steam-deck-recent-betas-whats-changed/</guid>
-      <pubDate>Sun, 20 Aug 2023 08:43:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>《ARMORED CORE VI FIRES OF RUBICON》在发行前已被评为 Steam 套牌</title>
-      <link>https://www.gamingonlinux.com/2023/08/armored-core-vi-fires-of-rubicon-steam-deck-playable/</link>
-      <description><![CDATA[ARMORED CORE VI FIRES OF RUBICON 是 ELDEN RING 开发商 FromSoftware 即将推出的令人兴奋的版本。看起来它在发布时会在 Steam Deck 上运行得足够好！]]></description>
-      <guid>https://www.gamingonlinux.com/2023/08/armored-core-vi-fires-of-rubicon-steam-deck-playable/</guid>
-      <pubDate>Sat, 19 Aug 2023 16:26:19 GMT</pubDate>
     </item>
     </channel>
 </rss>
