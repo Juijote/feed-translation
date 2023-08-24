@@ -4,7 +4,21 @@
     <title>GamingOnLinux 最新文章</title>
     <link>https://www.gamingonlinux.com/</link>
     <description>GamingOnLinux 的最新文章</description>
-    <lastBuildDate>Wed, 23 Aug 2023 18:17:40 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Aug 2023 08:55:15 GMT</lastBuildDate>
+    <item>
+      <title>Respawn 现在正在正确调查《Apex Legends》在 Linux 和 Steam Deck 上的禁令</title>
+      <link>https://www.gamingonlinux.com/2023/08/respawn-now-properly-looking-into-apex-legends-bans-on-linux-steam-deck/</link>
+      <description><![CDATA[大约五天前，我报道了 Apex Legends 发起的禁令浪潮，这第二次打击了 Linux 和 Steam Deck 上使用 Proton 玩该游戏的玩家。现在至少开发商 Respawn 正在研究这个问题。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/08/respawn-now-properly-looking-into-apex-legends-bans-on-linux-steam-deck/</guid>
+      <pubDate>Thu, 24 Aug 2023 08:55:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>《Deathbulge：乐队之战》音乐喜剧角色扮演游戏现已推出</title>
+      <link>https://www.gamingonlinux.com/2023/08/deathbulge-battle-of-the-bands-musical-comedy-rpg-is-out-now/</link>
+      <description><![CDATA[喜欢音乐、喜剧和荒诞吗？ 《Deathbulge: Battle of the Bands》有很多内容，现已正式发布，提供完整的 Linux 支持，并且还经过了 Steam Deck 验证。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/08/deathbulge-battle-of-the-bands-musical-comedy-rpg-is-out-now/</guid>
+      <pubDate>Thu, 24 Aug 2023 08:36:57 GMT</pubDate>
+    </item>
     <item>
       <title>在此捆绑包中获得评价很高的现代平台游戏，例如《A Hat in Time》</title>
       <link>https://www.gamingonlinux.com/2023/08/get-highly-rated-modern-platformers-like-a-hat-in-time-in-this-bundle/</link>
@@ -29,7 +43,7 @@
     <item>
       <title>Denuvo 扩展了其防篡改功能并添加了特殊的虚幻引擎保护</title>
       <link>https://www.gamingonlinux.com/2023/08/denuvo-expand-their-anti-tamper-and-add-special-unreal-engine-protection/</link>
-      <description><![CDATA[你们都非常喜欢 Denuvo，对吧？嗯，它即将扩展，为游戏开发者提供更多选项来添加到他们的游戏中，所以这就是即将推出的内容。]]></description>
+      <description><![CDATA[你们都非常喜欢 Denuvo，对吗？嗯，它即将扩展，为游戏开发者提供更多选项来添加到他们的游戏中，所以这就是即将推出的内容。]]></description>
       <guid>https://www.gamingonlinux.com/2023/08/denuvo-expand-their-anti-tamper-and-add-special-unreal-engine-protection/</guid>
       <pubDate>Wed, 23 Aug 2023 11:17:00 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[不久前我提到了即将推出的 SteamOS 3.5 for Steam Deck 如何添加颜色鲜艳度设置，现在 Valve 似乎还通过屏幕色温设置进一步扩展了它。]]></description>
       <guid>https://www.gamingonlinux.com/2023/08/steamos-35-for-steam-deck-gets-a-screen-colour-temperature-setting/</guid>
       <pubDate>Tue, 22 Aug 2023 10:56:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>JSAUX 推出 Steam Deck 防眩光屏幕替代品</title>
-      <link>https://www.gamingonlinux.com/2023/08/jsaux-launch-a-steam-deck-anti-glare-screen-replacement/</link>
-      <description><![CDATA[虽然 DeckHD 推出了更高分辨率的 Steam Deck 屏幕替代品，但现在 JSAUX 也推出了自己的 Steam Deck 防眩光屏幕替代品。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/08/jsaux-launch-a-steam-deck-anti-glare-screen-replacement/</guid>
-      <pubDate>Tue, 22 Aug 2023 10:20:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Linux 上的 Wine 将恢复 Roblox 支持</title>
-      <link>https://www.gamingonlinux.com/2023/08/roblox-support-is-coming-back-to-wine-on-linux/</link>
-      <description><![CDATA[对于 Roblox 粉丝来说是个好消息，因为自新客户端出现重大故障以来，开发人员一直在努力更新该游戏，因此该游戏很快将再次在 Wine 中运行。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/08/roblox-support-is-coming-back-to-wine-on-linux/</guid>
-      <pubDate>Tue, 22 Aug 2023 09:52:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
