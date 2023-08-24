@@ -4,7 +4,14 @@
     <title>GamingOnLinux 最新文章</title>
     <link>https://www.gamingonlinux.com/</link>
     <description>GamingOnLinux 的最新文章</description>
-    <lastBuildDate>Wed, 23 Aug 2023 16:44:17 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Aug 2023 18:17:40 GMT</lastBuildDate>
+    <item>
+      <title>在此捆绑包中获得评价很高的现代平台游戏，例如《A Hat in Time》</title>
+      <link>https://www.gamingonlinux.com/2023/08/get-highly-rated-modern-platformers-like-a-hat-in-time-in-this-bundle/</link>
+      <description><![CDATA[准备好迎接一大堆新游戏了吗？喜欢《时光之帽》这样的现代高评价平台游戏吗？在 Humble Bundle 上体验大师级的现代 3D 平台游戏。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/08/get-highly-rated-modern-platformers-like-a-hat-in-time-in-this-bundle/</guid>
+      <pubDate>Wed, 23 Aug 2023 18:17:40 GMT</pubDate>
+    </item>
     <item>
       <title>Proton Experimental 修复了《彩虹六号：萃取》、EA 应用程序、《Aveum 不朽》</title>
       <link>https://www.gamingonlinux.com/2023/08/proton-experimental-fixes-rainbow-six-extraction-ea-app-immortals-of-aveum/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[对于 Roblox 粉丝来说是个好消息，因为自新客户端出现重大故障以来，开发人员一直在努力更新该游戏，因此该游戏很快将再次在 Wine 中运行。]]></description>
       <guid>https://www.gamingonlinux.com/2023/08/roblox-support-is-coming-back-to-wine-on-linux/</guid>
       <pubDate>Tue, 22 Aug 2023 09:52:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>5 年前 Valve 发布了永远改变 Linux 游戏的 Proton</title>
-      <link>https://www.gamingonlinux.com/2023/08/5-years-ago-valve-released-proton-forever-changing-linux-gaming/</link>
-      <description><![CDATA[真的那么久了吗？显然是这样。 Valve 最初于 2018 年 8 月 21 日宣布与 Proton 一起对 Steam Play 进行品牌重塑。现在似乎是一个快速反思 Steam Deck 诞生的技术已经有 50 年历史的好时机。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/08/5-years-ago-valve-released-proton-forever-changing-linux-gaming/</guid>
-      <pubDate>Mon, 21 Aug 2023 11:08:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
