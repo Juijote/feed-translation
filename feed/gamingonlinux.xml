@@ -4,7 +4,28 @@
     <title>GamingOnLinux 最新文章</title>
     <link>https://www.gamingonlinux.com/</link>
     <description>GamingOnLinux 的最新文章</description>
-    <lastBuildDate>Thu, 24 Aug 2023 18:22:11 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Aug 2023 11:48:05 GMT</lastBuildDate>
+    <item>
+      <title>《ARMORED CORE VI FIRES OF RUBICON》在 Steam Deck 和桌面 Linux 上运行良好</title>
+      <link>https://www.gamingonlinux.com/2023/08/armored-core-vi-fires-of-rubicon-runs-well-on-steam-deck-and-desktop-linux/</link>
+      <description><![CDATA[ARMORED CORE VI FIRES OF RUBICON 是由 FromSoftware Inc（来自 ELDEN RING 的同一团队）开发的大型新版本，它似乎在 Steam Deck 和桌面 Linux 上运行得很好。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/08/armored-core-vi-fires-of-rubicon-runs-well-on-steam-deck-and-desktop-linux/</guid>
+      <pubDate>Fri, 25 Aug 2023 11:48:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>NVIDIA 在 GitHub 上发布 NVAPI 核心软件开发套件</title>
+      <link>https://www.gamingonlinux.com/2023/08/nvidia-posts-nvapi-core-software-development-kit-on-github/</link>
+      <description><![CDATA[NVAPI 是 NVIDIA 的核心软件开发套件，允许在支持的平台上直接访问 NVIDIA GPU 和驱动程序，现已发布在 GitHub 上。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/08/nvidia-posts-nvapi-core-software-development-kit-on-github/</guid>
+      <pubDate>Fri, 25 Aug 2023 10:36:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>超过 11,000 款游戏现已评级为 Steam Deck 可玩</title>
+      <link>https://www.gamingonlinux.com/2023/08/over-11000-games-now-rated-steam-deck-playable/</link>
+      <description><![CDATA[目前 Steam 上大约有 68,000 款游戏，因此 Valve 需要很长时间才能在 Steam Deck 上检查所有游戏，但这里有一些最近精选的游戏。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/08/over-11000-games-now-rated-steam-deck-playable/</guid>
+      <pubDate>Fri, 25 Aug 2023 10:05:09 GMT</pubDate>
+    </item>
     <item>
       <title>肯塔基零号公路在 Steam Deck 上进行了重大升级</title>
       <link>https://www.gamingonlinux.com/2023/08/kentucky-route-zero-has-a-big-upgrade-improving-it-on-steam-deck/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[《赛博朋克 2077：幻影自由》是 CD PROJEKT RED 即将推出的开放世界游戏付费扩展包。这是为您提供的所有新详细信息。]]></description>
       <guid>https://www.gamingonlinux.com/2023/08/cyberpunk-2077-phantom-liberty-new-trailer-live-plus-big-free-update-coming/</guid>
       <pubDate>Wed, 23 Aug 2023 10:48:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>《侠盗猎车手 2》将 GTA 与杀出重围融为一体，推出首款预告片</title>
-      <link>https://www.gamingonlinux.com/2023/08/blending-gta-with-deus-ex-streets-of-rogue-2-gets-a-first-trailer/</link>
-      <description><![CDATA[作为原版游戏的忠实粉丝，我对《盗贼之街 2》感到非常兴奋。它为您提供了一个融合了 GTA、杀出重围和各种沙盒游戏元素的不可预测的开放世界。第一个预告片在 Gamescom 期间展示。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/08/blending-gta-with-deus-ex-streets-of-rogue-2-gets-a-first-trailer/</guid>
-      <pubDate>Wed, 23 Aug 2023 10:27:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>Nightdive Studios 宣布《火蜥蜴 3》和《星球大战：黑暗力量》重制版</title>
-      <link>https://www.gamingonlinux.com/2023/08/nightdive-studios-announce-turok-3-and-star-wars-dark-forces-remasters/</link>
-      <description><![CDATA[Nightdive Studios 似乎还有更多的重制版即将推出，他们现在已经宣布了《图洛克 3：湮灭之影重制版》和《星球大战：黑暗力量重制版》。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/08/nightdive-studios-announce-turok-3-and-star-wars-dark-forces-remasters/</guid>
-      <pubDate>Wed, 23 Aug 2023 10:19:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>《狙击精英 5》现已评级为 Steam Deck 可玩，并进行了反作弊更新</title>
-      <link>https://www.gamingonlinux.com/2023/08/sniper-elite-5-now-rated-steam-deck-playable-with-an-anti-cheat-update/</link>
-      <description><![CDATA[今天《狙击精英 5》进行了更新，他们似乎从 Epic Online Services 升级了 Easy Anti-Cheat，包括确保它可以在 Linux 和 Steam Deck 上运行。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/08/sniper-elite-5-now-rated-steam-deck-playable-with-an-anti-cheat-update/</guid>
-      <pubDate>Tue, 22 Aug 2023 15:16:48 GMT</pubDate>
     </item>
     </channel>
 </rss>
