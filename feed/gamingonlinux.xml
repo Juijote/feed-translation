@@ -4,7 +4,49 @@
     <title>GamingOnLinux 最新文章</title>
     <link>https://www.gamingonlinux.com/</link>
     <description>GamingOnLinux 的最新文章</description>
-    <lastBuildDate>Fri, 25 Aug 2023 15:52:17 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Aug 2023 15:47:12 GMT</lastBuildDate>
+    <item>
+      <title>GuliKit 展示了适用于 Steam Deck 和其他手持设备的 SNES 风格底座</title>
+      <link>https://www.gamingonlinux.com/2023/08/gulikit-reveal-snes-styled-dock-for-steam-deck-and-other-handhelds/</link>
+      <description><![CDATA[还在市场上为您的 Steam Deck 或您拥有的任何其他手持设备寻找底座吗？在科隆游戏展上，GuliKit 为您展示了一款看起来非常光滑的 SNES 风格复古底座。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/08/gulikit-reveal-snes-styled-dock-for-steam-deck-and-other-handhelds/</guid>
+      <pubDate>Mon, 28 Aug 2023 15:47:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>GOG 秋季特卖现已上线，大量优惠和免费游戏</title>
+      <link>https://www.gamingonlinux.com/2023/08/gog-autumn-sale-now-live-lots-of-deals-and-free-games/</link>
+      <description><![CDATA[GOG 秋季特卖回来了，所以您有机会以便宜且免费的方式获得一大堆无 DRM 的游戏。那么让我们来看看吧。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/08/gog-autumn-sale-now-live-lots-of-deals-and-free-games/</guid>
+      <pubDate>Mon, 28 Aug 2023 15:24:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>Respawn 开始解禁各种《Apex Legends》Linux 和 Steam Deck 玩家</title>
+      <link>https://www.gamingonlinux.com/2023/08/respawn-begin-unbanning-various-apex-legends-linux-and-steam-deck-players/</link>
+      <description><![CDATA[对于使用 Proton 兼容性工具在 Steam Deck 和 Linux 桌面上玩《Apex Legends》的玩家来说，这有点传奇，但 Respawn 似乎仍在继续他们的禁令调查。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/08/respawn-begin-unbanning-various-apex-legends-linux-and-steam-deck-players/</guid>
+      <pubDate>Mon, 28 Aug 2023 13:17:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>Introversion Software 的 Darwinia 兼容性大幅升级</title>
+      <link>https://www.gamingonlinux.com/2023/08/darwinia-from-introversion-software-gets-a-big-compatibility-upgrade/</link>
+      <description><![CDATA[Darwinia 是 Introversion Software（Prison Architect 的原始开发者）的经典产品，最初于 2005 年发布，刚刚进行了升级，以使其在现代平台上良好运行。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/08/darwinia-from-introversion-software-gets-a-big-compatibility-upgrade/</guid>
+      <pubDate>Mon, 28 Aug 2023 13:00:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Deimos Games 关闭，Helium Rain 和 Astral Shipwright 可以免费玩</title>
+      <link>https://www.gamingonlinux.com/2023/08/deimos-games-shutting-making-helium-rain-and-astral-shipwright-free-to-play/</link>
+      <description><![CDATA[Deimos Games 宣布他们将关闭，但他们的游戏代码已经开源，现在 Helium Rain 和 Astral Shipwright 都可以免费玩。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/08/deimos-games-shutting-making-helium-rain-and-astral-shipwright-free-to-play/</guid>
+      <pubDate>Mon, 28 Aug 2023 12:48:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Roblox 支持通过 Wine 回归 Linux</title>
+      <link>https://www.gamingonlinux.com/2023/08/roblox-support-returns-to-linux-with-wine/</link>
+      <description><![CDATA[最近有消息称 Roblox 可以通过其特殊的 Beta 频道再次在 Wine 中运行，看来他们现在已经允许 Roblox 在稳定版本的 Wine 中运行，这使得在 Linux 上获得 Roblox 变得非常容易。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/08/roblox-support-returns-to-linux-with-wine/</guid>
+      <pubDate>Mon, 28 Aug 2023 12:39:47 GMT</pubDate>
+    </item>
     <item>
       <title>Radeon RX 7800 XT 和 RX 7700 XT 揭晓，以及有关 FSR 3 的更多详细信息</title>
       <link>https://www.gamingonlinux.com/2023/08/radeon-rx-7800-xt-and-rx-7700-xt-revealed-plus-more-details-on-fsr-3/</link>
@@ -29,7 +71,7 @@
     <item>
       <title>《ARMORED CORE VI FIRES OF RUBICON》在 Steam Deck 和桌面 Linux 上运行良好</title>
       <link>https://www.gamingonlinux.com/2023/08/armored-core-vi-fires-of-rubicon-runs-well-on-steam-deck-and-desktop-linux/</link>
-      <description><![CDATA[ARMORED CORE VI FIRES OF RUBICON 是由 FromSoftware Inc（与 ELDEN RING 相同的团队）开发的大型新版本，它似乎在 Steam Deck 和桌面 Linux 上运行得很好。]]></description>
+      <description><![CDATA[ARMORED CORE VI FIRES OF RUBICON 是由 FromSoftware Inc（来自 ELDEN RING 的同一团队）开发的大型新版本，它似乎在 Steam Deck 和桌面 Linux 上运行得很好。]]></description>
       <guid>https://www.gamingonlinux.com/2023/08/armored-core-vi-fires-of-rubicon-runs-well-on-steam-deck-and-desktop-linux/</guid>
       <pubDate>Fri, 25 Aug 2023 11:48:05 GMT</pubDate>
     </item>
@@ -67,48 +109,6 @@
       <description><![CDATA[嗯，这是一个非常值得期待的更新，《无人深空 - 回声》作为玩家的另一次免费升级已经上线，对于充满新内容的游戏来说，这是一个相当大的更新。]]></description>
       <guid>https://www.gamingonlinux.com/2023/08/no-mans-sky-echoes-update-is-out-adding-a-secret-society-of-robotic-aliens/</guid>
       <pubDate>Thu, 24 Aug 2023 17:01:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>甜蜜养蜂模拟 APICO 更新 3.0 前往海洋</title>
-      <link>https://www.gamingonlinux.com/2023/08/sweet-beekeeping-sim-apico-update-30-heads-to-the-ocean/</link>
-      <description><![CDATA[养蜂和海洋探索有什么共同点？它们都将出现在计划于今年“秋季”发布的 APICO 3.0 更新中。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/08/sweet-beekeeping-sim-apico-update-30-heads-to-the-ocean/</guid>
-      <pubDate>Thu, 24 Aug 2023 15:37:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Respawn 现在正在正确调查《Apex Legends》在 Linux 和 Steam Deck 上的禁令</title>
-      <link>https://www.gamingonlinux.com/2023/08/respawn-now-properly-looking-into-apex-legends-bans-on-linux-steam-deck/</link>
-      <description><![CDATA[大约五天前，我报道了 Apex Legends 发起的禁令浪潮，这第二次打击了 Linux 和 Steam Deck 上使用 Proton 玩该游戏的玩家。现在至少开发商 Respawn 正在研究这个问题。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/08/respawn-now-properly-looking-into-apex-legends-bans-on-linux-steam-deck/</guid>
-      <pubDate>Thu, 24 Aug 2023 08:55:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>《Deathbulge：乐队之战》音乐喜剧角色扮演游戏现已推出</title>
-      <link>https://www.gamingonlinux.com/2023/08/deathbulge-battle-of-the-bands-musical-comedy-rpg-is-out-now/</link>
-      <description><![CDATA[喜欢音乐、喜剧和荒诞吗？ 《Deathbulge: Battle of the Bands》有很多内容，现已正式发布，提供完整的 Linux 支持，并且也通过了 Steam Deck 验证。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/08/deathbulge-battle-of-the-bands-musical-comedy-rpg-is-out-now/</guid>
-      <pubDate>Thu, 24 Aug 2023 08:36:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>在此捆绑包中获得评价很高的现代平台游戏，例如《A Hat in Time》</title>
-      <link>https://www.gamingonlinux.com/2023/08/get-highly-rated-modern-platformers-like-a-hat-in-time-in-this-bundle/</link>
-      <description><![CDATA[准备好迎接一大堆新游戏了吗？喜欢《时光之帽》这样的现代高评价平台游戏吗？在 Humble Bundle 上体验大师级的现代 3D 平台游戏。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/08/get-highly-rated-modern-platformers-like-a-hat-in-time-in-this-bundle/</guid>
-      <pubDate>Wed, 23 Aug 2023 18:17:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>Proton Experimental 修复了《彩虹六号：提取》、EA 应用程序、《Aveum 不朽》</title>
-      <link>https://www.gamingonlinux.com/2023/08/proton-experimental-fixes-rainbow-six-extraction-ea-app-immortals-of-aveum/</link>
-      <description><![CDATA[Valve 在周中发布了 Proton Experimental 的最新更新，以解决多款游戏的问题，以及可怕的 EA 应用程序再次表现不佳。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/08/proton-experimental-fixes-rainbow-six-extraction-ea-app-immortals-of-aveum/</guid>
-      <pubDate>Wed, 23 Aug 2023 16:44:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>Epic Games 的新独家协议为开发者提供 6 个月 100% 的奖励</title>
-      <link>https://www.gamingonlinux.com/2023/08/epic-games-new-exclusive-deal-gives-devs-100-for-6-months/</link>
-      <description><![CDATA[Epic Games 宣布了新的 Epic First Run 计划，以吸引更多开发者在其商店独家发布并为开发者提供动力。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/08/epic-games-new-exclusive-deal-gives-devs-100-for-6-months/</guid>
-      <pubDate>Wed, 23 Aug 2023 14:51:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
