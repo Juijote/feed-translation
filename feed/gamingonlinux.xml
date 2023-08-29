@@ -4,11 +4,39 @@
     <title>GamingOnLinux 最新文章</title>
     <link>https://www.gamingonlinux.com/</link>
     <description>GamingOnLinux 的最新文章</description>
-    <lastBuildDate>Tue, 29 Aug 2023 11:01:39 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Aug 2023 17:20:55 GMT</lastBuildDate>
+    <item>
+      <title>《博德之门 3》补丁 2 带来“重大性能改进”</title>
+      <link>https://www.gamingonlinux.com/2023/08/patch-2-for-baldurs-gate-3-coming-with-major-performance-improvements/</link>
+      <description><![CDATA[Larian 刚刚发布了《博德之门 3》的大型补丁，另外一个补丁正在计划中，其中包含一些“重大性能改进”，这听起来令人兴奋 - 特别是对于 Steam Deck 玩家而言。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/08/patch-2-for-baldurs-gate-3-coming-with-major-performance-improvements/</guid>
+      <pubDate>Tue, 29 Aug 2023 17:20:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Chaosmonger Studio 的 Schizollama 是一款速度极快的跑枪游戏</title>
+      <link>https://www.gamingonlinux.com/2023/08/schizollama-from-chaosmonger-studio-is-a-blazing-fast-run-and-gun-game/</link>
+      <description><![CDATA[Chaosmonger Studio 肯定很忙。在发布《ENCODYA》和《Clunky Hero》之后，又发布了《Soul Tolerance》和《差八分三分钟》，他们现在宣布了第五款游戏。它的名字叫Schizollama，看起来很可笑。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/08/schizollama-from-chaosmonger-studio-is-a-blazing-fast-run-and-gun-game/</guid>
+      <pubDate>Tue, 29 Aug 2023 15:06:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>查看即将推出的动作角色扮演游戏 Drova - Forsaken Kin 的演示</title>
+      <link>https://www.gamingonlinux.com/2023/08/check-out-the-demo-for-upcoming-action-rpg-drova-forsaken-kin/</link>
+      <description><![CDATA[Drova - Forsaken Kin 是 Just2D 和 Deck13 即将推出的动作角色扮演游戏，其灵感来自凯尔特神话的魅力。还有一个新的演示可供尝试。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/08/check-out-the-demo-for-upcoming-action-rpg-drova-forsaken-kin/</guid>
+      <pubDate>Tue, 29 Aug 2023 14:32:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>《Shadow Tactics》、《Desperados III》、《Shadow Gambit: The Cursed Crew》的开发将关闭</title>
+      <link>https://www.gamingonlinux.com/2023/08/dev-of-shadow-tactics-desperados-iii-shadow-gambit-the-cursed-crew-shutting-down/</link>
+      <description><![CDATA[嗯，这当然是出乎意料的。 Mimimi Games 的游戏开发商包括《Shadow Tactics: Blades of the Shogun》、《Desperados III》以及最近推出的《Shadow Gambit: The Cursed Crew》将关闭。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/08/dev-of-shadow-tactics-desperados-iii-shadow-gambit-the-cursed-crew-shutting-down/</guid>
+      <pubDate>Tue, 29 Aug 2023 12:42:35 GMT</pubDate>
+    </item>
     <item>
       <title>Steam Deck OS 3.4.9 Beta 为即将推出的游戏修复了 GPU 问题</title>
       <link>https://www.gamingonlinux.com/2023/08/steam-deck-os-349-beta-gets-a-gpu-fix-for-an-upcoming-game/</link>
-      <description><![CDATA[这是您感兴趣的事情。 Valve 发布了 Steam Deck OS 的全新升级版本，目前处于测试阶段，其中包括对即将推出的游戏的修复。]]></description>
+      <description><![CDATA[这是一些对你来说有趣的事情。 Valve 发布了 Steam Deck OS 的全新升级版本，目前处于测试阶段，其中包括对即将推出的游戏的修复。]]></description>
       <guid>https://www.gamingonlinux.com/2023/08/steam-deck-os-349-beta-gets-a-gpu-fix-for-an-upcoming-game/</guid>
       <pubDate>Tue, 29 Aug 2023 11:01:39 GMT</pubDate>
     </item>
@@ -36,7 +64,7 @@
     <item>
       <title>GuliKit 展示了适用于 Steam Deck 和其他手持设备的 SNES 风格底座</title>
       <link>https://www.gamingonlinux.com/2023/08/gulikit-reveal-snes-styled-dock-for-steam-deck-and-other-handhelds/</link>
-      <description><![CDATA[还在市场上为您的 Steam Deck 或您拥有的任何其他手持设备寻找底座吗？在科隆游戏展上，GuliKit 为您展示了一款看起来非常光滑的 SNES 风格复古底座。]]></description>
+      <description><![CDATA[还在市场上为您的 Steam Deck 或您拥有的任何其他手持设备寻找底座吗？在科隆游戏展上，GuliKit 为您展示了一款外观漂亮的 SNES 风格复古底座。]]></description>
       <guid>https://www.gamingonlinux.com/2023/08/gulikit-reveal-snes-styled-dock-for-steam-deck-and-other-handhelds/</guid>
       <pubDate>Mon, 28 Aug 2023 15:47:12 GMT</pubDate>
     </item>
@@ -81,34 +109,6 @@
       <description><![CDATA[AMD 刚刚发布了 Radeon RX 7800 XT 和 Radeon RX 7700 XT 显卡，并且他们提供了有关 FidelityFX 超分辨率 3 (FSR 3) 的更多详细信息。]]></description>
       <guid>https://www.gamingonlinux.com/2023/08/radeon-rx-7800-xt-and-rx-7700-xt-revealed-plus-more-details-on-fsr-3/</guid>
       <pubDate>Fri, 25 Aug 2023 15:52:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>异星工厂：太空时代透露给你一支舰队和多个行星</title>
-      <link>https://www.gamingonlinux.com/2023/08/factorio-space-age-revealed-giving-you-a-fleet-and-multiple-planets/</link>
-      <description><![CDATA[我们知道资料片即将推出，因为不久前已经确认了这一消息，但现在 Wube Software 透露了更多有关现在称为“异星工厂：太空时代”的内容。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/08/factorio-space-age-revealed-giving-you-a-fleet-and-multiple-planets/</guid>
-      <pubDate>Fri, 25 Aug 2023 15:33:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>Canonical 对 Ubuntu Desktop 的未来给出一些想法</title>
-      <link>https://www.gamingonlinux.com/2023/08/canonical-give-some-thoughts-on-the-future-of-ubuntu-desktop/</link>
-      <description><![CDATA[Ubuntu 是桌面上最常用的 Linux 发行版之一，其背后的公司 Canonical 发布了一篇新博客文章，给出了对 Ubuntu 桌面未来的一些想法。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/08/canonical-give-some-thoughts-on-the-future-of-ubuntu-desktop/</guid>
-      <pubDate>Fri, 25 Aug 2023 15:00:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>《ARMORED CORE VI FIRES OF RUBICON》在 Steam Deck 和桌面 Linux 上运行良好</title>
-      <link>https://www.gamingonlinux.com/2023/08/armored-core-vi-fires-of-rubicon-runs-well-on-steam-deck-and-desktop-linux/</link>
-      <description><![CDATA[ARMORED CORE VI FIRES OF RUBICON 是由 FromSoftware Inc（与 ELDEN RING 相同的团队）开发的大型新版本，它似乎在 Steam Deck 和桌面 Linux 上运行得很好。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/08/armored-core-vi-fires-of-rubicon-runs-well-on-steam-deck-and-desktop-linux/</guid>
-      <pubDate>Fri, 25 Aug 2023 11:48:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>NVIDIA 在 GitHub 上发布 NVAPI 核心软件开发套件</title>
-      <link>https://www.gamingonlinux.com/2023/08/nvidia-posts-nvapi-core-software-development-kit-on-github/</link>
-      <description><![CDATA[NVAPI 是 NVIDIA 的核心软件开发套件，允许在支持的平台上直接访问 NVIDIA GPU 和驱动程序，现已发布在 GitHub 上。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/08/nvidia-posts-nvapi-core-software-development-kit-on-github/</guid>
-      <pubDate>Fri, 25 Aug 2023 10:36:57 GMT</pubDate>
     </item>
     </channel>
 </rss>
