@@ -4,7 +4,35 @@
     <title>GamingOnLinux 最新文章</title>
     <link>https://www.gamingonlinux.com/</link>
     <description>GamingOnLinux 的最新文章</description>
-    <lastBuildDate>Mon, 28 Aug 2023 15:47:12 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Aug 2023 11:01:39 GMT</lastBuildDate>
+    <item>
+      <title>Steam Deck OS 3.4.9 Beta 为即将推出的游戏修复了 GPU 问题</title>
+      <link>https://www.gamingonlinux.com/2023/08/steam-deck-os-349-beta-gets-a-gpu-fix-for-an-upcoming-game/</link>
+      <description><![CDATA[这是您感兴趣的事情。 Valve 发布了 Steam Deck OS 的全新升级版本，目前处于测试阶段，其中包括对即将推出的游戏的修复。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/08/steam-deck-os-349-beta-gets-a-gpu-fix-for-an-upcoming-game/</guid>
+      <pubDate>Tue, 29 Aug 2023 11:01:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Daggerfall Unity 添加了由原始首席设计师设计的独家游戏内书籍</title>
+      <link>https://www.gamingonlinux.com/2023/08/daggerfall-unity-adds-exclusive-in-game-books-by-the-original-lead-designer/</link>
+      <description><![CDATA[《上古卷轴 II：Daggerfall》继续在 Daggerfall Unity 中继续存在，Daggerfall Unity 是 Unity 引擎中 Daggerfall 的开源游戏，也是刚刚随 Daggerfall Unity 0.15.4 Beta 推出的新版本。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/08/daggerfall-unity-adds-exclusive-in-game-books-by-the-original-lead-designer/</guid>
+      <pubDate>Tue, 29 Aug 2023 10:52:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>KDE Plasma 6 默认双击打开以及其他改进</title>
+      <link>https://www.gamingonlinux.com/2023/08/kde-plasma-6-gets-double-click-to-open-by-default-and-other-improvements/</link>
+      <description><![CDATA[事实证明，在 Linux 社区中，对于 KDE Plasma 用户来说，单击或双击打开某些内容是相当有争议的，因为 Plasma 6 将默认为双击。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/08/kde-plasma-6-gets-double-click-to-open-by-default-and-other-improvements/</guid>
+      <pubDate>Tue, 29 Aug 2023 10:35:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Linux内核6.5发布</title>
+      <link>https://www.gamingonlinux.com/2023/08/linux-kernel-6-5-released/</link>
+      <description><![CDATA[8 月 27 日，Linus Torvalds 发布了众多开发人员的最新成果，宣布推出 Linux 内核 6.5。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/08/linux-kernel-6-5-released/</guid>
+      <pubDate>Tue, 29 Aug 2023 10:02:04 GMT</pubDate>
+    </item>
     <item>
       <title>GuliKit 展示了适用于 Steam Deck 和其他手持设备的 SNES 风格底座</title>
       <link>https://www.gamingonlinux.com/2023/08/gulikit-reveal-snes-styled-dock-for-steam-deck-and-other-handhelds/</link>
@@ -57,7 +85,7 @@
     <item>
       <title>异星工厂：太空时代透露给你一支舰队和多个行星</title>
       <link>https://www.gamingonlinux.com/2023/08/factorio-space-age-revealed-giving-you-a-fleet-and-multiple-planets/</link>
-      <description><![CDATA[我们知道资料片即将推出，因为不久前已经确认了这一消息，但现在 Wube Software 透露了更多有关现在被称为“异星工厂：太空时代”的内容。]]></description>
+      <description><![CDATA[我们知道资料片即将推出，因为不久前已经确认了这一消息，但现在 Wube Software 透露了更多有关现在称为“异星工厂：太空时代”的内容。]]></description>
       <guid>https://www.gamingonlinux.com/2023/08/factorio-space-age-revealed-giving-you-a-fleet-and-multiple-planets/</guid>
       <pubDate>Fri, 25 Aug 2023 15:33:27 GMT</pubDate>
     </item>
@@ -71,7 +99,7 @@
     <item>
       <title>《ARMORED CORE VI FIRES OF RUBICON》在 Steam Deck 和桌面 Linux 上运行良好</title>
       <link>https://www.gamingonlinux.com/2023/08/armored-core-vi-fires-of-rubicon-runs-well-on-steam-deck-and-desktop-linux/</link>
-      <description><![CDATA[ARMORED CORE VI FIRES OF RUBICON 是由 FromSoftware Inc（来自 ELDEN RING 的同一团队）开发的大型新版本，它似乎在 Steam Deck 和桌面 Linux 上运行得很好。]]></description>
+      <description><![CDATA[ARMORED CORE VI FIRES OF RUBICON 是由 FromSoftware Inc（与 ELDEN RING 相同的团队）开发的大型新版本，它似乎在 Steam Deck 和桌面 Linux 上运行得很好。]]></description>
       <guid>https://www.gamingonlinux.com/2023/08/armored-core-vi-fires-of-rubicon-runs-well-on-steam-deck-and-desktop-linux/</guid>
       <pubDate>Fri, 25 Aug 2023 11:48:05 GMT</pubDate>
     </item>
@@ -81,34 +109,6 @@
       <description><![CDATA[NVAPI 是 NVIDIA 的核心软件开发套件，允许在支持的平台上直接访问 NVIDIA GPU 和驱动程序，现已发布在 GitHub 上。]]></description>
       <guid>https://www.gamingonlinux.com/2023/08/nvidia-posts-nvapi-core-software-development-kit-on-github/</guid>
       <pubDate>Fri, 25 Aug 2023 10:36:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>超过 11,000 款游戏现已评级为 Steam Deck 可玩</title>
-      <link>https://www.gamingonlinux.com/2023/08/over-11000-games-now-rated-steam-deck-playable/</link>
-      <description><![CDATA[目前 Steam 上大约有 92,000 款游戏，因此 Valve 需要很长时间才能在 Steam Deck 上检查所有游戏，但这里有一些最近精选的游戏。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/08/over-11000-games-now-rated-steam-deck-playable/</guid>
-      <pubDate>Fri, 25 Aug 2023 10:05:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>肯塔基零号公路在 Steam Deck 上进行了重大升级</title>
-      <link>https://www.gamingonlinux.com/2023/08/kentucky-route-zero-has-a-big-upgrade-improving-it-on-steam-deck/</link>
-      <description><![CDATA[《肯塔基零号公路：PC 版》是自 2020 年第五幕发布以来的首次重大更新，现在在 Steam Deck 上的体验应该会更好。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/08/kentucky-route-zero-has-a-big-upgrade-improving-it-on-steam-deck/</guid>
-      <pubDate>Thu, 24 Aug 2023 18:22:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>胡须中队：幸存者带走了星际火狐并添加了一个小吸血鬼幸存者</title>
-      <link>https://www.gamingonlinux.com/2023/08/whisker-squadron-survivor-takes-star-fox-and-adds-a-lil-vampire-survivors/</link>
-      <description><![CDATA[受《星际火狐》启发，铁路射击游戏的优点变得更加 Rogue-lite 风格，并融入吸血鬼幸存者风格的宝石来拾取和选择随机的强化道具，《威须中队：幸存者》堪称王牌。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/08/whisker-squadron-survivor-takes-star-fox-and-adds-a-lil-vampire-survivors/</guid>
-      <pubDate>Thu, 24 Aug 2023 17:12:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>《无人深空 - 回声》更新添加了一个由机器人外星人组成的秘密社团</title>
-      <link>https://www.gamingonlinux.com/2023/08/no-mans-sky-echoes-update-is-out-adding-a-secret-society-of-robotic-aliens/</link>
-      <description><![CDATA[嗯，这是一个非常值得期待的更新，《无人深空 - 回声》作为玩家的另一次免费升级已经上线，对于充满新内容的游戏来说，这是一个相当大的更新。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/08/no-mans-sky-echoes-update-is-out-adding-a-secret-society-of-robotic-aliens/</guid>
-      <pubDate>Thu, 24 Aug 2023 17:01:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
