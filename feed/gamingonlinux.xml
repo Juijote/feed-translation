@@ -4,7 +4,14 @@
     <title>GamingOnLinux 最新文章</title>
     <link>https://www.gamingonlinux.com/</link>
     <description>GamingOnLinux 的最新文章</description>
-    <lastBuildDate>Thu, 31 Aug 2023 17:13:38 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 01 Sep 2023 00:12:09 GMT</lastBuildDate>
+    <item>
+      <title>Steam Deck OS 3.4.9 发布，修复了 Starfield 的 GPU</title>
+      <link>https://www.gamingonlinux.com/2023/09/steam-deck-os-349-released-with-gpu-fix-for-starfield/</link>
+      <description><![CDATA[正如我之前推测的那样，当 Steam Deck OS 3.4.9 进入预览版时，Valve 现在已将其作为稳定更新发布给 Starfield 的所有 Steam Deck 所有者。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/09/steam-deck-os-349-released-with-gpu-fix-for-starfield/</guid>
+      <pubDate>Fri, 01 Sep 2023 00:12:09 GMT</pubDate>
+    </item>
     <item>
       <title>Embracer 关闭了 Freespace、Red Faction、Saints Row 的 Volition 开发商</title>
       <link>https://www.gamingonlinux.com/2023/08/embracer-closes-volition-developer-of-freespace-red-faction-saints-row/</link>
@@ -83,7 +90,7 @@
       <pubDate>Wed, 30 Aug 2023 13:50:13 GMT</pubDate>
     </item>
     <item>
-      <title>在 Steam 策略盛宴中获取一些精彩的策略游戏</title>
+      <title>在 Steam 策略盛宴中获得一些精彩的策略游戏</title>
       <link>https://www.gamingonlinux.com/2023/08/get-some-great-strategy-games-in-the-steam-strategy-fest/</link>
       <description><![CDATA[我首先要承认，我们得知这个消息有点晚了，因为促销活动于周一开始，但 Steam 策略节已经开始，并且有一些关于策略游戏经典的超值优惠。]]></description>
       <guid>https://www.gamingonlinux.com/2023/08/get-some-great-strategy-games-in-the-steam-strategy-fest/</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[Chaosmonger Studio 肯定很忙。在发布《ENCODYA》和《Clunky Hero》之后，又发布了《Soul Tolerance》和《差八分三分钟》，他们现在宣布了第五款游戏。它的名字叫Schizollama，看起来很可笑。]]></description>
       <guid>https://www.gamingonlinux.com/2023/08/schizollama-from-chaosmonger-studio-is-a-blazing-fast-run-and-gun-game/</guid>
       <pubDate>Tue, 29 Aug 2023 15:06:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>查看即将推出的动作角色扮演游戏 Drova - Forsaken Kin 的演示</title>
-      <link>https://www.gamingonlinux.com/2023/08/check-out-the-demo-for-upcoming-action-rpg-drova-forsaken-kin/</link>
-      <description><![CDATA[Drova - Forsaken Kin 是 Just2D 和 Deck13 即将推出的动作角色扮演游戏，其灵感来自凯尔特神话的魅力。还有一个新的演示可供尝试。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/08/check-out-the-demo-for-upcoming-action-rpg-drova-forsaken-kin/</guid>
-      <pubDate>Tue, 29 Aug 2023 14:32:23 GMT</pubDate>
     </item>
     </channel>
 </rss>
