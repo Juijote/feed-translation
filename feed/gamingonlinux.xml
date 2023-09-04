@@ -4,7 +4,28 @@
     <title>GamingOnLinux 最新文章</title>
     <link>https://www.gamingonlinux.com/</link>
     <description>GamingOnLinux 的最新文章</description>
-    <lastBuildDate>Sat, 02 Sep 2023 17:41:23 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 Sep 2023 17:37:44 GMT</lastBuildDate>
+    <item>
+      <title>这是 2023 年 8 月最受欢迎的 Steam Deck 游戏</title>
+      <link>https://www.gamingonlinux.com/2023/09/most-popular-steam-deck-games-august-2023/</link>
+      <description><![CDATA[又是新的一个月，Valve 公布了 Steam Deck 上玩得最多的游戏。根据最近发布的内容，其中很多内容当然是相当明显的。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/09/most-popular-steam-deck-games-august-2023/</guid>
+      <pubDate>Mon, 04 Sep 2023 17:37:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>NVIDIA Vulkan Beta 535.43.09 和稳定版 535.104.05 驱动程序现已推出</title>
+      <link>https://www.gamingonlinux.com/2023/09/nvidia-vulkan-beta-535-43-09-and-stable-535-104-05-drivers-out-now/</link>
+      <description><![CDATA[NVIDIA 最近发布了两个针对 Linux 的新驱动程序升级，尽管其中之一我们不知道它们实际上改变了什么。这是怎么回事。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/09/nvidia-vulkan-beta-535-43-09-and-stable-535-104-05-drivers-out-now/</guid>
+      <pubDate>Mon, 04 Sep 2023 17:24:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>以下是 Starfield 在 Steam Deck 和桌面 Linux 上的运行方式</title>
+      <link>https://www.gamingonlinux.com/2023/09/heres-how-starfield-runs-on-steam-deck-and-desktop-linux/</link>
+      <description><![CDATA[想知道 Starfield 如何在 Steam Deck 上运行？还是桌面Linux？好吧，我已经尝试了一下，看看我的想法如何，这里有一些早期信息给您。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/09/heres-how-starfield-runs-on-steam-deck-and-desktop-linux/</guid>
+      <pubDate>Mon, 04 Sep 2023 17:02:13 GMT</pubDate>
+    </item>
     <item>
       <title>在最新的 Steam 调查中，Linux 用户份额仍然高于 macOS</title>
       <link>https://www.gamingonlinux.com/2023/09/linux-user-share-remains-above-macos-in-the-latest-steam-survey/</link>
@@ -29,7 +50,7 @@
     <item>
       <title>开发者解释的 optimus-manager 的状态</title>
       <link>https://www.gamingonlinux.com/2023/09/the-state-of-optimus-manager-explained-by-its-developer/</link>
-      <description><![CDATA[此 Linux 程序为 Optimus 笔记本电脑（即具有双 Nvidia/Intel 或 Nvidia/AMD 配置的笔记本电脑）上的 GPU 切换提供了解决方案。]]></description>
+      <description><![CDATA[该 Linux 程序为 Optimus 笔记本电脑（即具有双 Nvidia/Intel 或 Nvidia/AMD 配置的笔记本电脑）上的 GPU 切换提供了解决方案。]]></description>
       <guid>https://www.gamingonlinux.com/2023/09/the-state-of-optimus-manager-explained-by-its-developer/</guid>
       <pubDate>Sat, 02 Sep 2023 16:29:43 GMT</pubDate>
     </item>
@@ -48,9 +69,9 @@
       <pubDate>Fri, 01 Sep 2023 13:08:45 GMT</pubDate>
     </item>
     <item>
-      <title>《十字军之王 III》三年后销量突破 300 万份</title>
+      <title>《十字军之王 III》发售 3 年后销量突破 300 万份</title>
       <link>https://www.gamingonlinux.com/2023/09/crusader-kings-iii-hits-3-million-sales-after-3-years/</link>
-      <description><![CDATA[Paradox Interactive 今天宣布，继近期发布《十字军之王 III》的《守卫与守望者》之后，三周年纪念日销量现已突破 300 万份。]]></description>
+      <description><![CDATA[Paradox Interactive 今天宣布，继最近发布《十字军之王 III》的《守望者与守望者》之后，三周年之际，他们的销量现已突破 300 万份。]]></description>
       <guid>https://www.gamingonlinux.com/2023/09/crusader-kings-iii-hits-3-million-sales-after-3-years/</guid>
       <pubDate>Fri, 01 Sep 2023 12:48:51 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[我承认，我基本上对 Hololive、VTubers 或类似的东西一无所知，但我现在完全被免费粉丝游戏 HoloCure - Save the Fans 所吸引！]]></description>
       <guid>https://www.gamingonlinux.com/2023/08/holocure-vampire-survivors-clone-free-cute-fun/</guid>
       <pubDate>Thu, 31 Aug 2023 12:59:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>折磨大厅添加了新角色、新舞台、“痛苦模式”等等</title>
-      <link>https://www.gamingonlinux.com/2023/08/halls-of-torment-adds-new-characters-a-new-stage-agony-mode-and-much-more/</link>
-      <description><![CDATA[好吧，基本上我所有的空闲时间都消失了。 《折磨大厅》将复古《暗黑破坏神》和《吸血鬼幸存者》融合在一起，它已经让人非常上瘾，现在我担心我会再次被吸引。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/08/halls-of-torment-adds-new-characters-a-new-stage-agony-mode-and-much-more/</guid>
-      <pubDate>Thu, 31 Aug 2023 11:44:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>职业摔跤和 RPG 幻想在 WrestleQuest 中碰撞</title>
-      <link>https://www.gamingonlinux.com/2023/08/pro-wrestling-and-rpg-fantasy-collide-in-wrestlequest-out-now/</link>
-      <description><![CDATA[喜欢摔跤吗？那么新版本的 WrestleQuest 可能正是您所需要的。甜蜜的像素艺术与职业摔跤和奇幻元素的融合。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/08/pro-wrestling-and-rpg-fantasy-collide-in-wrestlequest-out-now/</guid>
-      <pubDate>Thu, 31 Aug 2023 10:51:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>Dota 2 的新更新可能会让我重新投入其中，带来新的报告和配对</title>
-      <link>https://www.gamingonlinux.com/2023/08/new-update-for-dota-2-might-pull-me-back-in-with-new-reporting-and-matchmaking/</link>
-      <description><![CDATA[看来我终于到了再投入 500 个小时到 Dota 2 上的时候了，因为 Valve 在夏季客户端更新中给了这款游戏相当有趣的升级。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/08/new-update-for-dota-2-might-pull-me-back-in-with-new-reporting-and-matchmaking/</guid>
-      <pubDate>Thu, 31 Aug 2023 10:38:57 GMT</pubDate>
     </item>
     </channel>
 </rss>
