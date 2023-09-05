@@ -4,7 +4,14 @@
     <title>GamingOnLinux 最新文章</title>
     <link>https://www.gamingonlinux.com/</link>
     <description>GamingOnLinux 的最新文章</description>
-    <lastBuildDate>Mon, 04 Sep 2023 17:37:44 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 Sep 2023 22:17:36 GMT</lastBuildDate>
+    <item>
+      <title>构建复古 Linux 游戏计算机第 32 部分：前进两步，后退一步</title>
+      <link>https://www.gamingonlinux.com/2023/09/building-a-retro-linux-gaming-computer-part-32-two-steps-forward-one-step-back/</link>
+      <description><![CDATA[在过去的几个月里，我对 Dianoga 进行了一些升级和更改，现在是时候将它们全部列出来了。我在年初购买的第一次升级是一个简单的升级，但现在我的 Linux 可用硬盘空间增加了一倍多，并且可以使用我的 CRT 显示器享受更多游戏。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/09/building-a-retro-linux-gaming-computer-part-32-two-steps-forward-one-step-back/</guid>
+      <pubDate>Mon, 04 Sep 2023 22:17:36 GMT</pubDate>
+    </item>
     <item>
       <title>这是 2023 年 8 月最受欢迎的 Steam Deck 游戏</title>
       <link>https://www.gamingonlinux.com/2023/09/most-popular-steam-deck-games-august-2023/</link>
@@ -50,7 +57,7 @@
     <item>
       <title>开发者解释的 optimus-manager 的状态</title>
       <link>https://www.gamingonlinux.com/2023/09/the-state-of-optimus-manager-explained-by-its-developer/</link>
-      <description><![CDATA[该 Linux 程序为 Optimus 笔记本电脑（即具有双 Nvidia/Intel 或 Nvidia/AMD 配置的笔记本电脑）上的 GPU 切换提供了解决方案。]]></description>
+      <description><![CDATA[此 Linux 程序为 Optimus 笔记本电脑（即具有双 Nvidia/Intel 或 Nvidia/AMD 配置的笔记本电脑）上的 GPU 切换提供了解决方案。]]></description>
       <guid>https://www.gamingonlinux.com/2023/09/the-state-of-optimus-manager-explained-by-its-developer/</guid>
       <pubDate>Sat, 02 Sep 2023 16:29:43 GMT</pubDate>
     </item>
@@ -69,9 +76,9 @@
       <pubDate>Fri, 01 Sep 2023 13:08:45 GMT</pubDate>
     </item>
     <item>
-      <title>《十字军之王 III》发售 3 年后销量突破 300 万份</title>
+      <title>《十字军之王 III》三年后销量突破 300 万份</title>
       <link>https://www.gamingonlinux.com/2023/09/crusader-kings-iii-hits-3-million-sales-after-3-years/</link>
-      <description><![CDATA[Paradox Interactive 今天宣布，继最近发布《十字军之王 III》的《守望者与守望者》之后，三周年之际，他们的销量现已突破 300 万份。]]></description>
+      <description><![CDATA[Paradox Interactive 今天宣布，继近期发布《十字军之王 III》的《守卫与守望者》之后，三周年纪念日销量现已突破 300 万份。]]></description>
       <guid>https://www.gamingonlinux.com/2023/09/crusader-kings-iii-hits-3-million-sales-after-3-years/</guid>
       <pubDate>Fri, 01 Sep 2023 12:48:51 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[Valve 于 8 月 31 日发布了适用于 Steam Deck 和桌面 Linux 的 Proton Experimental 的新升级，并添加了一些新内容，以下是新内容。]]></description>
       <guid>https://www.gamingonlinux.com/2023/08/proton-experimental-update-has-newly-playable-games-and-fixes-ship-of-fools/</guid>
       <pubDate>Thu, 31 Aug 2023 16:51:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>HoloCure 是一款免费的吸血鬼幸存者克隆游戏，非常可爱且有趣</title>
-      <link>https://www.gamingonlinux.com/2023/08/holocure-vampire-survivors-clone-free-cute-fun/</link>
-      <description><![CDATA[我承认，我基本上对 Hololive、VTubers 或类似的东西一无所知，但我现在完全被免费粉丝游戏 HoloCure - Save the Fans 所吸引！]]></description>
-      <guid>https://www.gamingonlinux.com/2023/08/holocure-vampire-survivors-clone-free-cute-fun/</guid>
-      <pubDate>Thu, 31 Aug 2023 12:59:27 GMT</pubDate>
     </item>
     </channel>
 </rss>
