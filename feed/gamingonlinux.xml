@@ -4,7 +4,42 @@
     <title>GamingOnLinux 最新文章</title>
     <link>https://www.gamingonlinux.com/</link>
     <description>GamingOnLinux 的最新文章</description>
-    <lastBuildDate>Mon, 04 Sep 2023 22:17:36 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 Sep 2023 12:13:58 GMT</lastBuildDate>
+    <item>
+      <title>《半条命 Alyx NoVR》模组将于 10 月进行大幅升级</title>
+      <link>https://www.gamingonlinux.com/2023/09/half-life-alyx-novr-mod-to-get-a-huge-upgrade-in-october/</link>
+      <description><![CDATA[《半条命 Alyx NoVR》模组的工作相当惊人，虽然它已经非常可玩，但十月份的下一个重大更新将真正扩展它。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/09/half-life-alyx-novr-mod-to-get-a-huge-upgrade-in-october/</guid>
+      <pubDate>Tue, 05 Sep 2023 12:13:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Zoom 平台添加了由 ScummVM 提供支持的 Syberia 和 Syberia II</title>
+      <link>https://www.gamingonlinux.com/2023/09/zoom-platform-adds-syberia-and-syberia-ii-powered-by-scummvm/</link>
+      <description><![CDATA[现在，玩 Microids 的经典冒险游戏《Syberia》和《Syberia II》比以往任何时候都更容易，因为 Zoom 平台为它们添加了跨平台支持。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/09/zoom-platform-adds-syberia-and-syberia-ii-powered-by-scummvm/</guid>
+      <pubDate>Tue, 05 Sep 2023 12:04:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>游戏搬运工Ethan Lee为开发者提供老游戏维护服务</title>
+      <link>https://www.gamingonlinux.com/2023/09/game-porter-ethan-lee-offers-services-to-maintain-old-games-for-developers/</link>
+      <description><![CDATA[Ethan Lee（又名 flibitijibibo）创建了 FNA，并将大量游戏移植到 Linux、macOS 等平台，他宣布为开发者提供一项新的游戏维护服务。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/09/game-porter-ethan-lee-offers-services-to-maintain-old-games-for-developers/</guid>
+      <pubDate>Tue, 05 Sep 2023 11:20:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>从 Humble Bundle 获取大量真人 FMV 游戏</title>
+      <link>https://www.gamingonlinux.com/2023/09/get-a-bunch-of-live-action-fmv-games-from-humble-bundle/</link>
+      <description><![CDATA[喜欢真人 FMV 游戏吗？ Wales Interactive 与 Humble Bundle 合作为您提供了一堆这样的内容，因此以下是 Steam Deck 和桌面 Linux 上的兼容性。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/09/get-a-bunch-of-live-action-fmv-games-from-humble-bundle/</guid>
+      <pubDate>Tue, 05 Sep 2023 10:55:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>Valve 支持蓝精灵，禁止 Dota 2 中的 9 万人入场</title>
+      <link>https://www.gamingonlinux.com/2023/09/valve-goes-for-the-smurfs-banning-90000-people-in-dota-2/</link>
+      <description><![CDATA[在相当令人兴奋的夏季更新推出后，带来了新的配对和摆脱不良体验的工具，Valve 接下来的目标是蓝精灵。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/09/valve-goes-for-the-smurfs-banning-90000-people-in-dota-2/</guid>
+      <pubDate>Tue, 05 Sep 2023 10:40:40 GMT</pubDate>
+    </item>
     <item>
       <title>构建复古 Linux 游戏计算机第 32 部分：前进两步，后退一步</title>
       <link>https://www.gamingonlinux.com/2023/09/building-a-retro-linux-gaming-computer-part-32-two-steps-forward-one-step-back/</link>
@@ -74,41 +109,6 @@
       <description><![CDATA[Gaijin Entertainment 已经透露了《战争雷霆》的下一个重大更新，名为《阿提拉之子》，并且他们将继续制定路线图来改进游戏的其他部分。]]></description>
       <guid>https://www.gamingonlinux.com/2023/09/war-thunder-next-major-update-sons-of-attila-easier-vehicle-unlocks-coming/</guid>
       <pubDate>Fri, 01 Sep 2023 13:08:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>《十字军之王 III》三年后销量突破 300 万份</title>
-      <link>https://www.gamingonlinux.com/2023/09/crusader-kings-iii-hits-3-million-sales-after-3-years/</link>
-      <description><![CDATA[Paradox Interactive 今天宣布，继近期发布《十字军之王 III》的《守卫与守望者》之后，三周年纪念日销量现已突破 300 万份。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/09/crusader-kings-iii-hits-3-million-sales-after-3-years/</guid>
-      <pubDate>Fri, 01 Sep 2023 12:48:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>Steam Deck OS 3.4.9 发布，修复了 Starfield 的 GPU</title>
-      <link>https://www.gamingonlinux.com/2023/09/steam-deck-os-349-released-with-gpu-fix-for-starfield/</link>
-      <description><![CDATA[正如我之前推测的那样，当 Steam Deck OS 3.4.9 进入预览版时，Valve 现在已将其作为稳定更新发布给 Starfield 的所有 Steam Deck 所有者。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/09/steam-deck-os-349-released-with-gpu-fix-for-starfield/</guid>
-      <pubDate>Fri, 01 Sep 2023 00:12:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Embracer 关闭了 Freespace、Red Faction、Saints Row 的 Volition 开发商</title>
-      <link>https://www.gamingonlinux.com/2023/08/embracer-closes-volition-developer-of-freespace-red-faction-saints-row/</link>
-      <description><![CDATA[好吧，还有另一个大行业名字。 Embracer Group 目前拥有庞大的开发商和发行商组合，该集团已关闭了 Volition。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/08/embracer-closes-volition-developer-of-freespace-red-faction-saints-row/</guid>
-      <pubDate>Thu, 31 Aug 2023 17:13:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>《忍者神龟：碎纸机的复仇》- Dimension Shellshock DLC 现已推出</title>
-      <link>https://www.gamingonlinux.com/2023/08/tmnt-shredders-revenge-dimension-shellshock-dlc-is-out-now/</link>
-      <description><![CDATA[原生 Linux 格斗游戏《忍者神龟：碎纸机的复仇》于 8 月 31 日收到了 Dimension Shellshock DLC，DLC 和基础游戏均可享受折扣。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/08/tmnt-shredders-revenge-dimension-shellshock-dlc-is-out-now/</guid>
-      <pubDate>Thu, 31 Aug 2023 16:55:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>质子实验更新提供了新的可玩游戏并修复了愚人船</title>
-      <link>https://www.gamingonlinux.com/2023/08/proton-experimental-update-has-newly-playable-games-and-fixes-ship-of-fools/</link>
-      <description><![CDATA[Valve 于 8 月 31 日发布了适用于 Steam Deck 和桌面 Linux 的 Proton Experimental 的新升级，并添加了一些新内容，以下是新内容。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/08/proton-experimental-update-has-newly-playable-games-and-fixes-ship-of-fools/</guid>
-      <pubDate>Thu, 31 Aug 2023 16:51:19 GMT</pubDate>
     </item>
     </channel>
 </rss>
