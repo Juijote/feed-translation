@@ -4,18 +4,39 @@
     <title>GamingOnLinux 最新文章</title>
     <link>https://www.gamingonlinux.com/</link>
     <description>GamingOnLinux 的最新文章</description>
-    <lastBuildDate>Tue, 05 Sep 2023 12:13:58 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 Sep 2023 17:55:36 GMT</lastBuildDate>
+    <item>
+      <title>Humble Choice 有 Tiny Tina's Wonderlands、Patch Quest、Deceive Inc 等</title>
+      <link>https://www.gamingonlinux.com/2023/09/humble-choice-tiny-tinas-wonderlands-patch-quest-deceive-inc/</link>
+      <description><![CDATA[另一个听起来很棒的游戏包，每月一次的 Humble Choice 将于 9 月上线。这是 Steam Deck 和桌面 Linux 的兼容性的运行情况。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/09/humble-choice-tiny-tinas-wonderlands-patch-quest-deceive-inc/</guid>
+      <pubDate>Tue, 05 Sep 2023 17:55:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>断剑 - 圣殿骑士之影得到重制，加上全新的冒险</title>
+      <link>https://www.gamingonlinux.com/2023/09/broken-sword-shadow-of-the-templars-getting-remastered-plus-a-whole-new-adventure/</link>
+      <description><![CDATA[Revolution Software 最近为冒险游戏迷宣布了两条重大消息！不仅会有一款全新的游戏《断剑 - 帕西法尔之石》，而且《断剑 - 圣殿骑士之影：重制版》也即将推出。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/09/broken-sword-shadow-of-the-templars-getting-remastered-plus-a-whole-new-adventure/</guid>
+      <pubDate>Tue, 05 Sep 2023 17:37:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Linux 更新挑逗 Valve 'Galileo' 和 'Sephiroth' - Steam Deck 刷新？还是新的VR？</title>
+      <link>https://www.gamingonlinux.com/2023/09/linux-updates-tease-valve-galileo-and-sephiroth-steam-deck-refresh-or-new-vr/</link>
+      <description><![CDATA[这里有一些东西可能令人兴奋，但也可能毫无意义。因此，请严格控制期望，但针对 Linux 内核 6.6 提交的工作显示了 Valve 的一些有趣的东西。可能是 Steam Deck 更新或者他们的新 VR 耳机？]]></description>
+      <guid>https://www.gamingonlinux.com/2023/09/linux-updates-tease-valve-galileo-and-sephiroth-steam-deck-refresh-or-new-vr/</guid>
+      <pubDate>Tue, 05 Sep 2023 13:00:58 GMT</pubDate>
+    </item>
     <item>
       <title>《半条命 Alyx NoVR》模组将于 10 月进行大幅升级</title>
       <link>https://www.gamingonlinux.com/2023/09/half-life-alyx-novr-mod-to-get-a-huge-upgrade-in-october/</link>
-      <description><![CDATA[《半条命 Alyx NoVR》模组的工作相当惊人，虽然它已经非常可玩，但十月份的下一个重大更新将真正扩展它。]]></description>
+      <description><![CDATA[《半条命 Alyx NoVR》模组的工作相当惊人，虽然它已经非常可玩，但十月即将推出的下一个重大更新将真正扩展它。]]></description>
       <guid>https://www.gamingonlinux.com/2023/09/half-life-alyx-novr-mod-to-get-a-huge-upgrade-in-october/</guid>
       <pubDate>Tue, 05 Sep 2023 12:13:58 GMT</pubDate>
     </item>
     <item>
       <title>Zoom 平台添加了由 ScummVM 提供支持的 Syberia 和 Syberia II</title>
       <link>https://www.gamingonlinux.com/2023/09/zoom-platform-adds-syberia-and-syberia-ii-powered-by-scummvm/</link>
-      <description><![CDATA[现在，玩 Microids 的经典冒险游戏《Syberia》和《Syberia II》比以往任何时候都更容易，因为 Zoom 平台为它们添加了跨平台支持。]]></description>
+      <description><![CDATA[现在，玩 Microids 的经典冒险游戏《塞伯利亚》和《塞伯利亚 II》比以往任何时候都更容易，因为 Zoom 平台为它们添加了跨平台支持。]]></description>
       <guid>https://www.gamingonlinux.com/2023/09/zoom-platform-adds-syberia-and-syberia-ii-powered-by-scummvm/</guid>
       <pubDate>Tue, 05 Sep 2023 12:04:37 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[GE-Proton 的最新版本（Proton 的社区版本）已发布。版本 8-14 带来了一些已弃用的修复和解决方法删除。]]></description>
       <guid>https://www.gamingonlinux.com/2023/09/ge-proton-8-14-released-deprecated-workarounds-removed/</guid>
       <pubDate>Sat, 02 Sep 2023 16:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>开发者解释的 optimus-manager 的状态</title>
-      <link>https://www.gamingonlinux.com/2023/09/the-state-of-optimus-manager-explained-by-its-developer/</link>
-      <description><![CDATA[此 Linux 程序为 Optimus 笔记本电脑（即具有双 Nvidia/Intel 或 Nvidia/AMD 配置的笔记本电脑）上的 GPU 切换提供了解决方案。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/09/the-state-of-optimus-manager-explained-by-its-developer/</guid>
-      <pubDate>Sat, 02 Sep 2023 16:29:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>生物收集生活模拟游戏《月石岛》将于 9 月 20 日推出</title>
-      <link>https://www.gamingonlinux.com/2023/09/creature-collecting-life-sim-moonstone-island-launches-september-20th/</link>
-      <description><![CDATA[Studio Supersoft 和发行商 Raw Fury 宣布，可爱的生物收集生活模拟游戏《月石岛》将于 9 月 20 日推出。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/09/creature-collecting-life-sim-moonstone-island-launches-september-20th/</guid>
-      <pubDate>Fri, 01 Sep 2023 13:27:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>战争雷霆的下一个重大更新是“阿提拉之子”，并且即将推出更容易的车辆解锁</title>
-      <link>https://www.gamingonlinux.com/2023/09/war-thunder-next-major-update-sons-of-attila-easier-vehicle-unlocks-coming/</link>
-      <description><![CDATA[Gaijin Entertainment 已经透露了《战争雷霆》的下一个重大更新，名为《阿提拉之子》，并且他们将继续制定路线图来改进游戏的其他部分。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/09/war-thunder-next-major-update-sons-of-attila-easier-vehicle-unlocks-coming/</guid>
-      <pubDate>Fri, 01 Sep 2023 13:08:45 GMT</pubDate>
     </item>
     </channel>
 </rss>
