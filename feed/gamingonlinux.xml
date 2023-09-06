@@ -4,7 +4,49 @@
     <title>GamingOnLinux 最新文章</title>
     <link>https://www.gamingonlinux.com/</link>
     <description>GamingOnLinux 的最新文章</description>
-    <lastBuildDate>Tue, 05 Sep 2023 21:10:51 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 06 Sep 2023 16:25:17 GMT</lastBuildDate>
+    <item>
+      <title>《DOOM Eternal》移除了 Denuvo，它在 Steam Deck 上表现出色</title>
+      <link>https://www.gamingonlinux.com/2023/09/doom-eternal-removed-denuvo-and-it-plays-great-on-steam-deck/</link>
+      <description><![CDATA[基本上每个月都会有新的精彩游戏问世，我们也不要忘记一些值得一玩的稍旧的游戏。就像《DOOM Eternal》一样，它只是删除了 Denuvo Anti-Tamper。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/09/doom-eternal-removed-denuvo-and-it-plays-great-on-steam-deck/</guid>
+      <pubDate>Wed, 06 Sep 2023 16:25:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Statcounter 上 Linux 桌面用户份额继续上升至 3% 以上</title>
+      <link>https://www.gamingonlinux.com/2023/09/linux-continues-rising-above-3-desktop-user-share-on-statcounter/</link>
+      <description><![CDATA[又一个月，另一组统计数据显示 Linux 桌面似乎比以往任何时候都表现得更好。据 Statcounter 统计，Linux 份额再次上升。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/09/linux-continues-rising-above-3-desktop-user-share-on-statcounter/</guid>
+      <pubDate>Wed, 06 Sep 2023 16:11:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>无情的生存类 Rogue 回合制城市建设游戏《Dotage》将于 10 月发布</title>
+      <link>https://www.gamingonlinux.com/2023/09/merciless-survival-roguelite-turn-based-city-builder-dotage-releases-in-october/</link>
+      <description><![CDATA[《Dotage》从棋盘游戏中汲取了大量灵感，让您扮演长者的角色，他对未来有着注定的愿景。所以你要开始一个新的村庄，在那里你必须小心地引导他们。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/09/merciless-survival-roguelite-turn-based-city-builder-dotage-releases-in-october/</guid>
+      <pubDate>Wed, 06 Sep 2023 14:11:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>适用于经典 LucasArts 游戏的 DREAMM 模拟器 v2.1 推出，支持 Linux</title>
+      <link>https://www.gamingonlinux.com/2023/09/dreamm-emulator-for-classic-lucasarts-games-v2-1-out-with-linux-support/</link>
+      <description><![CDATA[DREAMM 是另一个致力于保持经典游戏活力的项目，最初是为了保存经典的 DOS、Windows 和 FM-Towns LucasArts 游戏而设计的。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/09/dreamm-emulator-for-classic-lucasarts-games-v2-1-out-with-linux-support/</guid>
+      <pubDate>Wed, 06 Sep 2023 14:03:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>天才少女：外差城堡历险记现已推出</title>
+      <link>https://www.gamingonlinux.com/2023/09/girl-genius-adventures-in-castle-heterodyne-is-out-now/</link>
+      <description><![CDATA[Teslagrad 的 Rain Games 开发商刚刚发布了《天才少女：外差城堡历险记》，这是一款根据 Phil 和 Kaja Foglio 的图画小说系列《天才少女》改编的动作冒险游戏。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/09/girl-genius-adventures-in-castle-heterodyne-is-out-now/</guid>
+      <pubDate>Wed, 06 Sep 2023 13:54:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Steam 很快将显示更好的控制器支持细节，例如 PlayStation 控制器</title>
+      <link>https://www.gamingonlinux.com/2023/09/steam-will-soon-show-better-controller-support-details-like-for-playstation-controllers/</link>
+      <description><![CDATA[Valve 已向开发者宣布，他们将推出更好的方式来展示对 Steam 游戏的控制器支持。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/09/steam-will-soon-show-better-controller-support-details-like-for-playstation-controllers/</guid>
+      <pubDate>Wed, 06 Sep 2023 13:45:32 GMT</pubDate>
+    </item>
     <item>
       <title>星球大战绝地：幸存者在 Steam Deck 上更新补丁 7 后可玩性更高</title>
       <link>https://www.gamingonlinux.com/2023/09/star-wars-jedi-survivor-more-playable-on-steam-deck-with-patch-7/</link>
@@ -67,48 +109,6 @@
       <description><![CDATA[在相当令人兴奋的夏季更新推出后，带来了新的配对和摆脱不良体验的工具，Valve 接下来的目标是蓝精灵。]]></description>
       <guid>https://www.gamingonlinux.com/2023/09/valve-goes-for-the-smurfs-banning-90000-people-in-dota-2/</guid>
       <pubDate>Tue, 05 Sep 2023 10:40:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>构建复古 Linux 游戏计算机第 32 部分：前进两步，后退一步</title>
-      <link>https://www.gamingonlinux.com/2023/09/building-a-retro-linux-gaming-computer-part-32-two-steps-forward-one-step-back/</link>
-      <description><![CDATA[在过去的几个月里，我对 Dianoga 进行了一些升级和更改，现在是时候将它们全部列出来了。我在年初购买的第一次升级是一个简单的升级，但现在我的 Linux 可用硬盘空间增加了一倍多，并且可以使用我的 CRT 显示器享受更多游戏。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/09/building-a-retro-linux-gaming-computer-part-32-two-steps-forward-one-step-back/</guid>
-      <pubDate>Mon, 04 Sep 2023 22:17:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>这是 2023 年 8 月最受欢迎的 Steam Deck 游戏</title>
-      <link>https://www.gamingonlinux.com/2023/09/most-popular-steam-deck-games-august-2023/</link>
-      <description><![CDATA[又是新的一个月，Valve 公布了 Steam Deck 上玩得最多的游戏。根据最近发布的内容，其中很多内容当然是相当明显的。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/09/most-popular-steam-deck-games-august-2023/</guid>
-      <pubDate>Mon, 04 Sep 2023 17:37:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>NVIDIA Vulkan Beta 535.43.09 和稳定版 535.104.05 驱动程序现已推出</title>
-      <link>https://www.gamingonlinux.com/2023/09/nvidia-vulkan-beta-535-43-09-and-stable-535-104-05-drivers-out-now/</link>
-      <description><![CDATA[NVIDIA 最近发布了两个针对 Linux 的新驱动程序升级，尽管其中之一我们不知道它们实际上改变了什么。这是怎么回事。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/09/nvidia-vulkan-beta-535-43-09-and-stable-535-104-05-drivers-out-now/</guid>
-      <pubDate>Mon, 04 Sep 2023 17:24:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>以下是 Starfield 在 Steam Deck 和桌面 Linux 上的运行方式</title>
-      <link>https://www.gamingonlinux.com/2023/09/heres-how-starfield-runs-on-steam-deck-and-desktop-linux/</link>
-      <description><![CDATA[想知道 Starfield 如何在 Steam Deck 上运行？还是桌面Linux？好吧，我已经尝试了一下，看看我的想法如何，这里有一些早期信息给您。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/09/heres-how-starfield-runs-on-steam-deck-and-desktop-linux/</guid>
-      <pubDate>Mon, 04 Sep 2023 17:02:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>在最新的 Steam 调查中，Linux 用户份额仍然高于 macOS</title>
-      <link>https://www.gamingonlinux.com/2023/09/linux-user-share-remains-above-macos-in-the-latest-steam-survey/</link>
-      <description><![CDATA[在上一次 Steam 硬件和软件调查中 Linux 用户首次超越 macOS 取得相当令人兴奋的发展之后，最新调查显示 Linux 继续高于 macOS，但数量有所下降。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/09/linux-user-share-remains-above-macos-in-the-latest-steam-survey/</guid>
-      <pubDate>Sat, 02 Sep 2023 17:41:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>Wine 8.15 现已发布，并且提交了更多 Wine Wayland 工作</title>
-      <link>https://www.gamingonlinux.com/2023/09/wine-8-15-out-now-plus-more-wine-wayland-work-submitted/</link>
-      <description><![CDATA[本周末有两则 Wine 新闻，开发版本 Wine 8.15 现已推出，Wine Wayland 的更多工作也即将到来。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/09/wine-8-15-out-now-plus-more-wine-wayland-work-submitted/</guid>
-      <pubDate>Sat, 02 Sep 2023 17:01:29 GMT</pubDate>
     </item>
     </channel>
 </rss>
