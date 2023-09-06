@@ -4,7 +4,14 @@
     <title>GamingOnLinux 最新文章</title>
     <link>https://www.gamingonlinux.com/</link>
     <description>GamingOnLinux 的最新文章</description>
-    <lastBuildDate>Tue, 05 Sep 2023 17:55:36 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 Sep 2023 21:10:51 GMT</lastBuildDate>
+    <item>
+      <title>星球大战绝地：幸存者在 Steam Deck 上更新补丁 7 后可玩性更高</title>
+      <link>https://www.gamingonlinux.com/2023/09/star-wars-jedi-survivor-more-playable-on-steam-deck-with-patch-7/</link>
+      <description><![CDATA[《星球大战绝地：幸存者》刚刚发布了补丁 7，Respawn 指出它包含了一些性能改进。那么这对于 Steam Deck 意味着什么呢？这是什么。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/09/star-wars-jedi-survivor-more-playable-on-steam-deck-with-patch-7/</guid>
+      <pubDate>Tue, 05 Sep 2023 21:10:51 GMT</pubDate>
+    </item>
     <item>
       <title>Humble Choice 有 Tiny Tina's Wonderlands、Patch Quest、Deceive Inc 等</title>
       <link>https://www.gamingonlinux.com/2023/09/humble-choice-tiny-tinas-wonderlands-patch-quest-deceive-inc/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[本周末有两则 Wine 新闻，开发版本 Wine 8.15 现已推出，Wine Wayland 的更多工作也即将到来。]]></description>
       <guid>https://www.gamingonlinux.com/2023/09/wine-8-15-out-now-plus-more-wine-wayland-work-submitted/</guid>
       <pubDate>Sat, 02 Sep 2023 17:01:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>GE-Proton 8-14 发布，已弃用的解决方法已删除</title>
-      <link>https://www.gamingonlinux.com/2023/09/ge-proton-8-14-released-deprecated-workarounds-removed/</link>
-      <description><![CDATA[GE-Proton 的最新版本（Proton 的社区版本）已发布。版本 8-14 带来了一些已弃用的修复和解决方法删除。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/09/ge-proton-8-14-released-deprecated-workarounds-removed/</guid>
-      <pubDate>Sat, 02 Sep 2023 16:35:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
