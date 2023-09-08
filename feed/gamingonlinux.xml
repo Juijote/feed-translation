@@ -4,7 +4,14 @@
     <title>GamingOnLinux 最新文章</title>
     <link>https://www.gamingonlinux.com/</link>
     <description>GamingOnLinux 的最新文章</description>
-    <lastBuildDate>Thu, 07 Sep 2023 16:09:58 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 07 Sep 2023 19:03:07 GMT</lastBuildDate>
+    <item>
+      <title>《Paradox》中的《星际迷航：无限》将于 10 月 12 日上映</title>
+      <link>https://www.gamingonlinux.com/2023/09/star-trek-infinite-from-paradox-releases-october-12/</link>
+      <description><![CDATA[Paradox Interactive 与 Nimble Giant Entertainment 宣布《星际迷航：无限》将于 10 月 12 日发行。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/09/star-trek-infinite-from-paradox-releases-october-12/</guid>
+      <pubDate>Thu, 07 Sep 2023 19:03:07 GMT</pubDate>
+    </item>
     <item>
       <title>混乱的家具建造合作游戏 KallaX 只给一名玩家指令</title>
       <link>https://www.gamingonlinux.com/2023/09/chaotic-furniture-building-co-op-game-kallax-only-gives-one-player-instructions/</link>
@@ -55,7 +62,7 @@
       <pubDate>Wed, 06 Sep 2023 16:11:50 GMT</pubDate>
     </item>
     <item>
-      <title>无情的生存类 Rogue 回合制城市建设游戏《Dotage》将于 10 月发布</title>
+      <title>无情的生存 Rogue 回合制城市建设游戏《Dotage》将于 10 月发布</title>
       <link>https://www.gamingonlinux.com/2023/09/merciless-survival-roguelite-turn-based-city-builder-dotage-releases-in-october/</link>
       <description><![CDATA[《Dotage》从棋盘游戏中汲取了大量灵感，让您扮演长者的角色，他对未来有着注定的愿景。所以你要开始一个新的村庄，在那里你必须小心地引导他们。]]></description>
       <guid>https://www.gamingonlinux.com/2023/09/merciless-survival-roguelite-turn-based-city-builder-dotage-releases-in-october/</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[Revolution Software 最近为冒险游戏迷宣布了两条重大消息！不仅会有一款全新的游戏《断剑 - 帕西法尔之石》，而且《断剑 - 圣殿骑士之影：重制版》也即将推出。]]></description>
       <guid>https://www.gamingonlinux.com/2023/09/broken-sword-shadow-of-the-templars-getting-remastered-plus-a-whole-new-adventure/</guid>
       <pubDate>Tue, 05 Sep 2023 17:37:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>Linux 更新挑逗 Valve 'Galileo' 和 'Sephiroth' - Steam Deck 刷新？还是新的VR？</title>
-      <link>https://www.gamingonlinux.com/2023/09/linux-updates-tease-valve-galileo-and-sephiroth-steam-deck-refresh-or-new-vr/</link>
-      <description><![CDATA[这里有一些东西可能令人兴奋，但也可能毫无意义。因此，请严格控制期望，但针对 Linux 内核 6.6 提交的工作显示了 Valve 的一些有趣的东西。可能是 Steam Deck 更新或者他们的新 VR 耳机？]]></description>
-      <guid>https://www.gamingonlinux.com/2023/09/linux-updates-tease-valve-galileo-and-sephiroth-steam-deck-refresh-or-new-vr/</guid>
-      <pubDate>Tue, 05 Sep 2023 13:00:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
