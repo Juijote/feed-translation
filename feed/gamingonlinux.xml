@@ -4,7 +4,21 @@
     <title>GamingOnLinux 最新文章</title>
     <link>https://www.gamingonlinux.com/</link>
     <description>GamingOnLinux 的最新文章</description>
-    <lastBuildDate>Fri, 08 Sep 2023 12:03:22 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 08 Sep 2023 13:27:18 GMT</lastBuildDate>
+    <item>
+      <title>即将推出的 Valve 硬件出现更多预告片</title>
+      <link>https://www.gamingonlinux.com/2023/09/more-teasers-appear-for-upcoming-valve-hardware/</link>
+      <description><![CDATA[就在最近，我写了一篇有关 Valve 与“Galileo”和“Sephiroth”相关的潜在新硬件的文章，这些硬件可能是 Steam Deck 更新或新的 VR 套件。现在我们掌握了在韩国获得认证的设备的基本初步详细信息。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/09/more-teasers-appear-for-upcoming-valve-hardware/</guid>
+      <pubDate>Fri, 08 Sep 2023 13:27:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>Amnesia：黑暗后裔 Redux mod 增加了 Vulkan 和 DirectX 12 支持</title>
+      <link>https://www.gamingonlinux.com/2023/09/amnesia-the-dark-descent-redux-mod-adds-vulkan-and-directx-12-support/</link>
+      <description><![CDATA[嗯，这很有趣。 《失忆症：黑暗后裔》获得了 Redux 模组，该模组重建了游戏背后的图形引擎，以在 Linux 上提供 Vulkan，在 Windows 上提供 DirectX 12。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/09/amnesia-the-dark-descent-redux-mod-adds-vulkan-and-directx-12-support/</guid>
+      <pubDate>Fri, 08 Sep 2023 12:37:59 GMT</pubDate>
+    </item>
     <item>
       <title>Proton Experimental 修复了《地铁：离去》、《刀剑神域：积分因子》等游戏</title>
       <link>https://www.gamingonlinux.com/2023/09/proton-experimental-fixes-up-metro-exodus-sword-art-online-integral-factor-and-more/</link>
@@ -90,25 +104,11 @@
       <pubDate>Wed, 06 Sep 2023 16:11:50 GMT</pubDate>
     </item>
     <item>
-      <title>无情的生存 Rogue 回合制城市建设游戏《Dotage》将于 10 月发布</title>
+      <title>无情的生存类 Rogue 回合制城市建设游戏《Dotage》将于 10 月发布</title>
       <link>https://www.gamingonlinux.com/2023/09/merciless-survival-roguelite-turn-based-city-builder-dotage-releases-in-october/</link>
       <description><![CDATA[《Dotage》从棋盘游戏中汲取了大量灵感，让您扮演长者的角色，他对未来有着注定的愿景。所以你要开始一个新的村庄，在那里你必须小心地引导他们。]]></description>
       <guid>https://www.gamingonlinux.com/2023/09/merciless-survival-roguelite-turn-based-city-builder-dotage-releases-in-october/</guid>
       <pubDate>Wed, 06 Sep 2023 14:11:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>适用于经典 LucasArts 游戏的 DREAMM 模拟器 v2.1 推出，支持 Linux</title>
-      <link>https://www.gamingonlinux.com/2023/09/dreamm-emulator-for-classic-lucasarts-games-v2-1-out-with-linux-support/</link>
-      <description><![CDATA[DREAMM 是另一个致力于保持经典游戏活力的项目，最初是为了保存经典的 DOS、Windows 和 FM-Towns LucasArts 游戏而设计的。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/09/dreamm-emulator-for-classic-lucasarts-games-v2-1-out-with-linux-support/</guid>
-      <pubDate>Wed, 06 Sep 2023 14:03:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>天才少女：外差城堡历险记现已推出</title>
-      <link>https://www.gamingonlinux.com/2023/09/girl-genius-adventures-in-castle-heterodyne-is-out-now/</link>
-      <description><![CDATA[Teslagrad 的 Rain Games 开发商刚刚发布了《天才少女：外差城堡历险记》，这是一款根据 Phil 和 Kaja Foglio 的图画小说系列《天才少女》改编的动作冒险游戏。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/09/girl-genius-adventures-in-castle-heterodyne-is-out-now/</guid>
-      <pubDate>Wed, 06 Sep 2023 13:54:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
