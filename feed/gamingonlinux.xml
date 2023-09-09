@@ -4,7 +4,14 @@
     <title>GamingOnLinux 最新文章</title>
     <link>https://www.gamingonlinux.com/</link>
     <description>GamingOnLinux 的最新文章</description>
-    <lastBuildDate>Fri, 08 Sep 2023 21:30:51 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 09 Sep 2023 07:28:07 GMT</lastBuildDate>
+    <item>
+      <title>以下是如何让 PAYDAY 3 Beta 在 Steam Deck 和 Linux 上运行</title>
+      <link>https://www.gamingonlinux.com/2023/09/heres-how-to-get-payday-3-beta-to-work-on-steam-deck-linux/</link>
+      <description><![CDATA[PAYDAY 3 目前有一个技术测试版，他们正在测试他们的服务器，为 9 月 21 日的完整发布做好准备。要使其在 Steam Deck 和桌面 Linux 上运行，需要进行一些修复才能工作，具体方法如下。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/09/heres-how-to-get-payday-3-beta-to-work-on-steam-deck-linux/</guid>
+      <pubDate>Sat, 09 Sep 2023 07:28:07 GMT</pubDate>
+    </item>
     <item>
       <title>在这个新捆绑包中获得一些巧妙的潜行游戏，例如《Shadow Tactics》</title>
       <link>https://www.gamingonlinux.com/2023/09/get-some-slick-stealth-games-like-shadow-tactics-in-this-new-bundle/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[基本上每个月都会有新的精彩游戏问世，我们也不要忘记一些值得一玩的稍旧的游戏。就像《DOOM Eternal》一样，它只是删除了 Denuvo Anti-Tamper。]]></description>
       <guid>https://www.gamingonlinux.com/2023/09/doom-eternal-removed-denuvo-and-it-plays-great-on-steam-deck/</guid>
       <pubDate>Wed, 06 Sep 2023 16:25:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>Statcounter 上 Linux 桌面用户份额继续上升至 3% 以上</title>
-      <link>https://www.gamingonlinux.com/2023/09/linux-continues-rising-above-3-desktop-user-share-on-statcounter/</link>
-      <description><![CDATA[又一个月，另一组统计数据显示 Linux 桌面似乎比以往任何时候都表现得更好。据 Statcounter 统计，Linux 份额再次上升。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/09/linux-continues-rising-above-3-desktop-user-share-on-statcounter/</guid>
-      <pubDate>Wed, 06 Sep 2023 16:11:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
