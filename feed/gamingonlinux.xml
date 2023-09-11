@@ -4,7 +4,21 @@
     <title>GamingOnLinux 最新文章</title>
     <link>https://www.gamingonlinux.com/</link>
     <description>GamingOnLinux 的最新文章</description>
-    <lastBuildDate>Mon, 11 Sep 2023 11:26:04 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 11 Sep 2023 14:27:59 GMT</lastBuildDate>
+    <item>
+      <title>VKD3D-Proton v2.10 带来了各种游戏修复、DirectStorage 添加等等</title>
+      <link>https://www.gamingonlinux.com/2023/09/vkd3d-proton-v2-10-various-game-fixes-directstorage/</link>
+      <description><![CDATA[VKD3D-Proton 是一款将 Direct3D 12 转换为 Steam Play Proton 的 Vulkan 的工具，现已发布全新版本 2.10，这是一个令人兴奋的版本。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/09/vkd3d-proton-v2-10-various-game-fixes-directstorage/</guid>
+      <pubDate>Mon, 11 Sep 2023 14:27:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Toaplan Arcade Shoot 'Em Up Collection Vol.2 绝对能满足您的需求</title>
+      <link>https://www.gamingonlinux.com/2023/09/toaplan-arcade-shoot-em-up-collection-vol2-definitely-delivers/</link>
+      <description><![CDATA[如果您是复古游戏的粉丝并且喜欢射击游戏，您应该看看 Toaplan Arcade Shoot &#39;Em Up Collection Vol.2。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/09/toaplan-arcade-shoot-em-up-collection-vol2-definitely-delivers/</guid>
+      <pubDate>Mon, 11 Sep 2023 13:52:01 GMT</pubDate>
+    </item>
     <item>
       <title>DXVK 2.3 修复了《模拟人生 2》、《古墓丽影》周年纪念版、《孤岛惊魂 2》的游戏问题</title>
       <link>https://www.gamingonlinux.com/2023/09/dxvk-2-3-has-game-fixes-for-the-sims-2-tomb-raider-anniversary-far-cry-2/</link>
@@ -71,7 +85,7 @@
     <item>
       <title>Amnesia：黑暗后裔 Redux mod 增加了 Vulkan 和 DirectX 12 支持</title>
       <link>https://www.gamingonlinux.com/2023/09/amnesia-the-dark-descent-redux-mod-adds-vulkan-and-directx-12-support/</link>
-      <description><![CDATA[嗯，这很有趣。 《失忆症：黑暗后裔》获得了 Redux 模组，可以重建游戏背后的图形引擎，在 Linux 上提供 Vulkan，在 Windows 上提供 DirectX 12。]]></description>
+      <description><![CDATA[嗯，这很有趣。 《失忆症：黑暗后裔》获得了 Redux 模组，该模组重建了游戏背后的图形引擎，以在 Linux 上提供 Vulkan，在 Windows 上提供 DirectX 12。]]></description>
       <guid>https://www.gamingonlinux.com/2023/09/amnesia-the-dark-descent-redux-mod-adds-vulkan-and-directx-12-support/</guid>
       <pubDate>Fri, 08 Sep 2023 12:37:59 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[Projekt Z: Beyond Order 是一款即将推出的以二战为背景的大气第一人称僵尸合作射击游戏，由 314 Arts 开发，新预告片已上线。]]></description>
       <guid>https://www.gamingonlinux.com/2023/09/check-out-the-new-trailer-for-projekt-z-beyond-order/</guid>
       <pubDate>Fri, 08 Sep 2023 11:42:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>KDE Plasma 6 将于 2024 年 2 月推出</title>
-      <link>https://www.gamingonlinux.com/2023/09/kde-plasma-6-to-launch-in-february-2024/</link>
-      <description><![CDATA[他们终于确定了日期！ KDE Plasma 6 桌面的重大版本现已定于 2024 年 2 月发布。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/09/kde-plasma-6-to-launch-in-february-2024/</guid>
-      <pubDate>Fri, 08 Sep 2023 11:30:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>《Paradox》中的《星际迷航：无限》将于 10 月 12 日上映</title>
-      <link>https://www.gamingonlinux.com/2023/09/star-trek-infinite-from-paradox-releases-october-12/</link>
-      <description><![CDATA[Paradox Interactive 与 Nimble Giant Entertainment 宣布《星际迷航：无限》将于 10 月 12 日发行。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/09/star-trek-infinite-from-paradox-releases-october-12/</guid>
-      <pubDate>Thu, 07 Sep 2023 19:03:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
