@@ -4,7 +4,49 @@
     <title>GamingOnLinux 最新文章</title>
     <link>https://www.gamingonlinux.com/</link>
     <description>GamingOnLinux 的最新文章</description>
-    <lastBuildDate>Sat, 09 Sep 2023 07:28:07 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 11 Sep 2023 11:26:04 GMT</lastBuildDate>
+    <item>
+      <title>DXVK 2.3 修复了《模拟人生 2》、《古墓丽影》周年纪念版、《孤岛惊魂 2》的游戏问题</title>
+      <link>https://www.gamingonlinux.com/2023/09/dxvk-2-3-has-game-fixes-for-the-sims-2-tomb-raider-anniversary-far-cry-2/</link>
+      <description><![CDATA[不知何故，我错过了上周发布的 DXVK 2.3。下面我们来看看这个基于 Vulkan 的转换层的新增功能，该转换层可将 Direct3D 9/10/11 转换为 Wine 和 Proton。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/09/dxvk-2-3-has-game-fixes-for-the-sims-2-tomb-raider-anniversary-far-cry-2/</guid>
+      <pubDate>Mon, 11 Sep 2023 11:26:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>牌组构建角色扮演游戏“Gordian Quest”获得 Steam Deck 验证</title>
+      <link>https://www.gamingonlinux.com/2023/09/deckbuilding-rpg-gordian-quest-gets-steam-deck-verified/</link>
+      <description><![CDATA[需要更多套牌构建吗？ Gordian Quest 看起来很棒，最近已通过 Steam Deck 验证，开发者正在谈论其中涉及的工作。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/09/deckbuilding-rpg-gordian-quest-gets-steam-deck-verified/</guid>
+      <pubDate>Mon, 11 Sep 2023 11:02:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>PSP 模拟器 PPSSPP 添加了 RetroAchievements 支持</title>
+      <link>https://www.gamingonlinux.com/2023/09/psp-emulator-ppsspp-adds-retroachievements-support/</link>
+      <description><![CDATA[PPSSPP 是索尼 PSP 的免费开源模拟器，现已发布 1.16 版，增加了对流行的 RetroAchievements 项目的支持。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/09/psp-emulator-ppsspp-adds-retroachievements-support/</guid>
+      <pubDate>Mon, 11 Sep 2023 10:33:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>DXVK-NVAPI 0.6.4 现已推出扩展 HDR 支持</title>
+      <link>https://www.gamingonlinux.com/2023/09/dxvk-nvapi-064-out-now-expanding-hdr-support/</link>
+      <description><![CDATA[DXVK-NVAPI 是另一种 NVAPI (NVIDIA API) 实现，与 DXVK 和 VKD3D-Proton 一起使用，通过 Proton 在 Linux 和 Steam Deck 上运行 Windows 游戏。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/09/dxvk-nvapi-064-out-now-expanding-hdr-support/</guid>
+      <pubDate>Mon, 11 Sep 2023 09:50:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>席德·梅尔的半人马座阿尔法星获得了正在开发的开源重制版</title>
+      <link>https://www.gamingonlinux.com/2023/09/sid-meiers-alpha-centauri-open-source-remake/</link>
+      <description><![CDATA[似乎又一个经典正在借助开源的力量而复活。席德·梅尔 (Sid Meier) 1999 年执导的《半人马座阿尔法星》(Alpha Centauri) 的重制版正在进行中，名为“GLSMAC”。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/09/sid-meiers-alpha-centauri-open-source-remake/</guid>
+      <pubDate>Mon, 11 Sep 2023 09:28:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>RollerCoaster Tycoon 2 重新实现 OpenRCT2 获得新标题主题</title>
+      <link>https://www.gamingonlinux.com/2023/09/rollercoaster-tycoon-2-reimplementation-openrct2-gets-a-new-title-theme/</link>
+      <description><![CDATA[OpenRCT2（《RollerCoaster Tycoon 2》的开源重新实现）背后的团队和社区进行了全新更新，其中包括一些有趣的更改，例如全新的标题主题。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/09/rollercoaster-tycoon-2-reimplementation-openrct2-gets-a-new-title-theme/</guid>
+      <pubDate>Mon, 11 Sep 2023 09:13:53 GMT</pubDate>
+    </item>
     <item>
       <title>以下是如何让 PAYDAY 3 Beta 在 Steam Deck 和 Linux 上运行</title>
       <link>https://www.gamingonlinux.com/2023/09/heres-how-to-get-payday-3-beta-to-work-on-steam-deck-linux/</link>
@@ -29,7 +71,7 @@
     <item>
       <title>Amnesia：黑暗后裔 Redux mod 增加了 Vulkan 和 DirectX 12 支持</title>
       <link>https://www.gamingonlinux.com/2023/09/amnesia-the-dark-descent-redux-mod-adds-vulkan-and-directx-12-support/</link>
-      <description><![CDATA[嗯，这很有趣。 《失忆症：黑暗后裔》获得了 Redux 模组，该模组重建了游戏背后的图形引擎，以在 Linux 上提供 Vulkan，在 Windows 上提供 DirectX 12。]]></description>
+      <description><![CDATA[嗯，这很有趣。 《失忆症：黑暗后裔》获得了 Redux 模组，可以重建游戏背后的图形引擎，在 Linux 上提供 Vulkan，在 Windows 上提供 DirectX 12。]]></description>
       <guid>https://www.gamingonlinux.com/2023/09/amnesia-the-dark-descent-redux-mod-adds-vulkan-and-directx-12-support/</guid>
       <pubDate>Fri, 08 Sep 2023 12:37:59 GMT</pubDate>
     </item>
@@ -67,48 +109,6 @@
       <description><![CDATA[Paradox Interactive 与 Nimble Giant Entertainment 宣布《星际迷航：无限》将于 10 月 12 日发行。]]></description>
       <guid>https://www.gamingonlinux.com/2023/09/star-trek-infinite-from-paradox-releases-october-12/</guid>
       <pubDate>Thu, 07 Sep 2023 19:03:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>混乱的家具建造合作游戏 KallaX 只给一名玩家指令</title>
-      <link>https://www.gamingonlinux.com/2023/09/chaotic-furniture-building-co-op-game-kallax-only-gives-one-player-instructions/</link>
-      <description><![CDATA[KallaX 听起来可能非常搞笑。对于 2-6 名玩家之间的合作游戏，您将需要建造一些家具，但问题是，只有其中一个人收到了指示。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/09/chaotic-furniture-building-co-op-game-kallax-only-gives-one-player-instructions/</guid>
-      <pubDate>Thu, 07 Sep 2023 16:09:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>战术回合制潜行游戏 Spirited Thief 于 9 月 19 日发布</title>
-      <link>https://www.gamingonlinux.com/2023/09/tactical-turn-based-stealth-game-spirited-thief-releases-september-19/</link>
-      <description><![CDATA[神偷小偷看起来很可爱。这是一款策略性的回合制潜行游戏，游戏中你会像幽灵朋友一样花时间进行侦察并计划抢劫，然后利用你的知识闯入并带着昂贵的战利品逃跑。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/09/tactical-turn-based-stealth-game-spirited-thief-releases-september-19/</guid>
-      <pubDate>Thu, 07 Sep 2023 15:54:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>《泰坦天降 2》的玩家激增，大减价，在 Steam Deck 和桌面 Linux 上表现出色</title>
-      <link>https://www.gamingonlinux.com/2023/09/titanfall-2-huge-sale-great-on-steam-deck-desktop-linux/</link>
-      <description><![CDATA[《泰坦天降 2》的售价非常便宜，直到 9 月 18 日为止，它拥有最好的 FPS 战役之一，还有一些带有 Northstar mod 的精彩多人游戏。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/09/titanfall-2-huge-sale-great-on-steam-deck-desktop-linux/</guid>
-      <pubDate>Thu, 07 Sep 2023 15:17:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ratchet & Clank：Rift Apart 在 Linux 上获得适用于 AMD GPU 的 FSR 2.2 和光线追踪</title>
-      <link>https://www.gamingonlinux.com/2023/09/ratchet-clank-rift-apart-gets-fsr-22-and-ray-tracing-for-amd-gpus-on-linux/</link>
-      <description><![CDATA[Insomniac Games 和 Nixxes Software 展示了 Ratchet &amp; Clank: Rift Apart 的 PC 支持有多好，现在又推出了免费升级。这对于 Steam Deck 和桌面 Linux 玩家来说也是个好消息。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/09/ratchet-clank-rift-apart-gets-fsr-22-and-ray-tracing-for-amd-gpus-on-linux/</guid>
-      <pubDate>Thu, 07 Sep 2023 14:03:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>这些自定义 Steam Deck 按钮看起来棒极了</title>
-      <link>https://www.gamingonlinux.com/2023/09/these-custom-steam-deck-buttons-look-awesome/</link>
-      <description><![CDATA[想要改装您的 Steam Deck 以使其更加精美吗？彩色控制器的甲板按钮看起来很棒，但很快就卖完了。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/09/these-custom-steam-deck-buttons-look-awesome/</guid>
-      <pubDate>Thu, 07 Sep 2023 12:39:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>《DOOM Eternal》移除了 Denuvo，它在 Steam Deck 上表现出色</title>
-      <link>https://www.gamingonlinux.com/2023/09/doom-eternal-removed-denuvo-and-it-plays-great-on-steam-deck/</link>
-      <description><![CDATA[基本上每个月都会有新的精彩游戏问世，我们也不要忘记一些值得一玩的稍旧的游戏。就像《DOOM Eternal》一样，它只是删除了 Denuvo Anti-Tamper。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/09/doom-eternal-removed-denuvo-and-it-plays-great-on-steam-deck/</guid>
-      <pubDate>Wed, 06 Sep 2023 16:25:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
