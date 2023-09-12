@@ -4,7 +4,42 @@
     <title>GamingOnLinux 最新文章</title>
     <link>https://www.gamingonlinux.com/</link>
     <description>GamingOnLinux 的最新文章</description>
-    <lastBuildDate>Mon, 11 Sep 2023 14:27:59 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 Sep 2023 11:53:45 GMT</lastBuildDate>
+    <item>
+      <title>今天是 Steam 20 岁生日，祝您生日快乐</title>
+      <link>https://www.gamingonlinux.com/2023/09/happy-birthday-to-steam-as-it-turned-20-today/</link>
+      <description><![CDATA[那些时间都去哪儿了？很难相信 Steam 已经在 20 年前问世了，随之而来的是绚丽的绿色界面。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/09/happy-birthday-to-steam-as-it-turned-20-today/</guid>
+      <pubDate>Tue, 12 Sep 2023 11:53:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>Embracer 的麻烦仍在继续，因为他们可能会出售《无主之地》开发 Gearbox</title>
+      <link>https://www.gamingonlinux.com/2023/09/embracers-troubles-continue-as-they-may-sell-off-borderlands-dev-gearbox/</link>
+      <description><![CDATA[拥抱集团似乎有点太大了，但不存在太大而不能倒的事情。在关闭 Volition 后，Embracer 似乎即将出售《无主之地》开发商 Gearbox。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/09/embracers-troubles-continue-as-they-may-sell-off-borderlands-dev-gearbox/</guid>
+      <pubDate>Tue, 12 Sep 2023 11:16:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fanatical 推出了《Deathloop》、《Skyrim》、《Metro Exodus》等精彩捆绑包</title>
+      <link>https://www.gamingonlinux.com/2023/09/fanatical-have-great-bundles-live-with-deathloop-skyrim-metro-exodus-and-more/</link>
+      <description><![CDATA[Fanatical 再次推出了他们的 Bundle Fest，因此几天内将会定期推出新的捆绑包，如果您需要一些新游戏，有一些已经上线的捆绑包值得考虑。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/09/fanatical-have-great-bundles-live-with-deathloop-skyrim-metro-exodus-and-more/</guid>
+      <pubDate>Tue, 12 Sep 2023 10:15:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Stellaris 3.9“Caelum”免费更新现已推出</title>
+      <link>https://www.gamingonlinux.com/2023/09/stellaris-39-caelum-free-update-is-out-now/</link>
+      <description><![CDATA[Paradox 发布了 Stellaris 的最新免费更新 3.9“Caelum”。这也是一个相当大的变化，有相当长的变化列表。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/09/stellaris-39-caelum-free-update-is-out-now/</guid>
+      <pubDate>Tue, 12 Sep 2023 09:53:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Steam 和 Steam Deck 稳定客户端更新增加了印度尼西亚语支持</title>
+      <link>https://www.gamingonlinux.com/2023/09/steam-and-steam-deck-stable-client-update-adds-indonesian-support/</link>
+      <description><![CDATA[Valve 发布了适用于 Steam 桌面和 Steam Deck 的全新稳定客户端更新，其中除其他改进外还增加了印度尼西亚语支持。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/09/steam-and-steam-deck-stable-client-update-adds-indonesian-support/</guid>
+      <pubDate>Tue, 12 Sep 2023 09:25:22 GMT</pubDate>
+    </item>
     <item>
       <title>VKD3D-Proton v2.10 带来了各种游戏修复、DirectStorage 添加等等</title>
       <link>https://www.gamingonlinux.com/2023/09/vkd3d-proton-v2-10-various-game-fixes-directstorage/</link>
@@ -74,41 +109,6 @@
       <description><![CDATA[喜欢你自上而下的隐形战术吗？ 《暗影之击》卑微捆绑包为您提供了一些非常漂亮的选择。以下是您可能在 Steam Deck 和桌面 Linux 上看到的兼容性。]]></description>
       <guid>https://www.gamingonlinux.com/2023/09/get-some-slick-stealth-games-like-shadow-tactics-in-this-new-bundle/</guid>
       <pubDate>Fri, 08 Sep 2023 21:30:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>即将推出的 Valve 硬件出现更多预告片</title>
-      <link>https://www.gamingonlinux.com/2023/09/more-teasers-appear-for-upcoming-valve-hardware/</link>
-      <description><![CDATA[就在最近，我写了一篇有关 Valve 与“Galileo”和“Sephiroth”相关的潜在新硬件的文章，这些硬件可能是 Steam Deck 更新或新的 VR 套件。现在我们掌握了在韩国获得认证的设备的基本初步详细信息。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/09/more-teasers-appear-for-upcoming-valve-hardware/</guid>
-      <pubDate>Fri, 08 Sep 2023 13:27:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>Amnesia：黑暗后裔 Redux mod 增加了 Vulkan 和 DirectX 12 支持</title>
-      <link>https://www.gamingonlinux.com/2023/09/amnesia-the-dark-descent-redux-mod-adds-vulkan-and-directx-12-support/</link>
-      <description><![CDATA[嗯，这很有趣。 《失忆症：黑暗后裔》获得了 Redux 模组，该模组重建了游戏背后的图形引擎，以在 Linux 上提供 Vulkan，在 Windows 上提供 DirectX 12。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/09/amnesia-the-dark-descent-redux-mod-adds-vulkan-and-directx-12-support/</guid>
-      <pubDate>Fri, 08 Sep 2023 12:37:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>Proton Experimental 修复了《地铁：离去》、《刀剑神域：积分因子》等游戏</title>
-      <link>https://www.gamingonlinux.com/2023/09/proton-experimental-fixes-up-metro-exodus-sword-art-online-integral-factor-and-more/</link>
-      <description><![CDATA[在 Valve 最新发布的适用于 Steam Deck 和桌面 Linux 的 Proton Experimental 版本中，更多游戏得到了更多修复，因此以下是更改内容。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/09/proton-experimental-fixes-up-metro-exodus-sword-art-online-integral-factor-and-more/</guid>
-      <pubDate>Fri, 08 Sep 2023 12:03:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>全配音超现实恐怖视觉小说《杀死公主》将于 10 月 20 日推出</title>
-      <link>https://www.gamingonlinux.com/2023/09/fully-voiced-surreal-horror-visual-novel-slay-the-princess-launches-october-20/</link>
-      <description><![CDATA[来自出色的 Scarlet Hollow 的开发者，他们的下一款游戏 Slay the Princess 将于 10 月 20 日推出，并提供完整的原生 Linux 支持，看起来很棒。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/09/fully-voiced-surreal-horror-visual-novel-slay-the-princess-launches-october-20/</guid>
-      <pubDate>Fri, 08 Sep 2023 11:51:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>查看《Projekt Z：超越秩序》的新预告片</title>
-      <link>https://www.gamingonlinux.com/2023/09/check-out-the-new-trailer-for-projekt-z-beyond-order/</link>
-      <description><![CDATA[Projekt Z: Beyond Order 是一款即将推出的以二战为背景的大气第一人称僵尸合作射击游戏，由 314 Arts 开发，新预告片已上线。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/09/check-out-the-new-trailer-for-projekt-z-beyond-order/</guid>
-      <pubDate>Fri, 08 Sep 2023 11:42:02 GMT</pubDate>
     </item>
     </channel>
 </rss>
