@@ -4,7 +4,35 @@
     <title>GamingOnLinux 最新文章</title>
     <link>https://www.gamingonlinux.com/</link>
     <description>GamingOnLinux 的最新文章</description>
-    <lastBuildDate>Tue, 12 Sep 2023 11:53:45 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 Sep 2023 17:26:28 GMT</lastBuildDate>
+    <item>
+      <title>Valve 庆祝 20 周年，Steam 走向绿色</title>
+      <link>https://www.gamingonlinux.com/2023/09/steam-goes-green-as-valve-celebrate-20-years/</link>
+      <description><![CDATA[虽然我们已经在上一篇文章中纪念了 Steam 20 周年，但 Valve 现在也宣布了自己的决定，同时也变得更加环保。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/09/steam-goes-green-as-valve-celebrate-20-years/</guid>
+      <pubDate>Tue, 12 Sep 2023 17:26:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>开源Godot引擎拥有新的Godot发展基金</title>
+      <link>https://www.gamingonlinux.com/2023/09/the-open-source-godot-engine-has-a-new-godot-development-fund/</link>
+      <description><![CDATA[在 Unity 以新的按用户安装付费收入模式迷惑所有开发人员的同一天，开源 Godot 引擎背后的团队刚刚宣布了他们新的 Godot 开发基金。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/09/the-open-source-godot-engine-has-a-new-godot-development-fund/</guid>
+      <pubDate>Tue, 12 Sep 2023 15:04:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Western Digital 宣布推出适用于 Steam Deck 等手持设备的 SN770M NVMe</title>
+      <link>https://www.gamingonlinux.com/2023/09/western-digital-announce-the-sn770m-nvme-for-handhelds-like-the-steam-deck/</link>
+      <description><![CDATA[需要为您的 Steam Deck、ROG Ally 或其他手持设备升级存储空间吗？西部数据 (Western Digital) 是最新加入这一游戏的公司，推出了新款 WD_BLACK SN770M NVMe SSD。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/09/western-digital-announce-the-sn770m-nvme-for-handhelds-like-the-steam-deck/</guid>
+      <pubDate>Tue, 12 Sep 2023 14:29:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>Unity 根据收入和游戏安装量向游戏开发者收取新费用</title>
+      <link>https://www.gamingonlinux.com/2023/09/unity-introduces-new-fees-for-game-devs-based-on-revenue-and-game-installs/</link>
+      <description><![CDATA[Unity Technologies 宣布对游戏开发商的费用进行全面改革，其中包括跟踪游戏安装和收入。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/09/unity-introduces-new-fees-for-game-devs-based-on-revenue-and-game-installs/</guid>
+      <pubDate>Tue, 12 Sep 2023 13:24:40 GMT</pubDate>
+    </item>
     <item>
       <title>今天是 Steam 20 岁生日，祝您生日快乐</title>
       <link>https://www.gamingonlinux.com/2023/09/happy-birthday-to-steam-as-it-turned-20-today/</link>
@@ -36,7 +64,7 @@
     <item>
       <title>Steam 和 Steam Deck 稳定客户端更新增加了印度尼西亚语支持</title>
       <link>https://www.gamingonlinux.com/2023/09/steam-and-steam-deck-stable-client-update-adds-indonesian-support/</link>
-      <description><![CDATA[Valve 发布了适用于 Steam 桌面和 Steam Deck 的全新稳定客户端更新，其中除其他改进外还增加了印度尼西亚语支持。]]></description>
+      <description><![CDATA[Valve 发布了适用于 Steam 桌面和 Steam Deck 的全新稳定客户端更新，除其他改进外还增加了印度尼西亚语支持。]]></description>
       <guid>https://www.gamingonlinux.com/2023/09/steam-and-steam-deck-stable-client-update-adds-indonesian-support/</guid>
       <pubDate>Tue, 12 Sep 2023 09:25:22 GMT</pubDate>
     </item>
@@ -81,34 +109,6 @@
       <description><![CDATA[DXVK-NVAPI 是另一种 NVAPI (NVIDIA API) 实现，与 DXVK 和 VKD3D-Proton 一起使用，通过 Proton 在 Linux 和 Steam Deck 上运行 Windows 游戏。]]></description>
       <guid>https://www.gamingonlinux.com/2023/09/dxvk-nvapi-064-out-now-expanding-hdr-support/</guid>
       <pubDate>Mon, 11 Sep 2023 09:50:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>席德·梅尔的半人马座阿尔法星获得了正在开发的开源重制版</title>
-      <link>https://www.gamingonlinux.com/2023/09/sid-meiers-alpha-centauri-open-source-remake/</link>
-      <description><![CDATA[似乎又一个经典正在借助开源的力量而复活。席德·梅尔 (Sid Meier) 1999 年执导的《半人马座阿尔法星》(Alpha Centauri) 的重制版正在进行中，名为“GLSMAC”。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/09/sid-meiers-alpha-centauri-open-source-remake/</guid>
-      <pubDate>Mon, 11 Sep 2023 09:28:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>RollerCoaster Tycoon 2 重新实现 OpenRCT2 获得新标题主题</title>
-      <link>https://www.gamingonlinux.com/2023/09/rollercoaster-tycoon-2-reimplementation-openrct2-gets-a-new-title-theme/</link>
-      <description><![CDATA[OpenRCT2（《RollerCoaster Tycoon 2》的开源重新实现）背后的团队和社区进行了全新更新，其中包括一些有趣的更改，例如全新的标题主题。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/09/rollercoaster-tycoon-2-reimplementation-openrct2-gets-a-new-title-theme/</guid>
-      <pubDate>Mon, 11 Sep 2023 09:13:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>以下是如何让 PAYDAY 3 Beta 在 Steam Deck 和 Linux 上运行</title>
-      <link>https://www.gamingonlinux.com/2023/09/heres-how-to-get-payday-3-beta-to-work-on-steam-deck-linux/</link>
-      <description><![CDATA[PAYDAY 3 目前有一个技术测试版，他们正在测试他们的服务器，为 9 月 21 日的完整发布做好准备。要使其在 Steam Deck 和桌面 Linux 上运行，需要进行一些修复才能工作，具体方法如下。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/09/heres-how-to-get-payday-3-beta-to-work-on-steam-deck-linux/</guid>
-      <pubDate>Sat, 09 Sep 2023 07:28:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>在这个新捆绑包中获得一些巧妙的潜行游戏，例如《Shadow Tactics》</title>
-      <link>https://www.gamingonlinux.com/2023/09/get-some-slick-stealth-games-like-shadow-tactics-in-this-new-bundle/</link>
-      <description><![CDATA[喜欢你自上而下的隐形战术吗？ 《暗影之击》卑微捆绑包为您提供了一些非常漂亮的选择。以下是您可能在 Steam Deck 和桌面 Linux 上看到的兼容性。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/09/get-some-slick-stealth-games-like-shadow-tactics-in-this-new-bundle/</guid>
-      <pubDate>Fri, 08 Sep 2023 21:30:51 GMT</pubDate>
     </item>
     </channel>
 </rss>
