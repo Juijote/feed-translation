@@ -4,7 +4,21 @@
     <title>GamingOnLinux 最新文章</title>
     <link>https://www.gamingonlinux.com/</link>
     <description>GamingOnLinux 的最新文章</description>
-    <lastBuildDate>Wed, 13 Sep 2023 11:33:49 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 13 Sep 2023 16:14:33 GMT</lastBuildDate>
+    <item>
+      <title>Fanatical 的 Killer Bundle 27 包含 20 款精彩游戏</title>
+      <link>https://www.gamingonlinux.com/2023/09/fanaticals-killer-bundle-27-has-20-great-games-included/</link>
+      <description><![CDATA[您还有机会填满您的 Steam 库，确保永远不会有沉闷的时刻 - Fanatical 推出了包含 20 款游戏的 Killer Bundle 27。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/09/fanaticals-killer-bundle-27-has-20-great-games-included/</guid>
+      <pubDate>Wed, 13 Sep 2023 16:14:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Linux Mint Debian Edition 6“Faye”进入测试版</title>
+      <link>https://www.gamingonlinux.com/2023/09/linux-mint-debian-edition-6-faye-enters-beta/</link>
+      <description><![CDATA[对于那些想要使用 Cinnamon 桌面的稳定 Linux 发行版的人来说，Linux Mint Debian 版似乎是一个不错的选择，最新版本现已处于 Beta 阶段。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/09/linux-mint-debian-edition-6-faye-enters-beta/</guid>
+      <pubDate>Wed, 13 Sep 2023 15:59:18 GMT</pubDate>
+    </item>
     <item>
       <title>Heroic Games Launcher 2.9.2 修补程序 #2 已上线</title>
       <link>https://www.gamingonlinux.com/2023/09/heroic-games-launcher-2-9-2-hotfix-2-is-live/</link>
@@ -29,7 +43,7 @@
     <item>
       <title>Valve 庆祝 20 周年，Steam 走向绿色</title>
       <link>https://www.gamingonlinux.com/2023/09/steam-goes-green-as-valve-celebrate-20-years/</link>
-      <description><![CDATA[虽然我们已经在上一篇文章中纪念了 Steam 20 周年，但 Valve 现在也发布了自己的声明，同时也变得更加环保。]]></description>
+      <description><![CDATA[虽然我们已经在上一篇文章中纪念了 Steam 20 周年，但 Valve 现在也宣布了自己的决定，同时也变得更加环保。]]></description>
       <guid>https://www.gamingonlinux.com/2023/09/steam-goes-green-as-valve-celebrate-20-years/</guid>
       <pubDate>Tue, 12 Sep 2023 17:26:28 GMT</pubDate>
     </item>
@@ -85,7 +99,7 @@
     <item>
       <title>Steam 和 Steam Deck 稳定客户端更新增加了印度尼西亚语支持</title>
       <link>https://www.gamingonlinux.com/2023/09/steam-and-steam-deck-stable-client-update-adds-indonesian-support/</link>
-      <description><![CDATA[Valve 发布了适用于 Steam 桌面和 Steam Deck 的全新稳定客户端更新，其中除其他改进外还增加了印度尼西亚语支持。]]></description>
+      <description><![CDATA[Valve 发布了适用于 Steam 桌面和 Steam Deck 的全新稳定客户端更新，除其他改进外还增加了印度尼西亚语支持。]]></description>
       <guid>https://www.gamingonlinux.com/2023/09/steam-and-steam-deck-stable-client-update-adds-indonesian-support/</guid>
       <pubDate>Tue, 12 Sep 2023 09:25:22 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[VKD3D-Proton 是一款将 Direct3D 12 转换为 Steam Play Proton 的 Vulkan 的工具，现已发布全新版本 2.10，这是一个令人兴奋的版本。]]></description>
       <guid>https://www.gamingonlinux.com/2023/09/vkd3d-proton-v2-10-various-game-fixes-directstorage/</guid>
       <pubDate>Mon, 11 Sep 2023 14:27:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>Toaplan Arcade Shoot 'Em Up Collection Vol.2 绝对能满足您的需求</title>
-      <link>https://www.gamingonlinux.com/2023/09/toaplan-arcade-shoot-em-up-collection-vol2-definitely-delivers/</link>
-      <description><![CDATA[如果您是复古游戏的粉丝并且喜欢射击游戏，您应该看看 Toaplan Arcade Shoot &#39;Em Up Collection Vol.2。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/09/toaplan-arcade-shoot-em-up-collection-vol2-definitely-delivers/</guid>
-      <pubDate>Mon, 11 Sep 2023 13:52:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>DXVK 2.3 修复了《模拟人生 2》、《古墓丽影》周年纪念版、《孤岛惊魂 2》的游戏问题</title>
-      <link>https://www.gamingonlinux.com/2023/09/dxvk-2-3-has-game-fixes-for-the-sims-2-tomb-raider-anniversary-far-cry-2/</link>
-      <description><![CDATA[不知何故，我错过了上周发布的 DXVK 2.3。下面我们来看看这个基于 Vulkan 的转换层的新增功能，该转换层可将 Direct3D 9/10/11 转换为 Wine 和 Proton。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/09/dxvk-2-3-has-game-fixes-for-the-sims-2-tomb-raider-anniversary-far-cry-2/</guid>
-      <pubDate>Mon, 11 Sep 2023 11:26:04 GMT</pubDate>
     </item>
     </channel>
 </rss>
