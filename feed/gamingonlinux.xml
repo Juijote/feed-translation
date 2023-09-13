@@ -4,11 +4,32 @@
     <title>GamingOnLinux 最新文章</title>
     <link>https://www.gamingonlinux.com/</link>
     <description>GamingOnLinux 的最新文章</description>
-    <lastBuildDate>Tue, 12 Sep 2023 17:26:28 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 13 Sep 2023 11:33:49 GMT</lastBuildDate>
+    <item>
+      <title>Heroic Games Launcher 2.9.2 修补程序 #2 已上线</title>
+      <link>https://www.gamingonlinux.com/2023/09/heroic-games-launcher-2-9-2-hotfix-2-is-live/</link>
+      <description><![CDATA[是时候再次升级您安装的 Heroic Games Launcher 了，它可以帮助您在 Steam Deck 和桌面 Linux 上安装来自 Epic、GOG、Amazon 等的游戏。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/09/heroic-games-launcher-2-9-2-hotfix-2-is-live/</guid>
+      <pubDate>Wed, 13 Sep 2023 11:33:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>Steam Deck 无法获取您的 SD 卡？检查最新更新</title>
+      <link>https://www.gamingonlinux.com/2023/09/steam-deck-not-picking-up-your-sd-card-check-for-the-latest-update/</link>
+      <description><![CDATA[在 Valve 最近推出了针对桌面和 Steam Deck 的稳定 Steam 客户端更新以及最近发布的 SteamOS 3.4.10 后，SD 卡出现了一些问题。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/09/steam-deck-not-picking-up-your-sd-card-check-for-the-latest-update/</guid>
+      <pubDate>Wed, 13 Sep 2023 11:03:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>以下是 Unity 游戏引擎的一些替代方案</title>
+      <link>https://www.gamingonlinux.com/2023/09/heres-some-alternatives-to-the-unity-game-engine/</link>
+      <description><![CDATA[在 Unity 为开发者提供新的收入模式后，这里提醒开发者还有哪些其他游戏引擎和技术可供开发者研究。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/09/heres-some-alternatives-to-the-unity-game-engine/</guid>
+      <pubDate>Wed, 13 Sep 2023 10:51:44 GMT</pubDate>
+    </item>
     <item>
       <title>Valve 庆祝 20 周年，Steam 走向绿色</title>
       <link>https://www.gamingonlinux.com/2023/09/steam-goes-green-as-valve-celebrate-20-years/</link>
-      <description><![CDATA[虽然我们已经在上一篇文章中纪念了 Steam 20 周年，但 Valve 现在也宣布了自己的决定，同时也变得更加环保。]]></description>
+      <description><![CDATA[虽然我们已经在上一篇文章中纪念了 Steam 20 周年，但 Valve 现在也发布了自己的声明，同时也变得更加环保。]]></description>
       <guid>https://www.gamingonlinux.com/2023/09/steam-goes-green-as-valve-celebrate-20-years/</guid>
       <pubDate>Tue, 12 Sep 2023 17:26:28 GMT</pubDate>
     </item>
@@ -64,7 +85,7 @@
     <item>
       <title>Steam 和 Steam Deck 稳定客户端更新增加了印度尼西亚语支持</title>
       <link>https://www.gamingonlinux.com/2023/09/steam-and-steam-deck-stable-client-update-adds-indonesian-support/</link>
-      <description><![CDATA[Valve 发布了适用于 Steam 桌面和 Steam Deck 的全新稳定客户端更新，除其他改进外还增加了印度尼西亚语支持。]]></description>
+      <description><![CDATA[Valve 发布了适用于 Steam 桌面和 Steam Deck 的全新稳定客户端更新，其中除其他改进外还增加了印度尼西亚语支持。]]></description>
       <guid>https://www.gamingonlinux.com/2023/09/steam-and-steam-deck-stable-client-update-adds-indonesian-support/</guid>
       <pubDate>Tue, 12 Sep 2023 09:25:22 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[不知何故，我错过了上周发布的 DXVK 2.3。下面我们来看看这个基于 Vulkan 的转换层的新增功能，该转换层可将 Direct3D 9/10/11 转换为 Wine 和 Proton。]]></description>
       <guid>https://www.gamingonlinux.com/2023/09/dxvk-2-3-has-game-fixes-for-the-sims-2-tomb-raider-anniversary-far-cry-2/</guid>
       <pubDate>Mon, 11 Sep 2023 11:26:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>牌组构建角色扮演游戏“Gordian Quest”获得 Steam Deck 验证</title>
-      <link>https://www.gamingonlinux.com/2023/09/deckbuilding-rpg-gordian-quest-gets-steam-deck-verified/</link>
-      <description><![CDATA[需要更多套牌构建吗？ Gordian Quest 看起来很棒，最近已通过 Steam Deck 验证，开发者正在谈论其中涉及的工作。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/09/deckbuilding-rpg-gordian-quest-gets-steam-deck-verified/</guid>
-      <pubDate>Mon, 11 Sep 2023 11:02:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>PSP 模拟器 PPSSPP 添加了 RetroAchievements 支持</title>
-      <link>https://www.gamingonlinux.com/2023/09/psp-emulator-ppsspp-adds-retroachievements-support/</link>
-      <description><![CDATA[PPSSPP 是索尼 PSP 的免费开源模拟器，现已发布 1.16 版，增加了对流行的 RetroAchievements 项目的支持。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/09/psp-emulator-ppsspp-adds-retroachievements-support/</guid>
-      <pubDate>Mon, 11 Sep 2023 10:33:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>DXVK-NVAPI 0.6.4 现已推出扩展 HDR 支持</title>
-      <link>https://www.gamingonlinux.com/2023/09/dxvk-nvapi-064-out-now-expanding-hdr-support/</link>
-      <description><![CDATA[DXVK-NVAPI 是另一种 NVAPI (NVIDIA API) 实现，与 DXVK 和 VKD3D-Proton 一起使用，通过 Proton 在 Linux 和 Steam Deck 上运行 Windows 游戏。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/09/dxvk-nvapi-064-out-now-expanding-hdr-support/</guid>
-      <pubDate>Mon, 11 Sep 2023 09:50:56 GMT</pubDate>
     </item>
     </channel>
 </rss>
