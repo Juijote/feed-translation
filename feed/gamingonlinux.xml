@@ -4,7 +4,28 @@
     <title>GamingOnLinux 最新文章</title>
     <link>https://www.gamingonlinux.com/</link>
     <description>GamingOnLinux 的最新文章</description>
-    <lastBuildDate>Wed, 13 Sep 2023 16:14:33 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 13 Sep 2023 19:25:58 GMT</lastBuildDate>
+    <item>
+      <title>Humble Bundle 有一个大型的《城市：天际线》捆绑包</title>
+      <link>https://www.gamingonlinux.com/2023/09/humble-bundle-has-a-big-cities-skylines-bundle/</link>
+      <description><![CDATA[喜欢城市建设，但又不想为所有额外内容支付大笔费用？ Humble Bundle 现已推出新的《城市：天际线》捆绑包，包含基础游戏和主要扩展包。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/09/humble-bundle-has-a-big-cities-skylines-bundle/</guid>
+      <pubDate>Wed, 13 Sep 2023 19:25:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>GOG 举办大型独立音乐节特卖活动</title>
+      <link>https://www.gamingonlinux.com/2023/09/gog-has-a-big-indie-festival-sale-on/</link>
+      <description><![CDATA[储备一些精彩的独立游戏，因为 GOG 推出了独立游戏节，该游戏节现已持续到 UTC 时间 9 月 25 日晚上 10 点。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/09/gog-has-a-big-indie-festival-sale-on/</guid>
+      <pubDate>Wed, 13 Sep 2023 18:58:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>VKDoom 是一个基于 ZDoom 的源端口，重点是 Vulkan</title>
+      <link>https://www.gamingonlinux.com/2023/09/vkdoom-is-a-zdoom-based-source-port-with-a-focus-on-vulkan/</link>
+      <description><![CDATA[嗯，这很有趣！ ZDoom / GZDoom 系列正在通过 VKDoom 进行扩展，VKDoom 是一个新的源端口，重点是扩展的 Vulkan 支持和现代渲染。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/09/vkdoom-is-a-zdoom-based-source-port-with-a-focus-on-vulkan/</guid>
+      <pubDate>Wed, 13 Sep 2023 18:21:00 GMT</pubDate>
+    </item>
     <item>
       <title>Fanatical 的 Killer Bundle 27 包含 20 款精彩游戏</title>
       <link>https://www.gamingonlinux.com/2023/09/fanaticals-killer-bundle-27-has-20-great-games-included/</link>
@@ -43,7 +64,7 @@
     <item>
       <title>Valve 庆祝 20 周年，Steam 走向绿色</title>
       <link>https://www.gamingonlinux.com/2023/09/steam-goes-green-as-valve-celebrate-20-years/</link>
-      <description><![CDATA[虽然我们已经在上一篇文章中纪念了 Steam 20 周年，但 Valve 现在也宣布了自己的决定，同时也变得更加环保。]]></description>
+      <description><![CDATA[虽然我们已经在上一篇文章中纪念了 Steam 20 周年，但 Valve 现在也发布了自己的声明，同时也变得更加环保。]]></description>
       <guid>https://www.gamingonlinux.com/2023/09/steam-goes-green-as-valve-celebrate-20-years/</guid>
       <pubDate>Tue, 12 Sep 2023 17:26:28 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[Fanatical 再次推出了他们的 Bundle Fest，因此几天内将会定期推出新的捆绑包，如果您需要一些新游戏，有一些已经上线的捆绑包值得考虑。]]></description>
       <guid>https://www.gamingonlinux.com/2023/09/fanatical-have-great-bundles-live-with-deathloop-skyrim-metro-exodus-and-more/</guid>
       <pubDate>Tue, 12 Sep 2023 10:15:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>Stellaris 3.9“Caelum”免费更新现已推出</title>
-      <link>https://www.gamingonlinux.com/2023/09/stellaris-39-caelum-free-update-is-out-now/</link>
-      <description><![CDATA[Paradox 发布了 Stellaris 的最新免费更新 3.9“Caelum”。这也是一个相当大的变化，有相当长的变化列表。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/09/stellaris-39-caelum-free-update-is-out-now/</guid>
-      <pubDate>Tue, 12 Sep 2023 09:53:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>Steam 和 Steam Deck 稳定客户端更新增加了印度尼西亚语支持</title>
-      <link>https://www.gamingonlinux.com/2023/09/steam-and-steam-deck-stable-client-update-adds-indonesian-support/</link>
-      <description><![CDATA[Valve 发布了适用于 Steam 桌面和 Steam Deck 的全新稳定客户端更新，除其他改进外还增加了印度尼西亚语支持。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/09/steam-and-steam-deck-stable-client-update-adds-indonesian-support/</guid>
-      <pubDate>Tue, 12 Sep 2023 09:25:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>VKD3D-Proton v2.10 带来了各种游戏修复、DirectStorage 添加等等</title>
-      <link>https://www.gamingonlinux.com/2023/09/vkd3d-proton-v2-10-various-game-fixes-directstorage/</link>
-      <description><![CDATA[VKD3D-Proton 是一款将 Direct3D 12 转换为 Steam Play Proton 的 Vulkan 的工具，现已发布全新版本 2.10，这是一个令人兴奋的版本。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/09/vkd3d-proton-v2-10-various-game-fixes-directstorage/</guid>
-      <pubDate>Mon, 11 Sep 2023 14:27:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
