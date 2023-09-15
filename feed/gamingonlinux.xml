@@ -4,7 +4,21 @@
     <title>GamingOnLinux 最新文章</title>
     <link>https://www.gamingonlinux.com/</link>
     <description>GamingOnLinux 的最新文章</description>
-    <lastBuildDate>Thu, 14 Sep 2023 17:19:19 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 14 Sep 2023 20:53:38 GMT</lastBuildDate>
+    <item>
+      <title>使用 Humble Bundle 学习 Godot 引擎</title>
+      <link>https://www.gamingonlinux.com/2023/09/learn-godot-engine-with-humble-bundle/</link>
+      <description><![CDATA[Humble Bundle 的时机相当好，因为他们用 The Complete Godot Software Bundle Encore 重新哈希了之前的捆绑包。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/09/learn-godot-engine-with-humble-bundle/</guid>
+      <pubDate>Thu, 14 Sep 2023 20:53:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Heretic's Fork 是套牌构建和塔防的邪恶结合体</title>
+      <link>https://www.gamingonlinux.com/2023/09/heretics-fork-is-an-unholy-blending-of-deck-building-and-tower-defense/</link>
+      <description><![CDATA[我想我对《吸血鬼幸存者》这样的游戏的热爱已经结束了，我和异端之叉建立了新的关系，因为它太棒了。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/09/heretics-fork-is-an-unholy-blending-of-deck-building-and-tower-defense/</guid>
+      <pubDate>Thu, 14 Sep 2023 18:31:59 GMT</pubDate>
+    </item>
     <item>
       <title>Valve 再次促销 Steam Deck 和 Dock，最高可享受 20% 的折扣</title>
       <link>https://www.gamingonlinux.com/2023/09/valve-puts-the-steam-deck-and-dock-on-sale-again/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[虽然我们已经在上一篇文章中纪念了 Steam 20 周年，但 Valve 现在也发布了自己的声明，同时也变得更加环保。]]></description>
       <guid>https://www.gamingonlinux.com/2023/09/steam-goes-green-as-valve-celebrate-20-years/</guid>
       <pubDate>Tue, 12 Sep 2023 17:26:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源Godot引擎拥有新的Godot发展基金</title>
-      <link>https://www.gamingonlinux.com/2023/09/the-open-source-godot-engine-has-a-new-godot-development-fund/</link>
-      <description><![CDATA[在 Unity 以新的按用户安装付费收入模式迷惑所有开发人员的同一天，开源 Godot 引擎背后的团队刚刚宣布了他们新的 Godot 开发基金。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/09/the-open-source-godot-engine-has-a-new-godot-development-fund/</guid>
-      <pubDate>Tue, 12 Sep 2023 15:04:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Western Digital 宣布推出适用于 Steam Deck 等手持设备的 SN770M NVMe</title>
-      <link>https://www.gamingonlinux.com/2023/09/western-digital-announce-the-sn770m-nvme-for-handhelds-like-the-steam-deck/</link>
-      <description><![CDATA[需要为您的 Steam Deck、ROG Ally 或其他手持设备升级存储空间吗？西部数据 (Western Digital) 是最新加入这一游戏的公司，推出了新款 WD_BLACK SN770M NVMe SSD。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/09/western-digital-announce-the-sn770m-nvme-for-handhelds-like-the-steam-deck/</guid>
-      <pubDate>Tue, 12 Sep 2023 14:29:46 GMT</pubDate>
     </item>
     </channel>
 </rss>
