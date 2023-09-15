@@ -4,7 +4,42 @@
     <title>GamingOnLinux 最新文章</title>
     <link>https://www.gamingonlinux.com/</link>
     <description>GamingOnLinux 的最新文章</description>
-    <lastBuildDate>Thu, 14 Sep 2023 20:53:38 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 Sep 2023 14:03:15 GMT</lastBuildDate>
+    <item>
+      <title>qomp2 是对 Pong 的巧妙重新想象，看起来非常狂野</title>
+      <link>https://www.gamingonlinux.com/2023/09/qomp2-is-an-artful-reimagining-of-pong-that-looks-pretty-wild/</link>
+      <description><![CDATA[《qomp》的续集，对 Pong 的极简主义和极其巧妙的重新想象，并没有出现在我的宾果卡上，但我们来了。 Atari 和 Graphite Lab 最近发布了 qomp2。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/09/qomp2-is-an-artful-reimagining-of-pong-that-looks-pretty-wild/</guid>
+      <pubDate>Fri, 15 Sep 2023 14:03:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>Murtop 是 Dig Dug 与 Bomberman 的复古融合</title>
+      <link>https://www.gamingonlinux.com/2023/09/murtop-is-a-retro-dig-dug-meets-bomberman/</link>
+      <description><![CDATA[迪格·达格遇见了炸弹人？是的，存在。 Murtop 是一款充满动作元素的快节奏街机游戏，仿佛是直接从 80 年代使用 Godot 引擎制作的游戏。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/09/murtop-is-a-retro-dig-dug-meets-bomberman/</guid>
+      <pubDate>Fri, 15 Sep 2023 13:48:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>秘密水下蜜蜂？ APICO 3.0 更新听起来很有趣</title>
+      <link>https://www.gamingonlinux.com/2023/09/secret-underwater-bees-the-apico-30-update-sounds-interesting/</link>
+      <description><![CDATA[APICO 是一款关于拯救和繁殖蜜蜂的非常甜蜜的游戏，免费的 3.0 更新现已定于 9 月 26 日发布，其中添加了许多听起来很有趣的附加内容。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/09/secret-underwater-bees-the-apico-30-update-sounds-interesting/</guid>
+      <pubDate>Fri, 15 Sep 2023 13:08:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>生物收藏家“Cassette Beasts”的未知码头 DLC 将于 10 月 4 日发布</title>
+      <link>https://www.gamingonlinux.com/2023/09/pier-of-the-unknown-dlc-cassette-beasts-releases-october-4th/</link>
+      <description><![CDATA[《Cassette Beasts》是近年来发布的最好的现代生物收藏游戏之一，它将于下个月（即 10 月 4 日）通过“未知码头”DLC 进行扩展。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/09/pier-of-the-unknown-dlc-cassette-beasts-releases-october-4th/</guid>
+      <pubDate>Fri, 15 Sep 2023 12:53:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>《赛博朋克 2077》将于 9 月 21 日发布 2.0 更新</title>
+      <link>https://www.gamingonlinux.com/2023/09/cyberpunk-2077-gets-the-20-update-on-september-21st/</link>
+      <description><![CDATA[CD PROJEKT RED 现已公布将于 9 月 21 日发布的《赛博朋克 2077》2.0 更新，此外还有将于 9 月 26 日发布的《赛博朋克 2077：幻影自由 DLC》的新电影预告片。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/09/cyberpunk-2077-gets-the-20-update-on-september-21st/</guid>
+      <pubDate>Fri, 15 Sep 2023 12:46:30 GMT</pubDate>
+    </item>
     <item>
       <title>使用 Humble Bundle 学习 Godot 引擎</title>
       <link>https://www.gamingonlinux.com/2023/09/learn-godot-engine-with-humble-bundle/</link>
@@ -74,41 +109,6 @@
       <description><![CDATA[您还有机会填满您的 Steam 库，确保永远不会有沉闷的时刻 - Fanatical 推出了包含 20 款游戏的 Killer Bundle 27。]]></description>
       <guid>https://www.gamingonlinux.com/2023/09/fanaticals-killer-bundle-27-has-20-great-games-included/</guid>
       <pubDate>Wed, 13 Sep 2023 16:14:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>Linux Mint Debian Edition 6“Faye”进入测试版</title>
-      <link>https://www.gamingonlinux.com/2023/09/linux-mint-debian-edition-6-faye-enters-beta/</link>
-      <description><![CDATA[对于那些想要使用 Cinnamon 桌面的稳定 Linux 发行版的人来说，Linux Mint Debian 版似乎是一个不错的选择，最新版本现已处于 Beta 阶段。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/09/linux-mint-debian-edition-6-faye-enters-beta/</guid>
-      <pubDate>Wed, 13 Sep 2023 15:59:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>Heroic Games Launcher 2.9.2 修补程序 #2 已上线</title>
-      <link>https://www.gamingonlinux.com/2023/09/heroic-games-launcher-2-9-2-hotfix-2-is-live/</link>
-      <description><![CDATA[是时候再次升级您安装的 Heroic Games Launcher 了，它可以帮助您在 Steam Deck 和桌面 Linux 上安装来自 Epic、GOG、Amazon 等的游戏。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/09/heroic-games-launcher-2-9-2-hotfix-2-is-live/</guid>
-      <pubDate>Wed, 13 Sep 2023 11:33:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>Steam Deck 无法获取您的 SD 卡？检查最新更新</title>
-      <link>https://www.gamingonlinux.com/2023/09/steam-deck-not-picking-up-your-sd-card-check-for-the-latest-update/</link>
-      <description><![CDATA[在 Valve 最近推出了针对桌面和 Steam Deck 的稳定 Steam 客户端更新以及最近发布的 SteamOS 3.4.10 后，SD 卡出现了一些问题。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/09/steam-deck-not-picking-up-your-sd-card-check-for-the-latest-update/</guid>
-      <pubDate>Wed, 13 Sep 2023 11:03:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>以下是 Unity 游戏引擎的一些替代方案</title>
-      <link>https://www.gamingonlinux.com/2023/09/heres-some-alternatives-to-the-unity-game-engine/</link>
-      <description><![CDATA[在 Unity 为开发者提供新的收入模式后，这里提醒开发者还有哪些其他游戏引擎和技术可供开发者研究。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/09/heres-some-alternatives-to-the-unity-game-engine/</guid>
-      <pubDate>Wed, 13 Sep 2023 10:51:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>Valve 庆祝 20 周年，Steam 走向绿色</title>
-      <link>https://www.gamingonlinux.com/2023/09/steam-goes-green-as-valve-celebrate-20-years/</link>
-      <description><![CDATA[虽然我们已经在上一篇文章中纪念了 Steam 20 周年，但 Valve 现在也发布了自己的声明，同时也变得更加环保。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/09/steam-goes-green-as-valve-celebrate-20-years/</guid>
-      <pubDate>Tue, 12 Sep 2023 17:26:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
