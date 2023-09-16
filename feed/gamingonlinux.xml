@@ -4,7 +4,21 @@
     <title>GamingOnLinux 最新文章</title>
     <link>https://www.gamingonlinux.com/</link>
     <description>GamingOnLinux 的最新文章</description>
-    <lastBuildDate>Fri, 15 Sep 2023 14:03:15 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 16 Sep 2023 17:11:49 GMT</lastBuildDate>
+    <item>
+      <title>从这个 Fanatical 捆绑包中获取一些贝塞斯达的最爱</title>
+      <link>https://www.gamingonlinux.com/2023/09/grab-some-bethesda-favourites-or-indie-legends-from-fanatical/</link>
+      <description><![CDATA[Fanatical 继续他们的捆绑盛宴，推出更多游戏捆绑包，以便您可以更多地填满积压的游戏。以下是他们最近在 Bethesda 收藏夹捆绑包中添加的内容以及它们在 Steam Deck 和桌面 Linux 上的运行方式。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/09/grab-some-bethesda-favourites-or-indie-legends-from-fanatical/</guid>
+      <pubDate>Sat, 16 Sep 2023 17:11:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>Steam Deck OS 3.5 现已提供 HDR、VRR 和显示颜色设置预览</title>
+      <link>https://www.gamingonlinux.com/2023/09/steam-deck-os-35-now-in-preview-with-hdr-vrr-and-display-colour-settings/</link>
+      <description><![CDATA[对于那些希望测试 Steam Deck 最新改进的用户，Valve 现已将 Steam Deck OS 3.5 放入预览版。在官方公告中，Valve 列出了一系列新功能和修复，以下是其中的一些内容。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/09/steam-deck-os-35-now-in-preview-with-hdr-vrr-and-display-colour-settings/</guid>
+      <pubDate>Sat, 16 Sep 2023 16:25:21 GMT</pubDate>
+    </item>
     <item>
       <title>qomp2 是对 Pong 的巧妙重新想象，看起来非常狂野</title>
       <link>https://www.gamingonlinux.com/2023/09/qomp2-is-an-artful-reimagining-of-pong-that-looks-pretty-wild/</link>
@@ -22,7 +36,7 @@
     <item>
       <title>秘密水下蜜蜂？ APICO 3.0 更新听起来很有趣</title>
       <link>https://www.gamingonlinux.com/2023/09/secret-underwater-bees-the-apico-30-update-sounds-interesting/</link>
-      <description><![CDATA[APICO 是一款关于拯救和繁殖蜜蜂的非常甜蜜的游戏，免费的 3.0 更新现已定于 9 月 26 日发布，其中添加了许多听起来很有趣的附加内容。]]></description>
+      <description><![CDATA[APICO 是一款关于拯救和繁殖蜜蜂的非常甜蜜的游戏，免费的 3.0 更新现已定于 9 月 26 日发布，并添加了许多听起来很有趣的附加内容。]]></description>
       <guid>https://www.gamingonlinux.com/2023/09/secret-underwater-bees-the-apico-30-update-sounds-interesting/</guid>
       <pubDate>Fri, 15 Sep 2023 13:08:21 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[储备一些精彩的独立游戏，因为 GOG 推出了独立游戏节，该游戏节现已持续到 UTC 时间 9 月 25 日晚上 10 点。]]></description>
       <guid>https://www.gamingonlinux.com/2023/09/gog-has-a-big-indie-festival-sale-on/</guid>
       <pubDate>Wed, 13 Sep 2023 18:58:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>VKDoom 是一个基于 ZDoom 的源端口，重点是 Vulkan</title>
-      <link>https://www.gamingonlinux.com/2023/09/vkdoom-is-a-zdoom-based-source-port-with-a-focus-on-vulkan/</link>
-      <description><![CDATA[嗯，这很有趣！ ZDoom / GZDoom 系列正在通过 VKDoom 进行扩展，VKDoom 是一个新的源端口，重点是扩展的 Vulkan 支持和现代渲染。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/09/vkdoom-is-a-zdoom-based-source-port-with-a-focus-on-vulkan/</guid>
-      <pubDate>Wed, 13 Sep 2023 18:21:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Fanatical 的 Killer Bundle 27 包含 20 款精彩游戏</title>
-      <link>https://www.gamingonlinux.com/2023/09/fanaticals-killer-bundle-27-has-20-great-games-included/</link>
-      <description><![CDATA[您还有机会填满您的 Steam 库，确保永远不会有沉闷的时刻 - Fanatical 推出了包含 20 款游戏的 Killer Bundle 27。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/09/fanaticals-killer-bundle-27-has-20-great-games-included/</guid>
-      <pubDate>Wed, 13 Sep 2023 16:14:33 GMT</pubDate>
     </item>
     </channel>
 </rss>

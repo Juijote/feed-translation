@@ -4,7 +4,14 @@
     <title>沸腾的蒸汽</title>
     <link>https://boilingsteam.com</link>
     <description>Linux 上的 PC 游戏就是明天！</description>
-    <lastBuildDate>Sat, 16 Sep 2023 13:24:23 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 17 Sep 2023 02:24:42 GMT</lastBuildDate>
+    <item>
+      <title>在 Bitsummit 2023 上采访 Dredge（Black Salt Games）的开发者</title>
+      <link>https://boilingsteam.com/interview-with-the-developers-of-dredge-black-salt-games-at-the-bitsummit-2023/index.html</link>
+      <description><![CDATA[早在 7 月，我们就与前往日本参加 2023 年 BitSummit 的 Dredge 开发者进行了座谈（请查看我们对活动的回顾）。我们在一起度过了大约半个小时，这是一个回到 Dredge 的好机会（查看我们的评论），为什么它做得这么好，他们的下一步计划是什么，他们对 Steam Deck 的看法，以及新西兰的游戏业。唷！现在我想起来，我们确实涵盖了很多内容。享受！]]></description>
+      <guid>https://boilingsteam.com/interview-with-the-developers-of-dredge-black-salt-games-at-the-bitsummit-2023/index.html</guid>
+      <pubDate>Sun, 17 Sep 2023 02:17:37 GMT</pubDate>
+    </item>
     <item>
       <title>Unity 首席执行官早在 2023 年 5 月就暗示打算改变定价</title>
       <link>https://boilingsteam.com/unitys-ceo-hinted-at-their-intention-to-change-pricing-for-its-runtime-back-in-may-2023/index.html</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[Testament: The Order of High Human 由 Fairyship Games 开发和发行，是一款第一人称平台解谜冒险角色扮演游戏，在 Linux 上运行良好，会让您的 Steam Deck 哭泣。在这个幻想世界中，你扮演阿兰，一个堕落的不朽之王之光等等，有很多形容词，但他是某种被剥夺了力量的领域的守护者。他似乎也很关注乳头，每次你和某人说话时，相机都会固定在胸部的高度，以至于将人们的眼睛从画面中剪掉。]]></description>
       <guid>https://boilingsteam.com/testament-high-human/index.html</guid>
       <pubDate>Sun, 06 Aug 2023 16:18:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>带有原生 Linux 客户端的新 Steam 游戏，包括 Oaken、The Black Pepper Crew 和 Mr Run and Jump - 2023 年 7 月 26 日版</title>
-      <link>https://boilingsteam.com/new-steam-games-with-native-linux-clients-2023-07-26-edition/index.html</link>
-      <description><![CDATA[2023 年 7 月 19 日至 2023 年 7 月 26 日期间，使用本机 Linux 客户端发布了 38 款新 Steam 游戏。作为参考，同期 Steam 上发布了 324 款 Windows 游戏，因此 Linux 版本约占已发布游戏总数的 11.7%。以下是一些最有趣的快速选择：]]></description>
-      <guid>https://boilingsteam.com/new-steam-games-with-native-linux-clients-2023-07-26-edition/index.html</guid>
-      <pubDate>Thu, 27 Jul 2023 00:00:56 GMT</pubDate>
     </item>
     </channel>
 </rss>
