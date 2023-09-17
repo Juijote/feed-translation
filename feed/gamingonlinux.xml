@@ -4,7 +4,21 @@
     <title>GamingOnLinux 最新文章</title>
     <link>https://www.gamingonlinux.com/</link>
     <description>GamingOnLinux 的最新文章</description>
-    <lastBuildDate>Sat, 16 Sep 2023 17:11:49 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 17 Sep 2023 10:12:35 GMT</lastBuildDate>
+    <item>
+      <title>GE-Proton 8-15 版本修复 Mafia Definitive Edition</title>
+      <link>https://www.gamingonlinux.com/2023/09/ge-proton-8-15-release-fixes-mafia-definitive-edition/</link>
+      <description><![CDATA[看来，Glorious Eggroll 也没有被排除在更新庆祝活动之外，它以 8-15 的比分击败了 GE-Proton。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/09/ge-proton-8-15-release-fixes-mafia-definitive-edition/</guid>
+      <pubDate>Sun, 17 Sep 2023 10:12:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>魔法门之英雄无敌 II 游戏引擎 fheroes2 v1.0.8 现已推出</title>
+      <link>https://www.gamingonlinux.com/2023/09/heroes-of-might-and-magic-ii-game-engine-fheroes2-v108-out-now/</link>
+      <description><![CDATA[最近发布了《魔法门之英雄无敌 2》游戏引擎的全新 1.0.8 版本，以下是有关 fheroes2 项目新功能的一些提示。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/09/heroes-of-might-and-magic-ii-game-engine-fheroes2-v108-out-now/</guid>
+      <pubDate>Sun, 17 Sep 2023 10:09:50 GMT</pubDate>
+    </item>
     <item>
       <title>从这个 Fanatical 捆绑包中获取一些贝塞斯达的最爱</title>
       <link>https://www.gamingonlinux.com/2023/09/grab-some-bethesda-favourites-or-indie-legends-from-fanatical/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[Unity 游戏引擎的传奇故事仍在继续，此前他们完全拙劣地宣布了游戏开发者需要支付的新收费系统。]]></description>
       <guid>https://www.gamingonlinux.com/2023/09/unity-attempt-to-clarify-new-install-fees-as-developers-revolt/</guid>
       <pubDate>Thu, 14 Sep 2023 11:03:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>Humble Bundle 有一个大型的《城市：天际线》捆绑包</title>
-      <link>https://www.gamingonlinux.com/2023/09/humble-bundle-has-a-big-cities-skylines-bundle/</link>
-      <description><![CDATA[喜欢城市建设，但又不想为所有额外内容支付大笔费用？ Humble Bundle 现已推出新的《城市：天际线》捆绑包，包含基础游戏和主要扩展包。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/09/humble-bundle-has-a-big-cities-skylines-bundle/</guid>
-      <pubDate>Wed, 13 Sep 2023 19:25:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>GOG 举办大型独立音乐节特卖活动</title>
-      <link>https://www.gamingonlinux.com/2023/09/gog-has-a-big-indie-festival-sale-on/</link>
-      <description><![CDATA[储备一些精彩的独立游戏，因为 GOG 推出了独立游戏节，该游戏节现已持续到 UTC 时间 9 月 25 日晚上 10 点。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/09/gog-has-a-big-indie-festival-sale-on/</guid>
-      <pubDate>Wed, 13 Sep 2023 18:58:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
