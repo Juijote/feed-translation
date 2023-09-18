@@ -4,7 +4,14 @@
     <title>GamingOnLinux 最新文章</title>
     <link>https://www.gamingonlinux.com/</link>
     <description>GamingOnLinux 的最新文章</description>
-    <lastBuildDate>Sun, 17 Sep 2023 10:12:35 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Sep 2023 09:34:05 GMT</lastBuildDate>
+    <item>
+      <title>Unity 对新的运行时间费用表示歉意，并表示将进行更改</title>
+      <link>https://www.gamingonlinux.com/2023/09/unity-apologises-for-the-new-runtime-fee-say-they-will-make-changes/</link>
+      <description><![CDATA[在最近宣布让开发者为游戏安装付费后，让开发者愤怒了近整整一周后，Unity 发表了一份新声明。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/09/unity-apologises-for-the-new-runtime-fee-say-they-will-make-changes/</guid>
+      <pubDate>Mon, 18 Sep 2023 09:34:05 GMT</pubDate>
+    </item>
     <item>
       <title>GE-Proton 8-15 版本修复 Mafia Definitive Edition</title>
       <link>https://www.gamingonlinux.com/2023/09/ge-proton-8-15-release-fixes-mafia-definitive-edition/</link>
@@ -50,7 +57,7 @@
     <item>
       <title>秘密水下蜜蜂？ APICO 3.0 更新听起来很有趣</title>
       <link>https://www.gamingonlinux.com/2023/09/secret-underwater-bees-the-apico-30-update-sounds-interesting/</link>
-      <description><![CDATA[APICO 是一款关于拯救和繁殖蜜蜂的非常甜蜜的游戏，免费的 3.0 更新现已定于 9 月 26 日发布，并添加了许多听起来很有趣的附加内容。]]></description>
+      <description><![CDATA[APICO 是一款关于拯救和繁殖蜜蜂的非常甜蜜的游戏，免费的 3.0 更新现已定于 9 月 26 日发布，其中添加了许多听起来很有趣的附加内容。]]></description>
       <guid>https://www.gamingonlinux.com/2023/09/secret-underwater-bees-the-apico-30-update-sounds-interesting/</guid>
       <pubDate>Fri, 15 Sep 2023 13:08:21 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[Fanatical 目前正在免费赠送基于物理的 3D 平台游戏 Crumble 的 Steam 密钥，有效期至 9 月 20 日。]]></description>
       <guid>https://www.gamingonlinux.com/2023/09/get-3d-platformer-crumble-free-from-fanatical-for-a-limited-time/</guid>
       <pubDate>Thu, 14 Sep 2023 12:34:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>由于开发商的反对，Unity 试图澄清新的安装费用</title>
-      <link>https://www.gamingonlinux.com/2023/09/unity-attempt-to-clarify-new-install-fees-as-developers-revolt/</link>
-      <description><![CDATA[Unity 游戏引擎的传奇故事仍在继续，此前他们完全拙劣地宣布了游戏开发者需要支付的新收费系统。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/09/unity-attempt-to-clarify-new-install-fees-as-developers-revolt/</guid>
-      <pubDate>Thu, 14 Sep 2023 11:03:49 GMT</pubDate>
     </item>
     </channel>
 </rss>
