@@ -4,7 +4,35 @@
     <title>GamingOnLinux 最新文章</title>
     <link>https://www.gamingonlinux.com/</link>
     <description>GamingOnLinux 的最新文章</description>
-    <lastBuildDate>Mon, 18 Sep 2023 09:34:05 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Sep 2023 16:03:00 GMT</lastBuildDate>
+    <item>
+      <title>Plasma 6 针对 Wayland 游戏进行了优化，并具有合成器崩溃恢复功能</title>
+      <link>https://www.gamingonlinux.com/2023/09/plasma-6-optimized-for-wayland-gaming-plus-compositor-crash-recovery/</link>
+      <description><![CDATA[KDE 开发人员 Nate Graham 对于即将发布的 Plasma 6 桌面版本有两个非常有趣的更新，其中包括一些有趣的优化。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/09/plasma-6-optimized-for-wayland-gaming-plus-compositor-crash-recovery/</guid>
+      <pubDate>Mon, 18 Sep 2023 16:03:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>PS1 风格的生存恐怖游戏《Fear the Spotlight》现已推出</title>
+      <link>https://www.gamingonlinux.com/2023/09/ps1-inspired-survival-horror-fear-the-spotlight-is-out-now/</link>
+      <description><![CDATA[开发商 Cozy Game Pals 的《Fear the Spotlight》现已推出，其灵感源自经典 PlayStation 游戏的风格。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/09/ps1-inspired-survival-horror-fear-the-spotlight-is-out-now/</guid>
+      <pubDate>Mon, 18 Sep 2023 13:39:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gamescope 添加了对 Linux / SteamOS 上的 ReShade 着色器的支持</title>
+      <link>https://www.gamingonlinux.com/2023/09/gamescope-added-support-for-reshade-shaders-on-linux-steamos/</link>
+      <description><![CDATA[Gamescope 是 Valve 的微合成器，用于 Steam Deck，也可用于桌面 Linux，刚刚进行了重大升级。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/09/gamescope-added-support-for-reshade-shaders-on-linux-steamos/</guid>
+      <pubDate>Mon, 18 Sep 2023 13:26:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>任天堂 3DS 模拟器 Citra 增加了 Vulkan 支持</title>
+      <link>https://www.gamingonlinux.com/2023/09/nintendo-3ds-emulator-citra-adds-vulkan-support/</link>
+      <description><![CDATA[Nintendo 3DS 仿真即将变得更好，因为 Citra 现在支持 Vulkan，为玩家带来更好的性能。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/09/nintendo-3ds-emulator-citra-adds-vulkan-support/</guid>
+      <pubDate>Mon, 18 Sep 2023 12:58:10 GMT</pubDate>
+    </item>
     <item>
       <title>Unity 对新的运行时间费用表示歉意，并表示将进行更改</title>
       <link>https://www.gamingonlinux.com/2023/09/unity-apologises-for-the-new-runtime-fee-say-they-will-make-changes/</link>
@@ -81,34 +109,6 @@
       <description><![CDATA[Humble Bundle 的时机相当好，因为他们用 The Complete Godot Software Bundle Encore 重新哈希了之前的捆绑包。]]></description>
       <guid>https://www.gamingonlinux.com/2023/09/learn-godot-engine-with-humble-bundle/</guid>
       <pubDate>Thu, 14 Sep 2023 20:53:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>Heretic's Fork 是套牌构建和塔防的邪恶结合体</title>
-      <link>https://www.gamingonlinux.com/2023/09/heretics-fork-is-an-unholy-blending-of-deck-building-and-tower-defense/</link>
-      <description><![CDATA[我想我对《吸血鬼幸存者》这样的游戏的热爱已经结束了，我和异端之叉建立了新的关系，因为它太棒了。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/09/heretics-fork-is-an-unholy-blending-of-deck-building-and-tower-defense/</guid>
-      <pubDate>Thu, 14 Sep 2023 18:31:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>Valve 再次促销 Steam Deck 和 Dock，最高可享受 20% 的折扣</title>
-      <link>https://www.gamingonlinux.com/2023/09/valve-puts-the-steam-deck-and-dock-on-sale-again/</link>
-      <description><![CDATA[加入 Steam 20 周年庆典，现在从 Valve 购买全新产品时，所有三种型号的 Steam Deck 和 Docking Station 均可享受折扣。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/09/valve-puts-the-steam-deck-and-dock-on-sale-again/</guid>
-      <pubDate>Thu, 14 Sep 2023 17:19:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>《古墓丽影 I-III 重制版》由 Aspyr 登陆 Steam</title>
-      <link>https://www.gamingonlinux.com/2023/09/tomb-raider-i-iii-remastered-heads-to-steam-from-aspyr/</link>
-      <description><![CDATA[将于 2024 年 2 月 14 日发布 - 感谢 Aspyr Media，《古墓丽影 I-III 重制版》即将登陆 Steam。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/09/tomb-raider-i-iii-remastered-heads-to-steam-from-aspyr/</guid>
-      <pubDate>Thu, 14 Sep 2023 16:38:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>限时从 Fanatical 免费获取 3D 平台游戏 Crumble</title>
-      <link>https://www.gamingonlinux.com/2023/09/get-3d-platformer-crumble-free-from-fanatical-for-a-limited-time/</link>
-      <description><![CDATA[Fanatical 目前正在免费赠送基于物理的 3D 平台游戏 Crumble 的 Steam 密钥，有效期至 9 月 20 日。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/09/get-3d-platformer-crumble-free-from-fanatical-for-a-limited-time/</guid>
-      <pubDate>Thu, 14 Sep 2023 12:34:02 GMT</pubDate>
     </item>
     </channel>
 </rss>
