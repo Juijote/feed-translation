@@ -4,7 +4,21 @@
     <title>GamingOnLinux 最新文章</title>
     <link>https://www.gamingonlinux.com/</link>
     <description>GamingOnLinux 的最新文章</description>
-    <lastBuildDate>Tue, 19 Sep 2023 21:06:58 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 Sep 2023 11:32:06 GMT</lastBuildDate>
+    <item>
+      <title>《真人快打 1》发布并通过 Steam Deck 验证</title>
+      <link>https://www.gamingonlinux.com/2023/09/mortal-kombat-1-released-and-steam-deck-verified/</link>
+      <description><![CDATA[由 NetherRealm Studios、QLOC 和 Warner Bros. Games 出品的《真人快打 1》现已发布，并已被 Valve 评为 Steam Deck Playable。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/09/mortal-kombat-1-released-and-steam-deck-verified/</guid>
+      <pubDate>Wed, 20 Sep 2023 11:32:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Proton 8.0-4 现已与候选版本一起进行测试</title>
+      <link>https://www.gamingonlinux.com/2023/09/proton-80-4-is-now-in-testing-with-a-release-candidate/</link>
+      <description><![CDATA[Valve 上周悄悄发布了 Proton 8.0-4 的候选版本，它为 Steam Deck 和桌面 Linux 的 Windows 兼容层主要稳定版本带来了许多改进。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/09/proton-80-4-is-now-in-testing-with-a-release-candidate/</guid>
+      <pubDate>Wed, 20 Sep 2023 11:20:31 GMT</pubDate>
+    </item>
     <item>
       <title>Terraria 开发者 Re-Logic 向 Godot Engine 和 FNA 捐赠 10 万美元，以及持续资助</title>
       <link>https://www.gamingonlinux.com/2023/09/terraria-developer-re-logic-donates-100k-to-godot-engine-and-fna/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[在最近宣布让开发者为游戏安装付费后，让开发者愤怒了近整整一周后，Unity 发表了一份新声明。]]></description>
       <guid>https://www.gamingonlinux.com/2023/09/unity-apologises-for-the-new-runtime-fee-say-they-will-make-changes/</guid>
       <pubDate>Mon, 18 Sep 2023 09:34:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>GE-Proton 8-15 版本修复 Mafia Definitive Edition</title>
-      <link>https://www.gamingonlinux.com/2023/09/ge-proton-8-15-release-fixes-mafia-definitive-edition/</link>
-      <description><![CDATA[看来，Glorious Eggroll 也没有被排除在更新庆祝活动之外，它以 8-15 的比分击败了 GE-Proton。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/09/ge-proton-8-15-release-fixes-mafia-definitive-edition/</guid>
-      <pubDate>Sun, 17 Sep 2023 10:12:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>魔法门之英雄无敌 II 游戏引擎 fheroes2 v1.0.8 现已推出</title>
-      <link>https://www.gamingonlinux.com/2023/09/heroes-of-might-and-magic-ii-game-engine-fheroes2-v108-out-now/</link>
-      <description><![CDATA[最近发布了《魔法门之英雄无敌 2》游戏引擎的全新 1.0.8 版本，以下是有关 fheroes2 项目新功能的一些提示。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/09/heroes-of-might-and-magic-ii-game-engine-fheroes2-v108-out-now/</guid>
-      <pubDate>Sun, 17 Sep 2023 10:09:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
