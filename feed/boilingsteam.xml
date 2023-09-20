@@ -4,7 +4,14 @@
     <title>沸腾的蒸汽</title>
     <link>https://boilingsteam.com</link>
     <description>Linux 上的 PC 游戏就是明天！</description>
-    <lastBuildDate>Wed, 20 Sep 2023 12:20:55 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 Sep 2023 23:46:07 GMT</lastBuildDate>
+    <item>
+      <title>带有本地 Linux 客户端的新 Steam 游戏，包括 Polyfury 和 Fear the Spotlight - 2023 年 9 月 20 日版</title>
+      <link>https://boilingsteam.com/new-steam-games-with-native-linux-clients-2023-09-20-edition/index.html</link>
+      <description><![CDATA[2023 年 9 月 13 日至 2023 年 9 月 20 日期间，使用本机 Linux 客户端发布了 34 款新 Steam 游戏。作为参考，同期 Steam 上发布了 316 款 Windows 游戏，因此 Linux 版本约占已发布游戏总数的 10.8%。这次，Polyfury 看起来像是几何射击游戏的有趣版本 - 非常丰富多彩！以下是所有重要游戏的快速选择：]]></description>
+      <guid>https://boilingsteam.com/new-steam-games-with-native-linux-clients-2023-09-20-edition/index.html</guid>
+      <pubDate>Wed, 20 Sep 2023 23:41:42 GMT</pubDate>
+    </item>
     <item>
       <title>谷歌 Stadia：泄露的文件解释了其失败</title>
       <link>https://boilingsteam.com/google-stadia-leaked-documents-explain-its-failure/index.html</link>
@@ -15,7 +22,7 @@
     <item>
       <title>Valve 的 Pierre-Loup Griffais 将在 TGS2023 上发表主题演讲</title>
       <link>https://boilingsteam.com/pierre-loup-griffais-from-valve-will-do-a-keynote-at-the-tgs2023/index.html</link>
-      <description><![CDATA[这是最后一刻的公告。几个小时前，TGS主办方公布了首日主题演讲的内容，当我半睡半醒地阅读时，一个非常熟悉的名字出现了：Pierre-Loup Griffais。什么？？皮埃尔-卢普会在那里吗？ Twitter/X 上的 Pierre-Loup 又名 Plagman2 是一名著名的 Valve 员工，他发布了很多有关 Linux 相关事物进展的推文，包括 Steam Deck 和 SteamOS。 （这是上面的旧照片）。 Pierre-Loup Griffais 可能是 Proton 项目的关键架构师之一，该项目最终导致 Valve 发布了 Steam Deck。他的主题演讲在议程中描述如下：]]></description>
+      <description><![CDATA[这是最后一刻的公告。几个小时前，TGS主办方公布了首日主题演讲的内容，当我半睡半醒地阅读时，一个非常熟悉的名字出现了：Pierre-Loup Griffais。什么？？皮埃尔-卢普会去吗？ Twitter/X 上的 Pierre-Loup 又名 Plagman2 是一名著名的 Valve 员工，他发布了很多有关 Linux 相关事物进展的推文，包括 Steam Deck 和 SteamOS。 （这是上面的旧照片）。 Pierre-Loup Griffais 可能是 Proton 项目的关键架构师之一，该项目最终导致 Valve 发布了 Steam Deck。他的主题演讲在议程中描述如下：]]></description>
       <guid>https://boilingsteam.com/pierre-loup-griffais-from-valve-will-do-a-keynote-at-the-tgs2023/index.html</guid>
       <pubDate>Wed, 20 Sep 2023 00:10:02 GMT</pubDate>
     </item>
@@ -36,14 +43,14 @@
     <item>
       <title>在 Bitsummit 2023 上采访 Dredge（Black Salt Games）的开发者</title>
       <link>https://boilingsteam.com/interview-with-the-developers-of-dredge-black-salt-games-at-the-bitsummit-2023/index.html</link>
-      <description><![CDATA[早在 7 月，我们就与前往日本参加 2023 年 BitSummit 的 Dredge 开发者进行了座谈（请查看我们对活动的回顾）。我们在一起度过了大约半个小时，这是一个回到 Dredge 的好机会（查看我们的评论），为什么它做得这么好，他们的下一步计划是什么，他们对 Steam Deck 的看法，以及新西兰的游戏业。唷！现在我想起来，我们确实涵盖了很多内容。享受！]]></description>
+      <description><![CDATA[早在 7 月，我们就与前往日本参加 2023 年 BitSummit 的 Dredge 开发者进行了座谈（请查看我们对活动的回顾）。我们在一起度过了大约半个小时，这是一个重返 Dredge 的绝佳机会（查看我们的评论），为什么它做得这么好，他们的下一步计划是什么，他们对 Steam Deck 的看法以及新西兰的游戏业。唷！现在我想起来，我们确实涵盖了很多内容。享受！]]></description>
       <guid>https://boilingsteam.com/interview-with-the-developers-of-dredge-black-salt-games-at-the-bitsummit-2023/index.html</guid>
       <pubDate>Sun, 17 Sep 2023 02:17:37 GMT</pubDate>
     </item>
     <item>
       <title>Unity 首席执行官早在 2023 年 5 月就暗示打算改变定价</title>
       <link>https://boilingsteam.com/unitys-ceo-hinted-at-their-intention-to-change-pricing-for-its-runtime-back-in-may-2023/index.html</link>
-      <description><![CDATA[因此，我正在关注最近关于 Unity 的故事以及该平台低端用户创建游戏的定价变化。你知道我，我不太关心互联网上的愤怒 - 这是深入挖掘 Unity 商业模式以及他们尝试这样做的原因的好时机。你看，大多数商业决策往往是理性的，并不是故意毁掉自己。就 Unity 而言，该公司面临着非凡的挑战： - 收入年复一年快速增长 - 但其支出也在稳步增长 - 该公司尚未实现盈利。目前他们每年损失约十亿美元。]]></description>
+      <description><![CDATA[因此，我正在关注最近关于 Unity 的故事以及该平台低端用户创建游戏的定价变化。你了解我，我不太关心互联网上的愤怒 - 这是深入挖掘 Unity 商业模式以及他们尝试这样做的原因的好时机。你看，大多数商业决策往往是理性的，并不是故意毁掉自己。就 Unity 而言，该公司面临着非凡的挑战： - 收入年复一年快速增长 - 但其支出也在稳步增长 - 该公司尚未实现盈利。目前他们每年损失约十亿美元。]]></description>
       <guid>https://boilingsteam.com/unitys-ceo-hinted-at-their-intention-to-change-pricing-for-its-runtime-back-in-may-2023/index.html</guid>
       <pubDate>Sat, 16 Sep 2023 01:50:50 GMT</pubDate>
     </item>
@@ -57,14 +64,14 @@
     <item>
       <title>Alterium Shift 现已推出 Linux 客户端抢先体验版</title>
       <link>https://boilingsteam.com/alterium-shift-in-ea-linux-client/index.html</link>
-      <description><![CDATA[Alterium Shift由Drattzy Games LLC开发，GRAVITY GAME ARISE Co., Ltd.发行，它从日本主机风格角色扮演游戏（JRPG）的黄金时代汲取灵感，运行在Linux PC和Steam Deck本机或与质子。]]></description>
+      <description><![CDATA[Alterium Shift 由 Drattzy Games LLC 开发，GRAVITY GAME ARISE Co., Ltd. 发行，它从日本主机风格角色扮演游戏（JRPG）的黄金时代汲取灵感，运行在 Linux PC 和 Steam Deck 原生或与质子。]]></description>
       <guid>https://boilingsteam.com/alterium-shift-in-ea-linux-client/index.html</guid>
       <pubDate>Tue, 12 Sep 2023 23:20:59 GMT</pubDate>
     </item>
     <item>
       <title>停电与复兴的故事</title>
       <link>https://boilingsteam.com/a-tale-of-outage-and-revival/index.html</link>
-      <description><![CDATA[因此，你们中的一些人可能已经注意到，Boiling Steam 在 2023 年 8 月底左右关闭了很长一段时间。大约有一周半的时间。我们在八月上半月就遇到了服务器问题，导致网站几天不可用。这次问题更加严重，我们上线面临更大的困境。因此，作为网站所有者，我面临着一个大问题，但也是一个很好的机会，我想起了这句伟大的话：“只有在我们失去一切之后，我们才能自由地做任何事情。” （搏击俱乐部）]]></description>
+      <description><![CDATA[因此，你们中的一些人可能已经注意到，Boiling Steam 在 2023 年 8 月底左右关闭了很长一段时间。大约有一周半的时间。我们在八月上半月就遇到了服务器问题，导致网站几天不可用。这次问题更加严重，我们上线面临更大的困境。因此，作为网站所有者，我面临着一个大问题，但也是一个很好的机会，我想起了这句伟大的格言：“只有在我们失去一切之后，我们才能自由地做任何事情。” （搏击俱乐部）]]></description>
       <guid>https://boilingsteam.com/a-tale-of-outage-and-revival/index.html</guid>
       <pubDate>Tue, 12 Sep 2023 15:59:08 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[]]></description>
       <guid>https://boilingsteam.com/metal-hellsinger/index.html</guid>
       <pubDate>Fri, 18 Aug 2023 20:52:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>带有 Talivan 和 Launcher Heroes 的原生 Linux 客户端的新 Steam 游戏 - 2023 年 8 月 16 日版</title>
-      <link>https://boilingsteam.com/new-steam-games-with-native-linux-clients-2023-08-16-edition/index.html</link>
-      <description><![CDATA[2023 年 8 月 9 日至 2023 年 8 月 16 日期间，有 18 款新的 Steam 游戏通过原生 Linux 客户端发布。作为参考，同期 Steam 上发布了 232 款 Windows 游戏，因此 Linux 版本约占已发布游戏总数的 7.8%。以下是一些最有趣的快速选择：]]></description>
-      <guid>https://boilingsteam.com/new-steam-games-with-native-linux-clients-2023-08-16-edition/index.html</guid>
-      <pubDate>Wed, 16 Aug 2023 21:08:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
