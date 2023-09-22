@@ -4,7 +4,28 @@
     <title>GamingOnLinux 最新文章</title>
     <link>https://www.gamingonlinux.com/</link>
     <description>GamingOnLinux 的最新文章</description>
-    <lastBuildDate>Thu, 21 Sep 2023 19:52:37 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 Sep 2023 11:43:56 GMT</lastBuildDate>
+    <item>
+      <title>Steam Deck 和 SteamOS 非常适合整个 Linux - Open Source Summit Europe 2023</title>
+      <link>https://www.gamingonlinux.com/2023/09/steam-deck-and-steamos-are-great-for-linux-as-a-whole/</link>
+      <description><![CDATA[在最近举行的 2023 年欧洲开源峰会上，Igalia 的软件工程师 Alberto Garcia 做了一次演讲，内容涵盖 Valve、Steam Deck、SteamOS 以及它们如何帮助整个 Linux。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/09/steam-deck-and-steamos-are-great-for-linux-as-a-whole/</guid>
+      <pubDate>Fri, 22 Sep 2023 11:43:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>Valve 在新 Beta 版中对 Steam Deck 的“As Mouse”陀螺仪选项进行了大修</title>
+      <link>https://www.gamingonlinux.com/2023/09/valve-overhauled-steam-deck-as-mouse-gyro-option-in-new-beta/</link>
+      <description><![CDATA[尽管 Valve 最近才将 SteamOS 3.5 放入 Steam Deck 预览版，但他们还没有完成其他方面的改进，新的 Beta 客户端版本对鼠标模式进行了一些陀螺仪大修。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/09/valve-overhauled-steam-deck-as-mouse-gyro-option-in-new-beta/</guid>
+      <pubDate>Fri, 22 Sep 2023 11:16:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Steam Deck 是“几年内的稳定目标”，因此暂时不会推出 Steam Deck 2</title>
+      <link>https://www.gamingonlinux.com/2023/09/steam-deck-a-stable-target-for-a-couple-years-so-no-steam-deck-2-for-a-while/</link>
+      <description><![CDATA[最近在东京游戏展上，Valve 开发者 Pierre-Loup Griffais 接受了 CNBC 采访，谈论了 PC 游戏和 Steam Deck，以下是采访中的内容。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/09/steam-deck-a-stable-target-for-a-couple-years-so-no-steam-deck-2-for-a-while/</guid>
+      <pubDate>Fri, 22 Sep 2023 10:59:24 GMT</pubDate>
+    </item>
     <item>
       <title>Paradox 和 C Prompt 联手 Millennia 看起来很文明</title>
       <link>https://www.gamingonlinux.com/2023/09/paradox-and-c-prompt-team-up-for-millennia-and-it-looks-very-civilization/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[Valve 上周悄悄发布了 Proton 8.0-4 的候选版本，它为 Steam Deck 和桌面 Linux 的 Windows 兼容层主要稳定版本带来了许多改进。]]></description>
       <guid>https://www.gamingonlinux.com/2023/09/proton-80-4-is-now-in-testing-with-a-release-candidate/</guid>
       <pubDate>Wed, 20 Sep 2023 11:20:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>Terraria 开发者 Re-Logic 向 Godot Engine 和 FNA 捐赠 10 万美元，以及持续资助</title>
-      <link>https://www.gamingonlinux.com/2023/09/terraria-developer-re-logic-donates-100k-to-godot-engine-and-fna/</link>
-      <description><![CDATA[泰拉瑞亚开发商 Re-Logic 坚决反对 Unity 的做法，今天宣布他们已开始为 Godot Engine 和 FNA 提供大量捐款和持续资助。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/09/terraria-developer-re-logic-donates-100k-to-godot-engine-and-fna/</guid>
-      <pubDate>Tue, 19 Sep 2023 21:06:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>Steam 上的《矮人要塞》现已正式推出 Linux 版本</title>
-      <link>https://www.gamingonlinux.com/2023/09/dwarf-fortress-on-steam-now-officially-available-for-linux/</link>
-      <description><![CDATA[Bay 12 Games 和 Kitfox Games 的《矮人要塞》今天在 Steam 上发布了最新更新，并带来了官方原生 Linux 支持。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/09/dwarf-fortress-on-steam-now-officially-available-for-linux/</guid>
-      <pubDate>Tue, 19 Sep 2023 18:36:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>查看基于流行棋盘游戏的《灯塔巡逻》演示</title>
-      <link>https://www.gamingonlinux.com/2023/09/check-out-the-demo-for-beacon-patrol-based-on-the-popular-board-game/</link>
-      <description><![CDATA[开发商 BrutalHack 和 Shapes and Dreams 计划于 2024 年全面发布 Beacon Patrol 的演示版，这是一款关于探索海洋的休闲游戏。它实际上是同名棋盘游戏的数字改编版，也是一款评价很高的游戏。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/09/check-out-the-demo-for-beacon-patrol-based-on-the-popular-board-game/</guid>
-      <pubDate>Tue, 19 Sep 2023 14:50:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
