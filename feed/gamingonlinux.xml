@@ -4,7 +4,14 @@
     <title>GamingOnLinux 最新文章</title>
     <link>https://www.gamingonlinux.com/</link>
     <description>GamingOnLinux 的最新文章</description>
-    <lastBuildDate>Fri, 22 Sep 2023 20:13:26 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 23 Sep 2023 09:51:20 GMT</lastBuildDate>
+    <item>
+      <title>Unity 取消了 GitHub 上的服务条款，因为“浏览量太低”</title>
+      <link>https://www.gamingonlinux.com/2023/09/unity-nuked-their-terms-of-service-on-github-as-views-were-so-low/</link>
+      <description><![CDATA[目前 Unity 的传奇故事还没有完全结束，他们仍在努力消除开发者在运行时费用宣布失败后的担忧。目前备受关注的一点是他们的服务条款以及他们之前如何从开发商那里撤回的。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/09/unity-nuked-their-terms-of-service-on-github-as-views-were-so-low/</guid>
+      <pubDate>Sat, 23 Sep 2023 09:51:20 GMT</pubDate>
+    </item>
     <item>
       <title>在你眼前，超越：两个灵魂，冒名顶替者工厂以及本捆绑包中的更多内容</title>
       <link>https://www.gamingonlinux.com/2023/09/before-your-eyes-beyond-two-souls-imposter-factory-and-more-in-this-bundle/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[Unity 的混乱局面仍在继续，MonoGame 团队介入，为游戏开发者介绍了这个开源跨平台框架的未来新计划。]]></description>
       <guid>https://www.gamingonlinux.com/2023/09/monogame-plan-to-create-a-non-profit-foundation-to-support-development/</guid>
       <pubDate>Thu, 21 Sep 2023 14:40:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们可能会在下周看到《反恐精英 2》发布</title>
-      <link>https://www.gamingonlinux.com/2023/09/we-may-see-counter-strike-2-release-next-week/</link>
-      <description><![CDATA[您准备好迎接 Valve 的下一代竞技 FPS 了吗？好吧，下周你也许就能玩《反恐精英 2》了。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/09/we-may-see-counter-strike-2-release-next-week/</guid>
-      <pubDate>Thu, 21 Sep 2023 14:22:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
