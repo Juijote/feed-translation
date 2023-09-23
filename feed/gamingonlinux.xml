@@ -4,7 +4,14 @@
     <title>GamingOnLinux 最新文章</title>
     <link>https://www.gamingonlinux.com/</link>
     <description>GamingOnLinux 的最新文章</description>
-    <lastBuildDate>Fri, 22 Sep 2023 17:39:28 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 Sep 2023 20:13:26 GMT</lastBuildDate>
+    <item>
+      <title>在你眼前，超越：两个灵魂，冒名顶替者工厂以及本捆绑包中的更多内容</title>
+      <link>https://www.gamingonlinux.com/2023/09/before-your-eyes-beyond-two-souls-imposter-factory-and-more-in-this-bundle/</link>
+      <description><![CDATA[需要更多叙事冒险吗？谦卑提出了“控制叙事”捆绑包。因此，这是您通常会了解 Steam Deck 和普通桌面 Linux 上的兼容性的情况。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/09/before-your-eyes-beyond-two-souls-imposter-factory-and-more-in-this-bundle/</guid>
+      <pubDate>Fri, 22 Sep 2023 20:13:26 GMT</pubDate>
+    </item>
     <item>
       <title>继令人讨厌的运行时费用之后，Unity 宣布了重大变化</title>
       <link>https://www.gamingonlinux.com/2023/09/unity-announced-big-changes-following-the-hated-runtime-fee/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[您准备好迎接 Valve 的下一代竞技 FPS 了吗？好吧，下周你也许就能玩《反恐精英 2》了。]]></description>
       <guid>https://www.gamingonlinux.com/2023/09/we-may-see-counter-strike-2-release-next-week/</guid>
       <pubDate>Thu, 21 Sep 2023 14:22:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>Valve 公布 2024 年 Steam 销售和活动日期</title>
-      <link>https://www.gamingonlinux.com/2023/09/valve-put-up-dates-for-2024-steam-sales-and-events/</link>
-      <description><![CDATA[没有钱包安全吗？ Steam 上的 2024 年已经显得很忙碌，Valve 公布了他们计划举办的各种活动的日期，包括 Steam Next Fest。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/09/valve-put-up-dates-for-2024-steam-sales-and-events/</guid>
-      <pubDate>Thu, 21 Sep 2023 14:06:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
