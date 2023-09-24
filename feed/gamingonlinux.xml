@@ -4,7 +4,28 @@
     <title>GamingOnLinux 最新文章</title>
     <link>https://www.gamingonlinux.com/</link>
     <description>GamingOnLinux 的最新文章</description>
-    <lastBuildDate>Sat, 23 Sep 2023 09:51:20 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 24 Sep 2023 14:31:10 GMT</lastBuildDate>
+    <item>
+      <title>GE-Proton 8-16 发布，针对 Genshin Impact、Resident Evil 和 Wine 升级进行了调整</title>
+      <link>https://www.gamingonlinux.com/2023/09/ge-proton-8-16-released-with-tweaks-for-genshin-impact-resident-evil-and-wine-upgrades/</link>
+      <description><![CDATA[虽然 Valve 继续致力于推出候选版本的 Proton 8.0-4，但社区维护的 GE-Proton 的一个小但有用的更新已经发布。 GE-Proton 8-16 较小，但包含一些对各种组件的常见升级。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/09/ge-proton-8-16-released-with-tweaks-for-genshin-impact-resident-evil-and-wine-upgrades/</guid>
+      <pubDate>Sun, 24 Sep 2023 14:31:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mesa 获得 Vulkan 性能升级以进行提交合并</title>
+      <link>https://www.gamingonlinux.com/2023/09/mesa-getting-vulkan-performance-upgrades-for-submission-merging/</link>
+      <description><![CDATA[开发者 Mike Blumenkrantz 是 Valve 签约的众多开发人员之一，他发布了另一篇博客文章，重点介绍了他们正在进行的 Mesa 驱动程序工作中的另一个有趣的优化。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/09/mesa-getting-vulkan-performance-upgrades-for-submission-merging/</guid>
+      <pubDate>Sun, 24 Sep 2023 13:24:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Godot Engine 每月融资额超过 5 万欧元</title>
+      <link>https://www.gamingonlinux.com/2023/09/godot-engine-hits-over-50k-euros-per-month-in-funding/</link>
+      <description><![CDATA[Unity 崩溃的大赢家之一是免费开源的 Godot 引擎，该引擎的资金飙升至令人印象深刻的水平，因为 Unity 基本上为他们提供了免费广告。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/09/godot-engine-hits-over-50k-euros-per-month-in-funding/</guid>
+      <pubDate>Sun, 24 Sep 2023 12:23:08 GMT</pubDate>
+    </item>
     <item>
       <title>Unity 取消了 GitHub 上的服务条款，因为“浏览量太低”</title>
       <link>https://www.gamingonlinux.com/2023/09/unity-nuked-their-terms-of-service-on-github-as-views-were-so-low/</link>
@@ -13,7 +34,7 @@
       <pubDate>Sat, 23 Sep 2023 09:51:20 GMT</pubDate>
     </item>
     <item>
-      <title>在你眼前，超越：两个灵魂，冒名顶替者工厂以及本捆绑包中的更多内容</title>
+      <title>在你眼前，超越：两个灵魂，冒名顶替工厂以及本捆绑包中的更多内容</title>
       <link>https://www.gamingonlinux.com/2023/09/before-your-eyes-beyond-two-souls-imposter-factory-and-more-in-this-bundle/</link>
       <description><![CDATA[需要更多叙事冒险吗？谦卑提出了“控制叙事”捆绑包。因此，这是您通常会了解 Steam Deck 和普通桌面 Linux 上的兼容性的情况。]]></description>
       <guid>https://www.gamingonlinux.com/2023/09/before-your-eyes-beyond-two-souls-imposter-factory-and-more-in-this-bundle/</guid>
@@ -22,7 +43,7 @@
     <item>
       <title>继令人讨厌的运行时费用之后，Unity 宣布了重大变化</title>
       <link>https://www.gamingonlinux.com/2023/09/unity-announced-big-changes-following-the-hated-runtime-fee/</link>
-      <description><![CDATA[在他们最初的运行时费用公告带来的绝对灾难之后，Unity 现在再次道歉并宣布了新计划的进展。]]></description>
+      <description><![CDATA[在最初的运行时费用公告带来的绝对灾难之后，Unity 现在再次道歉并宣布了新计划的进展。]]></description>
       <guid>https://www.gamingonlinux.com/2023/09/unity-announced-big-changes-following-the-hated-runtime-fee/</guid>
       <pubDate>Fri, 22 Sep 2023 17:39:28 GMT</pubDate>
     </item>
@@ -50,14 +71,14 @@
     <item>
       <title>GOG 通过促销和赠品庆祝 15 周年</title>
       <link>https://www.gamingonlinux.com/2023/09/gog-celebrate-15-years-with-a-sale-and-giveaway/</link>
-      <description><![CDATA[GOG，最初是Good Old Games，现已运行15年了！他们正在通过大促销、新品发布和赠品来庆祝，所以这里是所有细节。]]></description>
+      <description><![CDATA[GOG原本是Good Old Games，现已运行15年了！他们正在通过大促销、新品发布和赠品来庆祝，所以这里是所有细节。]]></description>
       <guid>https://www.gamingonlinux.com/2023/09/gog-celebrate-15-years-with-a-sale-and-giveaway/</guid>
       <pubDate>Fri, 22 Sep 2023 14:08:58 GMT</pubDate>
     </item>
     <item>
       <title>英国CMA进一步咨询，微软收购动视的脚步越来越近</title>
       <link>https://www.gamingonlinux.com/2023/09/microsoft-buyout-of-activision-gets-closer-uk-cma-consulting-further/</link>
-      <description><![CDATA[微软收购动视暴雪的漫长传奇又向前迈进了一步，英国竞争与市场管理局 (CMA) 正在就微软为解决 CMA 的担忧而提出的补救措施进行咨询。]]></description>
+      <description><![CDATA[微软收购动视暴雪的漫长传奇又向前迈出了一步，英国竞争与市场管理局 (CMA) 目前正在就微软为解决 CMA 的担忧而提出的补救措施进行咨询。]]></description>
       <guid>https://www.gamingonlinux.com/2023/09/microsoft-buyout-of-activision-gets-closer-uk-cma-consulting-further/</guid>
       <pubDate>Fri, 22 Sep 2023 12:54:11 GMT</pubDate>
     </item>
@@ -78,7 +99,7 @@
     <item>
       <title>Steam Deck 是“几年内的稳定目标”，因此暂时不会推出 Steam Deck 2</title>
       <link>https://www.gamingonlinux.com/2023/09/steam-deck-a-stable-target-for-a-couple-years-so-no-steam-deck-2-for-a-while/</link>
-      <description><![CDATA[最近在东京游戏展上，Valve 开发者 Pierre-Loup Griffais 接受 CNBC 采访，谈论了 PC 游戏和 Steam Deck，以下是采访中的内容。]]></description>
+      <description><![CDATA[最近在东京游戏展上，Valve 开发者 Pierre-Loup Griffais 接受了 CNBC 采访，谈论了 PC 游戏和 Steam Deck，以下是采访中的内容。]]></description>
       <guid>https://www.gamingonlinux.com/2023/09/steam-deck-a-stable-target-for-a-couple-years-so-no-steam-deck-2-for-a-while/</guid>
       <pubDate>Fri, 22 Sep 2023 10:59:24 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[文明是你吗？等等，这是 Millennia，Paradox Interactive 今天宣布推出一款新的 4x 策略游戏，该游戏与 C Prompt Games 合作，它看起来确实很有趣，但它将与《文明》进行大量比较。]]></description>
       <guid>https://www.gamingonlinux.com/2023/09/paradox-and-c-prompt-team-up-for-millennia-and-it-looks-very-civilization/</guid>
       <pubDate>Thu, 21 Sep 2023 19:52:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>Core Keeper 获得 mod SDK 和 mod.io 支持 + Shimmering Frontier 更新将于 10 月 4 日到期</title>
-      <link>https://www.gamingonlinux.com/2023/09/core-keeper-mod-sdk-shimmering-frontier-update-october-4th/</link>
-      <description><![CDATA[精彩的采矿、探索和制作游戏 Core Keeper 刚刚进行了重大升级，通过 mod.io 添加了模组支持，有一个新的模组 SDK，下个月将推出新的免费扩展包。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/09/core-keeper-mod-sdk-shimmering-frontier-update-october-4th/</guid>
-      <pubDate>Thu, 21 Sep 2023 19:38:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>小队战术抢劫角色扮演游戏“网络骑士：闪点”将于 10 月 17 日推出</title>
-      <link>https://www.gamingonlinux.com/2023/09/squad-tactics-heist-rpg-cyber-knights-flashpoint-launches-october-17th/</link>
-      <description><![CDATA[Trese Brothers 现已宣布，他们的赛博朋克 Squad 战术抢劫 RPG 《Cyber​​ Knights: Flashpoint》将于 10 月 17 日推出。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/09/squad-tactics-heist-rpg-cyber-knights-flashpoint-launches-october-17th/</guid>
-      <pubDate>Thu, 21 Sep 2023 15:31:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>MonoGame 计划创建一个非营利基金会来支持开发</title>
-      <link>https://www.gamingonlinux.com/2023/09/monogame-plan-to-create-a-non-profit-foundation-to-support-development/</link>
-      <description><![CDATA[Unity 的混乱局面仍在继续，MonoGame 团队介入，为游戏开发者介绍了这个开源跨平台框架的未来新计划。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/09/monogame-plan-to-create-a-non-profit-foundation-to-support-development/</guid>
-      <pubDate>Thu, 21 Sep 2023 14:40:27 GMT</pubDate>
     </item>
     </channel>
 </rss>
