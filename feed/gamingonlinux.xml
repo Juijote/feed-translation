@@ -4,7 +4,21 @@
     <title>GamingOnLinux 最新文章</title>
     <link>https://www.gamingonlinux.com/</link>
     <description>GamingOnLinux 的最新文章</description>
-    <lastBuildDate>Mon, 25 Sep 2023 19:13:16 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 26 Sep 2023 10:39:33 GMT</lastBuildDate>
+    <item>
+      <title>Megaquarium: Deep Freeze 是迄今为止最大的水族馆建造模拟 DLC</title>
+      <link>https://www.gamingonlinux.com/2023/09/megaquarium-deep-freeze-is-the-biggest-dlc-yet-for-the-aquarium-building-sim/</link>
+      <description><![CDATA[Megaquarium 是一款经常被忽视的宝石，在这款游戏中，你可以建造自己的水族馆，但开发商 Twice Circled 仍在扩展它，推出了 Megaquarium: Deep Freeze。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/09/megaquarium-deep-freeze-is-the-biggest-dlc-yet-for-the-aquarium-building-sim/</guid>
+      <pubDate>Tue, 26 Sep 2023 10:39:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>SteamVR 2.0 Beta 发布，UI 大幅修改</title>
+      <link>https://www.gamingonlinux.com/2023/09/steamvr-20-bet-released-with-a-big-ui-overhaul/</link>
+      <description><![CDATA[Valve 现在发布了 SteamVR 2.0 的测试版，它带来了急需的界面改进以及许多新功能。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/09/steamvr-20-bet-released-with-a-big-ui-overhaul/</guid>
+      <pubDate>Tue, 26 Sep 2023 10:13:40 GMT</pubDate>
+    </item>
     <item>
       <title>《派对动物》在 Steam Deck 和桌面 Linux 上真的很有趣</title>
       <link>https://www.gamingonlinux.com/2023/09/party-animals-is-really-fun-on-steam-deck-and-desktop-linux/</link>
@@ -36,7 +50,7 @@
     <item>
       <title>以下是《赛博朋克 2077》2.0 在 Steam Deck 和桌面 Linux 上运行的方式</title>
       <link>https://www.gamingonlinux.com/2023/09/cyberpunk-2077-2-0-on-steam-deck-and-desktop-linux/</link>
-      <description><![CDATA[《赛博朋克 2077》2.0 最近登陆了，现在我有时间把玩它了，下面看看更新后它在 Steam Deck 和桌面 Linux 上的运行情况。]]></description>
+      <description><![CDATA[《赛博朋克 2077》2.0 最近登陆，现在我有时间把玩它了，下面看看更新后它在 Steam Deck 和桌面 Linux 上的运行情况。]]></description>
       <guid>https://www.gamingonlinux.com/2023/09/cyberpunk-2077-2-0-on-steam-deck-and-desktop-linux/</guid>
       <pubDate>Mon, 25 Sep 2023 14:37:04 GMT</pubDate>
     </item>
@@ -57,7 +71,7 @@
     <item>
       <title>Mesa 获得 Vulkan 性能升级以进行提交合并</title>
       <link>https://www.gamingonlinux.com/2023/09/mesa-getting-vulkan-performance-upgrades-for-submission-merging/</link>
-      <description><![CDATA[开发人员 Mike Blumenkrantz 是 Valve 签约的众多开发人员之一，他发布了另一篇博客文章，重点介绍了他们正在进行的 Mesa 驱动程序工作中的另一个有趣的优化。]]></description>
+      <description><![CDATA[开发者 Mike Blumenkrantz 是 Valve 签约的众多开发人员之一，他发布了另一篇博客文章，重点介绍了他们正在进行的 Mesa 驱动程序工作中的另一个有趣的优化。]]></description>
       <guid>https://www.gamingonlinux.com/2023/09/mesa-getting-vulkan-performance-upgrades-for-submission-merging/</guid>
       <pubDate>Sun, 24 Sep 2023 13:24:42 GMT</pubDate>
     </item>
@@ -71,44 +85,30 @@
     <item>
       <title>Unity 取消了 GitHub 上的服务条款，因为“浏览量太低”</title>
       <link>https://www.gamingonlinux.com/2023/09/unity-nuked-their-terms-of-service-on-github-as-views-were-so-low/</link>
-      <description><![CDATA[Unity 当前的传奇故事还没有完全结束，因为他们仍在努力消除开发者在错误地宣布运行时费用后的担忧。目前备受关注的一点是他们的服务条款以及他们之前如何从开发商那里撤回的。]]></description>
+      <description><![CDATA[目前 Unity 的传奇故事还没有完全结束，他们仍在努力消除开发者在运行时费用宣布失败后的担忧。目前备受关注的一点是他们的服务条款以及他们之前如何从开发商那里撤回的。]]></description>
       <guid>https://www.gamingonlinux.com/2023/09/unity-nuked-their-terms-of-service-on-github-as-views-were-so-low/</guid>
       <pubDate>Sat, 23 Sep 2023 09:51:20 GMT</pubDate>
     </item>
     <item>
       <title>在你眼前，超越：两个灵魂，冒名顶替者工厂以及本捆绑包中的更多内容</title>
       <link>https://www.gamingonlinux.com/2023/09/before-your-eyes-beyond-two-souls-imposter-factory-and-more-in-this-bundle/</link>
-      <description><![CDATA[需要更多叙事冒险吗？谦卑提出了“控制叙事”捆绑包。因此，这是您通常会了解 Steam Deck 和普通桌面 Linux 上的兼容性的情况。]]></description>
+      <description><![CDATA[需要更多叙事冒险吗？谦虚地提出了“控制叙事”捆绑包。因此，这是您通常会了解 Steam Deck 和普通桌面 Linux 上的兼容性的情况。]]></description>
       <guid>https://www.gamingonlinux.com/2023/09/before-your-eyes-beyond-two-souls-imposter-factory-and-more-in-this-bundle/</guid>
       <pubDate>Fri, 22 Sep 2023 20:13:26 GMT</pubDate>
     </item>
     <item>
       <title>继令人讨厌的运行时费用之后，Unity 宣布了重大变化</title>
       <link>https://www.gamingonlinux.com/2023/09/unity-announced-big-changes-following-the-hated-runtime-fee/</link>
-      <description><![CDATA[在他们最初的运行时费用公告带来的绝对灾难之后，Unity 现在再次道歉并宣布了新计划的进展。]]></description>
+      <description><![CDATA[在最初的运行时费用公告带来的绝对灾难之后，Unity 现在再次道歉并宣布了新计划的进展。]]></description>
       <guid>https://www.gamingonlinux.com/2023/09/unity-announced-big-changes-following-the-hated-runtime-fee/</guid>
       <pubDate>Fri, 22 Sep 2023 17:39:28 GMT</pubDate>
     </item>
     <item>
-      <title>微软——别把你的脏手拿开 Valve，泄密显示 MSFT 将收购 Valve</title>
+      <title>微软——别把你的脏手拿开Valve，泄密显示MSFT将收购Valve</title>
       <link>https://www.gamingonlinux.com/2023/09/microsoft-keep-your-filthy-hands-off-valve/</link>
       <description><![CDATA[嗯，这肯定是一个文章标题，不是吗？但我是认真的。微软，你不敢碰Valve。你已经够胖了，而且也太大了。]]></description>
       <guid>https://www.gamingonlinux.com/2023/09/microsoft-keep-your-filthy-hands-off-valve/</guid>
       <pubDate>Fri, 22 Sep 2023 16:46:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ubuntu 23.10“Mantic Minotaur”测试版现已推出</title>
-      <link>https://www.gamingonlinux.com/2023/09/ubuntu-2310-mantic-minotaur-beta-now-available/</link>
-      <description><![CDATA[您有机会测试并抢先体验下一个 Ubuntu 版本，Ubuntu 23.10“Mantic Minotaur” Beta 现在可在标准 Ubuntu、Edubuntu、Kubuntu、Lubuntu、Ubuntu Budgie、Ubuntu Cinnamon、Ubuntu Kylin、Ubuntu MATE、Ubuntu Studio、Ubuntu 上使用Unity 和 Xubuntu 风格。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/09/ubuntu-2310-mantic-minotaur-beta-now-available/</guid>
-      <pubDate>Fri, 22 Sep 2023 16:02:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>Lies of P 在 Steam Deck 和桌面 Linux 上运行良好</title>
-      <link>https://www.gamingonlinux.com/2023/09/lies-of-p-is-running-great-on-steam-deck-and-desktop-linux/</link>
-      <description><![CDATA[想要体验新鲜的灵魂吗？ Lies of P 最近从 NEOWIZ 发布，值得庆幸的是，它确实在 Steam Deck 和桌面 Linux 上运行良好。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/09/lies-of-p-is-running-great-on-steam-deck-and-desktop-linux/</guid>
-      <pubDate>Fri, 22 Sep 2023 15:08:56 GMT</pubDate>
     </item>
     </channel>
 </rss>
