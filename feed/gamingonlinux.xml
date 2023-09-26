@@ -4,7 +4,42 @@
     <title>GamingOnLinux 最新文章</title>
     <link>https://www.gamingonlinux.com/</link>
     <description>GamingOnLinux 的最新文章</description>
-    <lastBuildDate>Tue, 26 Sep 2023 10:39:33 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 26 Sep 2023 16:57:50 GMT</lastBuildDate>
+    <item>
+      <title>ChimeraOS Linux 44 现已推出，改进了对各种手持设备的支持</title>
+      <link>https://www.gamingonlinux.com/2023/09/chimeraos-linux-44-out-now-with-improved-support-for-various-handhelds/</link>
+      <description><![CDATA[ChimeraOS 是一款专为游戏玩家设计的 Linux 发行版，特别是如果您想在类似于 Steam Deck（如 ROG Ally）的手持设备上获得类似于 SteamOS 的东西。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/09/chimeraos-linux-44-out-now-with-improved-support-for-various-handhelds/</guid>
+      <pubDate>Tue, 26 Sep 2023 16:57:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>吸血鬼幸存者的令人心寒的更新有一个预告片</title>
+      <link>https://www.gamingonlinux.com/2023/09/the-chilling-update-for-vampire-survivors-has-a-teaser-trailer/</link>
+      <description><![CDATA[准备好迎接更多吸血鬼幸存者了吗？在最近推出大型合作更新后，开发者 poncle 开始预告 Chilling Update v1.7。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/09/the-chilling-update-for-vampire-survivors-has-a-teaser-trailer/</guid>
+      <pubDate>Tue, 26 Sep 2023 15:18:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>超冷养蜂模拟 APICO 3.0 现已更新</title>
+      <link>https://www.gamingonlinux.com/2023/09/properly-chilled-beekeeping-sim-apico-30-update-out-now/</link>
+      <description><![CDATA[你能相信吗？显然水下生活着秘密蜜蜂？ APICO 的 3.0 更新现已发布，它是一款真正值得放松的游戏瑰宝。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/09/properly-chilled-beekeeping-sim-apico-30-update-out-now/</guid>
+      <pubDate>Tue, 26 Sep 2023 14:39:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>《Tropico 6》增加了 mod.io 的模组支持，下个月还将推出新的 DLC</title>
+      <link>https://www.gamingonlinux.com/2023/09/tropico-6-adds-modding-support-with-modio-and-a-new-dlc-next-month/</link>
+      <description><![CDATA[Realmforge Studios 和 Kalypso Media 的 Tropico 6 刚刚进行了一次不错的升级，提供了官方模组支持，并集成了 mod.io。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/09/tropico-6-adds-modding-support-with-modio-and-a-new-dlc-next-month/</guid>
+      <pubDate>Tue, 26 Sep 2023 13:06:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>2.5D 平台解谜游戏《Seedlings》拥有一些出色的基于摄影的视觉效果</title>
+      <link>https://www.gamingonlinux.com/2023/09/25d-puzzle-platformer-seedlings-has-some-great-photography-based-visuals/</link>
+      <description><![CDATA[《Seedlings》确实是一种视觉享受，也是一款相当有趣的平台解谜游戏，由 Bardsley Creative 于 9 月 22 日发布。如果您想要一些不寻常的东西，那就是它了。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/09/25d-puzzle-platformer-seedlings-has-some-great-photography-based-visuals/</guid>
+      <pubDate>Tue, 26 Sep 2023 12:42:31 GMT</pubDate>
+    </item>
     <item>
       <title>Megaquarium: Deep Freeze 是迄今为止最大的水族馆建造模拟 DLC</title>
       <link>https://www.gamingonlinux.com/2023/09/megaquarium-deep-freeze-is-the-biggest-dlc-yet-for-the-aquarium-building-sim/</link>
@@ -74,41 +109,6 @@
       <description><![CDATA[开发者 Mike Blumenkrantz 是 Valve 签约的众多开发人员之一，他发布了另一篇博客文章，重点介绍了他们正在进行的 Mesa 驱动程序工作中的另一个有趣的优化。]]></description>
       <guid>https://www.gamingonlinux.com/2023/09/mesa-getting-vulkan-performance-upgrades-for-submission-merging/</guid>
       <pubDate>Sun, 24 Sep 2023 13:24:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>Godot Engine 每月融资额超过 5 万欧元</title>
-      <link>https://www.gamingonlinux.com/2023/09/godot-engine-hits-over-50k-euros-per-month-in-funding/</link>
-      <description><![CDATA[Unity 崩溃的大赢家之一是免费开源的 Godot 引擎，该引擎的资金飙升至令人印象深刻的水平，因为 Unity 基本上为他们提供了免费广告。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/09/godot-engine-hits-over-50k-euros-per-month-in-funding/</guid>
-      <pubDate>Sun, 24 Sep 2023 12:23:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Unity 取消了 GitHub 上的服务条款，因为“浏览量太低”</title>
-      <link>https://www.gamingonlinux.com/2023/09/unity-nuked-their-terms-of-service-on-github-as-views-were-so-low/</link>
-      <description><![CDATA[目前 Unity 的传奇故事还没有完全结束，他们仍在努力消除开发者在运行时费用宣布失败后的担忧。目前备受关注的一点是他们的服务条款以及他们之前如何从开发商那里撤回的。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/09/unity-nuked-their-terms-of-service-on-github-as-views-were-so-low/</guid>
-      <pubDate>Sat, 23 Sep 2023 09:51:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>在你眼前，超越：两个灵魂，冒名顶替者工厂以及本捆绑包中的更多内容</title>
-      <link>https://www.gamingonlinux.com/2023/09/before-your-eyes-beyond-two-souls-imposter-factory-and-more-in-this-bundle/</link>
-      <description><![CDATA[需要更多叙事冒险吗？谦虚地提出了“控制叙事”捆绑包。因此，这是您通常会了解 Steam Deck 和普通桌面 Linux 上的兼容性的情况。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/09/before-your-eyes-beyond-two-souls-imposter-factory-and-more-in-this-bundle/</guid>
-      <pubDate>Fri, 22 Sep 2023 20:13:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>继令人讨厌的运行时费用之后，Unity 宣布了重大变化</title>
-      <link>https://www.gamingonlinux.com/2023/09/unity-announced-big-changes-following-the-hated-runtime-fee/</link>
-      <description><![CDATA[在最初的运行时费用公告带来的绝对灾难之后，Unity 现在再次道歉并宣布了新计划的进展。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/09/unity-announced-big-changes-following-the-hated-runtime-fee/</guid>
-      <pubDate>Fri, 22 Sep 2023 17:39:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>微软——别把你的脏手拿开Valve，泄密显示MSFT将收购Valve</title>
-      <link>https://www.gamingonlinux.com/2023/09/microsoft-keep-your-filthy-hands-off-valve/</link>
-      <description><![CDATA[嗯，这肯定是一个文章标题，不是吗？但我是认真的。微软，你不敢碰Valve。你已经够胖了，而且也太大了。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/09/microsoft-keep-your-filthy-hands-off-valve/</guid>
-      <pubDate>Fri, 22 Sep 2023 16:46:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
