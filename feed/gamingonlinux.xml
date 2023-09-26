@@ -4,7 +4,28 @@
     <title>GamingOnLinux 最新文章</title>
     <link>https://www.gamingonlinux.com/</link>
     <description>GamingOnLinux 的最新文章</description>
-    <lastBuildDate>Mon, 25 Sep 2023 15:54:50 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 Sep 2023 19:13:16 GMT</lastBuildDate>
+    <item>
+      <title>《派对动物》在 Steam Deck 和桌面 Linux 上真的很有趣</title>
+      <link>https://www.gamingonlinux.com/2023/09/party-animals-is-really-fun-on-steam-deck-and-desktop-linux/</link>
+      <description><![CDATA[玩完新的休闲愚蠢派对游戏后？ 《派对动物》最近由 Recreate Games 和 Source Technology 发布，它在 Steam Deck 和桌面 Linux 上的整体运行效果非常好。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/09/party-animals-is-really-fun-on-steam-deck-and-desktop-linux/</guid>
+      <pubDate>Mon, 25 Sep 2023 19:13:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fantastic Haven 是即将到来的魔法动物园大亨</title>
+      <link>https://www.gamingonlinux.com/2023/09/fantastic-haven-is-an-upcoming-magical-zoo-tycoon/</link>
+      <description><![CDATA[想要一些不同的东西吗？ Fantastic Haven 最近宣布，当你探索世界时，它的外观和声音都非常独特，可以照顾各种神奇生物。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/09/fantastic-haven-is-an-upcoming-magical-zoo-tycoon/</guid>
+      <pubDate>Mon, 25 Sep 2023 19:04:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Steam SHMUP Fest 现已上线</title>
+      <link>https://www.gamingonlinux.com/2023/09/steam-shmup-fest-is-live-now-2023/</link>
+      <description><![CDATA[准备好了吗？ Steam 正在举办他们自己的 SHMUP Fest，因此请留意射向您钱包的流弹。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/09/steam-shmup-fest-is-live-now-2023/</guid>
+      <pubDate>Mon, 25 Sep 2023 18:55:15 GMT</pubDate>
+    </item>
     <item>
       <title>Mesa 23.2 计划本周发布，下周发布</title>
       <link>https://www.gamingonlinux.com/2023/09/mesa-232-aims-for-release-this-week-with-a-point-release-next-week/</link>
@@ -15,7 +36,7 @@
     <item>
       <title>以下是《赛博朋克 2077》2.0 在 Steam Deck 和桌面 Linux 上运行的方式</title>
       <link>https://www.gamingonlinux.com/2023/09/cyberpunk-2077-2-0-on-steam-deck-and-desktop-linux/</link>
-      <description><![CDATA[《赛博朋克 2077》2.0 最近登陆，现在我有时间把玩它了，下面看看更新后它在 Steam Deck 和桌面 Linux 上的运行情况。]]></description>
+      <description><![CDATA[《赛博朋克 2077》2.0 最近登陆了，现在我有时间把玩它了，下面看看更新后它在 Steam Deck 和桌面 Linux 上的运行情况。]]></description>
       <guid>https://www.gamingonlinux.com/2023/09/cyberpunk-2077-2-0-on-steam-deck-and-desktop-linux/</guid>
       <pubDate>Mon, 25 Sep 2023 14:37:04 GMT</pubDate>
     </item>
@@ -36,7 +57,7 @@
     <item>
       <title>Mesa 获得 Vulkan 性能升级以进行提交合并</title>
       <link>https://www.gamingonlinux.com/2023/09/mesa-getting-vulkan-performance-upgrades-for-submission-merging/</link>
-      <description><![CDATA[开发者 Mike Blumenkrantz 是 Valve 签约的众多开发人员之一，他发布了另一篇博客文章，重点介绍了他们正在进行的 Mesa 驱动程序工作中的另一个有趣的优化。]]></description>
+      <description><![CDATA[开发人员 Mike Blumenkrantz 是 Valve 签约的众多开发人员之一，他发布了另一篇博客文章，重点介绍了他们正在进行的 Mesa 驱动程序工作中的另一个有趣的优化。]]></description>
       <guid>https://www.gamingonlinux.com/2023/09/mesa-getting-vulkan-performance-upgrades-for-submission-merging/</guid>
       <pubDate>Sun, 24 Sep 2023 13:24:42 GMT</pubDate>
     </item>
@@ -50,14 +71,14 @@
     <item>
       <title>Unity 取消了 GitHub 上的服务条款，因为“浏览量太低”</title>
       <link>https://www.gamingonlinux.com/2023/09/unity-nuked-their-terms-of-service-on-github-as-views-were-so-low/</link>
-      <description><![CDATA[目前 Unity 的传奇故事还没有完全结束，他们仍在努力消除开发者在运行时费用宣布失败后的担忧。目前备受关注的一点是他们的服务条款以及他们之前如何从开发商那里撤回的。]]></description>
+      <description><![CDATA[Unity 当前的传奇故事还没有完全结束，因为他们仍在努力消除开发者在错误地宣布运行时费用后的担忧。目前备受关注的一点是他们的服务条款以及他们之前如何从开发商那里撤回的。]]></description>
       <guid>https://www.gamingonlinux.com/2023/09/unity-nuked-their-terms-of-service-on-github-as-views-were-so-low/</guid>
       <pubDate>Sat, 23 Sep 2023 09:51:20 GMT</pubDate>
     </item>
     <item>
       <title>在你眼前，超越：两个灵魂，冒名顶替者工厂以及本捆绑包中的更多内容</title>
       <link>https://www.gamingonlinux.com/2023/09/before-your-eyes-beyond-two-souls-imposter-factory-and-more-in-this-bundle/</link>
-      <description><![CDATA[需要更多叙事冒险吗？谦虚地提出了“控制叙事”捆绑包。因此，这是您通常会了解 Steam Deck 和普通桌面 Linux 上的兼容性的情况。]]></description>
+      <description><![CDATA[需要更多叙事冒险吗？谦卑提出了“控制叙事”捆绑包。因此，这是您通常会了解 Steam Deck 和普通桌面 Linux 上的兼容性的情况。]]></description>
       <guid>https://www.gamingonlinux.com/2023/09/before-your-eyes-beyond-two-souls-imposter-factory-and-more-in-this-bundle/</guid>
       <pubDate>Fri, 22 Sep 2023 20:13:26 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[想要体验新鲜的灵魂吗？ Lies of P 最近从 NEOWIZ 发布，值得庆幸的是，它确实在 Steam Deck 和桌面 Linux 上运行良好。]]></description>
       <guid>https://www.gamingonlinux.com/2023/09/lies-of-p-is-running-great-on-steam-deck-and-desktop-linux/</guid>
       <pubDate>Fri, 22 Sep 2023 15:08:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>GOG 通过促销和赠品庆祝 15 周年</title>
-      <link>https://www.gamingonlinux.com/2023/09/gog-celebrate-15-years-with-a-sale-and-giveaway/</link>
-      <description><![CDATA[GOG，最初是Good Old Games，现已运行15年了！他们正在通过大促销、新品发布和赠品来庆祝，所以这里是所有细节。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/09/gog-celebrate-15-years-with-a-sale-and-giveaway/</guid>
-      <pubDate>Fri, 22 Sep 2023 14:08:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>英国CMA进一步咨询，微软收购动视的脚步越来越近</title>
-      <link>https://www.gamingonlinux.com/2023/09/microsoft-buyout-of-activision-gets-closer-uk-cma-consulting-further/</link>
-      <description><![CDATA[微软收购动视暴雪的漫长传奇又向前迈进了一步，英国竞争与市场管理局 (CMA) 正在就微软为解决 CMA 的担忧而提出的补救措施进行咨询。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/09/microsoft-buyout-of-activision-gets-closer-uk-cma-consulting-further/</guid>
-      <pubDate>Fri, 22 Sep 2023 12:54:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Steam Deck 和 SteamOS 非常适合整个 Linux - Open Source Summit Europe 2023</title>
-      <link>https://www.gamingonlinux.com/2023/09/steam-deck-and-steamos-are-great-for-linux-as-a-whole/</link>
-      <description><![CDATA[在最近举行的 2023 年欧洲开源峰会上，Igalia 的软件工程师 Alberto Garcia 做了一次演讲，内容涵盖 Valve、Steam Deck、SteamOS 以及它们如何帮助整个 Linux。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/09/steam-deck-and-steamos-are-great-for-linux-as-a-whole/</guid>
-      <pubDate>Fri, 22 Sep 2023 11:43:56 GMT</pubDate>
     </item>
     </channel>
 </rss>
