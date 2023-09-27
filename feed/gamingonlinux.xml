@@ -4,7 +4,14 @@
     <title>GamingOnLinux 最新文章</title>
     <link>https://www.gamingonlinux.com/</link>
     <description>GamingOnLinux 的最新文章</description>
-    <lastBuildDate>Wed, 27 Sep 2023 11:17:51 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 Sep 2023 12:20:04 GMT</lastBuildDate>
+    <item>
+      <title>Horizo​​n Forbidden West 完整版将于“2024 年初”登陆 Steam</title>
+      <link>https://www.gamingonlinux.com/2023/09/horizon-forbidden-west-complete-edition-arrives-on-steam-in-early-2024/</link>
+      <description><![CDATA[终于确认了！ Horizo​​n Forbidden West™ 完整版即将登陆 Steam（和 EGS），Nixxes Software 与 Guerrilla 合作实现这一目标。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/09/horizon-forbidden-west-complete-edition-arrives-on-steam-in-early-2024/</guid>
+      <pubDate>Wed, 27 Sep 2023 12:20:04 GMT</pubDate>
+    </item>
     <item>
       <title>MangoHud v0.7 现已推出，添加了像 Steam Deck 上一样的预设支持</title>
       <link>https://www.gamingonlinux.com/2023/09/mangohud-v07-out-now-adding-presets-support-like-on-steam-deck/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[准备好了吗？ Steam 正在举办他们自己的 SHMUP Fest，因此请留意射向您钱包的流弹。]]></description>
       <guid>https://www.gamingonlinux.com/2023/09/steam-shmup-fest-is-live-now-2023/</guid>
       <pubDate>Mon, 25 Sep 2023 18:55:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mesa 23.2 计划本周发布，下周发布</title>
-      <link>https://www.gamingonlinux.com/2023/09/mesa-232-aims-for-release-this-week-with-a-point-release-next-week/</link>
-      <description><![CDATA[虽然已经姗姗来迟，但 Mesa 23.2 即将最终发布，第四个候选版本现已可供测试。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/09/mesa-232-aims-for-release-this-week-with-a-point-release-next-week/</guid>
-      <pubDate>Mon, 25 Sep 2023 15:54:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
