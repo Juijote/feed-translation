@@ -4,7 +4,14 @@
     <title>GamingOnLinux 最新文章</title>
     <link>https://www.gamingonlinux.com/</link>
     <description>GamingOnLinux 的最新文章</description>
-    <lastBuildDate>Wed, 27 Sep 2023 12:20:04 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 Sep 2023 21:24:24 GMT</lastBuildDate>
+    <item>
+      <title>Counter-Strike 2 现已推出并支持 Linux</title>
+      <link>https://www.gamingonlinux.com/2023/09/counter-strike-2-is-out-now-with-linux-support/</link>
+      <description><![CDATA[Valve 的《反恐精英 2》现已正式推出，并提供原生 Linux 支持，因此是时候告别《全球攻势》了，因为它已被取代。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/09/counter-strike-2-is-out-now-with-linux-support/</guid>
+      <pubDate>Wed, 27 Sep 2023 21:24:24 GMT</pubDate>
+    </item>
     <item>
       <title>Horizo​​n Forbidden West 完整版将于“2024 年初”登陆 Steam</title>
       <link>https://www.gamingonlinux.com/2023/09/horizon-forbidden-west-complete-edition-arrives-on-steam-in-early-2024/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[想要一些不同的东西吗？ Fantastic Haven 最近宣布，当你探索世界时，它的外观和声音都非常独特，可以照顾各种神奇生物。]]></description>
       <guid>https://www.gamingonlinux.com/2023/09/fantastic-haven-is-an-upcoming-magical-zoo-tycoon/</guid>
       <pubDate>Mon, 25 Sep 2023 19:04:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>Steam SHMUP Fest 现已上线</title>
-      <link>https://www.gamingonlinux.com/2023/09/steam-shmup-fest-is-live-now-2023/</link>
-      <description><![CDATA[准备好了吗？ Steam 正在举办他们自己的 SHMUP Fest，因此请留意射向您钱包的流弹。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/09/steam-shmup-fest-is-live-now-2023/</guid>
-      <pubDate>Mon, 25 Sep 2023 18:55:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
