@@ -4,7 +4,21 @@
     <title>GamingOnLinux 最新文章</title>
     <link>https://www.gamingonlinux.com/</link>
     <description>GamingOnLinux 的最新文章</description>
-    <lastBuildDate>Fri, 29 Sep 2023 11:53:59 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 Sep 2023 16:18:39 GMT</lastBuildDate>
+    <item>
+      <title>历史 4x 策略游戏《旧世界》将于 10 月 4 日推出埃及主题 DLC</title>
+      <link>https://www.gamingonlinux.com/2023/09/historical-4x-strategy-game-old-world-gets-an-egyptian-themed-dlc-on-october-4/</link>
+      <description><![CDATA[Old World 的第三个 DLC 是一款 4x 策略游戏，去年在 Linux 支持下登陆 Steam（在 Epic 独占之后），将于 10 月 4 日获得埃及主题 DLC，通过新的叙事战役回顾埃及 400 年的历史。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/09/historical-4x-strategy-game-old-world-gets-an-egyptian-themed-dlc-on-october-4/</guid>
+      <pubDate>Fri, 29 Sep 2023 16:18:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>生物收集生活模拟游戏《月石岛》现已推出</title>
+      <link>https://www.gamingonlinux.com/2023/09/creature-collecting-life-sim-moonstone-island-is-out-now/</link>
+      <description><![CDATA[《月光石岛》巧妙地融合了套牌构建、生物收集和生活模拟元素，是一款丰富多彩且非常吸引人的游戏，可以添加到您的收藏中。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/09/creature-collecting-life-sim-moonstone-island-is-out-now/</guid>
+      <pubDate>Fri, 29 Sep 2023 16:06:59 GMT</pubDate>
+    </item>
     <item>
       <title>此捆绑包中包含《痛苦之环》、《虚空混蛋》、《伊肯费尔》、《精灵战术》等</title>
       <link>https://www.gamingonlinux.com/2023/09/ring-of-pain-void-bastards-ikenfell-fae-tactics-and-more-in-this-bundle/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[终于确认了！ Horizo​​n Forbidden West™ 完整版即将登陆 Steam（和 EGS），Nixxes Software 与 Guerrilla 合作实现这一目标。]]></description>
       <guid>https://www.gamingonlinux.com/2023/09/horizon-forbidden-west-complete-edition-arrives-on-steam-in-early-2024/</guid>
       <pubDate>Wed, 27 Sep 2023 12:20:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>MangoHud v0.7 现已推出，添加了像 Steam Deck 上一样的预设支持</title>
-      <link>https://www.gamingonlinux.com/2023/09/mangohud-v07-out-now-adding-presets-support-like-on-steam-deck/</link>
-      <description><![CDATA[MangoHud 是一款非常棒的工具，您可以使用它在游戏顶部添加 HUD（默认包含在 Steam Deck 中），它已发布 0.7.0 版本，其中包含许多新选项，因此以下是更改内容。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/09/mangohud-v07-out-now-adding-presets-support-like-on-steam-deck/</guid>
-      <pubDate>Wed, 27 Sep 2023 11:17:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>Croteam 的 Talos Principle 2 将于 11 月 2 日发布</title>
-      <link>https://www.gamingonlinux.com/2023/09/the-talos-principle-2-from-croteam-launches-november-2/</link>
-      <description><![CDATA[Croteam 和 Devolver Digital 宣布《塔罗斯法则 2》现已定于 11 月 2 日推出，它看起来是前一款游戏的令人印象深刻的后续作品，而这款游戏无疑是有史以来最好的益智游戏之一。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/09/the-talos-principle-2-from-croteam-launches-november-2/</guid>
-      <pubDate>Wed, 27 Sep 2023 10:08:30 GMT</pubDate>
     </item>
     </channel>
 </rss>
