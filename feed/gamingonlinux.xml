@@ -4,7 +4,35 @@
     <title>GamingOnLinux 最新文章</title>
     <link>https://www.gamingonlinux.com/</link>
     <description>GamingOnLinux 的最新文章</description>
-    <lastBuildDate>Thu, 28 Sep 2023 14:50:38 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 Sep 2023 11:53:59 GMT</lastBuildDate>
+    <item>
+      <title>此捆绑包中包含《痛苦之环》、《虚空混蛋》、《伊肯费尔》、《精灵战术》等</title>
+      <link>https://www.gamingonlinux.com/2023/09/ring-of-pain-void-bastards-ikenfell-fae-tactics-and-more-in-this-bundle/</link>
+      <description><![CDATA[Humble Games 发行商在 Humble Bundle 上有自己的捆绑包，其中包括一些非常棒的游戏，因此这里介绍一下其中的内容以及在 Steam Deck 和桌面 Linux 上的兼容性。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/09/ring-of-pain-void-bastards-ikenfell-fae-tactics-and-more-in-this-bundle/</guid>
+      <pubDate>Fri, 29 Sep 2023 11:53:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>《战锤 40,000：太空狼》已下架，请快速购买此捆绑包</title>
+      <link>https://www.gamingonlinux.com/2023/09/warhammer-40000-space-wolf-being-delisted-grab-it-quick-in-this-bundle/</link>
+      <description><![CDATA[HeroCraft PC 宣布，由于授权问题，《战锤 40,000：太空狼》将于 10 月 11 日下架，但您可以在 Humble Bundle 上以折扣价购买该游戏以及许多其他游戏。它在 ProtonDB 上具有白金评级，因此它在 Linux 上应该可以很好地工作。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/09/warhammer-40000-space-wolf-being-delisted-grab-it-quick-in-this-bundle/</guid>
+      <pubDate>Fri, 29 Sep 2023 11:17:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>EA 扩展 EA Anti-Cheat - 对 Steam Deck / Linux 来说是个坏消息</title>
+      <link>https://www.gamingonlinux.com/2023/09/ea-expanding-ea-anti-cheat-bad-news-for-steam-deck-linux/</link>
+      <description><![CDATA[EA (Electronic Arts) 正在继续扩展其本土的 EA Anti-Cheat，并宣布《战地 2042》也将迁移到该平台。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/09/ea-expanding-ea-anti-cheat-bad-news-for-steam-deck-linux/</guid>
+      <pubDate>Fri, 29 Sep 2023 09:34:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>Epic Games 因“花的钱比赚的多”而裁员 830 人</title>
+      <link>https://www.gamingonlinux.com/2023/09/epic-games-sheds-830-people-due-to-spending-more-than-they-earn/</link>
+      <description><![CDATA[最近流传的行业新闻来自 Epic Games，该公司昨天公开分享了 Tim Sweeney 发送的一封关于解雇公司 16% 股份的电子邮件。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/09/epic-games-sheds-830-people-due-to-spending-more-than-they-earn/</guid>
+      <pubDate>Fri, 29 Sep 2023 09:18:55 GMT</pubDate>
+    </item>
     <item>
       <title>观看《深岩银河：幸存者》的精彩演示</title>
       <link>https://www.gamingonlinux.com/2023/09/check-out-the-awesome-demo-of-deep-rock-galactic-survivor/</link>
@@ -36,7 +64,7 @@
     <item>
       <title>以下是即将推出的星露谷物语 1.6 更新的一些详细信息</title>
       <link>https://www.gamingonlinux.com/2023/09/heres-some-details-on-the-upcoming-stardew-valley-16-update/</link>
-      <description><![CDATA[《星露谷物语》还没有完全完成，1.6 更新正在进行中，现在开发者已经透露了一些我们对它的期待。]]></description>
+      <description><![CDATA[《星露谷物语》尚未完全完成，1.6 更新即将推出，现在开发者已经透露了一些我们对它的期待。]]></description>
       <guid>https://www.gamingonlinux.com/2023/09/heres-some-details-on-the-upcoming-stardew-valley-16-update/</guid>
       <pubDate>Thu, 28 Sep 2023 11:14:17 GMT</pubDate>
     </item>
@@ -71,44 +99,16 @@
     <item>
       <title>MangoHud v0.7 现已推出，添加了像 Steam Deck 上一样的预设支持</title>
       <link>https://www.gamingonlinux.com/2023/09/mangohud-v07-out-now-adding-presets-support-like-on-steam-deck/</link>
-      <description><![CDATA[MangoHud 是一款非常棒的工具，您可以使用它在游戏顶部添加 HUD（默认包含在 Steam Deck 中），它已发布 0.7.0 版，其中包含许多新选项，因此以下是更改内容。]]></description>
+      <description><![CDATA[MangoHud 是一款非常棒的工具，您可以使用它在游戏顶部添加 HUD（默认包含在 Steam Deck 中），它已发布 0.7.0 版本，其中包含许多新选项，因此以下是更改内容。]]></description>
       <guid>https://www.gamingonlinux.com/2023/09/mangohud-v07-out-now-adding-presets-support-like-on-steam-deck/</guid>
       <pubDate>Wed, 27 Sep 2023 11:17:51 GMT</pubDate>
     </item>
     <item>
       <title>Croteam 的 Talos Principle 2 将于 11 月 2 日发布</title>
       <link>https://www.gamingonlinux.com/2023/09/the-talos-principle-2-from-croteam-launches-november-2/</link>
-      <description><![CDATA[Croteam 和 Devolver Digital 宣布《塔洛斯法则 2》现已定于 11 月 2 日推出，它看起来是前一款游戏的令人印象深刻的后续作品，而这款游戏无疑是有史以来最好的益智游戏之一。]]></description>
+      <description><![CDATA[Croteam 和 Devolver Digital 宣布《塔罗斯法则 2》现已定于 11 月 2 日推出，它看起来是前一款游戏的令人印象深刻的后续作品，而这款游戏无疑是有史以来最好的益智游戏之一。]]></description>
       <guid>https://www.gamingonlinux.com/2023/09/the-talos-principle-2-from-croteam-launches-november-2/</guid>
       <pubDate>Wed, 27 Sep 2023 10:08:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>《Survive The Fog》是一款即将推出的第三人称幸存者类动作 Rogue 游戏</title>
-      <link>https://www.gamingonlinux.com/2023/09/survive-the-fog-is-an-upcoming-third-person-survivor-like-action-rogue-lite/</link>
-      <description><![CDATA[有一天，我可能会克服对任何受《吸血鬼幸存者》的流行启发而产生的迷恋，但今天不是。 《Survive The Fog》是另一款游戏，但这款游戏让它更像是一款第三人称动作游戏。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/09/survive-the-fog-is-an-upcoming-third-person-survivor-like-action-rogue-lite/</guid>
-      <pubDate>Wed, 27 Sep 2023 09:54:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>《托尼霍克职业滑板 1+2》终于登陆 Steam</title>
-      <link>https://www.gamingonlinux.com/2023/09/tony-hawks-pro-skater-1-2-finally-coming-to-steam/</link>
-      <description><![CDATA[经过近三年痛苦的等待，《托尼霍克职业滑板》前两部经典游戏的出色重制版《托尼霍克职业滑板 1+2》已宣布于 10 月 3 日在 Steam 上发布。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/09/tony-hawks-pro-skater-1-2-finally-coming-to-steam/</guid>
-      <pubDate>Wed, 27 Sep 2023 09:43:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>ChimeraOS Linux 44 现已推出，改进了对各种手持设备的支持</title>
-      <link>https://www.gamingonlinux.com/2023/09/chimeraos-linux-44-out-now-with-improved-support-for-various-handhelds/</link>
-      <description><![CDATA[ChimeraOS 是一款专为游戏玩家设计的 Linux 发行版，特别是如果您想在类似于 Steam Deck（如 ROG Ally）的手持设备上获得类似于 SteamOS 的东西。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/09/chimeraos-linux-44-out-now-with-improved-support-for-various-handhelds/</guid>
-      <pubDate>Tue, 26 Sep 2023 16:57:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>吸血鬼幸存者的令人心寒的更新有一个预告片</title>
-      <link>https://www.gamingonlinux.com/2023/09/the-chilling-update-for-vampire-survivors-has-a-teaser-trailer/</link>
-      <description><![CDATA[准备好迎接更多吸血鬼幸存者了吗？在最近推出大型合作更新后，开发者 poncle 开始预告 Chilling Update v1.7。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/09/the-chilling-update-for-vampire-survivors-has-a-teaser-trailer/</guid>
-      <pubDate>Tue, 26 Sep 2023 15:18:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
