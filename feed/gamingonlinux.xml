@@ -4,7 +4,14 @@
     <title>GamingOnLinux 最新文章</title>
     <link>https://www.gamingonlinux.com/</link>
     <description>GamingOnLinux 的最新文章</description>
-    <lastBuildDate>Fri, 29 Sep 2023 18:29:30 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 30 Sep 2023 15:14:23 GMT</lastBuildDate>
+    <item>
+      <title>Proton Experimental 增加了对《孤岛危机 2》和《孤岛危机 3》、《Starfield》、《深岩银河》等游戏的修复</title>
+      <link>https://www.gamingonlinux.com/2023/09/proton-experimental-adds-fixes-for-crysis-2-3-starfield-deep-rock-galactic-and-more/</link>
+      <description><![CDATA[Valve 于 9 月 29 日发布了 Proton Experimental 的一个不错的更新，对 Steam Deck 和桌面 Linux 上的游戏进行了大量修复。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/09/proton-experimental-adds-fixes-for-crysis-2-3-starfield-deep-rock-galactic-and-more/</guid>
+      <pubDate>Sat, 30 Sep 2023 15:14:23 GMT</pubDate>
+    </item>
     <item>
       <title>AMD FSR 3 今天在两款游戏中发布 - 稍后提供源代码</title>
       <link>https://www.gamingonlinux.com/2023/09/amd-fsr-3-arrived-today-in-two-games-source-code-later/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[周四醒来，这真是一个惊喜，因为 Raspberry Pi 5 现已正式发布，并具有一些令人印象深刻的规格。这是详细信息。]]></description>
       <guid>https://www.gamingonlinux.com/2023/09/raspberry-pi-5-announced-still-tiny-much-more-powerful/</guid>
       <pubDate>Thu, 28 Sep 2023 09:07:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>Counter-Strike 2 现已推出并支持 Linux</title>
-      <link>https://www.gamingonlinux.com/2023/09/counter-strike-2-is-out-now-with-linux-support/</link>
-      <description><![CDATA[Valve 的《反恐精英 2》现已正式推出，并提供原生 Linux 支持，因此是时候告别《全球攻势》了，因为它已被取代。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/09/counter-strike-2-is-out-now-with-linux-support/</guid>
-      <pubDate>Wed, 27 Sep 2023 21:24:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
