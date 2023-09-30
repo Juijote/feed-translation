@@ -4,7 +4,14 @@
     <title>GamingOnLinux 最新文章</title>
     <link>https://www.gamingonlinux.com/</link>
     <description>GamingOnLinux 的最新文章</description>
-    <lastBuildDate>Fri, 29 Sep 2023 16:18:39 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 Sep 2023 18:29:30 GMT</lastBuildDate>
+    <item>
+      <title>AMD FSR 3 今天在两款游戏中发布 - 稍后提供源代码</title>
+      <link>https://www.gamingonlinux.com/2023/09/amd-fsr-3-arrived-today-in-two-games-source-code-later/</link>
+      <description><![CDATA[AMD 今天宣布 FidelityFX 超分辨率 3 (FSR 3) 现已在两款游戏中可用：Forspoken 和 Immortals of Aveum，但源代码尚未发布。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/09/amd-fsr-3-arrived-today-in-two-games-source-code-later/</guid>
+      <pubDate>Fri, 29 Sep 2023 18:29:30 GMT</pubDate>
+    </item>
     <item>
       <title>历史 4x 策略游戏《旧世界》将于 10 月 4 日推出埃及主题 DLC</title>
       <link>https://www.gamingonlinux.com/2023/09/historical-4x-strategy-game-old-world-gets-an-egyptian-themed-dlc-on-october-4/</link>
@@ -15,14 +22,14 @@
     <item>
       <title>生物收集生活模拟游戏《月石岛》现已推出</title>
       <link>https://www.gamingonlinux.com/2023/09/creature-collecting-life-sim-moonstone-island-is-out-now/</link>
-      <description><![CDATA[《月光石岛》巧妙地融合了套牌构建、生物收集和生活模拟元素，是一款丰富多彩且非常吸引人的游戏，可以添加到您的收藏中。]]></description>
+      <description><![CDATA[《月光石岛》将套牌构建、生物收集和一点点生活模拟巧妙地融合在一起，是一款丰富多彩且非常吸引人的游戏，可以添加到您的收藏中。]]></description>
       <guid>https://www.gamingonlinux.com/2023/09/creature-collecting-life-sim-moonstone-island-is-out-now/</guid>
       <pubDate>Fri, 29 Sep 2023 16:06:59 GMT</pubDate>
     </item>
     <item>
       <title>此捆绑包中包含《痛苦之环》、《虚空混蛋》、《伊肯费尔》、《精灵战术》等</title>
       <link>https://www.gamingonlinux.com/2023/09/ring-of-pain-void-bastards-ikenfell-fae-tactics-and-more-in-this-bundle/</link>
-      <description><![CDATA[Humble Games 发行商在 Humble Bundle 上有自己的捆绑包，其中包括一些非常棒的游戏，因此这里介绍一下其中的内容以及在 Steam Deck 和桌面 Linux 上的兼容性。]]></description>
+      <description><![CDATA[Humble Games 发行商在 Humble Bundle 上拥有自己的捆绑包，其中包含一些非常棒的游戏，因此这里介绍一下其中的内容以及在 Steam Deck 和桌面 Linux 上的兼容性。]]></description>
       <guid>https://www.gamingonlinux.com/2023/09/ring-of-pain-void-bastards-ikenfell-fae-tactics-and-more-in-this-bundle/</guid>
       <pubDate>Fri, 29 Sep 2023 11:53:59 GMT</pubDate>
     </item>
@@ -36,7 +43,7 @@
     <item>
       <title>EA 扩展 EA Anti-Cheat - 对 Steam Deck / Linux 来说是个坏消息</title>
       <link>https://www.gamingonlinux.com/2023/09/ea-expanding-ea-anti-cheat-bad-news-for-steam-deck-linux/</link>
-      <description><![CDATA[EA (Electronic Arts) 正在继续扩展其本土的 EA Anti-Cheat，并宣布《战地 2042》也将迁移到该平台。]]></description>
+      <description><![CDATA[EA (Electronic Arts) 正在继续扩展其本土的 EA Anti-Cheat，并宣布《战地 2042》也将采用该反作弊程序。]]></description>
       <guid>https://www.gamingonlinux.com/2023/09/ea-expanding-ea-anti-cheat-bad-news-for-steam-deck-linux/</guid>
       <pubDate>Fri, 29 Sep 2023 09:34:46 GMT</pubDate>
     </item>
@@ -50,7 +57,7 @@
     <item>
       <title>观看《深岩银河：幸存者》的精彩演示</title>
       <link>https://www.gamingonlinux.com/2023/09/check-out-the-awesome-demo-of-deep-rock-galactic-survivor/</link>
-      <description><![CDATA[《深岩银河：幸存者》是非常流行的在线合作采矿动作游戏《深岩银河》即将推出的衍生作品，现在公开演示版已经推出，因此您也可以尝试一下，您真的应该尝试一下。]]></description>
+      <description><![CDATA[《深岩银河：幸存者》是非常流行的在线合作采矿动作游戏《深岩银河》即将推出的衍生作品，现在公开演示版已经推出，所以您也可以尝试一下，您真的应该尝试一下。]]></description>
       <guid>https://www.gamingonlinux.com/2023/09/check-out-the-awesome-demo-of-deep-rock-galactic-survivor/</guid>
       <pubDate>Thu, 28 Sep 2023 14:50:38 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[Valve 的《反恐精英 2》现已正式推出，并提供原生 Linux 支持，因此是时候告别《全球攻势》了，因为它已被取代。]]></description>
       <guid>https://www.gamingonlinux.com/2023/09/counter-strike-2-is-out-now-with-linux-support/</guid>
       <pubDate>Wed, 27 Sep 2023 21:24:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>Horizo​​n Forbidden West 完整版将于“2024 年初”登陆 Steam</title>
-      <link>https://www.gamingonlinux.com/2023/09/horizon-forbidden-west-complete-edition-arrives-on-steam-in-early-2024/</link>
-      <description><![CDATA[终于确认了！ Horizo​​n Forbidden West™ 完整版即将登陆 Steam（和 EGS），Nixxes Software 与 Guerrilla 合作实现这一目标。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/09/horizon-forbidden-west-complete-edition-arrives-on-steam-in-early-2024/</guid>
-      <pubDate>Wed, 27 Sep 2023 12:20:04 GMT</pubDate>
     </item>
     </channel>
 </rss>
