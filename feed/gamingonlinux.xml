@@ -4,7 +4,14 @@
     <title>GamingOnLinux 最新文章</title>
     <link>https://www.gamingonlinux.com/</link>
     <description>GamingOnLinux 的最新文章</description>
-    <lastBuildDate>Sat, 30 Sep 2023 20:31:11 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Oct 2023 16:21:57 GMT</lastBuildDate>
+    <item>
+      <title>Mesa 23.2.1 驱动程序现已推出</title>
+      <link>https://www.gamingonlinux.com/2023/10/mesa-2321-drivers-out-now/</link>
+      <description><![CDATA[经过比平常更长的等待时间，Mesa 23.2.1 驱动程序版本现已发布，成为 Mesa 23.2 系列中的第一个版本。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/10/mesa-2321-drivers-out-now/</guid>
+      <pubDate>Sun, 01 Oct 2023 16:21:57 GMT</pubDate>
+    </item>
     <item>
       <title>Wine 8.17 已推出 vkd3d v1.9 和初始 Wayland 窗口管理</title>
       <link>https://www.gamingonlinux.com/2023/09/wine-817-is-out-with-vkd3d-v19-and-initial-wayland-window-management/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[《星露谷物语》尚未完全完成，1.6 更新即将推出，现在开发者已经透露了一些我们对它的期待。]]></description>
       <guid>https://www.gamingonlinux.com/2023/09/heres-some-details-on-the-upcoming-stardew-valley-16-update/</guid>
       <pubDate>Thu, 28 Sep 2023 11:14:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>僵尸在你的城市中生存——无感染区</title>
-      <link>https://www.gamingonlinux.com/2023/09/zombie-survival-in-your-city-infection-free-zone/</link>
-      <description><![CDATA[如果你家附近有僵尸，你会怎么做？你会不会去你经常去的最近的超市，看看你叔叔曾经为枪支工作的旧警察局，或者甚至考虑去那个脾气暴躁的女士经营的药店，她总是让你感到毛骨悚然？嗯，这就是无感染区的情况。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/09/zombie-survival-in-your-city-infection-free-zone/</guid>
-      <pubDate>Thu, 28 Sep 2023 09:23:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
