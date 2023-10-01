@@ -4,7 +4,14 @@
     <title>GamingOnLinux 最新文章</title>
     <link>https://www.gamingonlinux.com/</link>
     <description>GamingOnLinux 的最新文章</description>
-    <lastBuildDate>Sat, 30 Sep 2023 15:14:23 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 30 Sep 2023 20:31:11 GMT</lastBuildDate>
+    <item>
+      <title>Wine 8.17 已推出 vkd3d v1.9 和初始 Wayland 窗口管理</title>
+      <link>https://www.gamingonlinux.com/2023/09/wine-817-is-out-with-vkd3d-v19-and-initial-wayland-window-management/</link>
+      <description><![CDATA[兼容层 Wine 版本 8.17 现已正式发布，它带来了一些令人兴奋的新功能，以及一些错误修复，以下是新内容。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/09/wine-817-is-out-with-vkd3d-v19-and-initial-wayland-window-management/</guid>
+      <pubDate>Sat, 30 Sep 2023 20:31:11 GMT</pubDate>
+    </item>
     <item>
       <title>Proton Experimental 增加了对《孤岛危机 2》和《孤岛危机 3》、《Starfield》、《深岩银河》等游戏的修复</title>
       <link>https://www.gamingonlinux.com/2023/09/proton-experimental-adds-fixes-for-crysis-2-3-starfield-deep-rock-galactic-and-more/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[如果你家附近有僵尸，你会怎么做？你会不会去你经常去的最近的超市，看看你叔叔曾经为枪支工作的旧警察局，或者甚至考虑去那个脾气暴躁的女士经营的药店，她总是让你感到毛骨悚然？嗯，这就是无感染区的情况。]]></description>
       <guid>https://www.gamingonlinux.com/2023/09/zombie-survival-in-your-city-infection-free-zone/</guid>
       <pubDate>Thu, 28 Sep 2023 09:23:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>Raspberry Pi 5 发布 - 仍然很小，但功能更强大</title>
-      <link>https://www.gamingonlinux.com/2023/09/raspberry-pi-5-announced-still-tiny-much-more-powerful/</link>
-      <description><![CDATA[周四醒来，这真是一个惊喜，因为 Raspberry Pi 5 现已正式发布，并具有一些令人印象深刻的规格。这是详细信息。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/09/raspberry-pi-5-announced-still-tiny-much-more-powerful/</guid>
-      <pubDate>Thu, 28 Sep 2023 09:07:39 GMT</pubDate>
     </item>
     </channel>
 </rss>
