@@ -4,7 +4,28 @@
     <title>GamingOnLinux 最新文章</title>
     <link>https://www.gamingonlinux.com/</link>
     <description>GamingOnLinux 的最新文章</description>
-    <lastBuildDate>Mon, 02 Oct 2023 12:14:10 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Oct 2023 14:30:59 GMT</lastBuildDate>
+    <item>
+      <title>2023 年 Ubuntu 峰会将举办一些有趣的 Linux 游戏讲座</title>
+      <link>https://www.gamingonlinux.com/2023/10/ubuntu-summit-2023-will-have-some-fun-linux-gaming-talks/</link>
+      <description><![CDATA[下一届 Ubuntu 峰会将于 11 月 3 日至 5 日在拉脱维亚里加举行，今年有一些有趣的 Linux 游戏演讲，您可能需要关注。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/10/ubuntu-summit-2023-will-have-some-fun-linux-gaming-talks/</guid>
+      <pubDate>Mon, 02 Oct 2023 14:30:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gearbits 是机甲格斗迷值得一看的一款游戏</title>
+      <link>https://www.gamingonlinux.com/2023/10/gearbits-is-one-to-watch-for-mech-combat-fans/</link>
+      <description><![CDATA[喜欢你的机甲战斗吗？请密切关注即将推出的低多边形独立游戏 Gearbits。一款 3D 动作游戏，您将驾驶一个看起来非常像高达或装甲核心的巨型机器人。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/10/gearbits-is-one-to-watch-for-mech-combat-fans/</guid>
+      <pubDate>Mon, 02 Oct 2023 13:23:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tiny Atolls 是一个舒适轻松的极简主义城市建造者</title>
+      <link>https://www.gamingonlinux.com/2023/10/tiny-atolls-is-a-comfy-and-relaxing-minimalist-city-builder/</link>
+      <description><![CDATA[Tiny Atolls 是开发商 MONKE 的新版本，实际上与 BRUTE FORCE 是同一位开发商，但名称不同，他们制作了动态物理平台游戏 Crumble。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/10/tiny-atolls-is-a-comfy-and-relaxing-minimalist-city-builder/</guid>
+      <pubDate>Mon, 02 Oct 2023 12:52:09 GMT</pubDate>
+    </item>
     <item>
       <title>惊险射击游戏《Selaco》将于 2024 年 5 月推出抢先体验</title>
       <link>https://www.gamingonlinux.com/2023/10/thrilling-shooter-selaco-hits-early-access-in-may-2024/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[Humble Games 发行商在 Humble Bundle 上拥有自己的捆绑包，其中包含一些非常棒的游戏，因此这里介绍一下其中的内容以及在 Steam Deck 和桌面 Linux 上的兼容性。]]></description>
       <guid>https://www.gamingonlinux.com/2023/09/ring-of-pain-void-bastards-ikenfell-fae-tactics-and-more-in-this-bundle/</guid>
       <pubDate>Fri, 29 Sep 2023 11:53:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>《战锤 40,000：太空狼》已下架，请快速购买此捆绑包</title>
-      <link>https://www.gamingonlinux.com/2023/09/warhammer-40000-space-wolf-being-delisted-grab-it-quick-in-this-bundle/</link>
-      <description><![CDATA[HeroCraft PC 宣布，由于授权问题，《战锤 40,000：太空狼》将于 10 月 11 日下架，但您可以在 Humble Bundle 上以折扣价购买该游戏以及许多其他游戏。它在 ProtonDB 上具有白金评级，因此它在 Linux 上应该可以很好地工作。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/09/warhammer-40000-space-wolf-being-delisted-grab-it-quick-in-this-bundle/</guid>
-      <pubDate>Fri, 29 Sep 2023 11:17:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>EA 扩展 EA Anti-Cheat - 对 Steam Deck / Linux 来说是个坏消息</title>
-      <link>https://www.gamingonlinux.com/2023/09/ea-expanding-ea-anti-cheat-bad-news-for-steam-deck-linux/</link>
-      <description><![CDATA[EA (Electronic Arts) 正在继续扩展其本土的 EA Anti-Cheat，并宣布《战地 2042》也将采用该反作弊程序。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/09/ea-expanding-ea-anti-cheat-bad-news-for-steam-deck-linux/</guid>
-      <pubDate>Fri, 29 Sep 2023 09:34:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>Epic Games 因“花的钱比赚的多”而裁员 830 人</title>
-      <link>https://www.gamingonlinux.com/2023/09/epic-games-sheds-830-people-due-to-spending-more-than-they-earn/</link>
-      <description><![CDATA[最近流传的行业新闻来自 Epic Games，该公司昨天公开分享了 Tim Sweeney 发送的一封关于解雇公司 16% 股份的电子邮件。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/09/epic-games-sheds-830-people-due-to-spending-more-than-they-earn/</guid>
-      <pubDate>Fri, 29 Sep 2023 09:18:55 GMT</pubDate>
     </item>
     </channel>
 </rss>
