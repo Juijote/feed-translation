@@ -4,7 +4,42 @@
     <title>GamingOnLinux 最新文章</title>
     <link>https://www.gamingonlinux.com/</link>
     <description>GamingOnLinux 的最新文章</description>
-    <lastBuildDate>Sun, 01 Oct 2023 16:21:57 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Oct 2023 12:14:10 GMT</lastBuildDate>
+    <item>
+      <title>惊险射击游戏《Selaco》将于 2024 年 5 月推出抢先体验</title>
+      <link>https://www.gamingonlinux.com/2023/10/thrilling-shooter-selaco-hits-early-access-in-may-2024/</link>
+      <description><![CDATA[经过一些精彩的演示后，由 GZDoom 驱动的射击游戏 Selaco 将于 2024 年 5 月在 Steam 上推出抢先体验，并且还发布了新预告片以及有关其预期内容的信息。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/10/thrilling-shooter-selaco-hits-early-access-in-may-2024/</guid>
+      <pubDate>Mon, 02 Oct 2023 12:14:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>2023 年 9 月 Steam 调查：macOS 和 Linux 下滑，但 Linux 仍高于 macOS</title>
+      <link>https://www.gamingonlinux.com/2023/10/september-2023-steam-survey-macos-and-linux-dip-but-linux-remains-above-macos/</link>
+      <description><![CDATA[2023 年 9 月的 Steam 硬件和软件调查现已发布，显示 macOS 和 Linux 均有所下降，但 Linux 仍高于 macOS。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/10/september-2023-steam-survey-macos-and-linux-dip-but-linux-remains-above-macos/</guid>
+      <pubDate>Mon, 02 Oct 2023 11:06:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>光环：士官长合集多人游戏已修复 Steam Deck / Linux</title>
+      <link>https://www.gamingonlinux.com/2023/10/halo-the-master-chief-collection-multiplayer-fixed-for-steam-deck-linux/</link>
+      <description><![CDATA[经过10天的等待，343 Industries / Xbox Game Studios终于在Linux桌面和Steam Deck上再次修复了《光环：士官长合集》的在线多人游戏。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/10/halo-the-master-chief-collection-multiplayer-fixed-for-steam-deck-linux/</guid>
+      <pubDate>Mon, 02 Oct 2023 10:48:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Canonical 的 Snap 商店遭到恶意应用程序攻击</title>
+      <link>https://www.gamingonlinux.com/2023/10/snap-store-from-canonical-hit-with-malicious-apps/</link>
+      <description><![CDATA[Canonical 目前正在处理 Snap 商店的安全事件，用户注意到上传了多个虚假应用程序，因此实施了临时限制。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/10/snap-store-from-canonical-hit-with-malicious-apps/</guid>
+      <pubDate>Mon, 02 Oct 2023 10:15:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>这是 2023 年 9 月最受欢迎的 Steam Deck 游戏</title>
+      <link>https://www.gamingonlinux.com/2023/10/heres-the-most-popular-steam-deck-games-for-september-2023/</link>
+      <description><![CDATA[九月已经过去了，夏季已经结束，现在幽灵统治了一切。但在幽灵到来之前； Valve 放弃了 2023 年 9 月最受欢迎的 20 款 Steam Deck 游戏。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/10/heres-the-most-popular-steam-deck-games-for-september-2023/</guid>
+      <pubDate>Mon, 02 Oct 2023 09:57:06 GMT</pubDate>
+    </item>
     <item>
       <title>Mesa 23.2.1 驱动程序现已推出</title>
       <link>https://www.gamingonlinux.com/2023/10/mesa-2321-drivers-out-now/</link>
@@ -43,7 +78,7 @@
     <item>
       <title>生物收集生活模拟游戏《月石岛》现已推出</title>
       <link>https://www.gamingonlinux.com/2023/09/creature-collecting-life-sim-moonstone-island-is-out-now/</link>
-      <description><![CDATA[《月光石岛》将套牌构建、生物收集和一点点生活模拟巧妙地融合在一起，是一款丰富多彩且非常吸引人的游戏，可以添加到您的收藏中。]]></description>
+      <description><![CDATA[《月光石岛》将套牌构建、生物收集和一点点生活模拟巧妙地融合在一起，是一款色彩缤纷且非常吸引人的游戏，可以添加到您的收藏中。]]></description>
       <guid>https://www.gamingonlinux.com/2023/09/creature-collecting-life-sim-moonstone-island-is-out-now/</guid>
       <pubDate>Fri, 29 Sep 2023 16:06:59 GMT</pubDate>
     </item>
@@ -74,41 +109,6 @@
       <description><![CDATA[最近流传的行业新闻来自 Epic Games，该公司昨天公开分享了 Tim Sweeney 发送的一封关于解雇公司 16% 股份的电子邮件。]]></description>
       <guid>https://www.gamingonlinux.com/2023/09/epic-games-sheds-830-people-due-to-spending-more-than-they-earn/</guid>
       <pubDate>Fri, 29 Sep 2023 09:18:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>观看《深岩银河：幸存者》的精彩演示</title>
-      <link>https://www.gamingonlinux.com/2023/09/check-out-the-awesome-demo-of-deep-rock-galactic-survivor/</link>
-      <description><![CDATA[《深岩银河：幸存者》是非常流行的在线合作采矿动作游戏《深岩银河》即将推出的衍生作品，现在公开演示版已经推出，所以您也可以尝试一下，您真的应该尝试一下。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/09/check-out-the-awesome-demo-of-deep-rock-galactic-survivor/</guid>
-      <pubDate>Thu, 28 Sep 2023 14:50:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>胡须中队：幸存者在最新更新中又增加了一个关卡</title>
-      <link>https://www.gamingonlinux.com/2023/09/whisker-squadron-survivor-adds-another-level-in-the-latest-update/</link>
-      <description><![CDATA[胡须中队：幸存者是《星际火狐》和《吸血鬼幸存者》的一些元素的完美融合。这很有趣，新的更新扩展了内容。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/09/whisker-squadron-survivor-adds-another-level-in-the-latest-update/</guid>
-      <pubDate>Thu, 28 Sep 2023 14:07:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>欧盟法院维持对 Valve 地理封锁的罚款</title>
-      <link>https://www.gamingonlinux.com/2023/09/eu-court-upholds-fine-against-valve-for-geo-blocking/</link>
-      <description><![CDATA[早在 2019 年，欧盟就对 Valve 和 Steam 上的部分发行商进行了地理封锁，Valve 试图抗击罚款，但欧盟法院驳回了这一处罚，因此 Valve 现在很可能需要支付罚款。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/09/eu-court-upholds-fine-against-valve-for-geo-blocking/</guid>
-      <pubDate>Thu, 28 Sep 2023 12:43:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>适用于本机 Linux 游戏的 Steam Play 工具“Luxtorpeda”v67 现已推出</title>
-      <link>https://www.gamingonlinux.com/2023/09/steam-play-tool-for-native-linux-gaming-luxtorpeda-v67-out-now/</link>
-      <description><![CDATA[Luxtorpeda 发布了一个新版本，主要是幕后升级，但值得升级以获得最佳体验。请继续阅读，了解有关更改内容和 Luxtorpeda 功能的更多信息。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/09/steam-play-tool-for-native-linux-gaming-luxtorpeda-v67-out-now/</guid>
-      <pubDate>Thu, 28 Sep 2023 11:43:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>以下是即将推出的星露谷物语 1.6 更新的一些详细信息</title>
-      <link>https://www.gamingonlinux.com/2023/09/heres-some-details-on-the-upcoming-stardew-valley-16-update/</link>
-      <description><![CDATA[《星露谷物语》尚未完全完成，1.6 更新即将推出，现在开发者已经透露了一些我们对它的期待。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/09/heres-some-details-on-the-upcoming-stardew-valley-16-update/</guid>
-      <pubDate>Thu, 28 Sep 2023 11:14:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
