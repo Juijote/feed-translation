@@ -4,7 +4,21 @@
     <title>GamingOnLinux 最新文章</title>
     <link>https://www.gamingonlinux.com/</link>
     <description>GamingOnLinux 的最新文章</description>
-    <lastBuildDate>Tue, 03 Oct 2023 10:47:11 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Oct 2023 16:54:24 GMT</lastBuildDate>
+    <item>
+      <title>Puny Human 在客户“拒绝先前商定的付款”后关闭</title>
+      <link>https://www.gamingonlinux.com/2023/10/puny-human-closing-after-a-client-refused-previously-agreed-upon-payments/</link>
+      <description><![CDATA[这里还有一些更悲伤的行业消息，开发商 Puny Human 发布了一份新闻稿，指出他们即将关门，并援引一位不愿透露姓名的客户拒绝向他们付款的消息。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/10/puny-human-closing-after-a-client-refused-previously-agreed-upon-payments/</guid>
+      <pubDate>Tue, 03 Oct 2023 16:54:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>超级英雄策略游戏 Capes 推出全新试玩版</title>
+      <link>https://www.gamingonlinux.com/2023/10/superhero-strategy-game-capes-has-a-big-new-demo-up/</link>
+      <description><![CDATA[Capes 是 Spitfire Interactive 和 Daedalic Entertainment 即将推出的一款战术策略游戏。新的演示版将于 2024 年推出，其中包含扩展和改进的机制供玩家玩。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/10/superhero-strategy-game-capes-has-a-big-new-demo-up/</guid>
+      <pubDate>Tue, 03 Oct 2023 14:38:29 GMT</pubDate>
+    </item>
     <item>
       <title>爆炸性的离子狂怒：余震扩展包现已推出</title>
       <link>https://www.gamingonlinux.com/2023/10/the-explosive-ion-fury-aftershock-expansion-is-now-available/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[经过比平常更长的等待时间，Mesa 23.2.1 驱动程序版本现已发布，成为 Mesa 23.2 系列中的第一个版本。]]></description>
       <guid>https://www.gamingonlinux.com/2023/10/mesa-2321-drivers-out-now/</guid>
       <pubDate>Sun, 01 Oct 2023 16:21:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>Wine 8.17 已推出 vkd3d v1.9 和初始 Wayland 窗口管理</title>
-      <link>https://www.gamingonlinux.com/2023/09/wine-817-is-out-with-vkd3d-v19-and-initial-wayland-window-management/</link>
-      <description><![CDATA[兼容层 Wine 版本 8.17 现已正式发布，它带来了一些令人兴奋的新功能，以及一些错误修复，以下是新内容。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/09/wine-817-is-out-with-vkd3d-v19-and-initial-wayland-window-management/</guid>
-      <pubDate>Sat, 30 Sep 2023 20:31:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Proton Experimental 增加了对《孤岛危机 2》和《孤岛危机 3》、《Starfield》、《深岩银河》等游戏的修复</title>
-      <link>https://www.gamingonlinux.com/2023/09/proton-experimental-adds-fixes-for-crysis-2-3-starfield-deep-rock-galactic-and-more/</link>
-      <description><![CDATA[Valve 于 9 月 29 日发布了 Proton Experimental 的一个不错的更新，对 Steam Deck 和桌面 Linux 上的游戏进行了大量修复。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/09/proton-experimental-adds-fixes-for-crysis-2-3-starfield-deep-rock-galactic-and-more/</guid>
-      <pubDate>Sat, 30 Sep 2023 15:14:23 GMT</pubDate>
     </item>
     </channel>
 </rss>
