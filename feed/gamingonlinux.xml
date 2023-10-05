@@ -4,7 +4,21 @@
     <title>GamingOnLinux 最新文章</title>
     <link>https://www.gamingonlinux.com/</link>
     <description>GamingOnLinux 的最新文章</description>
-    <lastBuildDate>Wed, 04 Oct 2023 19:59:27 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Oct 2023 11:21:20 GMT</lastBuildDate>
+    <item>
+      <title>Valve 修复了更多 SteamVR 2.0 Beta 问题</title>
+      <link>https://www.gamingonlinux.com/2023/10/valve-fix-up-more-steamvr-20-beta-issues/</link>
+      <description><![CDATA[在再次确保可以安全地摘下耳机后，Valve 又发布了 SteamVR 2.0 Beta 更新，重点是修复更多问题并希望使其工作得更好。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/10/valve-fix-up-more-steamvr-20-beta-issues/</guid>
+      <pubDate>Thu, 05 Oct 2023 11:21:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们可能会看到 Steam Deck 通过 WiFi 6E 进行刷新</title>
+      <link>https://www.gamingonlinux.com/2023/10/we-may-see-a-steam-deck-refresh-with-wifi-6e/</link>
+      <description><![CDATA[虽然我们知道 Valve 多次表示不会很快推出更快的 Steam Deck 2，但他们似乎仍在对 Steam Deck 进行某种更新。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/10/we-may-see-a-steam-deck-refresh-with-wifi-6e/</guid>
+      <pubDate>Thu, 05 Oct 2023 11:03:45 GMT</pubDate>
+    </item>
     <item>
       <title>《暗黑破坏神 4》将于 10 月 17 日登陆 Steam</title>
       <link>https://www.gamingonlinux.com/2023/10/diablo-4-is-coming-to-steam-on-october-17th/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[下一届 Ubuntu 峰会将于 11 月 3 日至 5 日在拉脱维亚里加举行，今年有一些有趣的 Linux 游戏演讲，您可能需要关注。]]></description>
       <guid>https://www.gamingonlinux.com/2023/10/ubuntu-summit-2023-will-have-some-fun-linux-gaming-talks/</guid>
       <pubDate>Mon, 02 Oct 2023 14:30:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>Gearbits 是机甲格斗迷值得一看的一款游戏</title>
-      <link>https://www.gamingonlinux.com/2023/10/gearbits-is-one-to-watch-for-mech-combat-fans/</link>
-      <description><![CDATA[喜欢你的机甲战斗吗？请密切关注即将推出的低多边形独立游戏 Gearbits。一款 3D 动作游戏，您将驾驶一个看起来非常像高达或装甲核心的巨型机器人。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/10/gearbits-is-one-to-watch-for-mech-combat-fans/</guid>
-      <pubDate>Mon, 02 Oct 2023 13:23:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>Tiny Atolls 是一个舒适轻松的极简主义城市建造者</title>
-      <link>https://www.gamingonlinux.com/2023/10/tiny-atolls-is-a-comfy-and-relaxing-minimalist-city-builder/</link>
-      <description><![CDATA[Tiny Atolls 是开发商 MONKE 的新版本，实际上与 BRUTE FORCE 是同一位开发商，但名称不同，他们制作了动态物理平台游戏 Crumble。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/10/tiny-atolls-is-a-comfy-and-relaxing-minimalist-city-builder/</guid>
-      <pubDate>Mon, 02 Oct 2023 12:52:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
