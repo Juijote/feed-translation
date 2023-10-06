@@ -4,7 +4,28 @@
     <title>GamingOnLinux 最新文章</title>
     <link>https://www.gamingonlinux.com/</link>
     <description>GamingOnLinux 的最新文章</description>
-    <lastBuildDate>Fri, 06 Oct 2023 10:00:21 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Oct 2023 15:16:05 GMT</lastBuildDate>
+    <item>
+      <title>Moonring 是《神鬼寓言》联合创作者推出的一款类似《创世纪》的免费角色扮演游戏</title>
+      <link>https://www.gamingonlinux.com/2023/10/moonring-is-a-free-ultima-like-rpg-from-the-fable-co-creator/</link>
+      <description><![CDATA[这是我最近遇到的一款非常有趣的游戏 - 它叫《Moonring》，是一款复古风格的开放世界、回合制、方块角色扮演游戏，采用经典 Ultima 游戏的风格，并融入了《神鬼寓言》联合创作者 Dene 的许多现代元素。卡特.]]></description>
+      <guid>https://www.gamingonlinux.com/2023/10/moonring-is-a-free-ultima-like-rpg-from-the-fable-co-creator/</guid>
+      <pubDate>Fri, 06 Oct 2023 15:16:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>《死后之影》看起来有点像银草公园</title>
+      <link>https://www.gamingonlinux.com/2023/10/shadows-of-the-afterland-looks-a-bit-thimbleweed-park/</link>
+      <description><![CDATA[开发商 Aruma Studios 最近宣布推出《Shadows of the Afterland》，这是一部关于身份、勇气和命运的超自然喜剧冒险游戏，看起来有点像《Terrible Toybox》中的《银草公园》。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/10/shadows-of-the-afterland-looks-a-bit-thimbleweed-park/</guid>
+      <pubDate>Fri, 06 Oct 2023 14:44:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>核心守护者“微光前沿”更新现已推出</title>
+      <link>https://www.gamingonlinux.com/2023/10/core-keeper-shimmering-frontier-update-is-out-now/</link>
+      <description><![CDATA[伟大的地下探索、冒险和制作生存游戏 Core Keeper 在 Shimmering Frontier 中进行了重大更新。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/10/core-keeper-shimmering-frontier-update-is-out-now/</guid>
+      <pubDate>Fri, 06 Oct 2023 14:37:13 GMT</pubDate>
+    </item>
     <item>
       <title>2023 年一个特殊的日子即将到来，Steam 推出一项支持残疾游戏玩家的促销活动</title>
       <link>https://www.gamingonlinux.com/2023/10/one-special-day-2023-is-here-with-a-steam-sale-to-support-disabled-gamers/</link>
@@ -15,7 +36,7 @@
     <item>
       <title>Proton 8.0-4 为 Steam Deck 和桌面 Linux 带来更多游戏支持</title>
       <link>https://www.gamingonlinux.com/2023/10/proton-80-4-brings-more-game-support-to-steam-deck-and-desktop-linux/</link>
-      <description><![CDATA[清理您的周末计划，Proton 8.0-4 现已正式发布，为 Steam Deck 和普通桌面 Linux 提供改进的游戏支持。以下是有关更改的所有最新信息。]]></description>
+      <description><![CDATA[清理你的周末计划，Proton 8.0-4 现已正式发布，为 Steam Deck 和普通桌面 Linux 提供改进的游戏支持。以下是有关更改的所有最新信息。]]></description>
       <guid>https://www.gamingonlinux.com/2023/10/proton-80-4-brings-more-game-support-to-steam-deck-and-desktop-linux/</guid>
       <pubDate>Fri, 06 Oct 2023 09:42:21 GMT</pubDate>
     </item>
@@ -29,7 +50,7 @@
     <item>
       <title>Terra Nil 获得更好的性能和 Linux 支持</title>
       <link>https://www.gamingonlinux.com/2023/10/terra-nil-gets-better-performance-and-linux-support/</link>
-      <description><![CDATA[Terra Nil 是一款关于恢复自然的建筑游戏，刚刚升级，性能更好，现在也正式发布了 Native Linux 和 macOS 版本。]]></description>
+      <description><![CDATA[Terra Nil 是一款关于恢复自然的建筑游戏，刚刚升级，性能更好，现在也正式发布了原生 Linux 和 macOS 版本。]]></description>
       <guid>https://www.gamingonlinux.com/2023/10/terra-nil-gets-better-performance-and-linux-support/</guid>
       <pubDate>Thu, 05 Oct 2023 16:18:26 GMT</pubDate>
     </item>
@@ -50,7 +71,7 @@
     <item>
       <title>复古射击游戏 DUSK 即将进行完全免费的高清改版</title>
       <link>https://www.gamingonlinux.com/2023/10/retro-shooter-dusk-is-getting-a-full-free-hd-revamp/</link>
-      <description><![CDATA[在 5 周年纪念日到来之际，《DUSK HD》将成为这款非常受欢迎的射击游戏的大型全视觉重制版，因此他们对此的评价如下。]]></description>
+      <description><![CDATA[在五周年纪念日到来之际，《DUSK HD》将是这款非常受欢迎的射击游戏的大型全视觉重制版，因此他们对此是这么说的。]]></description>
       <guid>https://www.gamingonlinux.com/2023/10/retro-shooter-dusk-is-getting-a-full-free-hd-revamp/</guid>
       <pubDate>Thu, 05 Oct 2023 13:58:31 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[《守望先锋 2》在 Steam 上发布后不久，我们现在确认《暗黑破坏神 4》将在 Steam 上发布，这使得在 Steam Deck 和桌面 Linux 上玩游戏变得比以往任何时候都更加容易。]]></description>
       <guid>https://www.gamingonlinux.com/2023/10/diablo-4-is-coming-to-steam-on-october-17th/</guid>
       <pubDate>Wed, 04 Oct 2023 19:59:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>EarthBound / Mother 风格的 Dreamed Away 发布了新预告片</title>
-      <link>https://www.gamingonlinux.com/2023/10/earthbound-mother-styled-dreamed-away-has-a-new-trailer/</link>
-      <description><![CDATA[在最近的“Mother Direct”活动中，本着 EarthBound / Mother 的精神汇集了各种游戏的活动中，出现了《Dreamed Away》的全新精美预告片。起床前快速观看。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/10/earthbound-mother-styled-dreamed-away-has-a-new-trailer/</guid>
-      <pubDate>Wed, 04 Oct 2023 18:30:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>查看 Iron Roads 的演示，这是一款火车网络交通模拟游戏</title>
-      <link>https://www.gamingonlinux.com/2023/10/check-out-the-demo-for-iron-roads-a-train-network-transport-sim/</link>
-      <description><![CDATA[之前制作过《砂拉越》和《我们永远拥有巴黎》的 Cowleyfornia Studios 将冒险小说的根源拓展到了《钢铁之路》的火车管理模拟游戏中。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/10/check-out-the-demo-for-iron-roads-a-train-network-transport-sim/</guid>
-      <pubDate>Wed, 04 Oct 2023 18:11:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>恐龙农场模拟游戏“Paleo Pines”现已推出 - Steam Deck 已验证</title>
-      <link>https://www.gamingonlinux.com/2023/10/farming-sim-with-dinosaurs-paleo-pines-is-out-now-steam-deck-verified/</link>
-      <description><![CDATA[农业和恐龙，这确实是一个奇怪的组合，但 Paleo Pines 看起来很可爱，而且似​​乎是另一个不错的游戏，可以添加到您的休闲游戏收藏中。一款适合全家一起玩的甜蜜游戏。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/10/farming-sim-with-dinosaurs-paleo-pines-is-out-now-steam-deck-verified/</guid>
-      <pubDate>Wed, 04 Oct 2023 15:26:48 GMT</pubDate>
     </item>
     </channel>
 </rss>
