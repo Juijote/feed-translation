@@ -4,7 +4,21 @@
     <title>GamingOnLinux 最新文章</title>
     <link>https://www.gamingonlinux.com/</link>
     <description>GamingOnLinux 的最新文章</description>
-    <lastBuildDate>Wed, 11 Oct 2023 12:19:48 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Oct 2023 17:49:48 GMT</lastBuildDate>
+    <item>
+      <title>《十字军之王 III：波斯的遗产》将于 11 月 9 日发售</title>
+      <link>https://www.gamingonlinux.com/2023/10/crusader-kings-iii-legacy-of-persia-releases-november-9/</link>
+      <description><![CDATA[Paradox Interactive 宣布《十字军之王 III》的下一个小扩展包《十字军之王 III：波斯的遗产》将于 11 月 9 日发布。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/10/crusader-kings-iii-legacy-of-persia-releases-november-9/</guid>
+      <pubDate>Wed, 11 Oct 2023 17:49:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>Raspberry Pi OS基于Debian 12“Bookworm”升级</title>
+      <link>https://www.gamingonlinux.com/2023/10/raspberry-pi-os-upgraded-based-on-debian-12-bookworm/</link>
+      <description><![CDATA[除了较新的 Raspberry Pi 5 之外，现在还发布了基于 Debian 12“Bookworm”的 Raspberry Pi 操作系统的最新升级版本，为您提供了包含各种软件的巨大提升。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/10/raspberry-pi-os-upgraded-based-on-debian-12-bookworm/</guid>
+      <pubDate>Wed, 11 Oct 2023 14:02:34 GMT</pubDate>
+    </item>
     <item>
       <title>英特尔宣布推出Arc A580 GPU</title>
       <link>https://www.gamingonlinux.com/2023/10/intel-announce-and-launched-the-arc-a580-gpu/</link>
@@ -29,7 +43,7 @@
     <item>
       <title>Valve 放弃了对 macOS 和旧硬件的《反恐精英 2》支持</title>
       <link>https://www.gamingonlinux.com/2023/10/valve-dropped-counter-strike-2-support-on-macos-and-older-hardware/</link>
-      <description><![CDATA[随着《反恐精英 2》的发布，Valve 似乎将继续放弃对 macOS 的支持，就像他们对 SteamVR 所做的那样。值得庆幸的是，Valve 仍在对 Linux 进行投资，并且 Linux 也支持 CS2。]]></description>
+      <description><![CDATA[随着《反恐精英 2》的发布，Valve 似乎将继续放弃 macOS 支持，就像他们对 SteamVR 所做的那样。值得庆幸的是，Valve 仍在对 Linux 进行投资，并且 Linux 也支持 CS2。]]></description>
       <guid>https://www.gamingonlinux.com/2023/10/valve-dropped-counter-strike-2-support-on-macos-and-older-hardware/</guid>
       <pubDate>Wed, 11 Oct 2023 11:31:46 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[Unity 宣布总裁、首席执行官、董事长兼公司董事会成员 John Riccitiello 将离职，“立即生效”。]]></description>
       <guid>https://www.gamingonlinux.com/2023/10/unity-ceo-john-riccitiello-is-leaving-effective-immediately/</guid>
       <pubDate>Mon, 09 Oct 2023 21:48:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>Humble 从 Humble Choice 中删除了 Humble Games Collection</title>
-      <link>https://www.gamingonlinux.com/2023/10/humble-removing-the-humble-games-collection-from-humble-choice/</link>
-      <description><![CDATA[Humble Bundle 每月策划的游戏捆绑包 Humble Choice 即将进行更多更改，因为他们将删除 Humble Games Collection。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/10/humble-removing-the-humble-games-collection-from-humble-choice/</guid>
-      <pubDate>Mon, 09 Oct 2023 19:30:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>Steam Next Fest - 2023 年 10 月版现已上线</title>
-      <link>https://www.gamingonlinux.com/2023/10/steam-next-fest-october-2023-edition-is-live-now/</link>
-      <description><![CDATA[又一个查看大量游戏并满足您的愿望清单的机会，Steam Next Fest - 2023 年 10 月版现已上线。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/10/steam-next-fest-october-2023-edition-is-live-now/</guid>
-      <pubDate>Mon, 09 Oct 2023 18:24:25 GMT</pubDate>
     </item>
     </channel>
 </rss>
