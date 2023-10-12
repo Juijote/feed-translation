@@ -4,7 +4,14 @@
     <title>GamingOnLinux 最新文章</title>
     <link>https://www.gamingonlinux.com/</link>
     <description>GamingOnLinux 的最新文章</description>
-    <lastBuildDate>Wed, 11 Oct 2023 19:20:08 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Oct 2023 11:40:19 GMT</lastBuildDate>
+    <item>
+      <title>欢迎来到对面的土地，微软有Linux安装教程</title>
+      <link>https://www.gamingonlinux.com/2023/10/welcome-to-opposite-land-where-microsoft-has-a-linux-install-tutorial/</link>
+      <description><![CDATA[我想我需要更多的咖啡来处理这个。我是在对面的土地上醒来的吗？微软确实有一个关于如何安装 Linux 的教程。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/10/welcome-to-opposite-land-where-microsoft-has-a-linux-install-tutorial/</guid>
+      <pubDate>Thu, 12 Oct 2023 11:40:19 GMT</pubDate>
+    </item>
     <item>
       <title>《托尼·霍克》、《光环：无限》、《生化危机 4》的 Proton Experimental 更新</title>
       <link>https://www.gamingonlinux.com/2023/10/proton-experimental-updated-for-tony-hawks-halo-infinite-resident-evil-4-separate-ways/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[最后！ PAC-MAN Mega Tunnel Battle 最初于 2020 年发布时非常有趣，遗憾的是它是 Google 已关闭的云游戏服务 Stadia 的独家产品，但适当的跨平台版本将于 2024 年初发布。]]></description>
       <guid>https://www.gamingonlinux.com/2023/10/pac-man-mega-tunnel-battle-chomp-champs-heads-to-steam-in-2024/</guid>
       <pubDate>Tue, 10 Oct 2023 13:16:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>迷你怪物捕捉 MMO 《Familiars.io》登陆 Steam</title>
-      <link>https://www.gamingonlinux.com/2023/10/mini-monster-catching-mmo-familiarsio-heads-to-steam/</link>
-      <description><![CDATA[Familiars.io 是一款非常复古风格的迷你 MMO，以捕捉怪物和战斗为主题，现已登陆 Steam。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/10/mini-monster-catching-mmo-familiarsio-heads-to-steam/</guid>
-      <pubDate>Tue, 10 Oct 2023 13:00:44 GMT</pubDate>
     </item>
     </channel>
 </rss>
