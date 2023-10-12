@@ -4,7 +4,35 @@
     <title>GamingOnLinux 最新文章</title>
     <link>https://www.gamingonlinux.com/</link>
     <description>GamingOnLinux 的最新文章</description>
-    <lastBuildDate>Thu, 12 Oct 2023 11:40:19 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Oct 2023 17:38:55 GMT</lastBuildDate>
+    <item>
+      <title>System76 发布了 Thelio Spark 入门桌面，以及对其他单元的增强功能</title>
+      <link>https://www.gamingonlinux.com/2023/10/system76-release-the-thelio-spark-starter-desktop-plus-enhancements-to-other-units/</link>
+      <description><![CDATA[System76 发布了其全新 Thelio Spark 入门桌面的消息，为 Linux 粉丝提供了新的购买选择以及对 Thelio 桌面系列的各种改进。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/10/system76-release-the-thelio-spark-starter-desktop-plus-enhancements-to-other-units/</guid>
+      <pubDate>Thu, 12 Oct 2023 17:38:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>由于恶意软件，Valve 锁定使用 SMS 代码发布 Steam 版本</title>
+      <link>https://www.gamingonlinux.com/2023/10/valve-locking-down-publishing-steam-builds-with-sms-codes-due-to-malware/</link>
+      <description><![CDATA[Valve 最近宣布了一些新的变更，要求开发者在 Steam 上发布公共版本，要求提供电话号码和短信确认码。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/10/valve-locking-down-publishing-steam-builds-with-sms-codes-due-to-malware/</guid>
+      <pubDate>Thu, 12 Oct 2023 13:52:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>Steam Deck 新增“激光指针”陀螺仪模式，以及更多桌面和 SteamVR 工作</title>
+      <link>https://www.gamingonlinux.com/2023/10/steam-deck-gets-a-laser-pointer-gyro-mode-plus-more-desktop-and-steamvr-work/</link>
+      <description><![CDATA[Valve 最近发布了更多 Steam Deck Beta 客户端更新，其中之一包括一个有趣的新陀螺仪模式，所以这里是有关新功能的所有详细信息。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/10/steam-deck-gets-a-laser-pointer-gyro-mode-plus-more-desktop-and-steamvr-work/</guid>
+      <pubDate>Thu, 12 Oct 2023 12:55:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Slimbook 推出全新 Fedora Slimbook 超级本</title>
+      <link>https://www.gamingonlinux.com/2023/10/slimbook-reveals-the-new-fedora-slimbook-ultrabook/</link>
+      <description><![CDATA[在市场上购买新的轻型笔记本电脑吗？ Slimbook 与 Fedora 团队合作推出了新的 Fedora Slimbook Ultrabook。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/10/slimbook-reveals-the-new-fedora-slimbook-ultrabook/</guid>
+      <pubDate>Thu, 12 Oct 2023 12:36:55 GMT</pubDate>
+    </item>
     <item>
       <title>欢迎来到对面的土地，微软有Linux安装教程</title>
       <link>https://www.gamingonlinux.com/2023/10/welcome-to-opposite-land-where-microsoft-has-a-linux-install-tutorial/</link>
@@ -81,34 +109,6 @@
       <description><![CDATA[《钢铁雄心 IV：武装反抗暴政》是 Paradox Interactive 流行历史策略游戏的最新主要扩展包，带来了大量新玩具。]]></description>
       <guid>https://www.gamingonlinux.com/2023/10/hearts-of-iron-iv-arms-against-tyranny-is-out-now/</guid>
       <pubDate>Tue, 10 Oct 2023 16:41:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>令人放松的池畔模拟《Placid Plastic Duck Simulator》获得新 DLC</title>
-      <link>https://www.gamingonlinux.com/2023/10/relaxing-poolside-sim-placid-plastic-duck-simulator-gets-new-dlc/</link>
-      <description><![CDATA[Placid Plastic Duck Simulator 的最新 DLC“So Many Ducks”于 10 月 5 日引起轰动，为这款突破性的热门橡皮鸭模拟游戏添加了 27 只新的可收藏鸭子。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/10/relaxing-poolside-sim-placid-plastic-duck-simulator-gets-new-dlc/</guid>
-      <pubDate>Tue, 10 Oct 2023 16:21:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>Open 3D Engine (O3DE) 23.10 开源游戏引擎发布</title>
-      <link>https://www.gamingonlinux.com/2023/10/open-3d-engine-o3de-2310-open-source-game-engine-released/</link>
-      <description><![CDATA[开放 3D 引擎 (O3DE) 发布了一个重要的新版本，其中包含大量新功能和修复，供希望使用此免费开源游戏引擎的游戏开发人员使用。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/10/open-3d-engine-o3de-2310-open-source-game-engine-released/</guid>
-      <pubDate>Tue, 10 Oct 2023 15:54:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>80 多周后，Steam Deck 跻身 Steam 全球销量前 10 名</title>
-      <link>https://www.gamingonlinux.com/2023/10/after-over-80-weeks-the-steam-deck-leaves-the-top-10-global-sellers-on-steam/</link>
-      <description><![CDATA[在某一时刻，Steam Deck 似乎无法停止，但现在看来，在推出 1 年零 8 个月左右之后，Steam Deck 已经开始在 Steam 上的畅销榜上下滑。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/10/after-over-80-weeks-the-steam-deck-leaves-the-top-10-global-sellers-on-steam/</guid>
-      <pubDate>Tue, 10 Oct 2023 13:41:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>PAC-MAN Mega Tunnel Battle: Chomp Champs 将于 2024 年登陆 Steam</title>
-      <link>https://www.gamingonlinux.com/2023/10/pac-man-mega-tunnel-battle-chomp-champs-heads-to-steam-in-2024/</link>
-      <description><![CDATA[最后！ PAC-MAN Mega Tunnel Battle 最初于 2020 年发布时非常有趣，遗憾的是它是 Google 已关闭的云游戏服务 Stadia 的独家产品，但适当的跨平台版本将于 2024 年初发布。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/10/pac-man-mega-tunnel-battle-chomp-champs-heads-to-steam-in-2024/</guid>
-      <pubDate>Tue, 10 Oct 2023 13:16:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
