@@ -4,7 +4,35 @@
     <title>GamingOnLinux 最新文章</title>
     <link>https://www.gamingonlinux.com/</link>
     <description>GamingOnLinux 的最新文章</description>
-    <lastBuildDate>Fri, 13 Oct 2023 10:33:32 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Oct 2023 14:31:07 GMT</lastBuildDate>
+    <item>
+      <title>英国 CMA 批准新交易，微软完成对动视暴雪的收购</title>
+      <link>https://www.gamingonlinux.com/2023/10/microsoft-completes-takeover-of-activision-blizzard-as-uk-cma-approves-new-deal/</link>
+      <description><![CDATA[好吧，就是这样。在英国竞争与市场管理局的帮助下，微软完成了对动视暴雪国王的收购。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/10/microsoft-completes-takeover-of-activision-blizzard-as-uk-cma-approves-new-deal/</guid>
+      <pubDate>Fri, 13 Oct 2023 14:31:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Godot 4.2 beta 1 现已推出测试</title>
+      <link>https://www.gamingonlinux.com/2023/10/godot-42-beta-1-is-out-now-for-testing/</link>
+      <description><![CDATA[Godot 团队正在准备他们的免费开源游戏引擎的下一个版本，Godot 4.2 beta 1 现在可供任何人加入并测试。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/10/godot-42-beta-1-is-out-now-for-testing/</guid>
+      <pubDate>Fri, 13 Oct 2023 14:13:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>魔法门之英雄无敌2游戏引擎fheroes2 v1.0.9发布</title>
+      <link>https://www.gamingonlinux.com/2023/10/heroes-of-might-and-magic-ii-game-engine-fheroes2-v109-released/</link>
+      <description><![CDATA[和往常一样，经过一个月的努力，fheroes2 Resurrection Team 发布了新的 1.0.9 版本的魔法门之英雄无敌 II 游戏引擎，充满了更新、修复和新功能！]]></description>
+      <guid>https://www.gamingonlinux.com/2023/10/heroes-of-might-and-magic-ii-game-engine-fheroes2-v109-released/</guid>
+      <pubDate>Fri, 13 Oct 2023 13:34:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>暗黑破坏神 4 现已在发布前通过 Steam Deck 验证，但战网买家无需使用 Steam 密钥</title>
+      <link>https://www.gamingonlinux.com/2023/10/diablo-4-now-steam-deck-verified-before-launch-but-no-steam-keys-for-battlenet-buyers/</link>
+      <description><![CDATA[如果您计划深入研究将于 10 月 17 日在 Steam 上发布的《暗黑破坏神 4》，那么这是个好消息，因为它已经通过了 Steam Deck 验证。如果您已经在 Battle.net 上购买了它，那么有一些坏消息。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/10/diablo-4-now-steam-deck-verified-before-launch-but-no-steam-keys-for-battlenet-buyers/</guid>
+      <pubDate>Fri, 13 Oct 2023 13:12:38 GMT</pubDate>
+    </item>
     <item>
       <title>Ubuntu 23.10 下载因恶意翻译而被下架</title>
       <link>https://www.gamingonlinux.com/2023/10/ubuntu-2310-download-got-pulled-down-due-to-a-malicious-translation/</link>
@@ -81,34 +109,6 @@
       <description><![CDATA[Paradox Interactive 宣布《十字军之王 III》的下一个小扩展包《十字军之王 III：波斯的遗产》将于 11 月 9 日发布。]]></description>
       <guid>https://www.gamingonlinux.com/2023/10/crusader-kings-iii-legacy-of-persia-releases-november-9/</guid>
       <pubDate>Wed, 11 Oct 2023 17:49:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>Raspberry Pi OS基于Debian 12“Bookworm”升级</title>
-      <link>https://www.gamingonlinux.com/2023/10/raspberry-pi-os-upgraded-based-on-debian-12-bookworm/</link>
-      <description><![CDATA[除了较新的 Raspberry Pi 5 之外，现在还发布了基于 Debian 12“Bookworm”的 Raspberry Pi 操作系统的最新升级版本，为您提供了包含各种软件的巨大提升。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/10/raspberry-pi-os-upgraded-based-on-debian-12-bookworm/</guid>
-      <pubDate>Wed, 11 Oct 2023 14:02:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>英特尔宣布推出Arc A580 GPU</title>
-      <link>https://www.gamingonlinux.com/2023/10/intel-announce-and-launched-the-arc-a580-gpu/</link>
-      <description><![CDATA[昨天（10 月 10 日）令人惊喜的是，英特尔宣布并立即推出英特尔 Arc A580 桌面显卡。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/10/intel-announce-and-launched-the-arc-a580-gpu/</guid>
-      <pubDate>Wed, 11 Oct 2023 12:19:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>《潜水员戴夫》获得大型免费内容更新</title>
-      <link>https://www.gamingonlinux.com/2023/10/dave-the-diver-gets-a-big-free-content-update/</link>
-      <description><![CDATA[《DAVE THE DIVER》可能是我今年玩过的最好的游戏之一，而且最近使用我的 Steam Deck 确实让一些旅行变得更加有趣。新的更新现已推出，添加了大量额外内容。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/10/dave-the-diver-gets-a-big-free-content-update/</guid>
-      <pubDate>Wed, 11 Oct 2023 12:05:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>采矿和基地防御游戏 Dome Keeper 获得巨大升级</title>
-      <link>https://www.gamingonlinux.com/2023/10/mining-and-base-defense-game-dome-keeper-got-a-huge-upgrade/</link>
-      <description><![CDATA[圆顶守护者已经相当出色了。为您提供采矿、探索、基地建设和塔防的混合体，现在免费更新，它的规模要大得多。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/10/mining-and-base-defense-game-dome-keeper-got-a-huge-upgrade/</guid>
-      <pubDate>Wed, 11 Oct 2023 11:43:48 GMT</pubDate>
     </item>
     </channel>
 </rss>
