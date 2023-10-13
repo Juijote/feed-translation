@@ -4,7 +4,21 @@
     <title>GamingOnLinux 最新文章</title>
     <link>https://www.gamingonlinux.com/</link>
     <description>GamingOnLinux 的最新文章</description>
-    <lastBuildDate>Thu, 12 Oct 2023 18:33:09 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Oct 2023 10:33:32 GMT</lastBuildDate>
+    <item>
+      <title>Ubuntu 23.10 下载因恶意翻译而被下架</title>
+      <link>https://www.gamingonlinux.com/2023/10/ubuntu-2310-download-got-pulled-down-due-to-a-malicious-translation/</link>
+      <description><![CDATA[Ubuntu 23.10 发布后不久，Canonical 宣布撤回官方下载，因为在某些翻译中发现了恶意贡献者的仇恨言论。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/10/ubuntu-2310-download-got-pulled-down-due-to-a-malicious-translation/</guid>
+      <pubDate>Fri, 13 Oct 2023 10:33:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Steam Deck SteamOS 3.5.1 预览版修复了对接时背光保持亮起的问题</title>
+      <link>https://www.gamingonlinux.com/2023/10/steam-deck-steamos-351-preview-fixes-backlight-staying-on-when-docked/</link>
+      <description><![CDATA[Valve 现已发布最新的 SteamOS 3.5.1 预览版供下载，修复了 Steam Deck OS 中的更多问题，例如对接时背光保持亮起。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/10/steam-deck-steamos-351-preview-fixes-backlight-staying-on-when-docked/</guid>
+      <pubDate>Fri, 13 Oct 2023 10:20:40 GMT</pubDate>
+    </item>
     <item>
       <title>Ubuntu 23.10“Mantic Minotaur”现已发布</title>
       <link>https://www.gamingonlinux.com/2023/10/ubuntu-2310-mantic-minotaur-is-out-now/</link>
@@ -22,7 +36,7 @@
     <item>
       <title>由于恶意软件，Valve 锁定使用 SMS 代码发布 Steam 版本</title>
       <link>https://www.gamingonlinux.com/2023/10/valve-locking-down-publishing-steam-builds-with-sms-codes-due-to-malware/</link>
-      <description><![CDATA[Valve 最近宣布了一些新的变化，要求开发者在 Steam 上发布公共版本的游戏，需要电话号码和短信确认码。]]></description>
+      <description><![CDATA[Valve 最近宣布了一些新的变更，要求开发者在 Steam 上发布公共版本，要求提供电话号码和短信确认码。]]></description>
       <guid>https://www.gamingonlinux.com/2023/10/valve-locking-down-publishing-steam-builds-with-sms-codes-due-to-malware/</guid>
       <pubDate>Thu, 12 Oct 2023 13:52:41 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[圆顶守护者已经相当出色了。为您提供采矿、探索、基地建设和塔防的混合体，现在免费更新，它的规模要大得多。]]></description>
       <guid>https://www.gamingonlinux.com/2023/10/mining-and-base-defense-game-dome-keeper-got-a-huge-upgrade/</guid>
       <pubDate>Wed, 11 Oct 2023 11:43:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>Valve 放弃了对 macOS 和旧硬件的《反恐精英 2》支持</title>
-      <link>https://www.gamingonlinux.com/2023/10/valve-dropped-counter-strike-2-support-on-macos-and-older-hardware/</link>
-      <description><![CDATA[随着《反恐精英 2》的发布，Valve 似乎将继续放弃对 macOS 的支持，就像他们对 SteamVR 所做的那样。值得庆幸的是，Valve 仍在对 Linux 进行投资，并且 Linux 也支持 CS2。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/10/valve-dropped-counter-strike-2-support-on-macos-and-older-hardware/</guid>
-      <pubDate>Wed, 11 Oct 2023 11:31:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>Valve 正在调查 Steam Deck / Linux 上的 Forza Motorsport 问题</title>
-      <link>https://www.gamingonlinux.com/2023/10/valve-investigating-forza-motorsport-issues-on-steam-deck-linux/</link>
-      <description><![CDATA[Forza Motorsport 刚刚推出，遗憾的是它目前似乎无法在 Steam Deck / Linux 上运行 Proton，但 Valve 正在研究它。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/10/valve-investigating-forza-motorsport-issues-on-steam-deck-linux/</guid>
-      <pubDate>Wed, 11 Oct 2023 11:20:25 GMT</pubDate>
     </item>
     </channel>
 </rss>
