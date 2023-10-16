@@ -4,11 +4,32 @@
     <title>GamingOnLinux 最新文章</title>
     <link>https://www.gamingonlinux.com/</link>
     <description>GamingOnLinux 的最新文章</description>
-    <lastBuildDate>Fri, 13 Oct 2023 20:28:11 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Oct 2023 18:50:08 GMT</lastBuildDate>
     <item>
-      <title>在此捆绑包中获取《心灵杀手》、《病理学 2》、《STASIS: BONE TOTEM》等</title>
+      <title>《极限竞速：地平线 5》获得 Proton 修补程序，可在 Steam Deck / Linux 上再次运行</title>
+      <link>https://www.gamingonlinux.com/2023/10/forza-horizon-5-gets-a-proton-hotfix-to-work-again-on-steam-deck-linux/</link>
+      <description><![CDATA[虽然 Valve 仍在调查新版《极限竞速》的启动问题，但至少《极限竞速：地平线 5》在最近出现故障后应该能在 Steam Deck 和桌面 Linux 上再次运行。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/10/forza-horizon-5-gets-a-proton-hotfix-to-work-again-on-steam-deck-linux/</guid>
+      <pubDate>Sun, 15 Oct 2023 18:50:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>GE-Proton 8-17 修复了《心灵杀手》、《蝙蝠侠阿卡姆疯人院》等（已更新）</title>
+      <link>https://www.gamingonlinux.com/2023/10/ge-proton-8-17-brings-fixes-for-alan-wake-batman-arkham-asylum-and-more/</link>
+      <description><![CDATA[社区维护的适用于 Steam Deck 和 Linux 桌面的 GE-Proton 的最新版本已经发布！ GE-Proton 8-17 针对运行各种游戏进行了一些听起来不错的修复。更新：现在还有 GE-Proton 8-18。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/10/ge-proton-8-17-brings-fixes-for-alan-wake-batman-arkham-asylum-and-more/</guid>
+      <pubDate>Sun, 15 Oct 2023 18:41:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wine 8.18 带来更多 Wayland 工作</title>
+      <link>https://www.gamingonlinux.com/2023/10/wine-818-brings-more-wayland-work/</link>
+      <description><![CDATA[Wine 8.18 是 Wine 现已推出的最新开发版本，它带来了提供完整 Wayland 支持的持续工作，但仍有大量工作要做。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/10/wine-818-brings-more-wayland-work/</guid>
+      <pubDate>Sun, 15 Oct 2023 18:33:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>在此捆绑包中获取《心灵杀手》、《病理学 2》、《STASIS: BONE TOTEM》以及更多内容</title>
       <link>https://www.gamingonlinux.com/2023/10/get-alan-wake-pathologic-2-stasis-bone-totem-and-more-in-this-bundle/</link>
-      <description><![CDATA[Humble Bundle 中最近出现了一些非常令人毛骨悚然的东西。在《Fight of your Life》捆绑包中，您将获得一些非常棒的游戏。这是 Steam Deck / Linux 桌面兼容性的运行情况。]]></description>
+      <description><![CDATA[Humble Bundle 中最近出现了一些非常令人毛骨悚然的东西。在“Fright of your Life”捆绑包中，您将获得一些非常棒的游戏。这是 Steam Deck / Linux 桌面兼容性的运行情况。]]></description>
       <guid>https://www.gamingonlinux.com/2023/10/get-alan-wake-pathologic-2-stasis-bone-totem-and-more-in-this-bundle/</guid>
       <pubDate>Fri, 13 Oct 2023 20:28:11 GMT</pubDate>
     </item>
@@ -36,7 +57,7 @@
     <item>
       <title>暗黑破坏神 4 现已在发布前通过 Steam Deck 验证，但战网买家无需使用 Steam 密钥</title>
       <link>https://www.gamingonlinux.com/2023/10/diablo-4-now-steam-deck-verified-before-launch-but-no-steam-keys-for-battlenet-buyers/</link>
-      <description><![CDATA[如果您计划深入研究将于 10 月 17 日在 Steam 上发布的《暗黑破坏神 4》，那么这是个好消息，因为它已经通过了 Steam Deck 验证。如果您已经在 Battle.net 上购买了它，那么有一些坏消息。]]></description>
+      <description><![CDATA[如果您打算深入了解将于 10 月 17 日在 Steam 上发布的《暗黑破坏神 4》，那么这是个好消息，因为它已经通过了 Steam Deck 验证。如果您已经在 Battle.net 上购买了它，那么有一些坏消息。]]></description>
       <guid>https://www.gamingonlinux.com/2023/10/diablo-4-now-steam-deck-verified-before-launch-but-no-steam-keys-for-battlenet-buyers/</guid>
       <pubDate>Fri, 13 Oct 2023 13:12:38 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[在市场上购买新的轻型笔记本电脑吗？ Slimbook 与 Fedora 团队合作推出了新的 Fedora Slimbook Ultrabook。]]></description>
       <guid>https://www.gamingonlinux.com/2023/10/slimbook-reveals-the-new-fedora-slimbook-ultrabook/</guid>
       <pubDate>Thu, 12 Oct 2023 12:36:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>欢迎来到对面的土地，微软有Linux安装教程</title>
-      <link>https://www.gamingonlinux.com/2023/10/welcome-to-opposite-land-where-microsoft-has-a-linux-install-tutorial/</link>
-      <description><![CDATA[我想我需要更多的咖啡来处理这个。我是在对面的土地上醒来的吗？微软确实有一个关于如何安装 Linux 的教程。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/10/welcome-to-opposite-land-where-microsoft-has-a-linux-install-tutorial/</guid>
-      <pubDate>Thu, 12 Oct 2023 11:40:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>《托尼·霍克》、《光环：无限》、《生化危机 4》的 Proton Experimental 更新</title>
-      <link>https://www.gamingonlinux.com/2023/10/proton-experimental-updated-for-tony-hawks-halo-infinite-resident-evil-4-separate-ways/</link>
-      <description><![CDATA[今天刚刚发布了新推出的 Proton Experimental 版本，其中包括针对各种游戏的一系列修复。以下是您通常对 Steam Deck / Linux 桌面的改进内容的了解。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/10/proton-experimental-updated-for-tony-hawks-halo-infinite-resident-evil-4-separate-ways/</guid>
-      <pubDate>Wed, 11 Oct 2023 19:20:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>TEKKEN 7、CODE VEIN、GOD EATER 3 及更多内容尽在这个超值套装中</title>
-      <link>https://www.gamingonlinux.com/2023/10/tekken-7-code-vein-god-eater-3-and-more-in-this-great-bundle/</link>
-      <description><![CDATA[有哪些值得囤货的游戏？万代南梦宫的一堆怎么样？ Humble 推出了万代南梦宫：战斗、恐惧和幻想捆绑包。以下是 Steam Deck / Linux 桌面上的兼容性。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/10/tekken-7-code-vein-god-eater-3-and-more-in-this-great-bundle/</guid>
-      <pubDate>Wed, 11 Oct 2023 18:48:56 GMT</pubDate>
     </item>
     </channel>
 </rss>
