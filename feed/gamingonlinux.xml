@@ -4,7 +4,35 @@
     <title>GamingOnLinux 最新文章</title>
     <link>https://www.gamingonlinux.com/</link>
     <description>GamingOnLinux 的最新文章</description>
-    <lastBuildDate>Sun, 15 Oct 2023 18:50:08 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Oct 2023 11:55:50 GMT</lastBuildDate>
+    <item>
+      <title>NVIDIA 希望在 Proton 中加入 Reflex 支持</title>
+      <link>https://www.gamingonlinux.com/2023/10/nvidia-looking-to-hook-up-reflex-support-in-proton/</link>
+      <description><![CDATA[一位 NVIDIA 工程师已向 DXVK、VKD3D-Proton 和 DXVK-NVAPI 发送拉取请求，以启用对 Reflex / NV 低延迟的支持，以将其连接到 Proton。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/10/nvidia-looking-to-hook-up-reflex-support-in-proton/</guid>
+      <pubDate>Mon, 16 Oct 2023 11:55:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>DreadXP 的独立恐怖游戏展示会将于 10 月 19 日举行</title>
+      <link>https://www.gamingonlinux.com/2023/10/the-indie-horror-game-showcase-from-dreadxp-runs-on-october-19/</link>
+      <description><![CDATA[准备好观看即将推出的独立恐怖游戏了吗？发行商 DreadXP 将于 10 月 19 日举办完整的独立恐怖游戏展示会，详细信息如下。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/10/the-indie-horror-game-showcase-from-dreadxp-runs-on-october-19/</guid>
+      <pubDate>Mon, 16 Oct 2023 11:45:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>现代文字冒险[I]不存在现已推出</title>
+      <link>https://www.gamingonlinux.com/2023/10/modern-text-adventure-i-doesnt-exist-is-out-now/</link>
+      <description><![CDATA[《[我]不存在》是 LUAL Games KIG 和 DreadXP 推出的一款全新文字冒险游戏，向经典致敬，借鉴了《初学者指南》、《Stories Untold》、《Buddy Simulator》和《Zork》等游戏的灵感。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/10/modern-text-adventure-i-doesnt-exist-is-out-now/</guid>
+      <pubDate>Mon, 16 Oct 2023 11:38:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>Windjammers 2 添加了大厅和完整的交叉游戏</title>
+      <link>https://www.gamingonlinux.com/2023/10/windjammers-2-added-lobbies-and-full-cross-play/</link>
+      <description><![CDATA[Windjammers 2 是一款关于投掷飞盘的有趣 PvP 体育游戏。它已经过 Steam Deck 验证，在 Linux 上运行良好，最新的主要免费更新听起来很棒。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/10/windjammers-2-added-lobbies-and-full-cross-play/</guid>
+      <pubDate>Mon, 16 Oct 2023 11:13:52 GMT</pubDate>
+    </item>
     <item>
       <title>《极限竞速：地平线 5》获得 Proton 修补程序，可在 Steam Deck / Linux 上再次运行</title>
       <link>https://www.gamingonlinux.com/2023/10/forza-horizon-5-gets-a-proton-hotfix-to-work-again-on-steam-deck-linux/</link>
@@ -15,19 +43,19 @@
     <item>
       <title>GE-Proton 8-17 修复了《心灵杀手》、《蝙蝠侠阿卡姆疯人院》等（已更新）</title>
       <link>https://www.gamingonlinux.com/2023/10/ge-proton-8-17-brings-fixes-for-alan-wake-batman-arkham-asylum-and-more/</link>
-      <description><![CDATA[社区维护的适用于 Steam Deck 和 Linux 桌面的 GE-Proton 的最新版本已经发布！ GE-Proton 8-17 针对运行各种游戏进行了一些听起来不错的修复。更新：现在还有 GE-Proton 8-18。]]></description>
+      <description><![CDATA[社区维护的适用于 Steam Deck 和 Linux 桌面的 GE-Proton 的最新版本已经发布！ GE-Proton 8-17 对运行各种游戏进行了一些听起来不错的修复。更新：现在是 GE-Proton 8-18，后来是 8-19。]]></description>
       <guid>https://www.gamingonlinux.com/2023/10/ge-proton-8-17-brings-fixes-for-alan-wake-batman-arkham-asylum-and-more/</guid>
       <pubDate>Sun, 15 Oct 2023 18:41:45 GMT</pubDate>
     </item>
     <item>
       <title>Wine 8.18 带来更多 Wayland 工作</title>
       <link>https://www.gamingonlinux.com/2023/10/wine-818-brings-more-wayland-work/</link>
-      <description><![CDATA[Wine 8.18 是 Wine 现已推出的最新开发版本，它带来了提供完整 Wayland 支持的持续工作，但仍有大量工作要做。]]></description>
+      <description><![CDATA[Wine 8.18 是 Wine 现已发布的最新开发版本，它带来了提供完整 Wayland 支持的持续工作，但仍有大量工作要做。]]></description>
       <guid>https://www.gamingonlinux.com/2023/10/wine-818-brings-more-wayland-work/</guid>
       <pubDate>Sun, 15 Oct 2023 18:33:59 GMT</pubDate>
     </item>
     <item>
-      <title>在此捆绑包中获取《心灵杀手》、《病理学 2》、《STASIS: BONE TOTEM》以及更多内容</title>
+      <title>在此捆绑包中获取《心灵杀手》、《病理学 2》、《STASIS: BONE TOTEM》等</title>
       <link>https://www.gamingonlinux.com/2023/10/get-alan-wake-pathologic-2-stasis-bone-totem-and-more-in-this-bundle/</link>
       <description><![CDATA[Humble Bundle 中最近出现了一些非常令人毛骨悚然的东西。在“Fright of your Life”捆绑包中，您将获得一些非常棒的游戏。这是 Steam Deck / Linux 桌面兼容性的运行情况。]]></description>
       <guid>https://www.gamingonlinux.com/2023/10/get-alan-wake-pathologic-2-stasis-bone-totem-and-more-in-this-bundle/</guid>
@@ -57,7 +85,7 @@
     <item>
       <title>暗黑破坏神 4 现已在发布前通过 Steam Deck 验证，但战网买家无需使用 Steam 密钥</title>
       <link>https://www.gamingonlinux.com/2023/10/diablo-4-now-steam-deck-verified-before-launch-but-no-steam-keys-for-battlenet-buyers/</link>
-      <description><![CDATA[如果您打算深入了解将于 10 月 17 日在 Steam 上发布的《暗黑破坏神 4》，那么这是个好消息，因为它已经通过了 Steam Deck 验证。如果您已经在 Battle.net 上购买了它，那么有一些坏消息。]]></description>
+      <description><![CDATA[如果您计划深入研究将于 10 月 17 日在 Steam 上发布的《暗黑破坏神 4》，那么这是个好消息，因为它已经通过了 Steam Deck 验证。如果您已经在 Battle.net 上购买了它，那么有一些坏消息。]]></description>
       <guid>https://www.gamingonlinux.com/2023/10/diablo-4-now-steam-deck-verified-before-launch-but-no-steam-keys-for-battlenet-buyers/</guid>
       <pubDate>Fri, 13 Oct 2023 13:12:38 GMT</pubDate>
     </item>
@@ -81,34 +109,6 @@
       <description><![CDATA[Ubuntu 的最新升级以及 Kubuntu 和 Xubuntu 等多种版本现已随 Ubuntu 23.10“Mantic Minotaur”一起发布。你准备好更新了吗？]]></description>
       <guid>https://www.gamingonlinux.com/2023/10/ubuntu-2310-mantic-minotaur-is-out-now/</guid>
       <pubDate>Thu, 12 Oct 2023 18:33:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>System76 发布了 Thelio Spark 入门桌面，以及对其他单元的增强功能</title>
-      <link>https://www.gamingonlinux.com/2023/10/system76-release-the-thelio-spark-starter-desktop-plus-enhancements-to-other-units/</link>
-      <description><![CDATA[System76 发布了其全新 Thelio Spark 入门桌面的消息，为 Linux 粉丝提供了新的购买选择以及对 Thelio 桌面系列的各种改进。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/10/system76-release-the-thelio-spark-starter-desktop-plus-enhancements-to-other-units/</guid>
-      <pubDate>Thu, 12 Oct 2023 17:38:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>由于恶意软件，Valve 锁定使用 SMS 代码发布 Steam 版本</title>
-      <link>https://www.gamingonlinux.com/2023/10/valve-locking-down-publishing-steam-builds-with-sms-codes-due-to-malware/</link>
-      <description><![CDATA[Valve 最近宣布了一些新的变更，要求开发者在 Steam 上发布公共版本，要求提供电话号码和短信确认码。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/10/valve-locking-down-publishing-steam-builds-with-sms-codes-due-to-malware/</guid>
-      <pubDate>Thu, 12 Oct 2023 13:52:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>Steam Deck 新增“激光指针”陀螺仪模式，以及更多桌面和 SteamVR 工作</title>
-      <link>https://www.gamingonlinux.com/2023/10/steam-deck-gets-a-laser-pointer-gyro-mode-plus-more-desktop-and-steamvr-work/</link>
-      <description><![CDATA[Valve 最近发布了更多 Steam Deck Beta 客户端更新，其中之一包括一个有趣的新陀螺仪模式，所以这里是有关新功能的所有详细信息。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/10/steam-deck-gets-a-laser-pointer-gyro-mode-plus-more-desktop-and-steamvr-work/</guid>
-      <pubDate>Thu, 12 Oct 2023 12:55:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>Slimbook 推出全新 Fedora Slimbook 超级本</title>
-      <link>https://www.gamingonlinux.com/2023/10/slimbook-reveals-the-new-fedora-slimbook-ultrabook/</link>
-      <description><![CDATA[在市场上购买新的轻型笔记本电脑吗？ Slimbook 与 Fedora 团队合作推出了新的 Fedora Slimbook Ultrabook。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/10/slimbook-reveals-the-new-fedora-slimbook-ultrabook/</guid>
-      <pubDate>Thu, 12 Oct 2023 12:36:55 GMT</pubDate>
     </item>
     </channel>
 </rss>
