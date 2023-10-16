@@ -4,7 +4,28 @@
     <title>GamingOnLinux 最新文章</title>
     <link>https://www.gamingonlinux.com/</link>
     <description>GamingOnLinux 的最新文章</description>
-    <lastBuildDate>Mon, 16 Oct 2023 11:55:50 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Oct 2023 15:03:22 GMT</lastBuildDate>
+    <item>
+      <title>喜欢经典 RTS 游戏？看看 D.O.R.F.实时战略冲突</title>
+      <link>https://www.gamingonlinux.com/2023/10/love-classic-rts-games-check-out-dorf-real-time-strategic-conflict/</link>
+      <description><![CDATA[D.O.R.F. 《实时战略冲突》是一款即将推出的基于 OpenRA 游戏引擎的 RTS，它看起来非常有前途，因此值得关注。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/10/love-classic-rts-games-check-out-dorf-real-time-strategic-conflict/</guid>
+      <pubDate>Mon, 16 Oct 2023 15:03:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Epic Games 推出“First Run”和“Now On Epic”，开发者可获得 100% 的收入</title>
+      <link>https://www.gamingonlinux.com/2023/10/epic-games-launch-first-run-and-now-on-epic-with-100-revenue-for-devs/</link>
+      <description><![CDATA[Epic Games 正试图吸引更多开发商加入 Epic Games Store，推出了两项新的激励措施，包括之前宣布的首次运行和新宣布的面向开发商的 Now On Epic 优惠。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/10/epic-games-launch-first-run-and-now-on-epic-with-100-revenue-for-devs/</guid>
+      <pubDate>Mon, 16 Oct 2023 14:27:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>《我的世界 (Minecraft)》销量突破 3 亿，1.21 版更新公布并进入审判阶段</title>
+      <link>https://www.gamingonlinux.com/2023/10/minecraft-hits-300-million-sales-update-121-announced-with-trial-chambers/</link>
+      <description><![CDATA[Mojang 宣布《我的世界》的销量现已突破 3 亿，并且已宣布《我的世界 1.21》更新，其中将添加一些非常有趣的内容。以下是 2023 年 Minecraft Live 的简短综述。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/10/minecraft-hits-300-million-sales-update-121-announced-with-trial-chambers/</guid>
+      <pubDate>Mon, 16 Oct 2023 12:51:25 GMT</pubDate>
+    </item>
     <item>
       <title>NVIDIA 希望在 Proton 中加入 Reflex 支持</title>
       <link>https://www.gamingonlinux.com/2023/10/nvidia-looking-to-hook-up-reflex-support-in-proton/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[如果您计划深入研究将于 10 月 17 日在 Steam 上发布的《暗黑破坏神 4》，那么这是个好消息，因为它已经通过了 Steam Deck 验证。如果您已经在 Battle.net 上购买了它，那么有一些坏消息。]]></description>
       <guid>https://www.gamingonlinux.com/2023/10/diablo-4-now-steam-deck-verified-before-launch-but-no-steam-keys-for-battlenet-buyers/</guid>
       <pubDate>Fri, 13 Oct 2023 13:12:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ubuntu 23.10 下载因恶意翻译而被下架</title>
-      <link>https://www.gamingonlinux.com/2023/10/ubuntu-2310-download-got-pulled-down-due-to-a-malicious-translation/</link>
-      <description><![CDATA[Ubuntu 23.10 发布后不久，Canonical 宣布撤回官方下载，因为在某些翻译中发现了恶意贡献者的仇恨言论。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/10/ubuntu-2310-download-got-pulled-down-due-to-a-malicious-translation/</guid>
-      <pubDate>Fri, 13 Oct 2023 10:33:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>Steam Deck SteamOS 3.5.1 预览版修复了对接时背光保持亮起的问题</title>
-      <link>https://www.gamingonlinux.com/2023/10/steam-deck-steamos-351-preview-fixes-backlight-staying-on-when-docked/</link>
-      <description><![CDATA[Valve 现已发布最新的 SteamOS 3.5.1 预览版供下载，修复了 Steam Deck OS 中的更多问题，例如对接时背光保持亮起。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/10/steam-deck-steamos-351-preview-fixes-backlight-staying-on-when-docked/</guid>
-      <pubDate>Fri, 13 Oct 2023 10:20:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ubuntu 23.10“Mantic Minotaur”现已发布</title>
-      <link>https://www.gamingonlinux.com/2023/10/ubuntu-2310-mantic-minotaur-is-out-now/</link>
-      <description><![CDATA[Ubuntu 的最新升级以及 Kubuntu 和 Xubuntu 等多种版本现已随 Ubuntu 23.10“Mantic Minotaur”一起发布。你准备好更新了吗？]]></description>
-      <guid>https://www.gamingonlinux.com/2023/10/ubuntu-2310-mantic-minotaur-is-out-now/</guid>
-      <pubDate>Thu, 12 Oct 2023 18:33:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
