@@ -4,7 +4,35 @@
     <title>GamingOnLinux 最新文章</title>
     <link>https://www.gamingonlinux.com/</link>
     <description>GamingOnLinux 的最新文章</description>
-    <lastBuildDate>Mon, 16 Oct 2023 15:03:22 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Oct 2023 11:45:53 GMT</lastBuildDate>
+    <item>
+      <title>宇宙飞船殖民地建造模拟游戏 Stardeus 现已进行重大升级</title>
+      <link>https://www.gamingonlinux.com/2023/10/spaceship-colony-building-sim-stardeus-has-a-major-upgrade-out-now/</link>
+      <description><![CDATA[来自 Kodo Linija 和 Paradox Arc 的 Stardeus 是一款殖民地建筑模拟游戏，故事发生在一艘需要重建的破损宇宙飞船上，并且已经发布了全新的重大升级和大修。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/10/spaceship-colony-building-sim-stardeus-has-a-major-upgrade-out-now/</guid>
+      <pubDate>Tue, 17 Oct 2023 11:45:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>在最近的恶意翻译之后，Ubuntu Desktop 23.10 现在再次可用</title>
+      <link>https://www.gamingonlinux.com/2023/10/ubuntu-desktop-2310-now-available-again-after-the-recent-hostile-translation/</link>
+      <description><![CDATA[对于那些想要下载 Ubuntu Desktop 23.10 的人来说是个好消息，因为最近涉及恶意翻译的问题已经得到解决，因此下载量再次增加。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/10/ubuntu-desktop-2310-now-available-again-after-the-recent-hostile-translation/</guid>
+      <pubDate>Tue, 17 Oct 2023 11:31:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>适用于经典 RTS 游戏的 OpenRA 版本 20231010 现已推出</title>
+      <link>https://www.gamingonlinux.com/2023/10/openra-for-classic-rts-gaming-version-20231010-is-out-now/</link>
+      <description><![CDATA[结果我的 RSS 阅读器坏了，所以我最近错过了很多很棒的东西，比如针对命令与征服、红色警戒和沙丘 2000 等经典 RTS 游戏的优秀 OpenRA 游戏引擎的全新稳定公开版本。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/10/openra-for-classic-rts-gaming-version-20231010-is-out-now/</guid>
+      <pubDate>Tue, 17 Oct 2023 11:17:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Steam Desktop 和 Steam Deck Beta 添加了新的陀螺仪模式并修复了游戏内购买</title>
+      <link>https://www.gamingonlinux.com/2023/10/steam-desktop-and-steam-deck-beta-add-new-gyro-mode-and-fixes-in-game-purchases/</link>
+      <description><![CDATA[Valve 发布了适用于桌面版和 Steam Deck 的 Steam 客户端的全新更新，修复了一些错误，同时还提供了另一个新的实验性陀螺仪模式。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/10/steam-desktop-and-steam-deck-beta-add-new-gyro-mode-and-fixes-in-game-purchases/</guid>
+      <pubDate>Tue, 17 Oct 2023 10:55:12 GMT</pubDate>
+    </item>
     <item>
       <title>喜欢经典 RTS 游戏？看看 D.O.R.F.实时战略冲突</title>
       <link>https://www.gamingonlinux.com/2023/10/love-classic-rts-games-check-out-dorf-real-time-strategic-conflict/</link>
@@ -22,7 +50,7 @@
     <item>
       <title>《我的世界 (Minecraft)》销量突破 3 亿，1.21 版更新公布并进入审判阶段</title>
       <link>https://www.gamingonlinux.com/2023/10/minecraft-hits-300-million-sales-update-121-announced-with-trial-chambers/</link>
-      <description><![CDATA[Mojang 宣布《我的世界》的销量现已突破 3 亿，并且已宣布《我的世界 1.21》更新，其中将添加一些非常有趣的内容。以下是 2023 年 Minecraft Live 的简短综述。]]></description>
+      <description><![CDATA[Mojang 宣布《我的世界》销量现已突破 3 亿，并且已宣布《我的世界 1.21》更新，其中将添加一些非常有趣的内容。以下是 2023 年 Minecraft Live 的简短综述。]]></description>
       <guid>https://www.gamingonlinux.com/2023/10/minecraft-hits-300-million-sales-update-121-announced-with-trial-chambers/</guid>
       <pubDate>Mon, 16 Oct 2023 12:51:25 GMT</pubDate>
     </item>
@@ -43,7 +71,7 @@
     <item>
       <title>现代文字冒险[I]不存在现已推出</title>
       <link>https://www.gamingonlinux.com/2023/10/modern-text-adventure-i-doesnt-exist-is-out-now/</link>
-      <description><![CDATA[《[我]不存在》是 LUAL Games KIG 和 DreadXP 推出的一款全新文字冒险游戏，向经典致敬，借鉴了《初学者指南》、《Stories Untold》、《Buddy Simulator》和《Zork》等游戏的灵感。]]></description>
+      <description><![CDATA[[I] 不存在是 LUAL Games KIG 和 DreadXP 推出的一款全新文字冒险游戏，向经典致敬，借鉴了《初学者指南》、《Stories Untold》、《Buddy Simulator》和《Zork》等游戏的灵感。]]></description>
       <guid>https://www.gamingonlinux.com/2023/10/modern-text-adventure-i-doesnt-exist-is-out-now/</guid>
       <pubDate>Mon, 16 Oct 2023 11:38:18 GMT</pubDate>
     </item>
@@ -64,14 +92,14 @@
     <item>
       <title>GE-Proton 8-17 修复了《心灵杀手》、《蝙蝠侠阿卡姆疯人院》等（已更新）</title>
       <link>https://www.gamingonlinux.com/2023/10/ge-proton-8-17-brings-fixes-for-alan-wake-batman-arkham-asylum-and-more/</link>
-      <description><![CDATA[社区维护的适用于 Steam Deck 和 Linux 桌面的 GE-Proton 的最新版本已经发布！ GE-Proton 8-17 对运行各种游戏进行了一些听起来不错的修复。更新：现在是 GE-Proton 8-18，后来是 8-19。]]></description>
+      <description><![CDATA[社区维护的适用于 Steam Deck 和 Linux 桌面的 GE-Proton 的最新版本已经发布！ GE-Proton 8-17 针对运行各种游戏进行了一些听起来不错的修复。更新：现在是 GE-Proton 8-18，后来是 8-19。]]></description>
       <guid>https://www.gamingonlinux.com/2023/10/ge-proton-8-17-brings-fixes-for-alan-wake-batman-arkham-asylum-and-more/</guid>
       <pubDate>Sun, 15 Oct 2023 18:41:45 GMT</pubDate>
     </item>
     <item>
       <title>Wine 8.18 带来更多 Wayland 工作</title>
       <link>https://www.gamingonlinux.com/2023/10/wine-818-brings-more-wayland-work/</link>
-      <description><![CDATA[Wine 8.18 是 Wine 现已发布的最新开发版本，它带来了提供完整 Wayland 支持的持续工作，但仍有大量工作要做。]]></description>
+      <description><![CDATA[Wine 8.18 是 Wine 现已推出的最新开发版本，它带来了提供完整 Wayland 支持的持续工作，但仍有大量工作要做。]]></description>
       <guid>https://www.gamingonlinux.com/2023/10/wine-818-brings-more-wayland-work/</guid>
       <pubDate>Sun, 15 Oct 2023 18:33:59 GMT</pubDate>
     </item>
@@ -81,34 +109,6 @@
       <description><![CDATA[Humble Bundle 中最近出现了一些非常令人毛骨悚然的东西。在“Fright of your Life”捆绑包中，您将获得一些非常棒的游戏。这是 Steam Deck / Linux 桌面兼容性的运行情况。]]></description>
       <guid>https://www.gamingonlinux.com/2023/10/get-alan-wake-pathologic-2-stasis-bone-totem-and-more-in-this-bundle/</guid>
       <pubDate>Fri, 13 Oct 2023 20:28:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>英国 CMA 批准新交易，微软完成对动视暴雪的收购</title>
-      <link>https://www.gamingonlinux.com/2023/10/microsoft-completes-takeover-of-activision-blizzard-as-uk-cma-approves-new-deal/</link>
-      <description><![CDATA[好吧，就是这样。在英国竞争与市场管理局的帮助下，微软完成了对动视暴雪国王的收购。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/10/microsoft-completes-takeover-of-activision-blizzard-as-uk-cma-approves-new-deal/</guid>
-      <pubDate>Fri, 13 Oct 2023 14:31:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Godot 4.2 beta 1 现已推出测试</title>
-      <link>https://www.gamingonlinux.com/2023/10/godot-42-beta-1-is-out-now-for-testing/</link>
-      <description><![CDATA[Godot 团队正在准备他们的免费开源游戏引擎的下一个版本，Godot 4.2 beta 1 现在可供任何人加入并测试。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/10/godot-42-beta-1-is-out-now-for-testing/</guid>
-      <pubDate>Fri, 13 Oct 2023 14:13:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>魔法门之英雄无敌2游戏引擎fheroes2 v1.0.9发布</title>
-      <link>https://www.gamingonlinux.com/2023/10/heroes-of-might-and-magic-ii-game-engine-fheroes2-v109-released/</link>
-      <description><![CDATA[和往常一样，经过一个月的努力，fheroes2 Resurrection Team 发布了新的 1.0.9 版本的魔法门之英雄无敌 II 游戏引擎，充满了更新、修复和新功能！]]></description>
-      <guid>https://www.gamingonlinux.com/2023/10/heroes-of-might-and-magic-ii-game-engine-fheroes2-v109-released/</guid>
-      <pubDate>Fri, 13 Oct 2023 13:34:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>暗黑破坏神 4 现已在发布前通过 Steam Deck 验证，但战网买家无需使用 Steam 密钥</title>
-      <link>https://www.gamingonlinux.com/2023/10/diablo-4-now-steam-deck-verified-before-launch-but-no-steam-keys-for-battlenet-buyers/</link>
-      <description><![CDATA[如果您计划深入研究将于 10 月 17 日在 Steam 上发布的《暗黑破坏神 4》，那么这是个好消息，因为它已经通过了 Steam Deck 验证。如果您已经在 Battle.net 上购买了它，那么有一些坏消息。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/10/diablo-4-now-steam-deck-verified-before-launch-but-no-steam-keys-for-battlenet-buyers/</guid>
-      <pubDate>Fri, 13 Oct 2023 13:12:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
