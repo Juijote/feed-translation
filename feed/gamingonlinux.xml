@@ -4,7 +4,35 @@
     <title>GamingOnLinux 最新文章</title>
     <link>https://www.gamingonlinux.com/</link>
     <description>GamingOnLinux 的最新文章</description>
-    <lastBuildDate>Tue, 17 Oct 2023 11:45:53 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Oct 2023 17:15:53 GMT</lastBuildDate>
+    <item>
+      <title>轻率计划与 Paradox Interactive 分道扬镳</title>
+      <link>https://www.gamingonlinux.com/2023/10/harebrained-schemes-and-paradox-interactive-to-split/</link>
+      <description><![CDATA[Harebrained Plannings 早在 2018 年就被 Paradox Interactive 收购，但在 The Lamplighters League 推出令人失望后，他们即将分道扬镳。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/10/harebrained-schemes-and-paradox-interactive-to-split/</guid>
+      <pubDate>Tue, 17 Oct 2023 17:15:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>Linux 版 NVIDIA Beta 驱动程序 545.23.06 发布，大量新功能</title>
+      <link>https://www.gamingonlinux.com/2023/10/nvidia-beta-driver-545-23-06-released-for-linux-new-features/</link>
+      <description><![CDATA[沉寂了一段时间后，NVIDIA 发布了 Beta 驱动程序 545.23.06，其中包含大量新功能和一些错误修复。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/10/nvidia-beta-driver-545-23-06-released-for-linux-new-features/</guid>
+      <pubDate>Tue, 17 Oct 2023 13:32:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>Slay the Spire 开发者在放弃《Unity for Godot》后发布了《Dancing Duelists》</title>
+      <link>https://www.gamingonlinux.com/2023/10/slay-the-spire-devs-release-dancing-duelists-after-abandoning-unity-for-godot/</link>
+      <description><![CDATA[Mega Crit 是成功的 Slay the Spire 的开发商，在最近公开呼吁 Unity 并转向 Godot 引擎后，发布了一款名为 Dancing Duelists 的免费新游戏。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/10/slay-the-spire-devs-release-dancing-duelists-after-abandoning-unity-for-godot/</guid>
+      <pubDate>Tue, 17 Oct 2023 13:06:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>在狂热恐惧捆绑包中获取一些可怕的东西</title>
+      <link>https://www.gamingonlinux.com/2023/10/get-some-scary-stuff-in-the-fanatical-frightmare-bundle/</link>
+      <description><![CDATA[Fanatical 有一个全新构建的你自己的捆绑包，里面充满了一些怪异和可怕的东西，其中也有很多不错的选择。以下是 Steam Deck 和桌面 Linux 上的预期结果。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/10/get-some-scary-stuff-in-the-fanatical-frightmare-bundle/</guid>
+      <pubDate>Tue, 17 Oct 2023 12:43:45 GMT</pubDate>
+    </item>
     <item>
       <title>宇宙飞船殖民地建造模拟游戏 Stardeus 现已进行重大升级</title>
       <link>https://www.gamingonlinux.com/2023/10/spaceship-colony-building-sim-stardeus-has-a-major-upgrade-out-now/</link>
@@ -81,34 +109,6 @@
       <description><![CDATA[Windjammers 2 是一款关于投掷飞盘的有趣 PvP 体育游戏。它已经过 Steam Deck 验证，在 Linux 上运行良好，最新的主要免费更新听起来很棒。]]></description>
       <guid>https://www.gamingonlinux.com/2023/10/windjammers-2-added-lobbies-and-full-cross-play/</guid>
       <pubDate>Mon, 16 Oct 2023 11:13:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>《极限竞速：地平线 5》获得 Proton 修补程序，可在 Steam Deck / Linux 上再次运行</title>
-      <link>https://www.gamingonlinux.com/2023/10/forza-horizon-5-gets-a-proton-hotfix-to-work-again-on-steam-deck-linux/</link>
-      <description><![CDATA[虽然 Valve 仍在调查新版《极限竞速》的启动问题，但至少《极限竞速：地平线 5》在最近出现故障后应该能在 Steam Deck 和桌面 Linux 上再次运行。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/10/forza-horizon-5-gets-a-proton-hotfix-to-work-again-on-steam-deck-linux/</guid>
-      <pubDate>Sun, 15 Oct 2023 18:50:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>GE-Proton 8-17 修复了《心灵杀手》、《蝙蝠侠阿卡姆疯人院》等（已更新）</title>
-      <link>https://www.gamingonlinux.com/2023/10/ge-proton-8-17-brings-fixes-for-alan-wake-batman-arkham-asylum-and-more/</link>
-      <description><![CDATA[社区维护的适用于 Steam Deck 和 Linux 桌面的 GE-Proton 的最新版本已经发布！ GE-Proton 8-17 针对运行各种游戏进行了一些听起来不错的修复。更新：现在是 GE-Proton 8-18，后来是 8-19。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/10/ge-proton-8-17-brings-fixes-for-alan-wake-batman-arkham-asylum-and-more/</guid>
-      <pubDate>Sun, 15 Oct 2023 18:41:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>Wine 8.18 带来更多 Wayland 工作</title>
-      <link>https://www.gamingonlinux.com/2023/10/wine-818-brings-more-wayland-work/</link>
-      <description><![CDATA[Wine 8.18 是 Wine 现已推出的最新开发版本，它带来了提供完整 Wayland 支持的持续工作，但仍有大量工作要做。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/10/wine-818-brings-more-wayland-work/</guid>
-      <pubDate>Sun, 15 Oct 2023 18:33:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>在此捆绑包中获取《心灵杀手》、《病理学 2》、《STASIS: BONE TOTEM》等</title>
-      <link>https://www.gamingonlinux.com/2023/10/get-alan-wake-pathologic-2-stasis-bone-totem-and-more-in-this-bundle/</link>
-      <description><![CDATA[Humble Bundle 中最近出现了一些非常令人毛骨悚然的东西。在“Fright of your Life”捆绑包中，您将获得一些非常棒的游戏。这是 Steam Deck / Linux 桌面兼容性的运行情况。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/10/get-alan-wake-pathologic-2-stasis-bone-totem-and-more-in-this-bundle/</guid>
-      <pubDate>Fri, 13 Oct 2023 20:28:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
