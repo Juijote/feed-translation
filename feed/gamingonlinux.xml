@@ -4,7 +4,35 @@
     <title>GamingOnLinux 最新文章</title>
     <link>https://www.gamingonlinux.com/</link>
     <description>GamingOnLinux 的最新文章</description>
-    <lastBuildDate>Tue, 17 Oct 2023 17:15:53 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Oct 2023 10:37:24 GMT</lastBuildDate>
+    <item>
+      <title>方向盘管理器 Oversteer v0.8.0 增加了新的硬件支持</title>
+      <link>https://www.gamingonlinux.com/2023/10/steering-wheel-manager-oversteer-v080-adds-new-hardware-support/</link>
+      <description><![CDATA[拥有方向盘并想在 Linux 上管理您的所有赛车和卡车游戏？过度转向正是您所需要的，最近发布了新版本。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/10/steering-wheel-manager-oversteer-v080-adds-new-hardware-support/</guid>
+      <pubDate>Wed, 18 Oct 2023 10:37:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mudborne 是一款即将推出的休闲自然模拟游戏，内容涉及繁殖和收集青蛙</title>
+      <link>https://www.gamingonlinux.com/2023/10/mudborne-is-an-upcoming-laid-back-nature-sim-about-breeding-collecting-frogs/</link>
+      <description><![CDATA[您已经见过 APICO，您可以在那里收集和饲养蜜蜂，但是青蛙呢？嗯，这正是同一开发商的《Mudborne》所拥有的。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/10/mudborne-is-an-upcoming-laid-back-nature-sim-about-breeding-collecting-frogs/</guid>
+      <pubDate>Wed, 18 Oct 2023 10:12:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>跑枪动作游戏 Schizollama 现已在 Kickstarter 上进行演示并提供演示</title>
+      <link>https://www.gamingonlinux.com/2023/10/run-and-gun-action-game-schizollama-now-up-on-kickstarter-with-a-demo/</link>
+      <description><![CDATA[《Schizollama》是 Nicola Piovesan / Chaosmonger Studio 继《ENCODYA》、《Clunky Hero》、《三分钟到八点》和《Soul Tolerance》之后推出的下一款游戏。这是一款疯狂的跑枪动作游戏，灵感来自《Broforce》和《合金弹头》等游戏。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/10/run-and-gun-action-game-schizollama-now-up-on-kickstarter-with-a-demo/</guid>
+      <pubDate>Wed, 18 Oct 2023 09:45:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>看看免费的科幻冒险游戏《笼罩空间》</title>
+      <link>https://www.gamingonlinux.com/2023/10/check-out-the-free-sci-fi-adventure-shrouded-space/</link>
+      <description><![CDATA[Shrouded Space 是为 Game Jam 开发的，它确实令人印象深刻，开发人员刚刚发布了更新，其中还包括 Native Linux 版本。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/10/check-out-the-free-sci-fi-adventure-shrouded-space/</guid>
+      <pubDate>Wed, 18 Oct 2023 09:30:40 GMT</pubDate>
+    </item>
     <item>
       <title>轻率计划与 Paradox Interactive 分道扬镳</title>
       <link>https://www.gamingonlinux.com/2023/10/harebrained-schemes-and-paradox-interactive-to-split/</link>
@@ -43,7 +71,7 @@
     <item>
       <title>在最近的恶意翻译之后，Ubuntu Desktop 23.10 现在再次可用</title>
       <link>https://www.gamingonlinux.com/2023/10/ubuntu-desktop-2310-now-available-again-after-the-recent-hostile-translation/</link>
-      <description><![CDATA[对于那些想要下载 Ubuntu Desktop 23.10 的人来说是个好消息，因为最近涉及恶意翻译的问题已经得到解决，因此下载量再次上升。]]></description>
+      <description><![CDATA[对于那些想要下载 Ubuntu Desktop 23.10 的人来说是个好消息，因为最近涉及恶意翻译的问题已经得到解决，因此下载量再次增加。]]></description>
       <guid>https://www.gamingonlinux.com/2023/10/ubuntu-desktop-2310-now-available-again-after-the-recent-hostile-translation/</guid>
       <pubDate>Tue, 17 Oct 2023 11:31:00 GMT</pubDate>
     </item>
@@ -64,14 +92,14 @@
     <item>
       <title>喜欢经典 RTS 游戏？看看 D.O.R.F.实时战略冲突</title>
       <link>https://www.gamingonlinux.com/2023/10/love-classic-rts-games-check-out-dorf-real-time-strategic-conflict/</link>
-      <description><![CDATA[D.O.R.F. 《实时战略冲突》是一款即将推出的基于 OpenRA 游戏引擎的 RTS，它看起来非常有前途，因此值得密切关注。]]></description>
+      <description><![CDATA[D.O.R.F. 《实时战略冲突》是一款即将推出的基于 OpenRA 游戏引擎的 RTS，它看起来非常有前途，因此值得关注。]]></description>
       <guid>https://www.gamingonlinux.com/2023/10/love-classic-rts-games-check-out-dorf-real-time-strategic-conflict/</guid>
       <pubDate>Mon, 16 Oct 2023 15:03:22 GMT</pubDate>
     </item>
     <item>
       <title>Epic Games 推出“First Run”和“Now On Epic”，开发者可获得 100% 的收入</title>
       <link>https://www.gamingonlinux.com/2023/10/epic-games-launch-first-run-and-now-on-epic-with-100-revenue-for-devs/</link>
-      <description><![CDATA[Epic Games 正试图吸引更多的开发者加入 Epic Games Store，推出了两项新的激励措施，包括之前宣布的首次运行和新宣布的面向开发者的 Now On Epic 优惠。]]></description>
+      <description><![CDATA[Epic Games 正试图吸引更多开发商加入 Epic Games Store，推出了两项新的激励措施，包括之前宣布的首次运行和新宣布的面向开发商的 Now On Epic 优惠。]]></description>
       <guid>https://www.gamingonlinux.com/2023/10/epic-games-launch-first-run-and-now-on-epic-with-100-revenue-for-devs/</guid>
       <pubDate>Mon, 16 Oct 2023 14:27:52 GMT</pubDate>
     </item>
@@ -81,34 +109,6 @@
       <description><![CDATA[Mojang 宣布《我的世界》销量现已突破 3 亿，并且已宣布《我的世界 1.21》更新，其中将添加一些非常有趣的内容。以下是 2023 年 Minecraft Live 的简短综述。]]></description>
       <guid>https://www.gamingonlinux.com/2023/10/minecraft-hits-300-million-sales-update-121-announced-with-trial-chambers/</guid>
       <pubDate>Mon, 16 Oct 2023 12:51:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>NVIDIA 希望在 Proton 中加入 Reflex 支持</title>
-      <link>https://www.gamingonlinux.com/2023/10/nvidia-looking-to-hook-up-reflex-support-in-proton/</link>
-      <description><![CDATA[一位 NVIDIA 工程师已向 DXVK、VKD3D-Proton 和 DXVK-NVAPI 发送拉取请求，以启用对 Reflex / NV 低延迟的支持，以将其连接到 Proton。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/10/nvidia-looking-to-hook-up-reflex-support-in-proton/</guid>
-      <pubDate>Mon, 16 Oct 2023 11:55:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>DreadXP 的独立恐怖游戏展示会将于 10 月 19 日举行</title>
-      <link>https://www.gamingonlinux.com/2023/10/the-indie-horror-game-showcase-from-dreadxp-runs-on-october-19/</link>
-      <description><![CDATA[准备好观看即将推出的独立恐怖游戏了吗？发行商 DreadXP 将于 10 月 19 日举办完整的独立恐怖游戏展示会，详细信息如下。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/10/the-indie-horror-game-showcase-from-dreadxp-runs-on-october-19/</guid>
-      <pubDate>Mon, 16 Oct 2023 11:45:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>现代文字冒险[I]不存在现已推出</title>
-      <link>https://www.gamingonlinux.com/2023/10/modern-text-adventure-i-doesnt-exist-is-out-now/</link>
-      <description><![CDATA[[I] 不存在是 LUAL Games KIG 和 DreadXP 推出的一款全新文字冒险游戏，向经典致敬，借鉴了《初学者指南》、《Stories Untold》、《Buddy Simulator》和《Zork》等游戏的灵感。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/10/modern-text-adventure-i-doesnt-exist-is-out-now/</guid>
-      <pubDate>Mon, 16 Oct 2023 11:38:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>Windjammers 2 添加了大厅和完整的交叉游戏</title>
-      <link>https://www.gamingonlinux.com/2023/10/windjammers-2-added-lobbies-and-full-cross-play/</link>
-      <description><![CDATA[Windjammers 2 是一款关于投掷飞盘的有趣 PvP 体育游戏。它已经过 Steam Deck 验证，在 Linux 上运行良好，最新的主要免费更新听起来很棒。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/10/windjammers-2-added-lobbies-and-full-cross-play/</guid>
-      <pubDate>Mon, 16 Oct 2023 11:13:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
