@@ -4,11 +4,18 @@
     <title>GamingOnLinux 最新文章</title>
     <link>https://www.gamingonlinux.com/</link>
     <description>GamingOnLinux 的最新文章</description>
-    <lastBuildDate>Wed, 18 Oct 2023 16:38:32 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Oct 2023 19:37:16 GMT</lastBuildDate>
+    <item>
+      <title>Tony Hawk 的 Pro Skater 1 + 2 增加了对 Steam Deck 的离线支持</title>
+      <link>https://www.gamingonlinux.com/2023/10/tony-hawks-pro-skater-1-2-adds-offline-support-for-steam-deck/</link>
+      <description><![CDATA[动视公司 (Activision) 在 Steam 上发布了《托尼霍克职业滑板手 1 + 2》的更新。补丁 1.1 适用于 Steam Deck 玩家，因此以下是更改内容。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/10/tony-hawks-pro-skater-1-2-adds-offline-support-for-steam-deck/</guid>
+      <pubDate>Wed, 18 Oct 2023 19:37:16 GMT</pubDate>
+    </item>
     <item>
       <title>Trese Brothers 的《网络骑士：闪点》现已进入抢先体验阶段</title>
       <link>https://www.gamingonlinux.com/2023/10/cyber-knights-flashpoint-from-trese-brothers-is-now-in-early-access/</link>
-      <description><![CDATA[在推出了《Star Traders: Frontiers》和《Templar Battleforce》等一些出色的游戏之后，Trese Brothers 确实提高了《Cyber​​ Knights: Flashpoint》的制作价值，这款游戏最终可能会成为下一款大型回合制战术游戏。]]></description>
+      <description><![CDATA[在推出了《Star Traders: Frontiers》和《Templar Battleforce》等一些出色的游戏之后，Trese Brothers 确实提高了《Cyber​​ Knights: Flashpoint》的制作价值，该游戏最终可能成为下一款大型回合制战术游戏。]]></description>
       <guid>https://www.gamingonlinux.com/2023/10/cyber-knights-flashpoint-from-trese-brothers-is-now-in-early-access/</guid>
       <pubDate>Wed, 18 Oct 2023 16:38:32 GMT</pubDate>
     </item>
@@ -36,7 +43,7 @@
     <item>
       <title>跑枪动作游戏 Schizollama 现已在 Kickstarter 上进行演示并提供演示</title>
       <link>https://www.gamingonlinux.com/2023/10/run-and-gun-action-game-schizollama-now-up-on-kickstarter-with-a-demo/</link>
-      <description><![CDATA[《Schizollama》是 Nicola Piovesan / Chaosmonger Studio 继《ENCODYA》、《Clunky Hero》、《三分钟到八点》和《Soul Tolerance》之后推出的下一款游戏。这是一款疯狂的跑枪动作游戏，灵感来自《Broforce》和《合金弹头》等游戏。]]></description>
+      <description><![CDATA[《Schizollama》是 Nicola Piovesan / Chaosmonger Studio 继《ENCODYA》、《Clunky Hero》、《三分钟差八分》和《Soul Tolerance》之后推出的下一款游戏。这是一款疯狂的跑枪动作游戏，灵感来自《Broforce》和《合金弹头》等游戏。]]></description>
       <guid>https://www.gamingonlinux.com/2023/10/run-and-gun-action-game-schizollama-now-up-on-kickstarter-with-a-demo/</guid>
       <pubDate>Wed, 18 Oct 2023 09:45:46 GMT</pubDate>
     </item>
@@ -50,7 +57,7 @@
     <item>
       <title>轻率计划与 Paradox Interactive 分道扬镳</title>
       <link>https://www.gamingonlinux.com/2023/10/harebrained-schemes-and-paradox-interactive-to-split/</link>
-      <description><![CDATA[Harebrained Plannings 早在 2018 年就被 Paradox Interactive 收购，但在 The Lamplighters League 推出令人失望后，他们即将分道扬镳。]]></description>
+      <description><![CDATA[Harebrained Plannings 于 2018 年被 Paradox Interactive 收购，在《The Lamplighters League》推出令人失望后，他们即将分道扬镳。]]></description>
       <guid>https://www.gamingonlinux.com/2023/10/harebrained-schemes-and-paradox-interactive-to-split/</guid>
       <pubDate>Tue, 17 Oct 2023 17:15:53 GMT</pubDate>
     </item>
@@ -85,7 +92,7 @@
     <item>
       <title>在最近的恶意翻译之后，Ubuntu Desktop 23.10 现在再次可用</title>
       <link>https://www.gamingonlinux.com/2023/10/ubuntu-desktop-2310-now-available-again-after-the-recent-hostile-translation/</link>
-      <description><![CDATA[对于那些想要下载 Ubuntu Desktop 23.10 的人来说是个好消息，因为最近涉及恶意翻译的问题已经得到解决，因此下载量再次上升。]]></description>
+      <description><![CDATA[对于那些想要下载 Ubuntu Desktop 23.10 的人来说是个好消息，因为最近涉及恶意翻译的问题已经得到解决，因此下载量再次增加。]]></description>
       <guid>https://www.gamingonlinux.com/2023/10/ubuntu-desktop-2310-now-available-again-after-the-recent-hostile-translation/</guid>
       <pubDate>Tue, 17 Oct 2023 11:31:00 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[Valve 发布了适用于桌面版和 Steam Deck 的 Steam 客户端的全新更新，修复了一些错误，同时还提供了另一个新的实验性陀螺仪模式。]]></description>
       <guid>https://www.gamingonlinux.com/2023/10/steam-desktop-and-steam-deck-beta-add-new-gyro-mode-and-fixes-in-game-purchases/</guid>
       <pubDate>Tue, 17 Oct 2023 10:55:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>喜欢经典 RTS 游戏？看看 D.O.R.F.实时战略冲突</title>
-      <link>https://www.gamingonlinux.com/2023/10/love-classic-rts-games-check-out-dorf-real-time-strategic-conflict/</link>
-      <description><![CDATA[D.O.R.F. 《实时战略冲突》是一款即将推出的基于 OpenRA 游戏引擎的 RTS，它看起来非常有前途，因此值得密切关注。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/10/love-classic-rts-games-check-out-dorf-real-time-strategic-conflict/</guid>
-      <pubDate>Mon, 16 Oct 2023 15:03:22 GMT</pubDate>
     </item>
     </channel>
 </rss>
