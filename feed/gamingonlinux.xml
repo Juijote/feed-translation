@@ -4,7 +4,49 @@
     <title>GamingOnLinux 最新文章</title>
     <link>https://www.gamingonlinux.com/</link>
     <description>GamingOnLinux 的最新文章</description>
-    <lastBuildDate>Wed, 18 Oct 2023 19:37:16 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Oct 2023 12:07:29 GMT</lastBuildDate>
+    <item>
+      <title>行星湮灭开发者揭示了工业湮灭</title>
+      <link>https://www.gamingonlinux.com/2023/10/planetary-annihilation-devs-reveal-industrial-annihilation/</link>
+      <description><![CDATA[《行星湮灭》的开发商（好吧，至少是其中一些开发商）已经宣布推出《工业湮灭》，这是一款将工厂建筑与 RTS 元素融为一体的完整续作。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/10/planetary-annihilation-devs-reveal-industrial-annihilation/</guid>
+      <pubDate>Thu, 19 Oct 2023 12:07:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>适合 Linux 的轻松简约建筑策略游戏 Tiny Atolls</title>
+      <link>https://www.gamingonlinux.com/2023/10/relaxing-minimalist-building-strategy-game-tiny-atolls-fixed-up-for-linux/</link>
+      <description><![CDATA[Tiny Atolls 于 9 月底发布，虽然我很喜欢它，但它确实附带了一个相当损坏的 Linux 版本，现在已经修复了。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/10/relaxing-minimalist-building-strategy-game-tiny-atolls-fixed-up-for-linux/</guid>
+      <pubDate>Thu, 19 Oct 2023 11:43:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sweet Dreams Alex 是一款有益健康的益智和建造游戏</title>
+      <link>https://www.gamingonlinux.com/2023/10/sweet-dreams-alex-is-a-wholesome-puzzle-and-construction-game/</link>
+      <description><![CDATA[《Sweet Dreams Alex》将谜题和房间建造结合在一起，对于一款远离噩梦的游戏来说是一个相当有益的想法，它现已推出并支持原生 Linux。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/10/sweet-dreams-alex-is-a-wholesome-puzzle-and-construction-game/</guid>
+      <pubDate>Thu, 19 Oct 2023 11:23:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>寒冷的生存冒险游戏《Kona II: Brume》现已推出</title>
+      <link>https://www.gamingonlinux.com/2023/10/chilly-survival-adventure-kona-ii-brume-is-out-now/</link>
+      <description><![CDATA[开发商 Parabole 刚刚发布了《Kona II: Brume》，这是他们 2017 年寒冷冒险的后续作品，让你重新扮演侦探 Carl Faubert 的角色。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/10/chilly-survival-adventure-kona-ii-brume-is-out-now/</guid>
+      <pubDate>Thu, 19 Oct 2023 10:50:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>KDE Plasma 6.0 现已计划于 2024 年 2 月 28 日发布</title>
+      <link>https://www.gamingonlinux.com/2023/10/kde-plasma-60-now-scheduled-for-release-28th-february-2024/</link>
+      <description><![CDATA[KDE 团队正在努力开发 KDE Plasma 桌面环境的下一个主要版本，这是我目前最喜欢的桌面，也是 Steam Deck 上使用的桌面。现在，我们实际上已经有了 Plasma 6.0 的正确路线图。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/10/kde-plasma-60-now-scheduled-for-release-28th-february-2024/</guid>
+      <pubDate>Thu, 19 Oct 2023 10:33:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>查看 XDC 2023 关于 Steam Deck / Linux 桌面的 HDR + 色彩管理的演讲</title>
+      <link>https://www.gamingonlinux.com/2023/10/check-out-the-xdc-2023-talks-on-hdr-color-management-for-steam-deck-linux-desktop/</link>
+      <description><![CDATA[X.Org 开发者大会 - XDC 2023 已经持续了几天，并且进行了一些精彩的演讲，其中包括关于 HDR 和色彩管理状态的两次演讲的精彩概述。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/10/check-out-the-xdc-2023-talks-on-hdr-color-management-for-steam-deck-linux-desktop/</guid>
+      <pubDate>Thu, 19 Oct 2023 10:23:18 GMT</pubDate>
+    </item>
     <item>
       <title>Tony Hawk 的 Pro Skater 1 + 2 增加了对 Steam Deck 的离线支持</title>
       <link>https://www.gamingonlinux.com/2023/10/tony-hawks-pro-skater-1-2-adds-offline-support-for-steam-deck/</link>
@@ -15,7 +57,7 @@
     <item>
       <title>Trese Brothers 的《网络骑士：闪点》现已进入抢先体验阶段</title>
       <link>https://www.gamingonlinux.com/2023/10/cyber-knights-flashpoint-from-trese-brothers-is-now-in-early-access/</link>
-      <description><![CDATA[在推出了《Star Traders: Frontiers》和《Templar Battleforce》等一些出色的游戏之后，Trese Brothers 确实提高了《Cyber​​ Knights: Flashpoint》的制作价值，该游戏最终可能成为下一款大型回合制战术游戏。]]></description>
+      <description><![CDATA[在推出了《Star Traders: Frontiers》和《Templar Battleforce》等一些出色的游戏之后，Trese Brothers 确实提高了《Cyber​​ Knights: Flashpoint》的制作价值，这款游戏最终可能会成为下一款大型回合制战术游戏。]]></description>
       <guid>https://www.gamingonlinux.com/2023/10/cyber-knights-flashpoint-from-trese-brothers-is-now-in-early-access/</guid>
       <pubDate>Wed, 18 Oct 2023 16:38:32 GMT</pubDate>
     </item>
@@ -43,7 +85,7 @@
     <item>
       <title>跑枪动作游戏 Schizollama 现已在 Kickstarter 上进行演示并提供演示</title>
       <link>https://www.gamingonlinux.com/2023/10/run-and-gun-action-game-schizollama-now-up-on-kickstarter-with-a-demo/</link>
-      <description><![CDATA[《Schizollama》是 Nicola Piovesan / Chaosmonger Studio 继《ENCODYA》、《Clunky Hero》、《三分钟差八分》和《Soul Tolerance》之后推出的下一款游戏。这是一款疯狂的跑枪动作游戏，灵感来自《Broforce》和《合金弹头》等游戏。]]></description>
+      <description><![CDATA[《Schizollama》是 Nicola Piovesan / Chaosmonger Studio 继《ENCODYA》、《Clunky Hero》、《三分钟到八点》和《Soul Tolerance》之后推出的下一款游戏。这是一款疯狂的跑枪动作游戏，灵感来自《Broforce》和《合金弹头》等游戏。]]></description>
       <guid>https://www.gamingonlinux.com/2023/10/run-and-gun-action-game-schizollama-now-up-on-kickstarter-with-a-demo/</guid>
       <pubDate>Wed, 18 Oct 2023 09:45:46 GMT</pubDate>
     </item>
@@ -57,7 +99,7 @@
     <item>
       <title>轻率计划与 Paradox Interactive 分道扬镳</title>
       <link>https://www.gamingonlinux.com/2023/10/harebrained-schemes-and-paradox-interactive-to-split/</link>
-      <description><![CDATA[Harebrained Plannings 于 2018 年被 Paradox Interactive 收购，在《The Lamplighters League》推出令人失望后，他们即将分道扬镳。]]></description>
+      <description><![CDATA[Harebrained Plannings 早在 2018 年就被 Paradox Interactive 收购，但在 The Lamplighters League 推出令人失望后，他们即将分道扬镳。]]></description>
       <guid>https://www.gamingonlinux.com/2023/10/harebrained-schemes-and-paradox-interactive-to-split/</guid>
       <pubDate>Tue, 17 Oct 2023 17:15:53 GMT</pubDate>
     </item>
@@ -67,48 +109,6 @@
       <description><![CDATA[沉寂了一段时间后，NVIDIA 发布了 Beta 驱动程序 545.23.06，其中包含大量新功能和一些错误修复。]]></description>
       <guid>https://www.gamingonlinux.com/2023/10/nvidia-beta-driver-545-23-06-released-for-linux-new-features/</guid>
       <pubDate>Tue, 17 Oct 2023 13:32:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>Slay the Spire 开发者在放弃《Unity for Godot》后发布了《Dancing Duelists》</title>
-      <link>https://www.gamingonlinux.com/2023/10/slay-the-spire-devs-release-dancing-duelists-after-abandoning-unity-for-godot/</link>
-      <description><![CDATA[Mega Crit 是成功的 Slay the Spire 的开发商，在最近公开呼吁 Unity 并转向 Godot 引擎后，发布了一款名为 Dancing Duelists 的免费新游戏。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/10/slay-the-spire-devs-release-dancing-duelists-after-abandoning-unity-for-godot/</guid>
-      <pubDate>Tue, 17 Oct 2023 13:06:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>在狂热恐惧捆绑包中获取一些可怕的东西</title>
-      <link>https://www.gamingonlinux.com/2023/10/get-some-scary-stuff-in-the-fanatical-frightmare-bundle/</link>
-      <description><![CDATA[Fanatical 有一个全新构建的你自己的捆绑包，里面充满了一些怪异和可怕的东西，其中也有很多不错的选择。以下是 Steam Deck 和桌面 Linux 上的预期结果。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/10/get-some-scary-stuff-in-the-fanatical-frightmare-bundle/</guid>
-      <pubDate>Tue, 17 Oct 2023 12:43:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>宇宙飞船殖民地建造模拟游戏 Stardeus 现已进行重大升级</title>
-      <link>https://www.gamingonlinux.com/2023/10/spaceship-colony-building-sim-stardeus-has-a-major-upgrade-out-now/</link>
-      <description><![CDATA[来自 Kodo Linija 和 Paradox Arc 的 Stardeus 是一款殖民地建筑模拟游戏，故事发生在一艘需要重建的破损宇宙飞船上，并且已经发布了全新的重大升级和大修。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/10/spaceship-colony-building-sim-stardeus-has-a-major-upgrade-out-now/</guid>
-      <pubDate>Tue, 17 Oct 2023 11:45:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>在最近的恶意翻译之后，Ubuntu Desktop 23.10 现在再次可用</title>
-      <link>https://www.gamingonlinux.com/2023/10/ubuntu-desktop-2310-now-available-again-after-the-recent-hostile-translation/</link>
-      <description><![CDATA[对于那些想要下载 Ubuntu Desktop 23.10 的人来说是个好消息，因为最近涉及恶意翻译的问题已经得到解决，因此下载量再次增加。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/10/ubuntu-desktop-2310-now-available-again-after-the-recent-hostile-translation/</guid>
-      <pubDate>Tue, 17 Oct 2023 11:31:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>适用于经典 RTS 游戏的 OpenRA 版本 20231010 现已推出</title>
-      <link>https://www.gamingonlinux.com/2023/10/openra-for-classic-rts-gaming-version-20231010-is-out-now/</link>
-      <description><![CDATA[结果我的 RSS 阅读器坏了，所以我最近错过了很多很棒的东西，比如针对命令与征服、红色警戒和沙丘 2000 等经典 RTS 游戏的优秀 OpenRA 游戏引擎的全新稳定公开版本。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/10/openra-for-classic-rts-gaming-version-20231010-is-out-now/</guid>
-      <pubDate>Tue, 17 Oct 2023 11:17:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Steam Desktop 和 Steam Deck Beta 添加了新的陀螺仪模式并修复了游戏内购买</title>
-      <link>https://www.gamingonlinux.com/2023/10/steam-desktop-and-steam-deck-beta-add-new-gyro-mode-and-fixes-in-game-purchases/</link>
-      <description><![CDATA[Valve 发布了适用于桌面版和 Steam Deck 的 Steam 客户端的全新更新，修复了一些错误，同时还提供了另一个新的实验性陀螺仪模式。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/10/steam-desktop-and-steam-deck-beta-add-new-gyro-mode-and-fixes-in-game-purchases/</guid>
-      <pubDate>Tue, 17 Oct 2023 10:55:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
