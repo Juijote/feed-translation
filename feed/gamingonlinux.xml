@@ -4,7 +4,28 @@
     <title>GamingOnLinux 最新文章</title>
     <link>https://www.gamingonlinux.com/</link>
     <description>GamingOnLinux 的最新文章</description>
-    <lastBuildDate>Thu, 19 Oct 2023 16:47:20 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Oct 2023 10:58:24 GMT</lastBuildDate>
+    <item>
+      <title>在最新的 Minecraft 快照中开始你的工业革命</title>
+      <link>https://www.gamingonlinux.com/2023/10/begin-your-industrial-revolution-in-the-latest-minecraft-snapshot/</link>
+      <description><![CDATA[现在 Minecraft Live 已经结束，开发者已经开始在即将发布的 Minecraft 1.21 之前推出预览版。刚刚发布了一个新的快照，其中包含 Crafter 块等新功能。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/10/begin-your-industrial-revolution-in-the-latest-minecraft-snapshot/</guid>
+      <pubDate>Fri, 20 Oct 2023 10:58:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>赶快行动，领取这些免费游戏，例如 CRYPTARK 和 The Evil Within</title>
+      <link>https://www.gamingonlinux.com/2023/10/act-quick-to-claim-these-free-games-like-cryptark-and-the-evil-within/</link>
+      <description><![CDATA[周末需要一些免费游戏吗？这里为您提供了一些您可以声称保留的游戏列表，这样您就没有理由度过无聊的时光。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/10/act-quick-to-claim-these-free-games-like-cryptark-and-the-evil-within/</guid>
+      <pubDate>Fri, 20 Oct 2023 10:41:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lutris 游戏管理器 v0.5.14 添加了 EA App 集成，扩展了 Flatpak 支持</title>
+      <link>https://www.gamingonlinux.com/2023/10/lutris-game-manager-v0514-adds-ea-app-integration-expanded-flatpak-support/</link>
+      <description><![CDATA[游戏管理器 Lutris 发布了一个全新版本，其中包含一些贴心的新功能，所以是时候再看看在 Linux 和 Steam Deck 上几乎任何地方运行游戏的最佳方法之一了。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/10/lutris-game-manager-v0514-adds-ea-app-integration-expanded-flatpak-support/</guid>
+      <pubDate>Fri, 20 Oct 2023 10:20:17 GMT</pubDate>
+    </item>
     <item>
       <title>通过 Fanatical 的 Premium Play on the Go 捆绑包获取更多 Steam Deck 游戏</title>
       <link>https://www.gamingonlinux.com/2023/10/grab-more-steam-deck-games-with-fanaticals-premium-play-on-the-go-bundle/</link>
@@ -43,7 +64,7 @@
     <item>
       <title>适合 Linux 的轻松简约建筑策略游戏 Tiny Atolls</title>
       <link>https://www.gamingonlinux.com/2023/10/relaxing-minimalist-building-strategy-game-tiny-atolls-fixed-up-for-linux/</link>
-      <description><![CDATA[Tiny Atolls 于 9 月底发布，虽然我非常喜欢它，但它确实附带了一个相当损坏的 Linux 版本，现已修复。]]></description>
+      <description><![CDATA[Tiny Atolls 于 9 月底发布，虽然我很喜欢它，但它确实附带了一个相当损坏的 Linux 版本，现在已经修复了。]]></description>
       <guid>https://www.gamingonlinux.com/2023/10/relaxing-minimalist-building-strategy-game-tiny-atolls-fixed-up-for-linux/</guid>
       <pubDate>Thu, 19 Oct 2023 11:43:24 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[在推出了《Star Traders: Frontiers》和《Templar Battleforce》等一些出色的游戏之后，Trese Brothers 确实提高了《Cyber​​ Knights: Flashpoint》的制作价值，这款游戏最终可能会成为下一款大型回合制战术游戏。]]></description>
       <guid>https://www.gamingonlinux.com/2023/10/cyber-knights-flashpoint-from-trese-brothers-is-now-in-early-access/</guid>
       <pubDate>Wed, 18 Oct 2023 16:38:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>《月光与阳光》游戏和桌面流媒体更新现已推出</title>
-      <link>https://www.gamingonlinux.com/2023/10/moonlight-and-sunshine-game-and-desktop-streaming-updates-out-now/</link>
-      <description><![CDATA[Moonlight 和 Sunshine 是允许您通过网络流式传输整个 PC 的项目，如果 Steam 远程游戏无法正常工作，这非常有用，并且可以作为 NVIDIA GameStream 的替代方案。这两个项目最近都有重大升级。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/10/moonlight-and-sunshine-game-and-desktop-streaming-updates-out-now/</guid>
-      <pubDate>Wed, 18 Oct 2023 16:33:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>方向盘管理器 Oversteer v0.8.0 增加了新的硬件支持</title>
-      <link>https://www.gamingonlinux.com/2023/10/steering-wheel-manager-oversteer-v080-adds-new-hardware-support/</link>
-      <description><![CDATA[拥有方向盘并想在 Linux 上管理您的所有赛车和卡车游戏？过度转向正是您所需要的，最近发布了新版本。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/10/steering-wheel-manager-oversteer-v080-adds-new-hardware-support/</guid>
-      <pubDate>Wed, 18 Oct 2023 10:37:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mudborne 是一款即将推出的休闲自然模拟游戏，内容涉及繁殖和收集青蛙</title>
-      <link>https://www.gamingonlinux.com/2023/10/mudborne-is-an-upcoming-laid-back-nature-sim-about-breeding-collecting-frogs/</link>
-      <description><![CDATA[您已经见过 APICO，您可以在那里收集和饲养蜜蜂，但是青蛙呢？嗯，这正是同一开发商的《Mudborne》所拥有的。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/10/mudborne-is-an-upcoming-laid-back-nature-sim-about-breeding-collecting-frogs/</guid>
-      <pubDate>Wed, 18 Oct 2023 10:12:04 GMT</pubDate>
     </item>
     </channel>
 </rss>
