@@ -4,7 +4,21 @@
     <title>GamingOnLinux 最新文章</title>
     <link>https://www.gamingonlinux.com/</link>
     <description>GamingOnLinux 的最新文章</description>
-    <lastBuildDate>Fri, 20 Oct 2023 17:46:40 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Oct 2023 09:58:07 GMT</lastBuildDate>
+    <item>
+      <title>Proton 获得《铁拳 8》、《火爆天堂重制版》、《赛博朋克 2077》的升级</title>
+      <link>https://www.gamingonlinux.com/2023/10/proton-gets-upgrades-for-tekken-8-burnout-paradise-remastered-cyberpunk-2077/</link>
+      <description><![CDATA[Valve 最近发布了两个单独的 Proton 升级，Proton Hotfix 和 Proton Experimental 都发布了。以下是 Steam Deck 和桌面 Linux 游戏的新增功能。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/10/proton-gets-upgrades-for-tekken-8-burnout-paradise-remastered-cyberpunk-2077/</guid>
+      <pubDate>Sat, 21 Oct 2023 09:58:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Steam Deck Beta 获得了一些重要的错误修复和新的陀螺仪选项</title>
+      <link>https://www.gamingonlinux.com/2023/10/steam-deck-beta-gets-some-essential-bug-fixes-and-new-gyro-options/</link>
+      <description><![CDATA[Valve 在 Steam Deck 的最新预览版和 Beta 版更新中修复了一些不错的错误，以下是为您介绍的新增内容和改进内容。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/10/steam-deck-beta-gets-some-essential-bug-fixes-and-new-gyro-options/</guid>
+      <pubDate>Sat, 21 Oct 2023 09:49:54 GMT</pubDate>
+    </item>
     <item>
       <title>Mosa Lina 是一款纯粹的物理益智平台混沌游戏</title>
       <link>https://www.gamingonlinux.com/2023/10/mosa-lina-is-pure-physics-puzzle-platforming-chaos/</link>
@@ -43,7 +57,7 @@
     <item>
       <title>赶快行动，领取这些免费游戏，例如 CRYPTARK 和 The Evil Within</title>
       <link>https://www.gamingonlinux.com/2023/10/act-quick-to-claim-these-free-games-like-cryptark-and-the-evil-within/</link>
-      <description><![CDATA[周末需要一些免费游戏吗？这里为您提供了一些您可以声称保留的游戏列表，这样您就没有理由度过无聊的时光。]]></description>
+      <description><![CDATA[周末需要一些免费游戏吗？这里为您提供了一些您可以声称保留的游戏列表，这样您就没有借口度过无聊的时光。]]></description>
       <guid>https://www.gamingonlinux.com/2023/10/act-quick-to-claim-these-free-games-like-cryptark-and-the-evil-within/</guid>
       <pubDate>Fri, 20 Oct 2023 10:41:32 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[Tiny Atolls 于 9 月底发布，虽然我非常喜欢它，但它确实附带了一个相当损坏的 Linux 版本，现已修复。]]></description>
       <guid>https://www.gamingonlinux.com/2023/10/relaxing-minimalist-building-strategy-game-tiny-atolls-fixed-up-for-linux/</guid>
       <pubDate>Thu, 19 Oct 2023 11:43:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>Sweet Dreams Alex 是一款有益健康的益智和建造游戏</title>
-      <link>https://www.gamingonlinux.com/2023/10/sweet-dreams-alex-is-a-wholesome-puzzle-and-construction-game/</link>
-      <description><![CDATA[《Sweet Dreams Alex》将谜题和房间建造结合在一起，对于一款远离噩梦的游戏来说是一个相当有益的想法，它现已推出并支持原生 Linux。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/10/sweet-dreams-alex-is-a-wholesome-puzzle-and-construction-game/</guid>
-      <pubDate>Thu, 19 Oct 2023 11:23:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>寒冷的生存冒险游戏《Kona II: Brume》现已推出</title>
-      <link>https://www.gamingonlinux.com/2023/10/chilly-survival-adventure-kona-ii-brume-is-out-now/</link>
-      <description><![CDATA[开发商 Parabole 刚刚发布了《Kona II: Brume》，这是他们 2017 年寒冷冒险的后续作品，让你重新扮演侦探 Carl Faubert 的角色。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/10/chilly-survival-adventure-kona-ii-brume-is-out-now/</guid>
-      <pubDate>Thu, 19 Oct 2023 10:50:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
