@@ -4,7 +4,14 @@
     <title>GamingOnLinux 最新文章</title>
     <link>https://www.gamingonlinux.com/</link>
     <description>GamingOnLinux 的最新文章</description>
-    <lastBuildDate>Sat, 21 Oct 2023 09:58:07 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Oct 2023 16:39:50 GMT</lastBuildDate>
+    <item>
+      <title>欢迎来到新的且几乎相同的 GamingOnLinux</title>
+      <link>https://www.gamingonlinux.com/2023/10/welcome-to-the-new-and-much-the-same-gamingonlinux/</link>
+      <description><![CDATA[新服务器谁diss？再一次问好。 GamingOnLinux 刚刚完成了完整的服务器迁移，所以如果您看到此内容，欢迎回家，请在门口擦脚。]]></description>
+      <guid>https://www.gamingonlinux.com/2023/10/welcome-to-the-new-and-much-the-same-gamingonlinux/</guid>
+      <pubDate>Sun, 22 Oct 2023 16:39:50 GMT</pubDate>
+    </item>
     <item>
       <title>Proton 获得《铁拳 8》、《火爆天堂重制版》、《赛博朋克 2077》的升级</title>
       <link>https://www.gamingonlinux.com/2023/10/proton-gets-upgrades-for-tekken-8-burnout-paradise-remastered-cyberpunk-2077/</link>
@@ -57,7 +64,7 @@
     <item>
       <title>赶快行动，领取这些免费游戏，例如 CRYPTARK 和 The Evil Within</title>
       <link>https://www.gamingonlinux.com/2023/10/act-quick-to-claim-these-free-games-like-cryptark-and-the-evil-within/</link>
-      <description><![CDATA[周末需要一些免费游戏吗？这里为您提供了一些您可以声称保留的游戏列表，这样您就没有借口度过无聊的时光。]]></description>
+      <description><![CDATA[周末需要一些免费游戏吗？这里为您提供了一些您可以声称保留的游戏列表，这样您就没有理由度过无聊的时光。]]></description>
       <guid>https://www.gamingonlinux.com/2023/10/act-quick-to-claim-these-free-games-like-cryptark-and-the-evil-within/</guid>
       <pubDate>Fri, 20 Oct 2023 10:41:32 GMT</pubDate>
     </item>
@@ -92,7 +99,7 @@
     <item>
       <title>Humble Bundle 在这个捆绑包中准备了很多模拟器</title>
       <link>https://www.gamingonlinux.com/2023/10/humble-bundle-has-a-load-of-simulators-ready-in-this-bundle/</link>
-      <description><![CDATA[进入模拟！有了《生活在模拟简陋捆绑包》中，您可以实现对农业、建筑等的疯狂幻想，因为您喜欢这些工作作为游戏，对吗？]]></description>
+      <description><![CDATA[进入模拟！有了《生活在模拟简陋捆绑包》中，您可以实现对农业、建筑等的疯狂幻想，因为您喜欢这些工作作为游戏，对吧？]]></description>
       <guid>https://www.gamingonlinux.com/2023/10/humble-bundle-has-a-load-of-simulators-ready-in-this-bundle/</guid>
       <pubDate>Thu, 19 Oct 2023 12:38:39 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[《行星湮灭》的开发商（好吧，至少是其中一些开发商）已经宣布推出《工业湮灭》，这是一款将工厂建筑与 RTS 元素融为一体的完整续作。]]></description>
       <guid>https://www.gamingonlinux.com/2023/10/planetary-annihilation-devs-reveal-industrial-annihilation/</guid>
       <pubDate>Thu, 19 Oct 2023 12:07:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>适合 Linux 的轻松简约建筑策略游戏 Tiny Atolls</title>
-      <link>https://www.gamingonlinux.com/2023/10/relaxing-minimalist-building-strategy-game-tiny-atolls-fixed-up-for-linux/</link>
-      <description><![CDATA[Tiny Atolls 于 9 月底发布，虽然我非常喜欢它，但它确实附带了一个相当损坏的 Linux 版本，现已修复。]]></description>
-      <guid>https://www.gamingonlinux.com/2023/10/relaxing-minimalist-building-strategy-game-tiny-atolls-fixed-up-for-linux/</guid>
-      <pubDate>Thu, 19 Oct 2023 11:43:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
