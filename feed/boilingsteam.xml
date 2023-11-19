@@ -4,13 +4,13 @@
     <title>沸腾的蒸汽</title>
     <link>https://boilingsteam.com</link>
     <description>Linux 上的 PC 游戏就是明天！</description>
-    <lastBuildDate>Sat, 18 Nov 2023 14:41:11 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 Nov 2023 03:10:17 GMT</lastBuildDate>
     <item>
       <title>Steam Deck OLED：引擎盖下的重大修改</title>
       <link>https://boilingsteam.com/steam-deck-revision-internal-changes/index.html</link>
       <description><![CDATA[您现在可能已经知道，在 Valve 最初发布消息后不久，Steam Deck OLED 就已经可供购买。 Gamer Nexus 很早就收到了一台设备，并对 LCD 和 OLED Steam Deck 的内部结构进行了非常详尽的比较，并且修订版比我们第一次发布时预期的要远得多。我建议您观看下面的视频。 https://youtu.be/9jhRh11bTRA 事实证明，这些变化不仅仅是屏幕变化和更大的电池。这是一次真正的、深入的硬件修订，下面是上述视频中的几张图片，捕捉了 Steam Deck 所经历的主要变化。]]></description>
       <guid>https://boilingsteam.com/steam-deck-revision-internal-changes/index.html</guid>
-      <pubDate>Sat, 18 Nov 2023 14:37:10 GMT</pubDate>
+      <pubDate>Sun, 19 Nov 2023 03:07:00 GMT</pubDate>
     </item>
     <item>
       <title>带有原生 Linux 客户端的新 Steam 游戏，包括 Astral Ascent、Backpack Hero 和 Bzzzt - 2023 年 11 月 15 日版</title>
@@ -43,7 +43,7 @@
     <item>
       <title>《女神异闻录 5 Tactica》在发售前一周已通过 Steam 平台验证</title>
       <link>https://boilingsteam.com/persona5-tactica-steam-deck-verified-one-week-before-release/index.html</link>
-      <description><![CDATA[《女神异闻录 5 Tactica》是 Atlus 出品的《女神异闻录》系列的最新热门剧集，它是一款回合制战术游戏，正如我们在 2023 年东京游戏展预览中详细讨论的那样。该游戏原本应该在一周后即 2023 年 11 月 17 日发布。然而，显然出现了一些错误（毫无疑问是由 10 个手指造成的），游戏意外地在 Steam 上发布了几个小时今天在被拉回来之前。 https://www.youtube.com/watch?v=hO2gbYF7cSA 无论如何，这款游戏很快就会推出，这次是真的，好消息是 Valve 显然已经确认这款游戏将会在已针对 Steam Deck 进行验证。]]></description>
+      <description><![CDATA[《女神异闻录 5 Tactica》是 Atlus 出品的《女神异闻录》系列的最新热门剧集，它是一款回合制战术游戏，正如我们在 2023 年东京游戏展预览中详细讨论的那样。该游戏原本应该在一周后即 2023 年 11 月 17 日发布。然而，显然出现了一些错误（毫无疑问是由 10 个手指造成的），游戏意外地在 Steam 上发布了几个小时今天被拉回来之前。 https://www.youtube.com/watch?v=hO2gbYF7cSA 无论如何，游戏很快就会发布，这次是真的，好消息是 Valve 显然已经确认游戏将在已针对 Steam Deck 进行验证。]]></description>
       <guid>https://boilingsteam.com/persona5-tactica-steam-deck-verified-one-week-before-release/index.html</guid>
       <pubDate>Fri, 10 Nov 2023 12:24:06 GMT</pubDate>
     </item>
@@ -78,7 +78,7 @@
     <item>
       <title>再见曼扎罗！用于游戏的发行版的演变更新 - 2023 年 11 月</title>
       <link>https://boilingsteam.com/goodbye-manjaro-update-on-the-evolution-of-distros-used-for-gaming-nov-2023/index.html</link>
-      <description><![CDATA[大约六个月后，我们对用于 Linux 上的游戏的发行版进行了更新，现在是时候进行更新了。提醒一下，我们使用 ProtonDB 进行此分析。它的工作方式是，我们从每个报告中提取配置数据，并将其转换为至少在给定月份暂时对应于单个用户的唯一标识符。然后，我们查看每个唯一用户每月使用的发行版，最后得到下图。正如您所预料的那样，每个月都会有变化，但一旦您将视野延长到 3 至 6 个月，趋势就相当清晰。我强烈建议您点击图片查看更多详细信息，否则可能很难阅读：我们通常会收到很多关于 Flatpak 的问题，例如“为什么 Flatpak 在那里？这不是发行版！”。这是事实，但比这要微妙得多。当您通过 Flatpak 运行 Steam 时，您几乎一开始就没有使用主机发行版中的任何内容（除了内核和一些库之外）。基本操作系统环境、图形驱动程序也封装在最终运行 Steam 的隔离环境中，因此实际上您正在使用与您的主机发行版无关的东西。因此，虽然严格来说不是一个发行版，但它肯定是一个与您运行的任何发行版不同的环境，因此值得跟踪。回到图表，我们还准备了相同数据的动画视图，以防您更喜欢随着音乐移动的东西：]]></description>
+      <description><![CDATA[大约六个月后，我们对用于 Linux 上的游戏的发行版进行了更新，现在是时候进行更新了。提醒一下，我们使用 ProtonDB 进行此分析。它的工作方式是，我们从每个报告中提取配置数据，并将其转换为至少在给定月份暂时对应于单个用户的唯一标识符。然后，我们查看每个唯一用户每月使用的发行版，最后得到下图。正如您所预料的那样，每个月都会有变化，但一旦您将视野延长到 3 至 6 个月，趋势就相当清晰。我强烈建议您点击图片查看更多详细信息，否则可能很难阅读：我们通常会收到很多有关 Flatpak 的问题，例如“为什么 Flatpak 在那里？这不是发行版！”。这是事实，但比这要微妙得多。当您通过 Flatpak 运行 Steam 时，您几乎一开始就没有使用主机发行版中的任何内容（除了内核和一些库之外）。基本操作系统环境、图形驱动程序也封装在最终运行 Steam 的隔离环境中，因此实际上您正在使用与您的主机发行版无关的东西。因此，虽然严格来说不是一个发行版，但它肯定是一个与您运行的任何发行版不同的环境，因此值得跟踪。回到图表，我们还准备了相同数据的动画视图，以防您更喜欢随着音乐移动的东西：]]></description>
       <guid>https://boilingsteam.com/goodbye-manjaro-update-on-the-evolution-of-distros-used-for-gaming-nov-2023/index.html</guid>
       <pubDate>Fri, 03 Nov 2023 21:56:12 GMT</pubDate>
     </item>
