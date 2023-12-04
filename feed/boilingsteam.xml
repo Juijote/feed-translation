@@ -4,7 +4,14 @@
     <title>沸腾的蒸汽</title>
     <link>https://boilingsteam.com</link>
     <description>Linux 上的 PC 游戏就是明天！</description>
-    <lastBuildDate>Mon, 04 Dec 2023 00:37:48 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 Dec 2023 02:39:19 GMT</lastBuildDate>
+    <item>
+      <title>原生 Linux 狂热者发生了什么？</title>
+      <link>https://boilingsteam.com/what-happened-to-the-native-linux-zealots/index.html</link>
+      <description><![CDATA[那是不久前的事了。如果您在结束一天的工作后拿着啤酒浏览 Reddit 查找与 Linux 游戏相关的新闻，您一定会找到它们。这些反复出现的帖子获得了大量的点赞，其中的主要信息是“No Tux No Bucks”或其他一些缺乏想象力的双关语。这些帖子总是遵循相同的模式：一些 Linux 用户对依赖 WINE 或 Proton 等替代技术将游戏移植到 Linux 的开发人员或移植人员失去了理智。骂名！异端邪说！他们怎么敢？ （Greta TM）掘墓人可能会挖掘出很多关于那个不愿透露姓名的人的端口的线索（好吧，我会节省你一些时间，这是虚拟编程的《巫师2》）。当然，他们的港口一开始就很糟糕，但随之而来的愤怒和无情的骚扰，更能说明批评者的心理健康状况。 《巫师2》并不是唯一一部受到谩骂的游戏。 Humble Bundle 早期依赖于多个 WINE 端口（LIMBO，有人吗？）并接受了类似的待遇。尽管具有讽刺意味的是，前几个 Humble Bundle 中的大多数本机端口几乎都没有启动（缺少库的问题），但 LIMBO 实际上还是有效的。毕竟，你不能指望狂热分子保持一致和公平。相比之下，现在的一切显得那么平静。现在是 2023 年，在 Reddit 上的浩瀚粪便海洋中，你很少再偶然发现这样的帖子了。好无聊！]]></description>
+      <guid>https://boilingsteam.com/what-happened-to-the-native-linux-zealots/index.html</guid>
+      <pubDate>Mon, 04 Dec 2023 02:37:20 GMT</pubDate>
+    </item>
     <item>
       <title>带有本机 Linux 客户端的新 Steam 游戏以及 Retro Commander 和 Sand:Box - 2023 年 11 月 29 日版</title>
       <link>https://boilingsteam.com/new-steam-games-with-native-linux-clients-2023-11-29-edition/index.html</link>
@@ -15,7 +22,7 @@
     <item>
       <title>TGS2023 挖泥机开发人员访谈</title>
       <link>https://boilingsteam.com/interview-with-dredge-developers-at-the-tgs2023/index.html</link>
-      <description><![CDATA[Dredge 是新西兰工作室 Black Salt Games 制作的一款游戏。它将洛夫克拉夫特式的恐怖与与钓鱼和探索海洋相关的机制融合在一起。纸面上听起来可能很奇怪，但执行却恰到好处，让您着迷。游戏背后只有少数人： - Nadia Thorne（制作人、首席执行官） - Joel Mason（程序员、作家） - Alex Ritchie（首席艺术家、2D 艺术、科技艺术）]]></description>
+      <description><![CDATA[Dredge 是一款由新西兰工作室 Black Salt Games 制作的游戏。它将洛夫克拉夫特式的恐怖与与钓鱼和探索海洋相关的机制融合在一起。纸面上听起来可能很奇怪，但执行却恰到好处，让你着迷。游戏背后只有少数人： - Nadia Thorne（制作人、首席执行官） - Joel Mason（程序员、作家） - Alex Ritchie（首席艺术家、2D 艺术、科技艺术）]]></description>
       <guid>https://boilingsteam.com/interview-with-dredge-developers-at-the-tgs2023/index.html</guid>
       <pubDate>Tue, 28 Nov 2023 16:08:07 GMT</pubDate>
     </item>
@@ -36,7 +43,7 @@
     <item>
       <title>午夜抢劫 - 抢劫和僵尸，在 Linux 上评论</title>
       <link>https://boilingsteam.com/midnight-heist-review/index.html</link>
-      <description><![CDATA[Midnight Heist 由 MediaTale 开发和发行，承诺提供一款抢劫与恐怖结合的游戏，遗憾的是我两者都没有感觉到。单调的抢劫遇上标签会是更好的描述。作为一名小偷，你闯入办公室并开始打开抽屉收集（垃圾）战利品，或者插入计算机以获取“数据”。在某个时刻，保安，奇怪的是一个僵尸般的实体，决定是时候工作并四处巡逻了。当你离开或被僵尸标记时游戏结束。冲洗并重复，就像西西弗斯一样，用你的奖励解锁化妆品。您以第一人称视角玩这款 3D 游戏，使用鼠标和键盘瞄准工具、四处移动并与对象交互。你指着抽屉按E键打开，如果里面有垃圾你可以挑选，几十个抽屉后你开始思考为什么有人会把这个烦人的重复任务作为核心机制，这超出了我的理解。另一个核心循环是利用你的一个小工具（手机）进入计算机下载“数据”，在加载后启动黑客小游戏。它们都是简单的谜题，例如连接点、解决个位数和或在正确的时间按下按钮。每个关卡都有很多台电脑，感觉就像买了一本填字游戏杂志来打发时间。]]></description>
+      <description><![CDATA[Midnight Heist 由 MediaTale 开发和发行，承诺提供一款抢劫与恐怖结合的游戏，遗憾的是我两者都没有感觉到。单调的抢劫遇上标签会是更好的描述。作为一名小偷，你闯入办公室并开始打开抽屉收集（垃圾）战利品，或者插入计算机以获取“数据”。在某个时刻，保安，奇怪的是一个僵尸般的实体，决定是时候工作并四处巡逻了。当你离开或被僵尸标记时游戏结束。冲洗并重复，就像西西弗斯一样，用你的奖励解锁化妆品。您以第一人称视角玩这款 3D 游戏，使用鼠标和键盘瞄准工具、四处移动并与物体互动。你指着抽屉按E键打开，如果里面有垃圾你可以挑选，几十个抽屉后你开始思考为什么有人会把这个烦人的重复任务作为核心机制，这超出了我的理解。另一个核心循环是利用你的一个小工具（手机）进入计算机下载“数据”，在加载后启动黑客小游戏。它们都是简单的谜题，例如连接点、解决个位数和或在正确的时间按下按钮。每个关卡都有很多台电脑，感觉就像买了一本填字游戏杂志来打发时间。]]></description>
       <guid>https://boilingsteam.com/midnight-heist-review/index.html</guid>
       <pubDate>Mon, 20 Nov 2023 13:40:17 GMT</pubDate>
     </item>
@@ -57,7 +64,7 @@
     <item>
       <title>Headbangers，节奏游戏的替罪羊，在 Linux 和 Steam Deck 上进行了评论</title>
       <link>https://boilingsteam.com/headbangers-review/index.html</link>
-      <description><![CDATA[你喜欢鸽子吗？我希望如此，因为 Headbangers 充满了这种感觉。 Headbangers 是一款新的派对游戏（想想 Fall Guys），它将节奏迷你游戏与大型锦标赛的概念结合起来。公平警告：游戏强烈建议使用控制器和耳机进行游戏 - 如果您在安静的地方玩，耳机当然是可选的，但使用控制器似乎是比键盘更好的建议。那么，小游戏。每一个都是围绕独特的音乐主题和节奏模式设计的。玩家们与小组中的其他人竞争，每个阶段都是为了淘汰落后者并保留表现最好的人。到目前为止，在第 1 赛季中，第一阶段有 30 人参加锦标赛，第二阶段有 20 人，第三阶段有 10 人，最后阶段有 5 人。如果你的表现始终高于平均水平，你就有很好的机会至少进入第三阶段，有时甚至进入决赛。你可能想知道……好吧，当我想玩的时候，总是有 30 名其他玩家可以和我一起玩吗？答案是不。有时，开始第一个游戏需要很长的等待时间（最多 2 分钟），如果游戏无法找到足够的玩家，它就会添加机器人。目前该游戏还不是免费游戏，因此这在很大程度上取决于它是否有能力产生一个愿意付费玩游戏的繁荣玩家社区。如您所知，《Fall Guys》从付费计划转变为免费游戏，现在不必担心其平台上缺乏玩家 - 但盈利成为一个需要考虑的不同问题。 https://www.youtube.com/watch?v=AF-DEBLGPuk]]></description>
+      <description><![CDATA[你喜欢鸽子吗？我希望如此，因为 Headbangers 充满了这种感觉。 Headbangers 是一款新的派对游戏（想想 Fall Guys），它将节奏迷你游戏与大型锦标赛的概念结合起来。公平警告：游戏强烈建议使用控制器和耳机进行游戏 - 如果您在安静的地方玩，耳机当然是可选的，但使用控制器似乎是比键盘更好的建议。那么，小游戏。每一个都是围绕独特的音乐主题和节奏模式设计的。玩家们与小组中的其他人竞争，每个阶段都是为了淘汰落后者并保留表现最好的人。到目前为止，在第 1 赛季中，第一阶段有 30 人参加锦标赛，第二阶段有 20 人，第三阶段有 10 人，最后阶段有 5 人。如果你的表现始终高于平均水平，你就有很好的机会至少进入第三阶段，有时甚至进入决赛。你可能想知道……好吧，当我想玩的时候，总是有 30 名其他玩家可以和我一起玩吗？答案是不。有时，开始第一个游戏需要很长的等待时间（最多 2 分钟），如果游戏无法找到足够的玩家，它就会添加机器人。目前该游戏还不是免费游戏，因此这在很大程度上取决于它能否产生一个愿意付费玩游戏的繁荣玩家社区。如您所知，《Fall Guys》从付费计划转变为免费游戏，现在不必担心其平台上缺乏玩家 - 但盈利成为另一个需要考虑的问题。 https://www.youtube.com/watch?v=AF-DEBLGPuk]]></description>
       <guid>https://boilingsteam.com/headbangers-review/index.html</guid>
       <pubDate>Mon, 13 Nov 2023 02:47:40 GMT</pubDate>
     </item>
@@ -76,9 +83,9 @@
       <pubDate>Fri, 10 Nov 2023 14:08:56 GMT</pubDate>
     </item>
     <item>
-      <title>《女神异闻录 5 Tactica》在发售前一周已通过 Steam Deck 验证</title>
+      <title>《女神异闻录 5 Tactica》在发售前一周已通过 Steam 平台验证</title>
       <link>https://boilingsteam.com/persona5-tactica-steam-deck-verified-one-week-before-release/index.html</link>
-      <description><![CDATA[《女神异闻录 5 Tactica》是 Atlus 出品的《女神异闻录》系列的最新热门剧集，它是一款回合制战术游戏，正如我们在 2023 年东京游戏展预览中详细讨论的那样。该游戏原本应该在一周后即 2023 年 11 月 17 日发布。然而，显然出现了一些错误（毫无疑问是由 10 个手指造成的），游戏意外地在 Steam 上发布了几个小时今天在被拉回来之前。 https://www.youtube.com/watch?v=hO2gbYF7cSA 无论如何，游戏很快就会发布，这次是真的，好消息是 Valve 显然已经确认游戏将在已针对 Steam Deck 进行验证。]]></description>
+      <description><![CDATA[《女神异闻录 5 Tactica》是 Atlus 出品的《女神异闻录》系列中的最新热门剧集，它是一款回合制战术游戏，正如我们在 2023 年东京游戏展预览中详细讨论的那样。该游戏原本应该在一周后即 2023 年 11 月 17 日发布。然而，显然出现了一些错误（毫无疑问是由 10 个手指造成的），游戏意外地在 Steam 上发布了几个小时今天在被拉回来之前。 https://www.youtube.com/watch?v=hO2gbYF7cSA 无论如何，这款游戏很快就会推出，这次是真的，好消息是 Valve 显然已经确认这款游戏将会在已针对 Steam Deck 进行验证。]]></description>
       <guid>https://boilingsteam.com/persona5-tactica-steam-deck-verified-one-week-before-release/index.html</guid>
       <pubDate>Fri, 10 Nov 2023 12:24:06 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[是的，2023 年东京游戏展已经结束有一段时间了，但还有一些材料我们没有耗尽。这是另一篇关于即将推出的名为 Undefeated 的游戏的文章。它是由位于日本大阪的一家小型工作室 Indie-Us 制作的，虽然它显然是一款独立游戏，但其品质却达到了 3A 级别。我希望以下内容能让您相信情况确实如此：https://www.Indie-Us.com。 youtube.com/watch?v=8g7_7dm37B8 正如您所看到的，这款游戏从《龙珠 Z》或最近的动漫（如《一拳超人》）中汲取了很多灵感，在广阔的开放空间中提供了扎实的动作、能量束和人类飞行。 Undefeated 使用虚幻引擎并且使用得很好。该游戏预计要到 2025 年才会上市，所以至少还需要一年半的时间，但从我们在 Bitsummit 2023 和 TGS 2023 上已经尝试过的内容来看，可玩的关卡感觉非常非常好，而且可能是从那里开始创建更多内容。它计划成为三部曲，第一部的副标题是“创世纪”。请注意，这一切都是从 2019 年在 Steam 上发布的第一个演示版开始的，当时游戏开发者还是学生，并收到了相当多的积极反馈。这说服了他们将其制作成一款完整的游戏 - 该游戏于 2023 年 7 月在日本京都的 Bitsummit 上首次以 Unrestricted 形式发布，此后更名为 Undefeated: Genesis。]]></description>
       <guid>https://boilingsteam.com/undefeated-at-the-tgs-2023/index.html</guid>
       <pubDate>Wed, 08 Nov 2023 05:55:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Proton 在 Linux 上玩的 11 款热门新游戏 – 2023 年 11 月版</title>
-      <link>https://boilingsteam.com/top-11-new-games-you-can-play-on-linux-with-proton-november-2023-edition/index.html</link>
-      <description><![CDATA[我们又带着平常的每月更新回来了！ Boiling Steam 查看 ProtonDB 的最新数据转储，为您提供自 2023 年 10 月发布以来与 Proton 完美配合（几乎？查看评级）的新游戏的快速列表 - 所有这些游戏都可以开箱即用或运行良好调整： - 星际迷航：无限：ProtonDB 信息 - Steam 商店 - 暗黑破坏神 IV：ProtonDB 信息 - Steam 商店 - Wargroove 2：ProtonDB 信息 - Steam 商店]]></description>
-      <guid>https://boilingsteam.com/top-11-new-games-you-can-play-on-linux-with-proton-november-2023-edition/index.html</guid>
-      <pubDate>Tue, 07 Nov 2023 11:52:39 GMT</pubDate>
     </item>
     </channel>
 </rss>
