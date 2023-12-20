@@ -4,7 +4,14 @@
     <title>沸腾的蒸汽</title>
     <link>https://boilingsteam.com</link>
     <description>Linux 上的 PC 游戏就是明天！</description>
-    <lastBuildDate>Wed, 20 Dec 2023 05:41:54 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 Dec 2023 12:59:54 GMT</lastBuildDate>
+    <item>
+      <title>受折磨的灵魂 - 噩梦般的怀旧之旅</title>
+      <link>https://boilingsteam.com/tormented-souls-review/index.html</link>
+      <description><![CDATA[一张照片。两姐妹。收到一张可怕的照片后，一开始对这些姐妹发生的事情的调查变成了一场噩梦。 《折磨的灵魂》于 2019 年发布，试图捕捉经典生存恐怖游戏的精髓，从《生化危机》、《寂静岭》和《致命框架》等游戏中汲取灵感。虽然它通过细致的环境和内心的血腥成功地营造了一种扣人心弦的氛围，但游戏在某些方面存在缺陷，让玩家在怀旧的欣赏和沮丧之间左右为难。]]></description>
+      <guid>https://boilingsteam.com/tormented-souls-review/index.html</guid>
+      <pubDate>Wed, 20 Dec 2023 12:57:36 GMT</pubDate>
+    </item>
     <item>
       <title>带有原生 Linux 客户端的新 Steam 游戏，包括 Born Again 和 Guardians of Holme - 2023 年 12 月 20 日版</title>
       <link>https://boilingsteam.com/new-steam-games-with-native-linux-clients-2023-12-20-edition/index.html</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[Midnight Heist 由 MediaTale 开发和发行，承诺提供一款抢劫与恐怖结合的游戏，遗憾的是我两者都没有感觉到。单调的抢劫遇上标签会是更好的描述。作为一名小偷，你闯入办公室并开始打开抽屉收集（垃圾）战利品，或者插入计算机以获取“数据”。在某个时刻，保安，奇怪的是一个僵尸般的实体，决定是时候工作并四处巡逻了。当你离开或被僵尸标记时游戏结束。冲洗并重复，就像西西弗斯一样，用你的奖励解锁化妆品。您以第一人称视角玩这款 3D 游戏，使用鼠标和键盘瞄准工具、四处移动并与对象交互。你指着抽屉按E键打开，如果里面有垃圾你可以挑选，几十个抽屉后你开始思考为什么有人会把这个烦人的重复任务作为核心机制，这超出了我的理解。另一个核心循环是利用你的一个小工具（手机）进入计算机下载“数据”，在加载后启动黑客小游戏。它们都是简单的谜题，例如连接点、解决个位数和或在正确的时间按下按钮。每个关卡都有很多台电脑，感觉就像买了一本填字游戏杂志来打发时间。]]></description>
       <guid>https://boilingsteam.com/midnight-heist-review/index.html</guid>
       <pubDate>Mon, 20 Nov 2023 13:40:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>Steam Deck OLED：引擎盖下的重大修改</title>
-      <link>https://boilingsteam.com/steam-deck-revision-internal-changes/index.html</link>
-      <description><![CDATA[您现在可能已经知道，在 Valve 最初发布消息后不久，Steam Deck OLED 就已经可供购买。 Gamer Nexus 很早就收到了一台设备，并对 LCD 和 OLED Steam Deck 的内部结构进行了非常详尽的比较，并且修订版比我们第一次发布时预期的要远得多。我建议您观看下面的视频。 https://youtu.be/9jhRh11bTRA 事实证明，这些变化不仅仅是屏幕变化和更大的电池。这是一次真正的、深入的硬件修订，下面是上述视频中的几张图片，捕捉了 Steam Deck 所经历的主要变化。]]></description>
-      <guid>https://boilingsteam.com/steam-deck-revision-internal-changes/index.html</guid>
-      <pubDate>Sun, 19 Nov 2023 03:07:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
