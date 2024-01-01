@@ -4,9 +4,16 @@
     <title>沸腾的蒸汽</title>
     <link>https://boilingsteam.com</link>
     <description>Linux 上的 PC 游戏就是明天！</description>
-    <lastBuildDate>Mon, 01 Jan 2024 04:47:12 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jan 2024 11:09:26 GMT</lastBuildDate>
     <item>
-      <title>2024 年新年快乐和一些新闻</title>
+      <title>Steam Deck OLED 在日本仍缺货</title>
+      <link>https://boilingsteam.com/the-steam-deck-oled-still-out-of-stock-in-japan/index.html</link>
+      <description><![CDATA[只是简单介绍一下日本的最新情况。你可能还记得，Steam Deck OLED 在 2023 年 11 月发布后不久在日本就断货了。我在 12 月份一直在关注这一情况，但情况没有改变。目前仍然无法订购 Steam Deck OLED。自 11 月以来，该单位一直缺货，而 12 月初有消息称，他们预计将在 12 月中旬收到一些新单位，但我不确定它们是否真的实现了。由于科莫多方面没有队列系统，因此无法进行预订，您唯一的选择就是每天检查页面上的更新。与此同时，那些能够买到一件（或多件）的人正在享受愉快的时光，例如在雅虎拍卖上以不错的加价出售它们。但如果你住在东京附近，那么去横滨的 Edion 商店并在展示 Steam Deck OLED 的活动楼层（六楼）碰碰运气可能会更好：]]></description>
+      <guid>https://boilingsteam.com/the-steam-deck-oled-still-out-of-stock-in-japan/index.html</guid>
+      <pubDate>Mon, 01 Jan 2024 07:01:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>2024 年新年快乐和一些消息</title>
       <link>https://boilingsteam.com/happy-new-year-2024-and-some-news/index.html</link>
       <description><![CDATA[首先祝大家2024年新年快乐！我们希望您在年底过得愉快。今年对于 Boiling Steam 来说也有些特别，因为几个月后我们也将庆祝我们的 10 周年纪念日。 2023 年，我们决定从 Wordpress 迁移到静态站点（在构建我们自己的静态站点生成器之后），正如您所期望的，还有许多事情需要实现。但必须做的最紧迫的事情之一是导入网站上尚未提供的大部分旧文章。自 2020 年以来，我们一直在使用 Git 来记录和跟踪所有文章的更改，但 2020 年之前的所有内容基本上都在 Wordpress 数据库中。在过去的几个月里，我一直致力于制作一个导入脚本，它将存储在数据库中的所有 Wordpress 语法转换为常规的 Markdown 文档。你最终会得到一段相当长的代码，其中有很多正则表达式和 if 条件来删除主要与 WordPress 相关的内容。这项工作现已基本完成，我们已经能够导入 2014 年以来大部分缺失的文章。您现在可以通过这个列出所有已发表文章的新页面直接访问它们。迁移尚未完成。仍然有一些缺失的图片，一些损坏的链接，以及一些需要 CSS 调整样式的东西。但至少，大部分的文字内容已经移动，其余的空白将会逐步修复。好处是，我们最终会将 10 年的历史记录存储到 Git 中，这使得整个网站从现在开始完全可移植。]]></description>
       <guid>https://boilingsteam.com/happy-new-year-2024-and-some-news/index.html</guid>
@@ -43,14 +50,14 @@
     <item>
       <title>GameSir T4 Kaleid - 适用于 Linux 的带有霍尔效应模拟摇杆的合适游戏手柄？</title>
       <link>https://boilingsteam.com/gamesir-t4-kaleid-review/index.html</link>
-      <description><![CDATA[我使用 Linux 遇到的第一个问题是外围设备支持，大约 20 年前：它无法识别我来自本地公司的廉价鼠标，第二天我就出去购买了我的第一个精美输入设备，Linux 论坛推荐的 Microsoft 鼠标。它物有所值，我用了近十年，而且有可靠的保修。困扰我早期 Linux 经历的另一个问题是软件相关的硬件。我之前说过，抱歉，我仍然会犯这些错误，就像几年前，我在没有阅读小字的情况下购买了 Sound BlasterX G6 - 您仍然需要 Windows 设备来进行初始设置和后续设置更改。 AntiMicroX、Piper 和许多其他工具可以帮助您配置设备，但没有一个是没有限制的。因此，我尽力寻找插入 Linux 机器时不会受到影响的设备。就目前的游戏手柄而言，PlayStation 的 DualSense 仍然是我心中的王者。]]></description>
+      <description><![CDATA[我使用 Linux 遇到的第一个问题是外围设备支持，大约 20 年前：它无法识别我来自本地公司的廉价鼠标，第二天我就出去购买了我的第一个精美输入设备，Linux 论坛推荐的 Microsoft 鼠标。它物有所值，我用了近十年，而且有可靠的保修。困扰我早期 Linux 经历的另一个问题是软件相关的硬件。我之前说过，抱歉，我仍然犯这些错误，就像几年前，我在没有阅读小字的情况下购买了 Sound BlasterX G6 - 您仍然需要 Windows 设备来进行初始设置和后续设置更改。 AntiMicroX、Piper 和许多其他工具可以帮助您配置设备，但没有一个是没有限制的。因此，我尽力寻找插入 Linux 机器时不会受到影响的设备。就目前的游戏手柄而言，PlayStation 的 DualSense 仍然是我心中的王者。]]></description>
       <guid>https://boilingsteam.com/gamesir-t4-kaleid-review/index.html</guid>
       <pubDate>Sat, 23 Dec 2023 14:09:00 GMT</pubDate>
     </item>
     <item>
       <title>受折磨的灵魂 - 噩梦般的怀旧之旅</title>
       <link>https://boilingsteam.com/tormented-souls-review/index.html</link>
-      <description><![CDATA[一张照片。两姐妹。收到一张可怕的照片后，一开始对这些姐妹发生的事情的调查变成了一场噩梦。 《折磨的灵魂》于 2019 年发布，试图捕捉经典生存恐怖游戏的精髓，从《生化危机》、《寂静岭》和《致命框架》等游戏中汲取灵感。虽然它通过细致的环境和内心的血腥成功地营造了一种扣人心弦的氛围，但游戏在某些方面存在缺陷，让玩家在怀旧的欣赏和沮丧之间左右为难。]]></description>
+      <description><![CDATA[一张照片。两姐妹。在收到一张可怕的照片后，一开始对这些姐妹发生的事情的调查变成了一场噩梦。 《折磨的灵魂》于 2019 年发布，试图捕捉经典生存恐怖游戏的精髓，从《生化危机》、《寂静岭》和《致命框架》等游戏中汲取灵感。虽然它通过细致的环境和内心的血腥成功地营造了一种扣人心弦的氛围，但游戏在某些方面存在缺陷，让玩家在怀旧的欣赏和沮丧之间左右为难。]]></description>
       <guid>https://boilingsteam.com/tormented-souls-review/index.html</guid>
       <pubDate>Wed, 20 Dec 2023 12:57:36 GMT</pubDate>
     </item>
@@ -64,7 +71,7 @@
     <item>
       <title>疏通苍白河段 DLC：现在是一场冷水澡</title>
       <link>https://boilingsteam.com/dredge-the-pale-reach-dlc-review/index.html</link>
-      <description><![CDATA[因此，这将是对上个月刚刚为 Dredge 发布的 DLC（名为“Pale Reach”）的简短回顾。如果您不熟悉 Dredge，您可能需要查看我们对 Dredge 的评论，因为它是在今年年初发布的。从那时起，它就开始争取多项奖项和奖项的提名。今年我们还两次采访了开发商。在 2023 年 7 月的 Bitsummit 和 2023 年 9 月的东京游戏展上。这个新的 DLC 是《Dredge》的第一个付费内容，在地图的南部带来了新的陆地 - 冰雪世界。当你到达时，有一个小港口，你可以用它来休息并避开夜晚和它的怪物 - 当你试图移动时，你很快就会注意到有很多障碍。冰块堵塞了许多通道，您需要为您的船配备破冰装置才能通过。为此，您需要取回构成这艘破冰船的多个部件，并将它们带回港口进行装备。但不能这么快，需要一段时间。当你尝试在没有这艘珍贵的破冰船的情况下四处航行时，你最终会遇到摄影师，他会告诉你冰上的一些特定地点，在那里你可以把一群鱼放在一起来吸引纳尔瓦尔——新的海怪之一。这片区域。当你尝试时，你会看到纳瓦尔摧毁冰墙以获取存放在正确位置的新鲜鱼。该地区将有几个景点以同样的方式运作 - 其中一些只是为了让 Narval 充满活力，让您在四处走动时获得片刻的平静。]]></description>
+      <description><![CDATA[因此，这将是对上个月刚刚为 Dredge 发布的 DLC（名为“Pale Reach”）的简短回顾。如果您不熟悉 Dredge，您可能需要查看我们对 Dredge 的评论，因为它是在今年年初发布的。从那时起，它就开始争取多项奖项和奖项的提名。今年我们还两次采访了开发商。在 2023 年 7 月的 Bitsummit 和 2023 年 9 月的东京游戏展上。这个新的 DLC 是《Dredge》的第一个付费内容，在地图的南部带来了新的陆地 - 冰雪世界。当你到达时，有一个小港口，你可以用它来休息并避开夜晚和它的怪物 - 当你试图移动时，你很快就会注意到有很多障碍。冰块堵塞了许多通道，您需要为您的船配备破冰装置才能通过。为此，您需要取回构成这艘破冰船的多个部件，并将它们带回港口进行装备。但不能这么快，需要一段时间。当你尝试在没有这艘珍贵的破冰船的情况下航行时，你最终会遇到摄影师，他会告诉你冰上的一些特定地点，在那里你可以把一群鱼放在一起来吸引纳尔瓦尔——新的海怪之一。这片区域。当你尝试时，你会看到纳瓦尔摧毁冰墙以获取存放在正确位置的新鲜鱼。该地区将有几个景点以同样的方式运作 - 其中一些只是为了让 Narval 充满活力，并在您四处走动时给您一些片刻的平静。]]></description>
       <guid>https://boilingsteam.com/dredge-the-pale-reach-dlc-review/index.html</guid>
       <pubDate>Mon, 18 Dec 2023 16:03:21 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[我住在以汽车为中心的城市里，你需要乘车才能穿过街道，而停车场只是巨大的死角。我还住在更适合步行的城市，那里的停车场可以为大量车辆提供停车位，并提供代客泊车、美食广场、汽车护理服务和骑自行车者淋浴等服务。我经常会在下班后和朋友们一起吃巴西莓碗——在美食广场，而不是淋浴间。所以我很好奇《停车大亨：商业模拟器》（多么糟糕的名字）会采取什么方法。该游戏由Geekon开发，Midnight Games发行。它保证了管理你自己的停车场的体验，但它也可以被称为勤杂工 T:BS 或清洁工 T:BS，因为清理乱扔垃圾的人是我游戏大部分时间的主要任务。这款 3D 游戏以第一人称视角进行游戏，一开始你的办公室有一个相当大的地块，有一个可以停放汽车的区域，一条有一个汽车入口点和另一个出口点的道路，周围有很多垃圾，但是一个垃圾桶。通过情节的规模和滥用，我知道我们将采取北美的方法。我没想到的是你玩游戏的方式。]]></description>
       <guid>https://boilingsteam.com/parking-tycoon-review/index.html</guid>
       <pubDate>Tue, 05 Dec 2023 02:44:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>您可以使用 Proton 在 Linux 上玩的 13 款热门新游戏 - 2023 年 12 月版</title>
-      <link>https://boilingsteam.com/top-13-new-games-you-can-play-on-linux-with-proton-december-2023-edition/index.html</link>
-      <description><![CDATA[我们又带着平常的每月更新回来了！ Boiling Steam 查看 ProtonDB 的最新数据转储，为您提供自 2023 年 11 月发布以来与 Proton 完美配合（几乎？查看评级）的新游戏的快速列表 - 所有这些游戏都可以开箱即用或运行良好调整： - 像龙外传：抹掉名字的人：ProtonDB 信息 - Steam 商店 - 《女神异闻录 5 Tactica》：ProtonDB 信息 - Steam 商店 - 《死亡必须死》：ProtonDB 信息 - Steam 商店]]></description>
-      <guid>https://boilingsteam.com/top-13-new-games-you-can-play-on-linux-with-proton-december-2023-edition/index.html</guid>
-      <pubDate>Mon, 04 Dec 2023 13:10:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
