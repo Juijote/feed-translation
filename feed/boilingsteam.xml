@@ -4,7 +4,14 @@
     <title>沸腾的蒸汽</title>
     <link>https://boilingsteam.com</link>
     <description>Linux 上的 PC 游戏就是明天！</description>
-    <lastBuildDate>Fri, 05 Jan 2024 05:41:24 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jan 2024 09:50:09 GMT</lastBuildDate>
+    <item>
+      <title>Linux 发行版演变 - 2024 年 1 月更新：Pop!_OS 正在衰落？</title>
+      <link>https://boilingsteam.com/linux-distros-evolution-january-2024-update-pop-os-in-decline/index.html</link>
+      <description><![CDATA[在 Boiling Steam，我们定期回顾用于游戏的 Linux 发行版的趋势，这要归功于 ProtonDB 上的数据（有时还有 Steam 硬件调查）。我们甚至无法知道市场上使用的所有 Linux 发行版的真实份额，ProtonDB 用户都是游戏玩家，这为我们提供了一个很好的指标，了解哪些发行版用于在 Linux 上玩游戏。在过去的版本中，我们回顾了几个趋势，例如： - Ubuntu 的份额急剧下降 - Manjaro 的使用率也面临严重下降 - Nobara 的增长速度比其他任何公司都快]]></description>
+      <guid>https://boilingsteam.com/linux-distros-evolution-january-2024-update-pop-os-in-decline/index.html</guid>
+      <pubDate>Fri, 05 Jan 2024 09:41:48 GMT</pubDate>
+    </item>
     <item>
       <title>您可以使用 Proton 在 Linux 上玩的 7 款热门新游戏 – 2024 年 1 月版</title>
       <link>https://boilingsteam.com/top-7-new-games-you-can-play-on-linux-with-proton-january-2024-edition/index.html</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[2023 年 12 月 6 日至 2023 年 12 月 13 日期间，使用本机 Linux 客户端发布了 43 款新 Steam 游戏。作为参考，同期 Steam 上发布了 316 款 Windows 游戏，因此 Linux 版本约占已发布游戏总数的 13.6%。本周有不少优质作品。引起我注意的是 CrossRoad OS，它以一种新颖的方式在操作系统中混合了探索和谜题：以下是本周所有有趣游戏的列表：]]></description>
       <guid>https://boilingsteam.com/new-steam-games-with-native-linux-clients-2023-12-13-edition/index.html</guid>
       <pubDate>Wed, 13 Dec 2023 14:14:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>背包英雄评论：库存杂耍从未如此有趣</title>
-      <link>https://boilingsteam.com/backpack-hero-review/index.html</link>
-      <description><![CDATA[]]></description>
-      <guid>https://boilingsteam.com/backpack-hero-review/index.html</guid>
-      <pubDate>Wed, 06 Dec 2023 17:08:39 GMT</pubDate>
     </item>
     </channel>
 </rss>
