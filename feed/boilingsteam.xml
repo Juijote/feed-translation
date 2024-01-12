@@ -4,7 +4,14 @@
     <title>沸腾的蒸汽</title>
     <link>https://boilingsteam.com</link>
     <description>Linux 上的 PC 游戏就是明天！</description>
-    <lastBuildDate>Thu, 11 Jan 2024 23:52:57 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jan 2024 14:11:42 GMT</lastBuildDate>
+    <item>
+      <title>Steam Deck APU 内部的惊人发现</title>
+      <link>https://boilingsteam.com/an-in-depth-look-at-the-steam-deck-apu/index.html</link>
+      <description><![CDATA[最近，通过 HighYield 发布的一段精彩的 Youtube 视频，我们了解了有关 Steam Deck LCD 版本中使用的 APU 设计的两件事： - Steam Deck APU（代号 Van Gogh）拥有更多核心的未使用部件。 Magic Leap 2 AR 眼镜很可能也使用了完全相同的 APU，该眼镜也使用了此类核心。 - OLED 版本中使用的 Steam Deck APU 可能是第一个完全为 Steam Deck 平台制造的芯片组，其占地面积更小，不仅归功于 6nm 光刻技术，还因为移除了未使用的核心。现在您知道我们要看什么了，让我们通过图片来了解整个故事。]]></description>
+      <guid>https://boilingsteam.com/an-in-depth-look-at-the-steam-deck-apu/index.html</guid>
+      <pubDate>Fri, 12 Jan 2024 14:07:51 GMT</pubDate>
+    </item>
     <item>
       <title>Portal: Revolution，Portal 2 的全新模组，现已在 Steam 上畅玩</title>
       <link>https://boilingsteam.com/portal-revolution-mod-review/index.html</link>
@@ -95,13 +102,6 @@
       <description><![CDATA[我使用 Linux 遇到的第一个问题是外围设备支持，大约 20 年前：它无法识别我来自本地公司的廉价鼠标，第二天我就出去购买了我的第一个精美输入设备，Linux 论坛推荐的 Microsoft 鼠标。它物有所值，我用了近十年，而且有可靠的保修。困扰我早期 Linux 经历的另一个问题是软件相关的硬件。我之前说过，抱歉，我仍然会犯这些错误，就像几年前，我在没有阅读小字的情况下购买了 Sound BlasterX G6 - 您仍然需要 Windows 设备来进行初始设置和后续设置更改。 AntiMicroX、Piper 和许多其他工具可以帮助您配置设备，但没有一个是没有限制的。因此，我尽力寻找插入 Linux 机器时不会受到影响的设备。就目前的游戏手柄而言，PlayStation 的 DualSense 仍然是我心中的王者。]]></description>
       <guid>https://boilingsteam.com/gamesir-t4-kaleid-review/index.html</guid>
       <pubDate>Sat, 23 Dec 2023 14:09:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>受折磨的灵魂 - 噩梦般的怀旧之旅</title>
-      <link>https://boilingsteam.com/tormented-souls-review/index.html</link>
-      <description><![CDATA[一张照片。两姐妹。在收到一张可怕的照片后，一开始对这些姐妹发生的事情的调查变成了一场噩梦。 《折磨的灵魂》于 2019 年发布，试图捕捉经典生存恐怖游戏的精髓，从《生化危机》、《寂静岭》和《致命框架》等游戏中汲取灵感。虽然它通过细致的环境和内心的血腥成功地营造了一种扣人心弦的氛围，但游戏在某些方面存在缺陷，让玩家在怀旧的欣赏和沮丧之间左右为难。]]></description>
-      <guid>https://boilingsteam.com/tormented-souls-review/index.html</guid>
-      <pubDate>Wed, 20 Dec 2023 12:57:36 GMT</pubDate>
     </item>
     <item>
       <title>带有原生 Linux 客户端的新 Steam 游戏，包括 Born Again 和 Guardians of Holme - 2023 年 12 月 20 日版</title>
