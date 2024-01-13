@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>自我h.st</title>
+    <link>https://selfh.st/</link>
+    <description>欢迎来到 selfh.st，一个致力于自我托管内容的地方。</description>
+    <lastBuildDate>Sat, 13 Jan 2024 14:12:04 GMT</lastBuildDate>
+    <item>
+      <title>本周自行主办（2024 年 1 月 12 日）</title>
+      <link>https://selfh.st/newsletter/2024-01-12/</link>
+      <description><![CDATA[自托管新闻、软件更新、发布以及个人订阅跟踪器 Wallos 的焦点]]></description>
+      <guid>https://selfh.st/newsletter/2024-01-12/</guid>
+      <pubDate>Fri, 12 Jan 2024 12:34:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>本周自行主办（2024 年 1 月 5 日）</title>
+      <link>https://selfh.st/newsletter/2024-01-05/</link>
+      <description><![CDATA[自托管新闻、软件更新、发布以及对 ProxMobo（用于管理 Proxmox 实例的第三方 iOS 客户端）的关注]]></description>
+      <guid>https://selfh.st/newsletter/2024-01-05/</guid>
+      <pubDate>Fri, 05 Jan 2024 13:03:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>本周自行主办（2023 年 12 月 29 日）</title>
+      <link>https://selfh.st/newsletter/2023-12-29/</link>
+      <description><![CDATA[自托管新闻、软件更新、发布以及对自托管书签管理器 Linkding 的关注]]></description>
+      <guid>https://selfh.st/newsletter/2023-12-29/</guid>
+      <pubDate>Fri, 29 Dec 2023 12:44:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>自主持演员，第 2 集：Hayden Kotelman（Mealie、Homebox）</title>
+      <link>https://selfh.st/cast/episode-2/</link>
+      <description><![CDATA[跟我一起坐下来与 Hayden Kotelman 聊天，他是流行的自托管应用程序 Mealie 和 Homebox 的开发者]]></description>
+      <guid>https://selfh.st/cast/episode-2/</guid>
+      <pubDate>Wed, 27 Dec 2023 10:59:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>本周自行主办（2023 年 12 月 22 日）</title>
+      <link>https://selfh.st/newsletter/2023-12-22/</link>
+      <description><![CDATA[自托管新闻、软件更新、发布以及对开源待办事项列表管理器 Vikunja 的关注]]></description>
+      <guid>https://selfh.st/newsletter/2023-12-22/</guid>
+      <pubDate>Fri, 22 Dec 2023 12:30:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>本周自行主办（2023 年 12 月 15 日）</title>
+      <link>https://selfh.st/newsletter/2023-12-15/</link>
+      <description><![CDATA[自托管新闻、软件更新、发布以及对基于 Web 的 docker compose 堆栈管理器 Dockge 的关注]]></description>
+      <guid>https://selfh.st/newsletter/2023-12-15/</guid>
+      <pubDate>Fri, 15 Dec 2023 12:36:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>本周自行主办（2023 年 12 月 8 日）</title>
+      <link>https://selfh.st/newsletter/2023-12-08/</link>
+      <description><![CDATA[自托管新闻、软件更新、发布以及对自托管链接共享平台 LinkStack 的关注]]></description>
+      <guid>https://selfh.st/newsletter/2023-12-08/</guid>
+      <pubDate>Fri, 08 Dec 2023 12:50:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>本周自行主办（2023 年 12 月 1 日）</title>
+      <link>https://selfh.st/newsletter/2023-12-01/</link>
+      <description><![CDATA[自托管新闻、软件更新、发布以及对 AudioBookshelf（自托管有声读物和播客流媒体服务器）的关注]]></description>
+      <guid>https://selfh.st/newsletter/2023-12-01/</guid>
+      <pubDate>Fri, 01 Dec 2023 12:47:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>本周自行主办（2023 年 11 月 24 日）</title>
+      <link>https://selfh.st/newsletter/2023-11-24/</link>
+      <description><![CDATA[自托管新闻、软件更新、发布以及对 Crontab UI（用于管理 cronjobs 的 Web 界面）的关注]]></description>
+      <guid>https://selfh.st/newsletter/2023-11-24/</guid>
+      <pubDate>Fri, 24 Nov 2023 12:40:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>适合注重隐私的用户的最佳 Plex 设置</title>
+      <link>https://selfh.st/blog/plex-privacy-settings/</link>
+      <description><![CDATA[更新这些设置以限制 Plex 收集的有关您的帐户、内容和流媒体习惯的数据]]></description>
+      <guid>https://selfh.st/blog/plex-privacy-settings/</guid>
+      <pubDate>Wed, 22 Nov 2023 10:37:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>本周自行主办（2023 年 11 月 17 日）</title>
+      <link>https://selfh.st/newsletter/2023-11-17/</link>
+      <description><![CDATA[自托管新闻、软件更新、发布以及现代知识库 Web 应用程序 Outline 的焦点]]></description>
+      <guid>https://selfh.st/newsletter/2023-11-17/</guid>
+      <pubDate>Fri, 17 Nov 2023 12:40:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>本周自行主办（2023 年 11 月 10 日）</title>
+      <link>https://selfh.st/newsletter/2023-11-10/</link>
+      <description><![CDATA[自托管新闻、软件更新、发布以及对自托管新闻通讯管理工具 Keila 的关注]]></description>
+      <guid>https://selfh.st/newsletter/2023-11-10/</guid>
+      <pubDate>Fri, 10 Nov 2023 12:41:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>本周自行主办（2023 年 11 月 3 日）</title>
+      <link>https://selfh.st/newsletter/2023-11-03/</link>
+      <description><![CDATA[自托管新闻、软件更新、发布以及对自托管播客平台 Castopod 的关注]]></description>
+      <guid>https://selfh.st/newsletter/2023-11-03/</guid>
+      <pubDate>Fri, 03 Nov 2023 11:36:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>自主持演员，第 1 集：2023 年调查结果</title>
+      <link>https://selfh.st/cast/episode-1/</link>
+      <description><![CDATA[请加入我们，与 DB Tech 的 David 坐下来回顾我们 2023 年自托管用户调查的结果]]></description>
+      <guid>https://selfh.st/cast/episode-1/</guid>
+      <pubDate>Wed, 01 Nov 2023 11:35:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>自主持演员阵容介绍</title>
+      <link>https://selfh.st/cast/introduction/</link>
+      <description><![CDATA[致力于所有自托管内容的播客]]></description>
+      <guid>https://selfh.st/cast/introduction/</guid>
+      <pubDate>Wed, 01 Nov 2023 11:34:39 GMT</pubDate>
+    </item>
+    </channel>
+</rss>
