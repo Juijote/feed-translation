@@ -4,11 +4,18 @@
     <title>沸腾的蒸汽</title>
     <link>https://boilingsteam.com</link>
     <description>Linux 上的 PC 游戏就是明天！</description>
-    <lastBuildDate>Fri, 12 Jan 2024 14:11:42 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jan 2024 11:33:03 GMT</lastBuildDate>
+    <item>
+      <title>StarFive VisionFive 2：最终面向大众的 RISC-V SBC？</title>
+      <link>https://boilingsteam.com/vision-five-2-board-review/index.html</link>
+      <description><![CDATA[RISC-V 是新的开放标准指令集架构 (ISA)，预计将引领计算领域的下一次革命，无需附加许可证（使用 ISA 标准无需支付版税），并且 ISA 可以灵活地服务于多个从嵌入式到超级计算机设计的用例。因苹果和 AMD 而出名的 Jim Keller 现在正在研究 RISC-V，虽然他可能没有偏见，因为他对此有既得利益，但他预测（或计划）RISC-V 将占据服务器领域的主要部分从现在起5年内。 https://www.youtube.com/watch?v=wCtSS9cZAHw 同时，如果您想尝试实际的 RISC-V 硬件，Star Five 的 Vision Five 2 是最好的选择之一现在：它价格实惠，性能非常不错，并且计划在不久的将来得到 Debian 上游的全面支持（Raspberry Pi 用户自推出以来就必须依赖专有的引导加载程序和 GPU 驱动程序）。如果你想知道StarFive来自哪里，StarFive是一家成立于2018年的中国本土高科技公司，拥有自主知识产权。是中国RISC-V软硬件生态系统的领导者，提供涵盖CPU IP、SoC、开发板等RISC-V产品和解决方案。目前，StarFive 拥有约 300 名员工，大部分位于中国，在上海、北京、成都和佛山设有办事处。他们还在新加坡和马来西亚设有研发中心。 StarFive是一家无晶圆厂公司，JH-7110（VisionFive 2的SoC）采用台积电成熟的28纳米工艺技术。]]></description>
+      <guid>https://boilingsteam.com/vision-five-2-board-review/index.html</guid>
+      <pubDate>Sun, 14 Jan 2024 11:22:04 GMT</pubDate>
+    </item>
     <item>
       <title>Steam Deck APU 内部的惊人发现</title>
       <link>https://boilingsteam.com/an-in-depth-look-at-the-steam-deck-apu/index.html</link>
-      <description><![CDATA[最近，通过 HighYield 发布的一段精彩的 Youtube 视频，我们了解了有关 Steam Deck LCD 版本中使用的 APU 设计的两件事： - Steam Deck APU（代号 Van Gogh）拥有更多核心的未使用部件。 Magic Leap 2 AR 眼镜很可能也使用了完全相同的 APU，该眼镜也使用了此类核心。 - OLED 版本中使用的 Steam Deck APU 可能是第一个完全为 Steam Deck 平台制造的芯片组，其占地面积更小，不仅归功于 6nm 光刻技术，还因为移除了未使用的核心。现在您知道我们要看什么了，让我们通过图片来了解整个故事。]]></description>
+      <description><![CDATA[最近，通过 HighYield 发布的一段精彩的 Youtube 视频，我们了解了有关 Steam Deck LCD 版本中使用的 APU 设计的两件事： - Steam Deck APU（代号 Van Gogh）拥有更多核心的未使用部件。 Magic Leap 2 AR 眼镜很可能也使用了完全相同的 APU，该眼镜也使用了此类核心。 - OLED 版本中使用的 Steam Deck APU 可能是第一个完全为 Steam Deck 平台制造的芯片组，其占地面积更小，这不仅归功于 6nm 光刻技术，还因为移除了未使用的核心。现在您知道我们要看什么了，让我们通过图片来了解整个故事。]]></description>
       <guid>https://boilingsteam.com/an-in-depth-look-at-the-steam-deck-apu/index.html</guid>
       <pubDate>Fri, 12 Jan 2024 14:07:51 GMT</pubDate>
     </item>
@@ -43,14 +50,14 @@
     <item>
       <title>您可以使用 Proton 在 Linux 上玩的 7 款热门新游戏 – 2024 年 1 月版</title>
       <link>https://boilingsteam.com/top-7-new-games-you-can-play-on-linux-with-proton-january-2024-edition/index.html</link>
-      <description><![CDATA[祝大家2024年新年快乐！我们带着通常的每月更新回来了。 Boiling Steam 查看 ProtonDB 的最新数据转储，为您提供自 2023 年 12 月发布以来与 Proton 完美配合（几乎？查看评级）的新游戏的快速列表 - 所有这些游戏都可以开箱即用或运行良好调整： - (the) Gnorp Apologue：ProtonDB 信息 - Steam 商店 - Mind Over Magic：ProtonDB 信息 - Steam 商店 - 独臂强盗：ProtonDB 信息 - Steam 商店]]></description>
+      <description><![CDATA[祝大家2024年新年快乐！我们带着通常的每月更新回来了。 Boiling Steam 查看 ProtonDB 的最新数据转储，为您提供自 2023 年 12 月发布以来与 Proton 完美配合（几乎？查看评级）的新游戏的快速列表 - 所有这些游戏都可以开箱即用或运行良好调整： - （the）Gnorp Apologue：ProtonDB 信息 - Steam 商店 - Mind Over Magic：ProtonDB 信息 - Steam 商店 - 独臂强盗：ProtonDB 信息 - Steam 商店]]></description>
       <guid>https://boilingsteam.com/top-7-new-games-you-can-play-on-linux-with-proton-january-2024-edition/index.html</guid>
       <pubDate>Thu, 04 Jan 2024 15:11:07 GMT</pubDate>
     </item>
     <item>
-      <title>带有本机 Linux 客户端的新 Steam 游戏 - 2024 年 1 月 3 日版</title>
+      <title>具有本机 Linux 客户端的新 Steam 游戏 - 2024 年 1 月 3 日版</title>
       <link>https://boilingsteam.com/new-steam-games-with-native-linux-clients-2024-01-03-edition/index.html</link>
-      <description><![CDATA[2023 年 12 月 27 日至 2024 年 1 月 3 日期间，有 12 款新的 Steam 游戏通过本机 Linux 客户端发布。作为参考，同一时期，Steam 上发布了 157 款 Windows 游戏，因此 Linux 版本约占已发布游戏总数的 7.6%。正如预期的那样，圣诞节和新年之间的发行量很少，但仍然有一些不错的游戏，而且它们也恰好是免费游戏：]]></description>
+      <description><![CDATA[2023 年 12 月 27 日至 2024 年 1 月 3 日期间，有 12 款新的 Steam 游戏通过原生 Linux 客户端发布。作为参考，同一时期，Steam 上发布了 157 款 Windows 游戏，因此 Linux 版本约占已发布游戏总数的 7.6%。正如预期的那样，圣诞节和新年之间的发行量很少，但仍然有一些不错的游戏，而且它们也恰好是免费游戏：]]></description>
       <guid>https://boilingsteam.com/new-steam-games-with-native-linux-clients-2024-01-03-edition/index.html</guid>
       <pubDate>Wed, 03 Jan 2024 10:38:37 GMT</pubDate>
     </item>
@@ -92,7 +99,7 @@
     <item>
       <title>Trepang2 评论：F.E.A.R. 的精神继承者</title>
       <link>https://boilingsteam.com/trepang2-review/index.html</link>
-      <description><![CDATA[Trepang2 是一款由 Trepang Studios 开发、Team17 发行于 2023 年的 FPS 游戏，唤起了人们对《F.E.A.R.》等近二十年前风靡一时的游戏的怀旧之情。与前作一样，《Trepang2》专注于在封闭的环境中射击穿着军装的对手，同时融入超自然元素来增强故事情节。主角被赋予了独特的能力：时间减慢和短时间内隐形。这些能力对于应对具有挑战性的遭遇战至关重要，在这种遭遇战中最多可以同时与十名士兵交战。目前尚不清楚 Trepang2 的 AI 是否像 F.E.A.R. 那样复杂或直观，但敌人对玩家表现出更高的意识，并且在近距离时表现出更加谨慎。你可以听到他们交换信息，当他们感到事情不顺利时感到恐慌和撤退。然而，即使知道主角的位置，它们偶尔也会冲向主角。游戏提供了一系列创新的战术，比如偷偷靠近对手出其不意，或者暂时使用人体盾牌，这总是让人非常满意。你会发现可破坏的环境，导致柱子等结构部分损坏以及灭火器爆炸。这给了你一点余地来暂时分散敌人的注意力。还可以使用各种武器，因为您可以从倒下的敌人身上拾取武器。不过，您一次只能携带一些。可以通过与分散在游戏中的工作台交互来对这些武器进行升级。在这方面，这是相当标准的东西，但你没有无限的子弹，所以你需要小心不要用完。当你试图逃离一个秘密设施时，第一层发生在地下。由于设置的原因，图形最初并不令人印象深刻，但在后续关卡中显着改善，与最初的阴暗环境形成了视觉上令人惊叹的环境。]]></description>
+      <description><![CDATA[Trepang2 是一款由 Trepang Studios 开发、Team17 发行于 2023 年的 FPS 游戏，唤起了人们对《F.E.A.R.》等近二十年前风靡一时的游戏的怀旧之情。与前作一样，《Trepang2》专注于在封闭的环境中射击穿着军装的对手，同时融入超自然元素来增强故事情节。主角被赋予了独特的能力：时间减慢和短时间内隐形。这些能力对于应对具有挑战性的遭遇战至关重要，在这种遭遇战中最多可以同时与十名士兵交战。目前尚不清楚 Trepang2 的 AI 是否像 F.E.A.R. 那样复杂或直观，但敌人对玩家表现出更高的意识，并且在近距离时表现出更加谨慎。你可以听到他们交换信息，当他们感到事情不顺利时感到恐慌和撤退。然而，即使知道主角的位置，它们偶尔也会冲向主角。游戏提供了一系列创新的战术，比如偷偷接近对手出其不意，或者暂时使用人体盾牌，这总是让人非常满意。你会发现可破坏的环境，导致柱子等结构部分损坏以及灭火器爆炸。这给了你一点余地来暂时分散敌人的注意力。还可以使用各种武器，因为您可以从倒下的敌人身上拾取武器。不过，您一次只能携带一些。可以通过与分散在游戏中的工作台交互来对这些武器进行升级。在这方面，这是相当标准的东西，但你没有无限的子弹，所以你需要小心不要用完。当你试图逃离一个秘密设施时，第一层发生在地下。由于设置的原因，图形最初并不令人印象深刻，但在后续关卡中显着改善，与最初的阴暗环境形成了视觉上令人惊叹的环境。]]></description>
       <guid>https://boilingsteam.com/trepang2-review/index.html</guid>
       <pubDate>Sun, 24 Dec 2023 14:35:00 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[我使用 Linux 遇到的第一个问题是外围设备支持，大约 20 年前：它无法识别我来自本地公司的廉价鼠标，第二天我就出去购买了我的第一个精美输入设备，Linux 论坛推荐的 Microsoft 鼠标。它物有所值，我用了近十年，而且有可靠的保修。困扰我早期 Linux 经历的另一个问题是软件相关的硬件。我之前说过，抱歉，我仍然会犯这些错误，就像几年前，我在没有阅读小字的情况下购买了 Sound BlasterX G6 - 您仍然需要 Windows 设备来进行初始设置和后续设置更改。 AntiMicroX、Piper 和许多其他工具可以帮助您配置设备，但没有一个是没有限制的。因此，我尽力寻找插入 Linux 机器时不会受到影响的设备。就目前的游戏手柄而言，PlayStation 的 DualSense 仍然是我心中的王者。]]></description>
       <guid>https://boilingsteam.com/gamesir-t4-kaleid-review/index.html</guid>
       <pubDate>Sat, 23 Dec 2023 14:09:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>带有原生 Linux 客户端的新 Steam 游戏，包括 Born Again 和 Guardians of Holme - 2023 年 12 月 20 日版</title>
-      <link>https://boilingsteam.com/new-steam-games-with-native-linux-clients-2023-12-20-edition/index.html</link>
-      <description><![CDATA[2023 年 12 月 13 日至 2023 年 12 月 20 日期间，使用本机 Linux 客户端发布了 33 款新 Steam 游戏。作为参考，同期 Steam 上发布了 331 款 Windows 游戏，因此 Linux 版本约占已发布游戏总数的 10%。这一次，该包中最受欢迎的似乎是《福尔摩守护者》，这是一款带有 Roguelite 元素的塔防游戏（具有永无休止的升级）现在，这是您本周可能想查看的完整列表：]]></description>
-      <guid>https://boilingsteam.com/new-steam-games-with-native-linux-clients-2023-12-20-edition/index.html</guid>
-      <pubDate>Wed, 20 Dec 2023 05:37:26 GMT</pubDate>
     </item>
     </channel>
 </rss>
