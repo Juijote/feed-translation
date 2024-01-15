@@ -4,20 +4,20 @@
     <title>沸腾的蒸汽</title>
     <link>https://boilingsteam.com</link>
     <description>Linux 上的 PC 游戏就是明天！</description>
-    <lastBuildDate>Sun, 14 Jan 2024 11:33:03 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jan 2024 02:38:07 GMT</lastBuildDate>
+    <item>
+      <title>Steam Deck APU 内部的惊人发现</title>
+      <link>https://boilingsteam.com/an-in-depth-look-at-the-steam-deck-apu/index.html</link>
+      <description><![CDATA[最近，通过 HighYield 发布的一段精彩的 Youtube 视频，我们了解了有关 Steam Deck LCD 版本中使用的 APU 设计的两件事： - Steam Deck APU（代号 Van Gogh）拥有更多核心的未使用部件。 Magic Leap 2 AR 眼镜很可能也使用了完全相同的 APU，该眼镜也使用了此类核心。 - OLED 版本中使用的 Steam Deck APU 可能是第一个完全为 Steam Deck 平台制造的芯片组，其占地面积更小，这不仅归功于 6nm 光刻技术，还因为移除了未使用的核心。现在您知道我们要看什么了，让我们通过图片来了解整个故事。]]></description>
+      <guid>https://boilingsteam.com/an-in-depth-look-at-the-steam-deck-apu/index.html</guid>
+      <pubDate>Mon, 15 Jan 2024 02:37:03 GMT</pubDate>
+    </item>
     <item>
       <title>StarFive VisionFive 2：最终面向大众的 RISC-V SBC？</title>
       <link>https://boilingsteam.com/vision-five-2-board-review/index.html</link>
       <description><![CDATA[RISC-V 是新的开放标准指令集架构 (ISA)，预计将引领计算领域的下一次革命，无需附加许可证（使用 ISA 标准无需支付版税），并且 ISA 可以灵活地服务于多个从嵌入式到超级计算机设计的用例。因苹果和 AMD 而出名的 Jim Keller 现在正在研究 RISC-V，虽然他可能没有偏见，因为他对此有既得利益，但他预测（或计划）RISC-V 将占据服务器领域的主要部分从现在起5年内。 https://www.youtube.com/watch?v=wCtSS9cZAHw 同时，如果您想尝试实际的 RISC-V 硬件，Star Five 的 Vision Five 2 是最好的选择之一现在：它价格实惠，性能非常不错，并且计划在不久的将来得到 Debian 上游的全面支持（Raspberry Pi 用户自推出以来就必须依赖专有的引导加载程序和 GPU 驱动程序）。如果你想知道StarFive来自哪里，StarFive是一家成立于2018年的中国本土高科技公司，拥有自主知识产权。是中国RISC-V软硬件生态系统的领导者，提供涵盖CPU IP、SoC、开发板等RISC-V产品和解决方案。目前，StarFive 拥有约 300 名员工，大部分位于中国，在上海、北京、成都和佛山设有办事处。他们还在新加坡和马来西亚设有研发中心。 StarFive是一家无晶圆厂公司，JH-7110（VisionFive 2的SoC）采用台积电成熟的28纳米工艺技术。]]></description>
       <guid>https://boilingsteam.com/vision-five-2-board-review/index.html</guid>
       <pubDate>Sun, 14 Jan 2024 11:22:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Steam Deck APU 内部的惊人发现</title>
-      <link>https://boilingsteam.com/an-in-depth-look-at-the-steam-deck-apu/index.html</link>
-      <description><![CDATA[最近，通过 HighYield 发布的一段精彩的 Youtube 视频，我们了解了有关 Steam Deck LCD 版本中使用的 APU 设计的两件事： - Steam Deck APU（代号 Van Gogh）拥有更多核心的未使用部件。 Magic Leap 2 AR 眼镜很可能也使用了完全相同的 APU，该眼镜也使用了此类核心。 - OLED 版本中使用的 Steam Deck APU 可能是第一个完全为 Steam Deck 平台制造的芯片组，其占地面积更小，这不仅归功于 6nm 光刻技术，还因为移除了未使用的核心。现在您知道我们要看什么了，让我们通过图片来了解整个故事。]]></description>
-      <guid>https://boilingsteam.com/an-in-depth-look-at-the-steam-deck-apu/index.html</guid>
-      <pubDate>Fri, 12 Jan 2024 14:07:51 GMT</pubDate>
     </item>
     <item>
       <title>Portal: Revolution，Portal 2 的全新模组，现已在 Steam 上畅玩</title>
