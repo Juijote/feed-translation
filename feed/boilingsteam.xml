@@ -4,7 +4,14 @@
     <title>沸腾的蒸汽</title>
     <link>https://boilingsteam.com</link>
     <description>Linux 上的 PC 游戏就是明天！</description>
-    <lastBuildDate>Fri, 19 Jan 2024 16:19:39 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jan 2024 16:53:14 GMT</lastBuildDate>
+    <item>
+      <title>Aya Neo Next Lite 将使用 SteamOS 之类的东西</title>
+      <link>https://boilingsteam.com/aya-neo-next-lite-will-use-steam-os/index.html</link>
+      <description><![CDATA[Aya Neo 几天前刚刚宣布，他们将发布一款新的手持设备 Ayaneo NEXT LITE，采用 HoloISO（我猜又名 SteamOS？），价格非常有竞争力，最便宜的型号为 300 美元。这是个好消息，原因有二： - 除了 Valve 之外，我们终于有了另一家公司，押注于基于 Linux 的类似控制台的界面，而不是糟糕的 Windows 11。 - 他们以如此低的价格瞄准主流受众。]]></description>
+      <guid>https://boilingsteam.com/aya-neo-next-lite-will-use-steam-os/index.html</guid>
+      <pubDate>Mon, 22 Jan 2024 16:51:55 GMT</pubDate>
+    </item>
     <item>
       <title>带有原生 Linux 客户端的新 Steam 游戏，战壕中一切安静 - 2024 年 1 月 17 日版</title>
       <link>https://boilingsteam.com/new-steam-games-with-native-linux-clients-2024-01-17-edition/index.html</link>
@@ -22,14 +29,14 @@
     <item>
       <title>Steam Deck OLED 在日本重新进货...并再次售空！</title>
       <link>https://boilingsteam.com/the-steam-deck-oled-get-restocked-in-japan-sold-out-again/index.html</link>
-      <description><![CDATA[来自日本的一条简短消息。从我们之前的报道中可以知道，Steam Deck OLED 自 2023 年 11 月以来在日本就断货了。新的发货将于 1 月中旬发货。好吧，他们登陆了 Komodo商店，你猜怎么着？他们已经再次售空了！这是 Komodo 的 Twitter 帐户对整个情况的评价：https://twitter.com/OnDeckJP/status/1746835918965878815 &gt; 非常感谢您的积极评价反馈。，补货#SteamDeckOLED 已售完。下一批运往日本的货物将于二月初左右补货。如果您希望在商品重新有货时收到通知，请点击“添加到愿望清单”进行注册。 * 到货时间可能会根据交货情况而有所不同。]]></description>
+      <description><![CDATA[来自日本的一条简短消息。从我们之前的报道中可以知道，Steam Deck OLED 自 2023 年 11 月以来在日本就断货了。新的发货将于 1 月中旬发货。好吧，他们登陆了 Komodo商店，你猜怎么着？他们已经再次售空了！这是 Komodo 的 Twitter 帐户对整个情况的评价：https://twitter.com/OnDeckJP/status/1746835918965878815 &gt; 非常感谢您的积极评价反馈。，补货的#SteamDeckOLED 已售完。下一批运往日本的货物将于二月初左右补货。如果您希望在商品重新有货时收到通知，请点击“添加到愿望清单”进行注册。 * 到货时间可能会根据交货情况而有所不同。]]></description>
       <guid>https://boilingsteam.com/the-steam-deck-oled-get-restocked-in-japan-sold-out-again/index.html</guid>
       <pubDate>Mon, 15 Jan 2024 12:46:00 GMT</pubDate>
     </item>
     <item>
       <title>Steam Deck APU 内部的惊人发现</title>
       <link>https://boilingsteam.com/an-in-depth-look-at-the-steam-deck-apu/index.html</link>
-      <description><![CDATA[最近，通过 HighYield 发布的一段精彩的 Youtube 视频，我们了解了有关 Steam Deck LCD 版本中使用的 APU 设计的两件事： - Steam Deck APU（代号 Van Gogh）拥有更多核心的未使用部件。 Magic Leap 2 AR 眼镜很可能也使用了完全相同的 APU，该眼镜也使用了此类核心。 - OLED 版本中使用的 Steam Deck APU 可能是第一个完全为 Steam Deck 平台制造的芯片组，其占地面积更小，不仅归功于 6nm 光刻技术，还因为移除了未使用的核心。现在您知道我们要看什么了，让我们通过图片来了解整个故事。]]></description>
+      <description><![CDATA[最近，通过 HighYield 发布的一段精彩的 Youtube 视频，我们了解了有关 Steam Deck LCD 版本中使用的 APU 设计的两件事： - Steam Deck APU（代号 Van Gogh）拥有更多核心的未使用部件。 Magic Leap 2 AR 眼镜很可能也使用了完全相同的 APU，该眼镜也使用了此类核心。 - OLED 版本中使用的 Steam Deck APU 可能是第一个完全为 Steam Deck 平台制造的芯片组，其占地面积更小，这不仅归功于 6nm 光刻技术，还因为移除了未使用的核心。现在您知道我们要看什么了，让我们通过图片来了解整个故事。]]></description>
       <guid>https://boilingsteam.com/an-in-depth-look-at-the-steam-deck-apu/index.html</guid>
       <pubDate>Mon, 15 Jan 2024 02:37:03 GMT</pubDate>
     </item>
@@ -85,7 +92,7 @@
     <item>
       <title>Steam Deck OLED 在日本仍缺货</title>
       <link>https://boilingsteam.com/the-steam-deck-oled-still-out-of-stock-in-japan/index.html</link>
-      <description><![CDATA[只是简单介绍一下日本的最新情况。你可能还记得，Steam Deck OLED 在 2023 年 11 月发布后不久在日本就断货了。我在 12 月份一直在关注这一情况，但情况没有改变。目前仍然无法订购 Steam Deck OLED。该单位自 11 月以来一直缺货，而 12 月初有消息称他们预计在 12 月中旬之前收到一些新单位，但我不确定它们是否真的实现了。由于科莫多方面没有队列系统，因此无法进行预订，您唯一的选择就是每天检查页面上的更新。与此同时，那些能够买到一件（或多件）的人正在享受愉快的时光，例如在雅虎拍卖上以不错的加价出售它们。但如果你住在东京附近，那么去横滨的 Edion 商店并在展示 Steam Deck OLED 的活动楼层（六楼）碰碰运气可能会更好：]]></description>
+      <description><![CDATA[只是简单介绍一下日本的最新情况。你可能还记得，Steam Deck OLED 在 2023 年 11 月发布后不久在日本就断货了。我在 12 月份一直在关注这一情况，但情况没有改变。目前仍然无法订购 Steam Deck OLED。自 11 月以来，该单位一直缺货，而 12 月初有消息称，他们预计将在 12 月中旬收到一些新单位，但我不确定它们是否真的实现了。由于科莫多方面没有队列系统，因此无法进行预订，您唯一的选择就是每天检查页面上的更新。与此同时，那些能够买到一件（或多件）的人正在享受愉快的时光，例如在雅虎拍卖上以不错的加价出售它们。但如果你住在东京附近，那么去横滨的 Edion 商店并在展示 Steam Deck OLED 的活动楼层（六楼）碰碰运气可能会更好：]]></description>
       <guid>https://boilingsteam.com/the-steam-deck-oled-still-out-of-stock-in-japan/index.html</guid>
       <pubDate>Mon, 01 Jan 2024 07:01:10 GMT</pubDate>
     </item>
@@ -95,13 +102,6 @@
       <description><![CDATA[首先祝大家2024年新年快乐！我们希望您在年底过得愉快。今年对于 Boiling Steam 来说也有些特别，因为几个月后我们也将庆祝我们的 10 周年纪念日。 2023 年，我们决定从 Wordpress 迁移到静态站点（在构建我们自己的静态站点生成器之后），正如您所期望的，还有许多事情需要实现。但必须做的最紧迫的事情之一是导入网站上尚未提供的大部分旧文章。自 2020 年以来，我们一直在使用 Git 来记录和跟踪所有文章的更改，但 2020 年之前的所有内容基本上都在 Wordpress 数据库中。在过去的几个月里，我一直致力于制作一个导入脚本，它将存储在数据库中的所有 Wordpress 语法转换为常规的 Markdown 文档。你最终会得到一段相当长的代码，其中有很多正则表达式和 if 条件来删除主要与 WordPress 相关的内容。这项工作现已基本完成，我们已经能够导入 2014 年以来大部分缺失的文章。您现在可以通过这个列出所有已发表文章的新页面直接访问它们。迁移尚未完成。仍然有一些缺失的图片，一些损坏的链接，以及一些需要 CSS 调整样式的东西。但至少，大部分的文字内容已经移动，其余的空白将会逐步修复。好处是，我们最终会将 10 年的历史记录存储到 Git 中，这使得整个网站从现在开始完全可移植。]]></description>
       <guid>https://boilingsteam.com/happy-new-year-2024-and-some-news/index.html</guid>
       <pubDate>Mon, 01 Jan 2024 03:49:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>Boiling Steam 2023 年游戏精选</title>
-      <link>https://boilingsteam.com/boiling-steams-game-picks-for-2023/index.html</link>
-      <description><![CDATA[现在是回顾过去一年以及我们玩过的游戏中我们最喜欢的部分的时候了。事实证明，2023 年有很多优秀的作品，其中一些是 AAA 级作品，一些是独立作品。但主要是独立开发者。]]></description>
-      <guid>https://boilingsteam.com/boiling-steams-game-picks-for-2023/index.html</guid>
-      <pubDate>Wed, 27 Dec 2023 06:36:20 GMT</pubDate>
     </item>
     <item>
       <title>带有本地 Linux 客户端的新 Steam 游戏 Seal World - 2023 年 12 月 27 日版</title>
