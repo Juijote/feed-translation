@@ -4,7 +4,14 @@
     <title>自我h.st</title>
     <link>https://selfh.st/</link>
     <description>欢迎来到 selfh.st，这是一个致力于自我托管内容的地方。</description>
-    <lastBuildDate>Fri, 02 Feb 2024 12:17:20 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Feb 2024 18:13:18 GMT</lastBuildDate>
+    <item>
+      <title>本周自行主办（2024 年 2 月 2 日）</title>
+      <link>https://selfh.st/newsletter/2024-02-02/</link>
+      <description><![CDATA[自托管新闻、软件更新、发布以及对 PiAlert（具有可配置警报的网络设备扫描仪）的关注]]></description>
+      <guid>https://selfh.st/newsletter/2024-02-02/</guid>
+      <pubDate>Fri, 02 Feb 2024 12:42:26 GMT</pubDate>
+    </item>
     <item>
       <title>本周自行主办（2024 年 1 月 26 日）</title>
       <link>https://selfh.st/newsletter/2024-01-26/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[自托管新闻、软件更新、发布以及对自托管新闻通讯管理工具 Keila 的关注]]></description>
       <guid>https://selfh.st/newsletter/2023-11-10/</guid>
       <pubDate>Fri, 10 Nov 2023 12:41:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>本周自行主办（2023 年 11 月 3 日）</title>
-      <link>https://selfh.st/newsletter/2023-11-03/</link>
-      <description><![CDATA[自托管新闻、软件更新、发布以及对自托管播客平台 Castopod 的关注]]></description>
-      <guid>https://selfh.st/newsletter/2023-11-03/</guid>
-      <pubDate>Fri, 03 Nov 2023 11:36:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
