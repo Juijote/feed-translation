@@ -4,7 +4,14 @@
     <title>沸腾的蒸汽</title>
     <link>https://boilingsteam.com</link>
     <description>Linux 上的 PC 游戏就是明天！</description>
-    <lastBuildDate>Sat, 03 Feb 2024 11:05:24 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Feb 2024 13:55:39 GMT</lastBuildDate>
+    <item>
+      <title>Universim，在 Linux 上评论</title>
+      <link>https://boilingsteam.com/the-universim-review/index.html</link>
+      <description><![CDATA[Universim 由 Crytivo 开发和发行，是一款殖民地模拟游戏，它会尝试做很多事情并在某些方面取得成功，同时测试你的上帝的耐心。它在 Linux 上运行良好，但有一些小问题。在这个世界建造者中，你扮演一些令人毛骨悚然的神，受到一些被称为“掘金”的类人生物的崇拜，根据故事，这些生物太愚蠢了，如果任其自行其是就会死去。你神一般的力量包括用闪电或流星袭击杀死敌人、提高掘金人的生活质量或迫使他们交配、保护城市和改善世界。]]></description>
+      <guid>https://boilingsteam.com/the-universim-review/index.html</guid>
+      <pubDate>Sun, 04 Feb 2024 13:51:21 GMT</pubDate>
+    </item>
     <item>
       <title>回顾 2023 年 Linux 游戏预测</title>
       <link>https://boilingsteam.com/reviewing-linux-gaming-predictions-for-2023/index.html</link>
@@ -57,14 +64,14 @@
     <item>
       <title>Steam Deck OLED 在日本重新进货...并再次售空！</title>
       <link>https://boilingsteam.com/the-steam-deck-oled-get-restocked-in-japan-sold-out-again/index.html</link>
-      <description><![CDATA[来自日本的一条简短消息。从我们之前的报道中可以知道，Steam Deck OLED 自 2023 年 11 月以来在日本就断货了。新的发货将于 1 月中旬发货。好吧，他们登陆了 Komodo商店，你猜怎么着？他们已经再次售空了！这是 Komodo 的 Twitter 帐户对整个情况的评价：https://twitter.com/OnDeckJP/status/1746835918965878815 &gt; 非常感谢您的积极评价反馈。，补货的#SteamDeckOLED 已售完。下一批运往日本的货物将于二月初左右补货。如果您希望在商品重新有货时收到通知，请点击“添加到愿望清单”进行注册。 * 到货时间可能会根据交货情况而有所不同。]]></description>
+      <description><![CDATA[来自日本的一条简短消息。从我们之前的报道中可以知道，Steam Deck OLED 自 2023 年 11 月以来在日本就断货了。新的发货将于 1 月中旬发货。好吧，他们登陆了 Komodo商店，你猜怎么着？他们已经再次售空了！这是 Komodo 的 Twitter 帐户对整个情况的评价：https://twitter.com/OnDeckJP/status/1746835918965878815 &gt; 感谢您的大力支持。 ，补货的#SteamDeckOLED 已售罄。下一批运往日本的货物将于二月初左右补货。如果您希望在商品重新有货时收到通知，请点击“添加到愿望清单”进行注册。 * 到货时间可能会根据交货情况而有所不同。]]></description>
       <guid>https://boilingsteam.com/the-steam-deck-oled-get-restocked-in-japan-sold-out-again/index.html</guid>
       <pubDate>Mon, 15 Jan 2024 12:46:00 GMT</pubDate>
     </item>
     <item>
       <title>Steam Deck APU 内部的惊人发现</title>
       <link>https://boilingsteam.com/an-in-depth-look-at-the-steam-deck-apu/index.html</link>
-      <description><![CDATA[最近，通过 HighYield 发布的一段精彩的 Youtube 视频，我们了解了有关 Steam Deck LCD 版本中使用的 APU 设计的两件事： - Steam Deck APU（代号 Van Gogh）拥有更多核心的未使用部件。 Magic Leap 2 AR 眼镜很可能也使用了完全相同的 APU，该眼镜也使用了此类核心。 - OLED 版本中使用的 Steam Deck APU 可能是第一个完全为 Steam Deck 平台制造的芯片组，其占地面积更小，不仅归功于 6nm 光刻技术，还因为移除了未使用的核心。现在您知道我们要看什么了，让我们通过图片来了解整个故事。]]></description>
+      <description><![CDATA[最近，通过 HighYield 发布的一段精彩的 Youtube 视频，我们了解了有关 Steam Deck LCD 版本中使用的 APU 设计的两件事： - Steam Deck APU（代号 Van Gogh）拥有更多核心的未使用部件。 Magic Leap 2 AR 眼镜很可能也使用了完全相同的 APU，该眼镜也使用了此类核心。 - OLED 版本中使用的 Steam Deck APU 可能是第一个完全为 Steam Deck 平台制造的芯片组，其占地面积更小，这不仅归功于 6nm 光刻技术，还因为移除了未使用的核心。现在您知道我们要看什么了，让我们通过图片来了解整个故事。]]></description>
       <guid>https://boilingsteam.com/an-in-depth-look-at-the-steam-deck-apu/index.html</guid>
       <pubDate>Mon, 15 Jan 2024 02:37:03 GMT</pubDate>
     </item>
@@ -85,7 +92,7 @@
     <item>
       <title>具有本机 Linux 客户端的新 Steam 游戏 - 2024 年 1 月 10 日版</title>
       <link>https://boilingsteam.com/new-steam-games-with-native-linux-clients-2024-01-10-edition/index.html</link>
-      <description><![CDATA[2024 年 1 月 3 日至 2024 年 1 月 10 日期间，使用本机 Linux 客户端发布了 24 款新 Steam 游戏。作为参考，同期，Steam 上发布了 267 款 Windows 游戏，因此 Linux 版本约占已发布游戏总数的 9%。就像上周一样，现在不是在 Steam 上寻找精彩游戏的好时机，而且选择也显示了这一点。我只找到了其中两个可以挽救的：]]></description>
+      <description><![CDATA[2024 年 1 月 3 日至 2024 年 1 月 10 日期间，使用本机 Linux 客户端发布了 24 款新 Steam 游戏。作为参考，同期 Steam 上发布了 267 款 Windows 游戏，因此 Linux 版本约占已发布游戏总数的 9%。就像上周一样，现在不是在 Steam 上寻找精彩游戏的好时机，而且选择也显示了这一点。我只找到了其中两个可以挽救的：]]></description>
       <guid>https://boilingsteam.com/new-steam-games-with-native-linux-clients-2024-01-10-edition/index.html</guid>
       <pubDate>Wed, 10 Jan 2024 06:42:54 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[在 Boiling Steam，我们定期回顾用于游戏的 Linux 发行版的趋势，这要归功于 ProtonDB 上的数据（有时还有 Steam 硬件调查）。我们甚至无法知道市场上使用的所有 Linux 发行版的真实份额，ProtonDB 用户都是游戏玩家，这为我们提供了一个很好的指标，了解哪些发行版用于在 Linux 上玩游戏。在过去的版本中，我们回顾了几个趋势，例如： - Ubuntu 的份额急剧下降 - Manjaro 的使用率也面临严重下降 - Nobara 的增长速度比其他任何公司都快]]></description>
       <guid>https://boilingsteam.com/linux-distros-evolution-january-2024-update-pop-os-in-decline/index.html</guid>
       <pubDate>Fri, 05 Jan 2024 09:41:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>您可以使用 Proton 在 Linux 上玩的 7 款热门新游戏 – 2024 年 1 月版</title>
-      <link>https://boilingsteam.com/top-7-new-games-you-can-play-on-linux-with-proton-january-2024-edition/index.html</link>
-      <description><![CDATA[祝大家2024年新年快乐！我们带着通常的每月更新回来了。 Boiling Steam 查看 ProtonDB 的最新数据转储，为您提供自 2023 年 12 月发布以来与 Proton 完美配合（几乎？查看评级）的新游戏的快速列表 - 所有这些游戏都可以开箱即用或运行良好调整： - （the）Gnorp Apologue：ProtonDB 信息 - Steam 商店 - Mind Over Magic：ProtonDB 信息 - Steam 商店 - 独臂强盗：ProtonDB 信息 - Steam 商店]]></description>
-      <guid>https://boilingsteam.com/top-7-new-games-you-can-play-on-linux-with-proton-january-2024-edition/index.html</guid>
-      <pubDate>Thu, 04 Jan 2024 15:11:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
