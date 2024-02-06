@@ -4,23 +4,30 @@
     <title>沸腾的蒸汽</title>
     <link>https://boilingsteam.com</link>
     <description>Linux 上的 PC 游戏就是明天！</description>
-    <lastBuildDate>Sun, 04 Feb 2024 13:55:39 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Feb 2024 16:15:34 GMT</lastBuildDate>
+    <item>
+      <title>Chris Were 的 2023 年 Linux 游戏预测回顾</title>
+      <link>https://boilingsteam.com/chris-weres-linux-gaming-predictions-2023-reviewed/index.html</link>
+      <description><![CDATA[我们请 Chris Were 回顾一下他对 2023 年 Linux 游戏的预测。几天前我们已经回顾了 Boiling Steam 对 2023 年的预测。现在让我们把麦克风交给下面的克里斯。你好，我是克里斯·威尔。我有时会在 YouTube 上制作视频（@ChrisWereDigital 和 @itsLudoChris），但我最感兴趣的是我的 Fediverse 内容 (ChrisWere@toot.wales)。今年我的预测稍微成功一些。去年我写道：“OpenMW 将把多人游戏分支合并到其主分支中，这意味着一大群新人将开始玩 Morrowind 多人游戏。非 FOSS（自由开源软件）和非 Linux 游戏 YouTuber 和 Twitch 流媒体将发布人们在多人游戏中玩得开心和打破游戏的视频。”]]></description>
+      <guid>https://boilingsteam.com/chris-weres-linux-gaming-predictions-2023-reviewed/index.html</guid>
+      <pubDate>Tue, 06 Feb 2024 16:11:06 GMT</pubDate>
+    </item>
     <item>
       <title>Universim，在 Linux 上评论</title>
       <link>https://boilingsteam.com/the-universim-review/index.html</link>
-      <description><![CDATA[Universim 由 Crytivo 开发和发行，是一款殖民地模拟游戏，它会尝试做很多事情并在某些方面取得成功，同时测试你的上帝的耐心。它在 Linux 上运行良好，但有一些小问题。在这个世界建造者中，你扮演一些令人毛骨悚然的神，受到一些被称为“掘金”的类人生物的崇拜，根据故事，这些生物太愚蠢了，如果任其自行其是就会死去。你神一般的力量包括用闪电或流星袭击杀死敌人、提高掘金人的生活质量或迫使他们交配、保护城市和改善世界。]]></description>
+      <description><![CDATA[Universim 由 Crytivo 开发和发行，是一款殖民地模拟游戏，它会尝试做很多事情并在某些方面取得成功，同时测试你的上帝的耐心。它在 Linux 上运行良好，但有一些小问题。在这个世界建造者中，你扮演一些令人毛骨悚然的神，受到一些称为掘金的类人生物的崇拜，根据故事，这些生物太愚蠢了，如果任其自行其是就会死亡。你神一般的力量包括用闪电或流星袭击杀死敌人、提高掘金人的生活质量或迫使他们交配、保护城市和改善世界。]]></description>
       <guid>https://boilingsteam.com/the-universim-review/index.html</guid>
       <pubDate>Sun, 04 Feb 2024 13:51:21 GMT</pubDate>
     </item>
     <item>
       <title>回顾 2023 年 Linux 游戏预测</title>
       <link>https://boilingsteam.com/reviewing-linux-gaming-predictions-for-2023/index.html</link>
-      <description><![CDATA[现在已经是 2024 年 2 月，是时候回顾一下我们对 2023 年 Linux 游戏的预测了。这次我们将从Boiling Steam 上我们自己的预测开始，然后邀请我们的嘉宾发表评论。我们每个人都将在下面评论自己的预测。]]></description>
+      <description><![CDATA[现在已经是 2024 年 2 月，是时候回顾一下我们对 2023 年 Linux 游戏的预测了。这次我们将从 Boiling Steam 上我们自己的预测开始，然后邀请我们的嘉宾发表评论。我们每个人都将在下面评论自己的预测。]]></description>
       <guid>https://boilingsteam.com/reviewing-linux-gaming-predictions-for-2023/index.html</guid>
       <pubDate>Sat, 03 Feb 2024 11:01:35 GMT</pubDate>
     </item>
     <item>
-      <title>带有原生 Linux 客户端的新 Steam 游戏，包括《Into the Necrovale》和《Ancient Warfare 3》 - 2024-01-31 版</title>
+      <title>带有原生 Linux 客户端的新 Steam 游戏，包括《Into the Necrovale》和《Ancient Warfare 3》 - 2024 年 1 月 31 日版</title>
       <link>https://boilingsteam.com/new-steam-games-with-native-linux-clients-2024-01-31-edition/index.html</link>
       <description><![CDATA[2024 年 1 月 24 日至 2024 年 1 月 31 日期间，使用本机 Linux 客户端发布了 29 款新 Steam 游戏。作为参考，同期 Steam 上发布了 365 款 Windows 游戏，因此 Linux 版本约占已发布游戏总数的 7.9%。这周我发现《Into the Necrovale》很吸引人，因为它让我想起了旧时的挑战！以下是本周值得一试的所有游戏的快速精选：]]></description>
       <guid>https://boilingsteam.com/new-steam-games-with-native-linux-clients-2024-01-31-edition/index.html</guid>
@@ -71,7 +78,7 @@
     <item>
       <title>Steam Deck APU 内部的惊人发现</title>
       <link>https://boilingsteam.com/an-in-depth-look-at-the-steam-deck-apu/index.html</link>
-      <description><![CDATA[最近，通过 HighYield 发布的一段精彩的 Youtube 视频，我们了解了有关 Steam Deck LCD 版本中使用的 APU 设计的两件事： - Steam Deck APU（代号 Van Gogh）拥有更多核心的未使用部件。 Magic Leap 2 AR 眼镜很可能也使用了完全相同的 APU，该眼镜也使用了此类核心。 - OLED 版本中使用的 Steam Deck APU 可能是第一个完全为 Steam Deck 平台制造的芯片组，其占地面积更小，这不仅归功于 6nm 光刻技术，还因为移除了未使用的核心。现在您知道我们要看什么了，让我们通过图片来了解整个故事。]]></description>
+      <description><![CDATA[最近，通过 HighYield 发布的一段精彩的 Youtube 视频，我们了解了有关 Steam Deck LCD 版本中使用的 APU 设计的两件事： - Steam Deck APU（代号 Van Gogh）拥有更多核心的未使用部件。 Magic Leap 2 AR 眼镜很可能也使用了完全相同的 APU，该眼镜也使用了此类核心。 - OLED 版本中使用的 Steam Deck APU 可能是第一个完全为 Steam Deck 平台制造的芯片组，其占地面积更小，不仅归功于 6nm 光刻技术，还因为移除了未使用的核心。现在您知道我们要看什么了，让我们通过图片来了解整个故事。]]></description>
       <guid>https://boilingsteam.com/an-in-depth-look-at-the-steam-deck-apu/index.html</guid>
       <pubDate>Mon, 15 Jan 2024 02:37:03 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[今天，我们正在检查 Steam 上排名前 1000 名（最受欢迎）的游戏（截至 2024 年 1 月 7 日）中有多少游戏实际上在 Steam Deck 上运行。该数据直接从 Steam 的实时统计数据中收集，也从 Steam 本身验证 Steam Deck 的官方状态中收集。]]></description>
       <guid>https://boilingsteam.com/top-1000-games-on-steam-73-percent-735-working-on-steam-deck/index.html</guid>
       <pubDate>Sun, 07 Jan 2024 11:42:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>Linux 发行版演变 - 2024 年 1 月更新：Pop!_OS 正在衰落？</title>
-      <link>https://boilingsteam.com/linux-distros-evolution-january-2024-update-pop-os-in-decline/index.html</link>
-      <description><![CDATA[在 Boiling Steam，我们定期回顾用于游戏的 Linux 发行版的趋势，这要归功于 ProtonDB 上的数据（有时还有 Steam 硬件调查）。我们甚至无法知道市场上使用的所有 Linux 发行版的真实份额，ProtonDB 用户都是游戏玩家，这为我们提供了一个很好的指标，了解哪些发行版用于在 Linux 上玩游戏。在过去的版本中，我们回顾了几个趋势，例如： - Ubuntu 的份额急剧下降 - Manjaro 的使用率也面临严重下降 - Nobara 的增长速度比其他任何公司都快]]></description>
-      <guid>https://boilingsteam.com/linux-distros-evolution-january-2024-update-pop-os-in-decline/index.html</guid>
-      <pubDate>Fri, 05 Jan 2024 09:41:48 GMT</pubDate>
     </item>
     </channel>
 </rss>
