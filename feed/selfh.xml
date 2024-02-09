@@ -3,8 +3,15 @@
   <channel>
     <title>自我h.st</title>
     <link>https://selfh.st/</link>
-    <description>欢迎来到 selfh.st，这是一个致力于自我托管内容的地方。</description>
-    <lastBuildDate>Fri, 09 Feb 2024 12:17:23 GMT</lastBuildDate>
+    <description>欢迎来到 selfh.st，一个致力于自我托管内容的地方。</description>
+    <lastBuildDate>Fri, 09 Feb 2024 18:12:28 GMT</lastBuildDate>
+    <item>
+      <title>本周自行主办（2024 年 2 月 9 日）</title>
+      <link>https://selfh.st/newsletter/2024-02-09/</link>
+      <description><![CDATA[自托管新闻、软件更新、发布以及 Scrypted、摄像头流媒体平台和 NVR 的焦点]]></description>
+      <guid>https://selfh.st/newsletter/2024-02-09/</guid>
+      <pubDate>Fri, 09 Feb 2024 12:51:31 GMT</pubDate>
+    </item>
     <item>
       <title>本周自行主办（2024 年 2 月 2 日）</title>
       <link>https://selfh.st/newsletter/2024-02-02/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[自托管新闻、软件更新、发布以及现代知识库 Web 应用程序 Outline 的焦点]]></description>
       <guid>https://selfh.st/newsletter/2023-11-17/</guid>
       <pubDate>Fri, 17 Nov 2023 12:40:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>本周自行主办（2023 年 11 月 10 日）</title>
-      <link>https://selfh.st/newsletter/2023-11-10/</link>
-      <description><![CDATA[自托管新闻、软件更新、发布以及对自托管新闻通讯管理工具 Keila 的关注]]></description>
-      <guid>https://selfh.st/newsletter/2023-11-10/</guid>
-      <pubDate>Fri, 10 Nov 2023 12:41:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
