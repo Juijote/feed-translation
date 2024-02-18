@@ -4,7 +4,14 @@
     <title>沸腾的蒸汽</title>
     <link>https://boilingsteam.com</link>
     <description>Linux 上的 PC 游戏就是明天！</description>
-    <lastBuildDate>Sat, 17 Feb 2024 02:05:36 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Feb 2024 09:40:28 GMT</lastBuildDate>
+    <item>
+      <title>《苍翼默示录》熵效应在 Steam 平台上回顾</title>
+      <link>https://boilingsteam.com/blaz-blue-entropy-effect/index.html</link>
+      <description><![CDATA[我去年 2023 年 7 月在日本京都的 BitSummit 上首次看到这款游戏。当时它已经在 Steam Deck 上运行，所以我知道我们可以期待对该版本的出色 Linux 支持，而且我并没有失望。 《苍翼默示录》是日本 Arc Systems 出品的一款非常知名的格斗游戏系列，《熵效应》是该系列的衍生作品。您会发现您可以在格斗游戏中扮演相同的角色，但这次是在 Roguelite 2D 平台游戏中使用。请注意，您无需熟悉格斗游戏本身，因为该游戏完全独立。游戏背后的整个故事一开始有点奇怪。你扮演一个漂浮的机器人（ACEr），其任务是找出隐藏在未来（或过去？）的一些奇怪愿景（被称为现象）背后的东西。为了做到这一点，你必须在思维训练机中通过一系列挑战，你将在其中扮演 Evotype 之一（即《苍翼默示录》系列的角色之一），尝试让他们通过不同的关卡的心智训练阶段。如果这听起来有点奇怪和无聊，那么，确实是这样，但是一旦你克服了这一点，游戏就会变得一目了然：你选择一个角色，你必须尽可能走得更远才能完成单人运行生活。你的游戏方式遵循动作平台游戏的黄金规则：你可以跳跃并执行二段跳。一开始你只能解锁 3 个角色，然后你必须选择一个或另一个来试试你的运气。根据你的角色，你会使用不同类型的武器：左轮手枪、长矛、剑，这会给你带来非常不同的感觉。例如，左轮手枪没有射程限制，而剑则更侧重于近战。你可以使用 X 按钮进行普通类型的攻击，使用 B 按钮冲刺以避免被击中，使用 Y 按钮使用特殊能力，并使用触发器执行另外两个传奇，在你可以重新启动之前，触发器有一个冷静期。 -使用它们。这一切都是为了快速移动，躲避敌人的攻击，并通过混合攻击来重击他们，以摆脱尽可能多的敌人，以避免被淹没。]]></description>
+      <guid>https://boilingsteam.com/blaz-blue-entropy-effect/index.html</guid>
+      <pubDate>Sun, 18 Feb 2024 09:36:05 GMT</pubDate>
+    </item>
     <item>
       <title>带有原生 Linux 客户端的新 Steam 游戏，包括 Boing Odyssey 和 DunHero - 2024 年 2 月 14 日版</title>
       <link>https://boilingsteam.com/new-steam-games-with-native-linux-clients-2024-02-14-edition/index.html</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[来自日本的一条简短消息。从我们之前的报道中可以知道，Steam Deck OLED 自 2023 年 11 月以来在日本就断货了。新的发货将于 1 月中旬发货。好吧，他们登陆了 Komodo商店，你猜怎么着？他们已经再次售空了！这是 Komodo 的 Twitter 帐户对整个情况的评价：https://twitter.com/OnDeckJP/status/1746835918965878815 &gt; 非常感谢您的积极评价反馈。，补货#SteamDeckOLED 已售完。下一批运往日本的货物将于二月初左右补货。如果您希望在商品重新有货时收到通知，请点击“添加到愿望清单”进行注册。 * 到货时间可能会根据交货情况而有所不同。]]></description>
       <guid>https://boilingsteam.com/the-steam-deck-oled-get-restocked-in-japan-sold-out-again/index.html</guid>
       <pubDate>Mon, 15 Jan 2024 12:46:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>StarFive VisionFive 2：最终面向大众的 RISC-V SBC？</title>
-      <link>https://boilingsteam.com/vision-five-2-board-review/index.html</link>
-      <description><![CDATA[RISC-V 是新的开放标准指令集架构 (ISA)，预计将引领计算领域的下一次革命，无需附加许可证（使用 ISA 标准无需支付版税），并且 ISA 可以灵活地服务于多个从嵌入式到超级计算机设计的用例。因苹果和 AMD 而出名的 Jim Keller 现在正在研究 RISC-V，虽然他可能没有偏见，因为他对此有既得利益，但他预测（或计划）RISC-V 将占据服务器领域的主要部分从现在起5年内。 https://www.youtube.com/watch?v=wCtSS9cZAHw 同时，如果您想尝试实际的 RISC-V 硬件，Star Five 的 Vision Five 2 是最好的选择之一现在：它价格实惠，性能非常不错，并且计划在不久的将来得到 Debian 上游的全面支持（Raspberry Pi 用户自推出以来就必须依赖专有的引导加载程序和 GPU 驱动程序）。如果你想知道StarFive来自哪里，StarFive是一家成立于2018年的中国本土高科技公司，拥有自主知识产权。是中国RISC-V软硬件生态系统的领导者，提供涵盖CPU IP、SoC、开发板等RISC-V产品和解决方案。目前，StarFive 拥有约 300 名员工，大部分位于中国，在上海、北京、成都和佛山设有办事处。他们还在新加坡和马来西亚设有研发中心。 StarFive是一家无晶圆厂公司，JH-7110（VisionFive 2的SoC）采用台积电成熟的28纳米工艺技术。]]></description>
-      <guid>https://boilingsteam.com/vision-five-2-board-review/index.html</guid>
-      <pubDate>Sun, 14 Jan 2024 11:22:04 GMT</pubDate>
     </item>
     </channel>
 </rss>
