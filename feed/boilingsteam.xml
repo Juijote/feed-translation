@@ -4,18 +4,25 @@
     <title>沸腾的蒸汽</title>
     <link>https://boilingsteam.com</link>
     <description>Linux 上的 PC 游戏就是明天！</description>
-    <lastBuildDate>Sun, 18 Feb 2024 09:40:28 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Feb 2024 14:35:31 GMT</lastBuildDate>
+    <item>
+      <title>Linux 游戏发行版：Ubuntu 和 Manjaro 进一步被遗忘 - 2024 年 2 月</title>
+      <link>https://boilingsteam.com/ubuntu-and-manjaro-fall-further-into-oblivion-february-2024/index.html</link>
+      <description><![CDATA[现在是时候根据非常有用的 ProtonDB 数据转储来观察与 Linux 游戏发行版相关的最新趋势了。无需进一步说明，让我与您分享以下最近几个月的数据结果： [Linux 游戏发行版的演变：2024 年 2 月更新] 最近出现了一些趋势。]]></description>
+      <guid>https://boilingsteam.com/ubuntu-and-manjaro-fall-further-into-oblivion-february-2024/index.html</guid>
+      <pubDate>Mon, 19 Feb 2024 14:29:25 GMT</pubDate>
+    </item>
     <item>
       <title>《苍翼默示录》熵效应在 Steam 平台上回顾</title>
       <link>https://boilingsteam.com/blaz-blue-entropy-effect/index.html</link>
-      <description><![CDATA[我去年 2023 年 7 月在日本京都的 BitSummit 上首次看到这款游戏。当时它已经在 Steam Deck 上运行，所以我知道我们可以期待对该版本的出色 Linux 支持，而且我并没有失望。 《苍翼默示录》是日本 Arc Systems 出品的一款非常知名的格斗游戏系列，《熵效应》是该系列的衍生作品。您会发现您可以在格斗游戏中扮演相同的角色，但这次是在 Roguelite 2D 平台游戏中使用。请注意，您无需熟悉格斗游戏本身，因为该游戏完全独立。游戏背后的整个故事一开始有点奇怪。你扮演一个漂浮的机器人（ACEr），其任务是找出隐藏在未来（或过去？）的一些奇怪愿景（被称为现象）背后的东西。为了做到这一点，你必须在思维训练机中通过一系列挑战，你将在其中扮演 Evotype 之一（即《苍翼默示录》系列的角色之一），尝试让他们通过不同的关卡的心智训练阶段。如果这听起来有点奇怪和无聊，那么，确实是这样，但是一旦你克服了这一点，游戏就会变得一目了然：你选择一个角色，你必须尽可能走得更远才能完成单人运行生活。你的游戏方式遵循动作平台游戏的黄金规则：你可以跳跃并执行二段跳。一开始你只能解锁 3 个角色，然后你必须选择一个或另一个来试试你的运气。根据你的角色，你会使用不同类型的武器：左轮手枪、长矛、剑，这会给你带来非常不同的感觉。例如，左轮手枪没有射程限制，而剑则更侧重于近战。你可以使用 X 按钮进行普通类型的攻击，使用 B 按钮冲刺以避免被击中，使用 Y 按钮使用特殊能力，并使用触发器执行另外两个传奇，在你可以重新启动之前，触发器有一个冷静期。 -使用它们。这一切都是为了快速移动，躲避敌人的攻击，并通过混合攻击来重击他们，以摆脱尽可能多的敌人，以避免被淹没。]]></description>
+      <description><![CDATA[我去年 2023 年 7 月在日本京都的 BitSummit 上首次看到这款游戏。当时它已经在 Steam Deck 上运行，所以我知道我们可以期待对该版本的出色 Linux 支持，而且我并没有失望。 《苍翼默示录》是日本 Arc Systems 出品的一款非常知名的格斗游戏系列，《熵效应》是该系列的衍生作品。您会发现您可以在格斗游戏中扮演相同的角色，但这次是在 Roguelite 2D 平台游戏中使用。请注意，您无需熟悉格斗游戏本身，因为该游戏完全独立。游戏背后的整个故事一开始有点奇怪。你扮演一个漂浮的机器人（ACEr），其任务是找出隐藏在未来（或过去？）的一些奇怪愿景（被称为现象）背后的东西。为了做到这一点，你必须在思维训练机中通过一系列挑战，你将在其中扮演 Evotype 之一（即《苍翼默示录》系列的角色之一），尝试让他们通过不同的关卡的心智训练阶段。如果这听起来有点奇怪和无聊，那么，确实是这样，但是一旦你克服了这一点，游戏就会变得一目了然：你选择一个角色，你必须尽可能走得更远才能完成单人运行生活。你的游戏方式遵循动作平台游戏的黄金规则：你可以跳跃并执行二段跳。一开始你只能解锁 3 个角色，然后你必须选择一个或另一个来试试你的运气。根据你的角色，你会使用不同类型的武器：左轮手枪、长矛、剑，这会给你带来非常不同的感觉。例如，左轮手枪没有射程限制，而剑则更侧重于近战。你可以使用 X 按钮进行普通类型的攻击，使用 B 按钮冲刺以避免被击中，使用 Y 按钮使用特殊能力，并使用触发器执行另外两个传奇，在你可以重新启动之前，触发器有一个冷静期。 -使用它们。这一切都是为了快速移动，躲避敌人的攻击，并通过混合攻击来重击他们，以尽可能多地消灭他们，以避免被淹没。]]></description>
       <guid>https://boilingsteam.com/blaz-blue-entropy-effect/index.html</guid>
       <pubDate>Sun, 18 Feb 2024 09:36:05 GMT</pubDate>
     </item>
     <item>
       <title>带有原生 Linux 客户端的新 Steam 游戏，包括 Boing Odyssey 和 DunHero - 2024 年 2 月 14 日版</title>
       <link>https://boilingsteam.com/new-steam-games-with-native-linux-clients-2024-02-14-edition/index.html</link>
-      <description><![CDATA[2024 年 2 月 7 日至 2024 年 2 月 14 日期间，使用本机 Linux 客户端发布了 41 款新 Steam 游戏。作为参考，同期 Steam 上发布了 467 款 Windows 游戏，因此 Linux 版本约占已发布游戏总数的 8.8%。公平地说，这次的垃圾比平时更多，所以我们留下的并不多，但这里快速挑选了一些最有趣的：]]></description>
+      <description><![CDATA[2024 年 2 月 7 日至 2024 年 2 月 14 日期间，使用本机 Linux 客户端发布了 41 款新 Steam 游戏。作为参考，同一时期，Steam 上发布了 467 款 Windows 游戏，因此 Linux 版本约占已发布游戏总数的 8.8%。公平地说，这次的垃圾比平时更多，所以我们留下的并不多，但这里快速挑选了一些最有趣的：]]></description>
       <guid>https://boilingsteam.com/new-steam-games-with-native-linux-clients-2024-02-14-edition/index.html</guid>
       <pubDate>Sat, 17 Feb 2024 02:01:15 GMT</pubDate>
     </item>
@@ -43,21 +50,21 @@
     <item>
       <title>Chris Were 的 2023 年 Linux 游戏预测回顾</title>
       <link>https://boilingsteam.com/chris-weres-linux-gaming-predictions-2023-reviewed/index.html</link>
-      <description><![CDATA[我们请 Chris Were 回顾一下他对 2023 年 Linux 游戏的预测。几天前我们已经回顾了 Boiling Steam 对 2023 年的预测。现在让我们把麦克风交给下面的克里斯。你好，我是克里斯·威尔。我有时会在 YouTube 上制作视频（@ChrisWereDigital 和 @itsLudoChris），但我最感兴趣的是我的 Fediverse 内容 (ChrisWere@toot.wales)。今年我的预测稍微成功一些。去年我写道：&gt;“OpenMW 将把多人游戏分支合并到其主分支中，这意味着一大群新人将开始玩 Morrowind 多人游戏。非 FOSS（自由开源软件）和非 Linux 游戏 YouTuber 和 Twitch 流媒体将发布人们在多人游戏中玩得开心和打破游戏的视频。”]]></description>
+      <description><![CDATA[我们请 Chris Were 回顾一下他对 2023 年 Linux 游戏的预测。几天前我们已经回顾了 Boiling Steam 对 2023 年的预测。现在让我们把麦克风交给下面的克里斯。你好，我是克里斯·威尔。我有时会在 YouTube 上制作视频（@ChrisWereDigital 和 @itsLudoChris），但我最感兴趣的是我的 Fediverse 内容 (ChrisWere@toot.wales)。今年我的预测稍微成功一些。去年我写道：“OpenMW 将把多人游戏分支合并到其主分支中，这意味着一大群新人将开始玩 Morrowind 多人游戏。非 FOSS（免费开源软件）和非 Linux 游戏 YouTuber 和 Twitch 流媒体将发布人们在多人游戏中玩得开心和打破游戏的视频。”]]></description>
       <guid>https://boilingsteam.com/chris-weres-linux-gaming-predictions-2023-reviewed/index.html</guid>
       <pubDate>Tue, 06 Feb 2024 16:11:06 GMT</pubDate>
     </item>
     <item>
       <title>Universim，在 Linux 上评论</title>
       <link>https://boilingsteam.com/the-universim-review/index.html</link>
-      <description><![CDATA[Universim 由 Crytivo 开发和发行，是一款殖民地模拟游戏，它会尝试做很多事情并在某些方面取得成功，同时测试你的上帝的耐心。它在 Linux 上运行良好，但有一些小问题。在这个世界建造者中，你扮演一些令人毛骨悚然的神，受到一些称为掘金的类人生物的崇拜，根据故事，这些生物太愚蠢了，如果任其自行其是就会死亡。你神一般的力量包括用闪电或流星袭击杀死敌人、提高掘金人的生活质量或迫使他们交配、保护城市和改善世界。]]></description>
+      <description><![CDATA[Universim 由 Crytivo 开发和发行，是一款殖民地模拟游戏，它会尝试做很多事情并在某些方面取得成功，同时测试你的上帝的耐心。它在 Linux 上运行良好，但有一些小问题。在这个世界建造者中，你扮演一些令人毛骨悚然的神，受到一些被称为“掘金”的类人生物的崇拜，根据故事，这些生物太愚蠢了，如果任其自行其是就会死去。你神一般的力量包括用闪电或流星袭击杀死敌人、提高掘金人的生活质量或迫使他们交配、保护城市和改善世界。]]></description>
       <guid>https://boilingsteam.com/the-universim-review/index.html</guid>
       <pubDate>Sun, 04 Feb 2024 13:51:21 GMT</pubDate>
     </item>
     <item>
       <title>回顾 2023 年 Linux 游戏预测</title>
       <link>https://boilingsteam.com/reviewing-linux-gaming-predictions-for-2023/index.html</link>
-      <description><![CDATA[现在已经是 2024 年 2 月，是时候回顾一下我们对 2023 年 Linux 游戏的预测了。这次我们将从Boiling Steam 上我们自己的预测开始，然后邀请我们的嘉宾发表评论。我们每个人都将在下面评论自己的预测。]]></description>
+      <description><![CDATA[现在已经是 2024 年 2 月，是时候回顾一下我们对 2023 年 Linux 游戏的预测了。这次我们将从 Boiling Steam 上我们自己的预测开始，然后邀请我们的嘉宾发表评论。我们每个人都将在下面评论自己的预测。]]></description>
       <guid>https://boilingsteam.com/reviewing-linux-gaming-predictions-for-2023/index.html</guid>
       <pubDate>Sat, 03 Feb 2024 11:01:35 GMT</pubDate>
     </item>
@@ -95,13 +102,6 @@
       <description><![CDATA[这次我们迟到了几天！ 2024 年 1 月 10 日至 2024 年 1 月 17 日期间，使用本机 Linux 客户端发布了 45 款新 Steam 游戏。作为参考，同期 Steam 上发布了 356 款 Windows 游戏，因此 Linux 版本约占已发布游戏总数的 12.6%。在过去的 2-3 周里，这次还有很多值得检查的事情。到目前为止，我发现《战壕里无战事》非常有前途。以下是过去一周最有趣的标题的快速精选：]]></description>
       <guid>https://boilingsteam.com/new-steam-games-with-native-linux-clients-2024-01-17-edition/index.html</guid>
       <pubDate>Fri, 19 Jan 2024 16:15:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>MSI Claw - 另一个电子垃圾手持设备？</title>
-      <link>https://boilingsteam.com/msi-announces-a-new-pc-gaming-handheld-machine/index.html</link>
-      <description><![CDATA[华硕、联想以及现在的 MSI Claw 都有一种复制粘贴手持设备。这让我想起了一系列的 VR 耳机，它们比用手机搭配纸板护目镜要好一些，现在你可以在离你最近的 Goodwill 轻松找到它们。还有许多其他手持设备，但最近的出版物似乎忘记了它们，而只比较“clone 3”。我稍后会再谈这个。首先，让我们看看 MSI 带来了什么新功能。以下是其产品页面的规格。强调了一些注意点： - 高达 Intel® Core™ Ultra 7 处理器 155H]]></description>
-      <guid>https://boilingsteam.com/msi-announces-a-new-pc-gaming-handheld-machine/index.html</guid>
-      <pubDate>Mon, 15 Jan 2024 13:56:56 GMT</pubDate>
     </item>
     <item>
       <title>Steam Deck OLED 在日本重新进货...并再次售空！</title>
