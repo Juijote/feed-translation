@@ -4,11 +4,18 @@
     <title>沸腾的蒸汽</title>
     <link>https://boilingsteam.com</link>
     <description>Linux 上的 PC 游戏就是明天！</description>
-    <lastBuildDate>Tue, 20 Feb 2024 10:01:27 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Feb 2024 05:45:37 GMT</lastBuildDate>
+    <item>
+      <title>带有原生 Linux 客户端的新 Steam 游戏，包括《Stories from the Outbreak》和 TallowMere 2 - 2024 年 2 月 21 日版</title>
+      <link>https://boilingsteam.com/new-steam-games-with-native-linux-clients-2024-02-21-edition/index.html</link>
+      <description><![CDATA[2024 年 2 月 14 日至 2024 年 2 月 21 日期间，使用本机 Linux 客户端发布了 35 款新 Steam 游戏。作为参考，同期 Steam 上发布了 389 款 Windows 游戏，因此 Linux 版本约占已发布游戏总数的 9%。本周最大的发布是《爆发的故事》的 1.0 版本，经过一整年的反馈和迭代，它刚刚结束抢先体验。现在看来，这是一款非常值得尝试的可靠且强大的游戏！以下是本周值得一看的游戏的完整列表：]]></description>
+      <guid>https://boilingsteam.com/new-steam-games-with-native-linux-clients-2024-02-21-edition/index.html</guid>
+      <pubDate>Wed, 21 Feb 2024 05:44:37 GMT</pubDate>
+    </item>
     <item>
       <title>Steam Next Fest：2024 年 2 月 - 我们尝试过的</title>
       <link>https://boilingsteam.com/steam-next-fest-feb-2024/index.html</link>
-      <description><![CDATA[Steam Next 盛宴，2024 年 2 月 - 在新游戏面世之前尝试新游戏的好时机。像往常一样，我们与您分享我们对我们尝试过的各种游戏的看法。您可以查看我们为 2023 年 10 月的 Steam Next Fest、2023 年 2 月的 Steam Next Fest、2022 年 10 月的 Steam Next Fest 所做的工作。过去的事情已经说完了，让我们来谈谈即将推出的游戏吧！]]></description>
+      <description><![CDATA[Steam Next 盛典，2024 年 2 月 - 在新游戏面世之前尝试新游戏的好时机。像往常一样，我们与您分享我们对我们尝试过的各种游戏的看法。您可以查看我们为 2023 年 10 月的 Steam Next Fest、2023 年 2 月的 Steam Next Fest、2022 年 10 月的 Steam Next Fest 所做的工作。过去的事情已经说完了，让我们来谈谈即将推出的游戏吧！]]></description>
       <guid>https://boilingsteam.com/steam-next-fest-feb-2024/index.html</guid>
       <pubDate>Tue, 20 Feb 2024 09:49:42 GMT</pubDate>
     </item>
@@ -20,9 +27,9 @@
       <pubDate>Mon, 19 Feb 2024 14:29:25 GMT</pubDate>
     </item>
     <item>
-      <title>《苍翼默示录》熵效应在 Steam 平台上回顾</title>
+      <title>Steam 平台上回顾《苍翼默示录》熵效应</title>
       <link>https://boilingsteam.com/blaz-blue-entropy-effect/index.html</link>
-      <description><![CDATA[我去年 2023 年 7 月在日本京都的 BitSummit 上首次看到这款游戏。当时它已经在 Steam Deck 上运行，所以我知道我们可以期待对该版本的出色 Linux 支持，而且我并没有失望。 《苍翼默示录》是日本 Arc Systems 出品的一款非常知名的格斗游戏系列，《熵效应》是该系列的衍生作品。您会发现您可以在格斗游戏中扮演相同的角色，但这次是在 Roguelite 2D 平台游戏中使用。请注意，您无需熟悉格斗游戏本身，因为该游戏完全独立。游戏背后的整个故事一开始有点奇怪。你扮演一个漂浮的机器人（ACEr），其任务是找出隐藏在未来（或过去？）的一些奇怪愿景（被称为现象）背后的东西。为了做到这一点，你必须在思维训练机中通过一系列挑战，你将在其中扮演 Evotype 之一（即《苍翼默示录》系列的角色之一），尝试让他们通过不同的关卡的心智训练阶段。如果这听起来有点奇怪和无聊，那么，确实是这样，但是一旦你克服了这一点，游戏就会变得一目了然：你选择一个角色，你必须尽可能走得更远才能完成单人运行生活。你的游戏方式遵循动作平台游戏的黄金规则：你可以跳跃并执行二段跳。一开始你只能解锁 3 个角色，然后你必须选择一个或另一个来试试你的运气。根据你的角色，你会使用不同类型的武器：左轮手枪、长矛、剑，这会给你带来非常不同的感觉。例如，左轮手枪没有射程限制，而剑则更侧重于近战。你可以使用 X 按钮进行普通类型的攻击，使用 B 按钮冲刺以避免被击中，使用 Y 按钮使用特殊能力，并使用触发器执行另外两个传奇，在你可以重新启动之前，触发器有一个冷静期。 -使用它们。这一切都是为了快速移动，躲避敌人的攻击，并通过混合攻击来重击他们，以尽可能多地消灭他们，以避免被淹没。]]></description>
+      <description><![CDATA[我去年 2023 年 7 月在日本京都的 BitSummit 上首次看到这款游戏。当时它已经在 Steam Deck 上运行，所以我知道我们可以期待对该版本的出色 Linux 支持，而且我并没有失望。 《苍翼默示录》是日本 Arc Systems 出品的一款非常知名的格斗游戏系列，《熵效应》是该系列的衍生作品。您会发现您可以在格斗游戏中扮演相同的角色，但这次是在 Roguelite 2D 平台游戏中使用。请注意，您不需要熟悉格斗游戏本身，因为这个游戏完全独立。游戏背后的整个故事一开始有点奇怪。你扮演一个漂浮的机器人（ACEr），其任务是找出隐藏在未来（或过去？）的一些奇怪愿景（被称为现象）背后的东西。为了做到这一点，你必须在思维训练机中通过一系列挑战，你将在其中扮演 Evotype 之一（即《苍翼默示录》系列的角色之一），尝试让他们通过不同的关卡的心智训练阶段。如果这听起来有点奇怪和无聊，那么，确实是这样，但是一旦你克服了这一点，游戏就会变得一目了然：你选择一个角色，你必须尽可能走得更远才能完成单人运行生活。你的游戏方式遵循动作平台游戏的黄金规则：你可以跳跃并执行二段跳。一开始你只能解锁 3 个角色，然后你必须选择一个或另一个来试试你的运气。根据你的角色，你会使用不同类型的武器：左轮手枪、长矛、剑，这会给你带来非常不同的感觉。例如，左轮手枪没有射程限制，而剑则更注重近战。你可以使用 X 按钮进行普通类型的攻击，使用 B 按钮冲刺以避免被击中，使用 Y 按钮使用特殊能力，并使用触发器执行另外两个传奇，在你可以重新启动之前，触发器有一个冷静期。 -使用它们。这一切都是为了快速移动，躲避敌人的攻击，并通过混合攻击来重击他们，以尽可能多地消灭他们，以避免被淹没。]]></description>
       <guid>https://boilingsteam.com/blaz-blue-entropy-effect/index.html</guid>
       <pubDate>Sun, 18 Feb 2024 09:36:05 GMT</pubDate>
     </item>
@@ -43,7 +50,7 @@
     <item>
       <title>Corben 回顾了他对 2023 年 Linux 游戏的预测</title>
       <link>https://boilingsteam.com/corben-reviews-his-linux-gaming-predictions-for-2023/index.html</link>
-      <description><![CDATA[2 月份，我们将花更多时间回顾大约一年前我们不同的主持人对 Linux 游戏的未来（2023 年）所做的预测。今天，科本不得不说一下他自己的预测是如何实现的！]]></description>
+      <description><![CDATA[2 月份，我们将花更多时间回顾大约一年前我们的不同主持人对 Linux 游戏未来（2023 年）的预测。今天，科本不得不说一下他自己的预测是如何实现的！]]></description>
       <guid>https://boilingsteam.com/corben-reviews-his-linux-gaming-predictions-for-2023/index.html</guid>
       <pubDate>Sun, 11 Feb 2024 01:13:46 GMT</pubDate>
     </item>
@@ -57,7 +64,7 @@
     <item>
       <title>Chris Were 的 2023 年 Linux 游戏预测回顾</title>
       <link>https://boilingsteam.com/chris-weres-linux-gaming-predictions-2023-reviewed/index.html</link>
-      <description><![CDATA[我们请 Chris Were 回顾一下他对 2023 年 Linux 游戏的预测。几天前我们已经回顾了 Boiling Steam 对 2023 年的预测。现在让我们把麦克风交给下面的克里斯。你好，我是克里斯·威尔。我有时会在 YouTube 上制作视频（@ChrisWereDigital 和 @itsLudoChris），但我最感兴趣的是我的 Fediverse 内容 (ChrisWere@toot.wales)。今年我的预测稍微成功一些。去年我写道：“OpenMW 将把多人游戏分支合并到其主分支中，这意味着一大群新人将开始玩 Morrowind 多人游戏。非 FOSS（自由开源软件）和非 Linux 游戏 YouTuber 和 Twitch 流媒体将发布人们在多人游戏中玩得开心和打破游戏的视频。”]]></description>
+      <description><![CDATA[我们请 Chris Were 回顾一下他对 2023 年 Linux 游戏的预测。几天前我们已经回顾了 Boiling Steam 对 2023 年的预测。现在让我们把麦克风交给下面的克里斯。你好，我是克里斯·威尔。我有时会在 YouTube 上制作视频（@ChrisWereDigital 和 @itsLudoChris），但我最感兴趣的是我的 Fediverse 内容 (ChrisWere@toot.wales)。今年我的预测稍微成功一些。去年我写道：“OpenMW 将把多人游戏分支合并到其主分支中，这意味着一大群新人将开始玩 Morrowind 多人游戏。非 FOSS（免费开源软件）和非 Linux 游戏 YouTuber 和 Twitch 流媒体将发布人们在多人游戏中玩得开心和打破游戏的视频。”]]></description>
       <guid>https://boilingsteam.com/chris-weres-linux-gaming-predictions-2023-reviewed/index.html</guid>
       <pubDate>Tue, 06 Feb 2024 16:11:06 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[Aya Neo 几天前刚刚宣布，他们将发布一款新的手持设备 Ayaneo NEXT LITE，采用 HoloISO（我猜又名 SteamOS？），价格非常有竞争力，最便宜的型号为 300 美元。这是个好消息，原因有二： - 除了 Valve 之外，我们终于有了另一家公司，押注于基于 Linux 的类似控制台的界面，而不是糟糕的 Windows 11。 - 他们以如此低的价格瞄准主流受众。]]></description>
       <guid>https://boilingsteam.com/aya-neo-next-lite-will-use-steam-os/index.html</guid>
       <pubDate>Mon, 22 Jan 2024 16:51:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>带有原生 Linux 客户端的新 Steam 游戏，战壕中一切安静 - 2024 年 1 月 17 日版</title>
-      <link>https://boilingsteam.com/new-steam-games-with-native-linux-clients-2024-01-17-edition/index.html</link>
-      <description><![CDATA[这次我们迟到了几天！ 2024 年 1 月 10 日至 2024 年 1 月 17 日期间，使用本机 Linux 客户端发布了 45 款新 Steam 游戏。作为参考，同期 Steam 上发布了 356 款 Windows 游戏，因此 Linux 版本约占已发布游戏总数的 12.6%。在过去的 2-3 周里，这次还有很多值得检查的事情。到目前为止，我发现《战壕里无战事》非常有前途。以下是过去一周最有趣的标题的快速精选：]]></description>
-      <guid>https://boilingsteam.com/new-steam-games-with-native-linux-clients-2024-01-17-edition/index.html</guid>
-      <pubDate>Fri, 19 Jan 2024 16:15:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
