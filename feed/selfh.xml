@@ -4,7 +4,14 @@
     <title>自我h.st</title>
     <link>https://selfh.st/</link>
     <description>自托管新闻、内容、更新等。</description>
-    <lastBuildDate>Fri, 23 Feb 2024 12:17:44 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Feb 2024 18:13:23 GMT</lastBuildDate>
+    <item>
+      <title>本周自行主办（2024 年 2 月 23 日）</title>
+      <link>https://selfh.st/newsletter/2024-02-23/</link>
+      <description><![CDATA[自托管新闻、软件更新、发布以及对 2FAuth（自托管 2FA Web 应用程序）的关注]]></description>
+      <guid>https://selfh.st/newsletter/2024-02-23/</guid>
+      <pubDate>Fri, 23 Feb 2024 12:48:12 GMT</pubDate>
+    </item>
     <item>
       <title>本周自行主办（2024 年 2 月 16 日）</title>
       <link>https://selfh.st/newsletter/2024-02-16/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[自托管新闻、软件更新、发布以及对 Crontab UI（用于管理 cronjobs 的 Web 界面）的关注]]></description>
       <guid>https://selfh.st/newsletter/2023-11-24/</guid>
       <pubDate>Fri, 24 Nov 2023 12:40:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>适合注重隐私的用户的最佳 Plex 设置</title>
-      <link>https://selfh.st/blog/plex-privacy-settings/</link>
-      <description><![CDATA[更新这些设置以限制 Plex 收集的有关您的帐户、内容和流媒体习惯的数据]]></description>
-      <guid>https://selfh.st/blog/plex-privacy-settings/</guid>
-      <pubDate>Wed, 22 Nov 2023 10:37:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
