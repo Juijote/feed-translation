@@ -4,25 +4,32 @@
     <title>沸腾的蒸汽</title>
     <link>https://boilingsteam.com</link>
     <description>Linux 上的 PC 游戏就是明天！</description>
-    <lastBuildDate>Thu, 22 Feb 2024 08:29:57 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Feb 2024 03:58:55 GMT</lastBuildDate>
     <item>
-      <title>Linux 上的《战壕中的一切安静》评论</title>
+      <title>Proton 9 即将推出，Beta 版已出炉测试</title>
+      <link>https://boilingsteam.com/proton-9-is-coming-and-a-beta-is-out-for-testing/index.html</link>
+      <description><![CDATA[Proton 9.0 在其第一个公开测试版中带来了许多改进以及 2024 年 1 月发布的 Wine 9.0 的更新。Proton 9.0 Beta 11 变更日志包括对可玩游戏列表的添加、对各种问题的修复以及对 vkd3d 等组件的更新质子和 dxvk。值得注意的修复包括安全证书警告、鼠标加速、东方 Makuka Sai 和 Microsoft Flight Simulator 等特定游戏的崩溃，以及《毁灭战士：永恒》等游戏中的音频问题。该版本还解决了导致《最终幻想 XIV Online》启动器崩溃的内存泄漏问题，改进了 BIOMUTANT 中的视频播放，并更新了文件分发方法以节省磁盘空间。 Proton 9.0（测试版）将在 Proton 9.0-1 发布之前进行定期更新。请注意，Proton 8 的首次发布是在 2023 年 4 月 18 日，而 Proton 7 则在此之前于 2022 年 2 月 16 日发布。您或多或少可以预期 Proton 每年左右会进行一次重大更新，因此 Proton 9 将成为我们在 2024 年使用的主要版本。]]></description>
+      <guid>https://boilingsteam.com/proton-9-is-coming-and-a-beta-is-out-for-testing/index.html</guid>
+      <pubDate>Sun, 25 Feb 2024 03:53:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Linux 上的《战壕里的一切安静》评论</title>
       <link>https://boilingsteam.com/all-quiet-in-the-trenches-review/index.html</link>
       <description><![CDATA[《战壕中无战事》是一款有趣又令人心碎的游戏，一个小伤口就可能升级为彻底失败。]]></description>
       <guid>https://boilingsteam.com/all-quiet-in-the-trenches-review/index.html</guid>
       <pubDate>Thu, 22 Feb 2024 08:23:47 GMT</pubDate>
     </item>
     <item>
-      <title>带有原生 Linux 客户端的新 Steam 游戏，包括《Stories from the Outbreak》和 TallowMere 2 - 2024 年 2 月 21 日版</title>
+      <title>带有原生 Linux 客户端的新 Steam 游戏，包括 Stories from the Outbreak 和 TallowMere 2 - 2024-02-21 版</title>
       <link>https://boilingsteam.com/new-steam-games-with-native-linux-clients-2024-02-21-edition/index.html</link>
-      <description><![CDATA[2024 年 2 月 14 日至 2024 年 2 月 21 日期间，使用本机 Linux 客户端发布了 35 款新 Steam 游戏。作为参考，同期 Steam 上发布了 389 款 Windows 游戏，因此 Linux 版本约占已发布游戏总数的 9%。本周最大的发布是《爆发的故事》的 1.0 版本，经过一整年的反馈和迭代，它刚刚结束抢先体验。现在看来，这是一款非常值得尝试的可靠且强大的游戏！以下是本周值得一看的游戏的完整列表：]]></description>
+      <description><![CDATA[2024 年 2 月 14 日至 2024 年 2 月 21 日期间，使用本机 Linux 客户端发布了 35 款新 Steam 游戏。作为参考，同期 Steam 上发布了 389 款 Windows 游戏，因此 Linux 版本约占已发布游戏总数的 9%。本周最大的发布是《爆发的故事》的 1.0 版本，经过一整年的反馈和迭代，它刚刚结束抢先体验。现在看来，这是一款非常值得尝试的可靠且强大的游戏！以下是本周值得一试的游戏的完整列表：]]></description>
       <guid>https://boilingsteam.com/new-steam-games-with-native-linux-clients-2024-02-21-edition/index.html</guid>
       <pubDate>Wed, 21 Feb 2024 05:44:37 GMT</pubDate>
     </item>
     <item>
       <title>Steam Next Fest：2024 年 2 月 - 我们尝试过的</title>
       <link>https://boilingsteam.com/steam-next-fest-feb-2024/index.html</link>
-      <description><![CDATA[Steam Next 盛典，2024 年 2 月 - 在新游戏面世之前尝试新游戏的好时机。像往常一样，我们与您分享我们对我们尝试过的各种游戏的看法。您可以查看我们为 2023 年 10 月的 Steam Next Fest、2023 年 2 月的 Steam Next Fest、2022 年 10 月的 Steam Next Fest 所做的工作。过去的事情已经说完了，让我们来谈谈即将推出的游戏吧！]]></description>
+      <description><![CDATA[Steam Next 盛典，2024 年 2 月 - 在新游戏问世之前尝试一下的好时机。像往常一样，我们与您分享我们对我们尝试过的各种游戏的看法。您可以查看我们为 2023 年 10 月的 Steam Next Fest、2023 年 2 月的 Steam Next Fest、2022 年 10 月的 Steam Next Fest 所做的工作。过去的事情已经说完了，让我们来谈谈即将推出的游戏吧！]]></description>
       <guid>https://boilingsteam.com/steam-next-fest-feb-2024/index.html</guid>
       <pubDate>Tue, 20 Feb 2024 09:49:42 GMT</pubDate>
     </item>
@@ -34,16 +41,16 @@
       <pubDate>Mon, 19 Feb 2024 14:29:25 GMT</pubDate>
     </item>
     <item>
-      <title>Steam 平台上回顾《苍翼默示录》熵效应</title>
+      <title>《苍翼默示录》熵效应在 Steam 平台上回顾</title>
       <link>https://boilingsteam.com/blaz-blue-entropy-effect/index.html</link>
-      <description><![CDATA[我去年 2023 年 7 月在日本京都的 BitSummit 上首次看到这款游戏。当时它已经在 Steam Deck 上运行，所以我知道我们可以期待对该版本的出色 Linux 支持，而且我并没有失望。 《苍翼默示录》是日本 Arc Systems 出品的一款非常知名的格斗游戏系列，《熵效应》是该系列的衍生作品。您会发现您可以在格斗游戏中扮演相同的角色，但这次是在 Roguelite 2D 平台游戏中使用。请注意，您不需要熟悉格斗游戏本身，因为这个游戏完全独立。游戏背后的整个故事一开始有点奇怪。你扮演一个漂浮的机器人（ACEr），其任务是找出隐藏在未来（或过去？）的一些奇怪愿景（被称为现象）背后的东西。为了做到这一点，你必须在思维训练机中通过一系列挑战，你将在其中扮演 Evotype 之一（即《苍翼默示录》系列的角色之一），尝试让他们通过不同的关卡的心智训练阶段。如果这听起来有点奇怪和无聊，那么，确实是这样，但是一旦你克服了这一点，游戏就会变得一目了然：你选择一个角色，你必须尽可能走得更远才能完成单人运行生活。你的游戏方式遵循动作平台游戏的黄金规则：你可以跳跃并执行二段跳。一开始你只能解锁 3 个角色，然后你必须选择一个或另一个来试试你的运气。根据你的角色，你会使用不同类型的武器：左轮手枪、长矛、剑，这会给你带来非常不同的感觉。例如，左轮手枪没有射程限制，而剑则更注重近战。你可以使用 X 按钮进行普通类型的攻击，使用 B 按钮冲刺以避免被击中，使用 Y 按钮使用特殊能力，并使用触发器执行另外两个传奇，在你可以重新启动之前，触发器有一个冷静期。 -使用它们。这一切都是为了快速移动，躲避敌人的攻击，并通过混合攻击来重击他们，以尽可能多地消灭他们，以避免被淹没。]]></description>
+      <description><![CDATA[我去年 2023 年 7 月在日本京都的 BitSummit 上首次看到这款游戏。当时它已经在 Steam Deck 上运行，所以我知道我们可以期待对该版本的出色 Linux 支持，而且我并没有失望。 《苍翼默示录》是日本 Arc Systems 出品的一款非常知名的格斗游戏系列，《熵效应》是该系列的衍生作品。您会发现您可以在格斗游戏中扮演相同的角色，但这次是在 Roguelite 2D 平台游戏中使用。请注意，您无需熟悉格斗游戏本身，因为该游戏完全独立。游戏背后的整个故事一开始有点奇怪。你扮演一个漂浮的机器人（ACEr），其任务是找出隐藏在未来（或过去？）的一些奇怪愿景（被称为现象）背后的东西。为了做到这一点，你必须在思维训练机中通过一系列挑战，你将在其中扮演 Evotype 之一（即《苍翼默示录》系列的角色之一），尝试让他们通过不同的关卡的心智训练阶段。如果这听起来有点奇怪和无聊，那么，确实是这样，但是一旦你克服了这一点，游戏就会变得一目了然：你选择一个角色，你必须尽可能走得更远才能完成单人运行生活。你的游戏方式遵循动作平台游戏的黄金规则：你可以跳跃并执行二段跳。一开始你只能解锁 3 个角色，然后你必须选择一个或另一个来试试你的运气。根据你的角色，你会使用不同类型的武器：左轮手枪、长矛、剑，这会给你带来非常不同的感觉。例如，左轮手枪没有射程限制，而剑则更侧重于近战。你可以使用 X 按钮进行普通类型的攻击，使用 B 按钮冲刺以避免被击中，使用 Y 按钮使用特殊能力，并使用触发器执行另外两个传奇，在你可以重新启动之前，触发器有一个冷静期。 -使用它们。这一切都是为了快速移动，躲避敌人的攻击，并通过混合攻击来重击他们，以摆脱尽可能多的敌人，以避免被淹没。]]></description>
       <guid>https://boilingsteam.com/blaz-blue-entropy-effect/index.html</guid>
       <pubDate>Sun, 18 Feb 2024 09:36:05 GMT</pubDate>
     </item>
     <item>
       <title>带有原生 Linux 客户端的新 Steam 游戏，包括 Boing Odyssey 和 DunHero - 2024 年 2 月 14 日版</title>
       <link>https://boilingsteam.com/new-steam-games-with-native-linux-clients-2024-02-14-edition/index.html</link>
-      <description><![CDATA[2024 年 2 月 7 日至 2024 年 2 月 14 日期间，使用本机 Linux 客户端发布了 41 款新 Steam 游戏。作为参考，同期 Steam 上发布了 467 款 Windows 游戏，因此 Linux 版本约占已发布游戏总数的 8.8%。公平地说，这次的垃圾比平时更多，所以我们留下的并不多，但这里快速挑选了一些最有趣的：]]></description>
+      <description><![CDATA[2024 年 2 月 7 日至 2024 年 2 月 14 日期间，使用本机 Linux 客户端发布了 41 款新 Steam 游戏。作为参考，同一时期，Steam 上发布了 467 款 Windows 游戏，因此 Linux 版本约占已发布游戏总数的 8.8%。公平地说，这次的垃圾比平时更多，所以我们留下的并不多，但这里快速挑选了一些最有趣的：]]></description>
       <guid>https://boilingsteam.com/new-steam-games-with-native-linux-clients-2024-02-14-edition/index.html</guid>
       <pubDate>Sat, 17 Feb 2024 02:01:15 GMT</pubDate>
     </item>
@@ -57,7 +64,7 @@
     <item>
       <title>Corben 回顾了他对 2023 年 Linux 游戏的预测</title>
       <link>https://boilingsteam.com/corben-reviews-his-linux-gaming-predictions-for-2023/index.html</link>
-      <description><![CDATA[2 月份，我们将花更多时间回顾大约一年前我们的不同主持人对 Linux 游戏未来（2023 年）的预测。今天，科本不得不说一下他自己的预测是如何实现的！]]></description>
+      <description><![CDATA[2 月份，我们将花更多时间回顾大约一年前我们不同的主持人对 Linux 游戏的未来（2023 年）所做的预测。今天，科本不得不说一下他自己的预测是如何实现的！]]></description>
       <guid>https://boilingsteam.com/corben-reviews-his-linux-gaming-predictions-for-2023/index.html</guid>
       <pubDate>Sun, 11 Feb 2024 01:13:46 GMT</pubDate>
     </item>
@@ -78,7 +85,7 @@
     <item>
       <title>Universim，在 Linux 上评论</title>
       <link>https://boilingsteam.com/the-universim-review/index.html</link>
-      <description><![CDATA[Universim 由 Crytivo 开发和发行，是一款殖民地模拟游戏，它会尝试做很多事情并在某些方面取得成功，同时测试你的上帝的耐心。它在 Linux 上运行良好，但有一些小问题。在这个世界建造者中，你扮演一些令人毛骨悚然的神，受到一些被称为“掘金”的类人生物的崇拜，根据故事，这些生物太愚蠢了，如果任其自行其是就会死去。你神一般的力量包括用闪电或流星击杀敌人、提高掘金人的生活质量或迫使他们交配、保护城市和改善世界。]]></description>
+      <description><![CDATA[Universim 由 Crytivo 开发和发行，是一款殖民地模拟游戏，它会尝试做很多事情并在某些方面取得成功，同时测试你的上帝的耐心。它在 Linux 上运行良好，但有一些小问题。在这个世界建造者中，你扮演一些令人毛骨悚然的神，受到一些被称为“掘金”的类人生物的崇拜，根据故事，这些生物太愚蠢了，如果任其自行其是就会死去。你神一般的力量包括用闪电或流星袭击杀死敌人、提高掘金人的生活质量或迫使他们交配、保护城市和改善世界。]]></description>
       <guid>https://boilingsteam.com/the-universim-review/index.html</guid>
       <pubDate>Sun, 04 Feb 2024 13:51:21 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[]]></description>
       <guid>https://boilingsteam.com/racine-review/index.html</guid>
       <pubDate>Fri, 26 Jan 2024 15:42:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>带有原生 Linux 客户端的新 Steam 游戏以及 Universim 和 Agent in Depth - 2024 年 1 月 24 日版</title>
-      <link>https://boilingsteam.com/new-steam-games-with-native-linux-clients-2024-01-24-edition/index.html</link>
-      <description><![CDATA[2024 年 1 月 17 日至 2024 年 1 月 24 日期间，使用本机 Linux 客户端发布了 41 款新 Steam 游戏。作为参考，同期 Steam 上发布了 335 款 Windows 游戏，因此 Linux 版本约占已发布游戏总数的 12.2%。 Universim 看起来像是帝国建设类型的一个不错的选择：下面是过去一周的完整列表：]]></description>
-      <guid>https://boilingsteam.com/new-steam-games-with-native-linux-clients-2024-01-24-edition/index.html</guid>
-      <pubDate>Thu, 25 Jan 2024 13:28:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
