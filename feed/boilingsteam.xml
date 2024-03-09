@@ -4,7 +4,14 @@
     <title>沸腾的蒸汽</title>
     <link>https://boilingsteam.com</link>
     <description>Linux 上的 PC 游戏就是明天！</description>
-    <lastBuildDate>Wed, 06 Mar 2024 13:43:30 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 09 Mar 2024 15:46:35 GMT</lastBuildDate>
+    <item>
+      <title>奇术师：发布后的早期印象</title>
+      <link>https://boilingsteam.com/the-thaumaturge-review/index.html</link>
+      <description><![CDATA[《Thaumaturge》是波兰工作室 Fool’s Theory 推出的一款新游戏，目前正在 CD Projekt Red 的监督下开发《巫师 1 重制版》。我从两个角度来看那场比赛。首先，它具有令人耳目一新的外观，发生在历史背景中，并且看起来与任何其他作品都不同。第二个角度是......它让我们很好地了解工作室在开发新的《巫师》游戏时可以做什么。]]></description>
+      <guid>https://boilingsteam.com/the-thaumaturge-review/index.html</guid>
+      <pubDate>Sat, 09 Mar 2024 15:41:36 GMT</pubDate>
+    </item>
     <item>
       <title>带有原生 Linux 客户端的新 Steam 游戏，包括 KeeprRL 和 Minami Lane - 2024-03-06 版</title>
       <link>https://boilingsteam.com/new-steam-games-with-native-linux-clients-2024-03-06-edition/index.html</link>
@@ -50,7 +57,7 @@
     <item>
       <title>Steam Next Fest：2024 年 2 月 - 我们尝试过的</title>
       <link>https://boilingsteam.com/steam-next-fest-feb-2024/index.html</link>
-      <description><![CDATA[Steam Next 盛宴，2024 年 2 月 - 在新游戏面世之前尝试新游戏的好时机。像往常一样，我们与您分享我们对我们尝试过的各种游戏的看法。您可以查看我们为 2023 年 10 月的 Steam Next Fest、2023 年 2 月的 Steam Next Fest、2022 年 10 月的 Steam Next Fest 所做的工作。过去的事情已经说完了，让我们来谈谈即将推出的游戏吧！]]></description>
+      <description><![CDATA[Steam Next 盛典，2024 年 2 月 - 在新游戏问世之前尝试一下的好时机。像往常一样，我们与您分享我们对我们尝试过的各种游戏的看法。您可以查看我们为 2023 年 10 月的 Steam Next Fest、2023 年 2 月的 Steam Next Fest、2022 年 10 月的 Steam Next Fest 所做的工作。过去的事情已经说完了，让我们来谈谈即将推出的游戏吧！]]></description>
       <guid>https://boilingsteam.com/steam-next-fest-feb-2024/index.html</guid>
       <pubDate>Tue, 20 Feb 2024 09:49:42 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[我们请 Chris Were 回顾一下他对 2023 年 Linux 游戏的预测。几天前我们已经回顾了 Boiling Steam 对 2023 年的预测。现在让我们把麦克风交给下面的克里斯。你好，我是克里斯·威尔。我有时会在 YouTube 上制作视频（@ChrisWereDigital 和 @itsLudoChris），但我最感兴趣的是我的 Fediverse 内容 (ChrisWere@toot.wales)。今年我的预测稍微成功一些。去年我写道：“OpenMW 将把多人游戏分支合并到其主分支中，这意味着一大群新人将开始玩 Morrowind 多人游戏。非 FOSS（免费开源软件）和非 Linux 游戏 YouTuber 和 Twitch 流媒体将发布人们在多人游戏中玩得开心和打破游戏的视频。”]]></description>
       <guid>https://boilingsteam.com/chris-weres-linux-gaming-predictions-2023-reviewed/index.html</guid>
       <pubDate>Tue, 06 Feb 2024 16:11:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Universim，在 Linux 上评论</title>
-      <link>https://boilingsteam.com/the-universim-review/index.html</link>
-      <description><![CDATA[Universim 由 Crytivo 开发和发行，是一款殖民地模拟游戏，它会尝试做很多事情并在某些方面取得成功，同时测试你的上帝的耐心。它在 Linux 上运行良好，但有一些小问题。在这个世界建造者中，你扮演一些令人毛骨悚然的神，受到一些被称为“掘金”的类人生物的崇拜，根据故事，这些生物太愚蠢了，如果任其自行其是就会死去。你神一般的力量包括用闪电或流星袭击杀死敌人、提高掘金人的生活质量或迫使他们交配、保护城市和改善世界。]]></description>
-      <guid>https://boilingsteam.com/the-universim-review/index.html</guid>
-      <pubDate>Sun, 04 Feb 2024 13:51:21 GMT</pubDate>
     </item>
     </channel>
 </rss>
