@@ -4,7 +4,14 @@
     <title>自我h.st</title>
     <link>https://selfh.st/</link>
     <description>自托管新闻、内容、更新等。</description>
-    <lastBuildDate>Fri, 15 Mar 2024 06:13:19 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 Mar 2024 12:17:28 GMT</lastBuildDate>
+    <item>
+      <title>本周自行主办（2024 年 3 月 15 日）</title>
+      <link>https://selfh.st/newsletter/2024-03-15/</link>
+      <description><![CDATA[自托管新闻、软件更新、发布以及 DDNS Updater 的焦点 - 一个用于更新多个提供商的 DNS 记录的 Web 应用程序]]></description>
+      <guid>https://selfh.st/newsletter/2024-03-15/</guid>
+      <pubDate>Fri, 15 Mar 2024 11:47:49 GMT</pubDate>
+    </item>
     <item>
       <title>本周自行主办（2024 年 3 月 8 日）</title>
       <link>https://selfh.st/newsletter/2024-03-08/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>本周自行主办（2024 年 3 月 1 日）</title>
       <link>https://selfh.st/newsletter/2024-03-01/</link>
-      <description><![CDATA[自托管新闻、软件更新、发布以及对 Docker Socket Proxy（用于公开 Docker API 的安全代理）的关注]]></description>
+      <description><![CDATA[自托管新闻、软件更新、发布以及对 Docker Socket Proxy 的关注 - 用于公开 Docker API 的安全代理]]></description>
       <guid>https://selfh.st/newsletter/2024-03-01/</guid>
       <pubDate>Fri, 01 Mar 2024 13:02:08 GMT</pubDate>
     </item>
@@ -29,21 +36,21 @@
     <item>
       <title>本周自行主办（2024 年 2 月 16 日）</title>
       <link>https://selfh.st/newsletter/2024-02-16/</link>
-      <description><![CDATA[自托管新闻、软件更新、发布以及对 listmonk（自托管新闻通讯和邮件列表管理器）的关注]]></description>
+      <description><![CDATA[自托管新闻、软件更新、发布以及对 listmonk 的关注 - 一个自托管新闻通讯和邮件列表管理器]]></description>
       <guid>https://selfh.st/newsletter/2024-02-16/</guid>
       <pubDate>Fri, 16 Feb 2024 12:48:38 GMT</pubDate>
     </item>
     <item>
       <title>本周自行主办（2024 年 2 月 9 日）</title>
       <link>https://selfh.st/newsletter/2024-02-09/</link>
-      <description><![CDATA[自托管新闻、软件更新、发布以及对 Scrypted、摄像头流媒体平台和 NVR 的关注]]></description>
+      <description><![CDATA[自托管新闻、软件更新、发布以及 Scrypted（摄像机流媒体平台和 NVR）的焦点]]></description>
       <guid>https://selfh.st/newsletter/2024-02-09/</guid>
       <pubDate>Fri, 09 Feb 2024 12:51:31 GMT</pubDate>
     </item>
     <item>
       <title>本周自行主办（2024 年 2 月 2 日）</title>
       <link>https://selfh.st/newsletter/2024-02-02/</link>
-      <description><![CDATA[自托管新闻、软件更新、发布以及对 PiAlert（具有可配置警报的网络设备扫描仪）的关注]]></description>
+      <description><![CDATA[自托管新闻、软件更新、发布以及 PiAlert 的焦点 - 具有可配置警报的网络设备扫描仪]]></description>
       <guid>https://selfh.st/newsletter/2024-02-02/</guid>
       <pubDate>Fri, 02 Feb 2024 12:42:26 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[自托管新闻、软件更新、发布以及对基于 Web 的 docker compose 堆栈管理器 Dockge 的关注]]></description>
       <guid>https://selfh.st/newsletter/2023-12-15/</guid>
       <pubDate>Fri, 15 Dec 2023 12:36:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>本周自行主办（2023 年 12 月 8 日）</title>
-      <link>https://selfh.st/newsletter/2023-12-08/</link>
-      <description><![CDATA[自托管新闻、软件更新、发布以及对自托管链接共享平台 LinkStack 的关注]]></description>
-      <guid>https://selfh.st/newsletter/2023-12-08/</guid>
-      <pubDate>Fri, 08 Dec 2023 12:50:39 GMT</pubDate>
     </item>
     </channel>
 </rss>
