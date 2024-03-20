@@ -4,7 +4,14 @@
     <title>自我h.st</title>
     <link>https://selfh.st/</link>
     <description>自托管新闻、内容、更新等。</description>
-    <lastBuildDate>Wed, 20 Mar 2024 06:13:09 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 Mar 2024 12:17:53 GMT</lastBuildDate>
+    <item>
+      <title>赠品：3,000+ 时事通讯订阅者！</title>
+      <link>https://selfh.st/newsletter/202403-subscriber-giveaway/</link>
+      <description><![CDATA[用 Pi 的一部分庆祝本周 Self-Hosted 的最新订阅者里程碑]]></description>
+      <guid>https://selfh.st/newsletter/202403-subscriber-giveaway/</guid>
+      <pubDate>Wed, 20 Mar 2024 11:36:55 GMT</pubDate>
+    </item>
     <item>
       <title>本周自行主办（2024 年 3 月 15 日）</title>
       <link>https://selfh.st/newsletter/2024-03-15/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[自托管新闻、软件更新、发布以及对开源待办事项列表管理器 Vikunja 的关注]]></description>
       <guid>https://selfh.st/newsletter/2023-12-22/</guid>
       <pubDate>Fri, 22 Dec 2023 12:30:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>本周自行主办（2023 年 12 月 15 日）</title>
-      <link>https://selfh.st/newsletter/2023-12-15/</link>
-      <description><![CDATA[自托管新闻、软件更新、发布以及对基于 Web 的 docker compose 堆栈管理器 Dockge 的关注]]></description>
-      <guid>https://selfh.st/newsletter/2023-12-15/</guid>
-      <pubDate>Fri, 15 Dec 2023 12:36:55 GMT</pubDate>
     </item>
     </channel>
 </rss>
