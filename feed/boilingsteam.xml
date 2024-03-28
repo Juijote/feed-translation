@@ -4,18 +4,25 @@
     <title>沸腾的蒸汽</title>
     <link>https://boilingsteam.com</link>
     <description>Linux 上的 PC 游戏就是明天！</description>
-    <lastBuildDate>Sun, 24 Mar 2024 12:49:18 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 28 Mar 2024 16:23:41 GMT</lastBuildDate>
+    <item>
+      <title>带有原生 Linux 客户端的新 Steam 游戏，包括 Slice & Dice - 2024 年 3 月 27 日版</title>
+      <link>https://boilingsteam.com/new-steam-games-with-native-linux-clients-2024-03-27-edition/index.html</link>
+      <description><![CDATA[2024 年 3 月 20 日至 2024 年 3 月 27 日期间，使用本机 Linux 客户端发布了 32 款新 Steam 游戏。作为参考，同期 Steam 上发布了 392 款 Windows 游戏，因此 Linux 版本约占已发布游戏总数的 8.2%。本周发生的事情并不多，但《Slice &amp; Dice》是另一个异常作品，它建立在 roguelike 类型的基础上，以新的方式涉及骰子，是另一种不同的玩法。以下是您可能想要检查的所有内容的快速选择：]]></description>
+      <guid>https://boilingsteam.com/new-steam-games-with-native-linux-clients-2024-03-27-edition/index.html</guid>
+      <pubDate>Thu, 28 Mar 2024 16:17:07 GMT</pubDate>
+    </item>
     <item>
       <title>柚子因任天堂的威胁而关闭。下一步是什么？</title>
       <link>https://boilingsteam.com/yuzu-shuts-down-following-nintendos-threat-whats-next/index.html</link>
-      <description><![CDATA[我本想早点讨论这个问题，但迟到总比不好。继任天堂美国公司最近对由 Tropic Haze 开发的流行 Nintendo Switch 模拟器 Yuzu 提起联邦诉讼后，该公司决定关闭该公司，与任天堂达成和解，并从其网站和相关 GitHub 帐户中删除所有模拟器。尽管 Tropic Haze 声称将向任天堂支付 240 万美元的赔偿金，但实际的庭外和解通常是保密的，没有人真正知道真正的条件是什么（以及实际涉及多少钱）。换句话说，不要轻信新闻稿。新闻稿是为了控制叙事——事实往往是另外一回事。以下是 Tropic Haze 的官方声明： &gt; 我们今天写信通知您，柚子和柚子对 Citra 的支持即将终止，立即生效。 Yuzu及其团队一直反对盗版。我们出于对任天堂及其游戏机和游戏的热情，真诚地启动了这些项目，并且无意造成伤害。但我们现在看到，由于我们的项目可以绕过任天堂的技术保护措施，允许用户在授权硬件之外玩游戏，因此导致了广泛的盗版现象。特别是，当用户在游戏发布之前使用我们的软件泄露游戏内容并破坏合法购买者和粉丝的体验时，我们深感失望。我们已经决定不能继续允许这种情况发生。盗版从来都不是我们的意图，我们相信视频游戏和视频游戏机上的盗版应该结束。从今天起，我们将关闭我们的代码存储库，停止我们的 Patreon 帐户和 Discord 服务器，并很快关闭我们的网站。我们希望我们的行动能够成为制止所有创作者作品盗版的一小步。]]></description>
+      <description><![CDATA[我本想早点讨论这个问题，但迟到总比不好。继任天堂美国公司最近对由 Tropic Haze 开发的流行 Nintendo Switch 模拟器 Yuzu 提起联邦诉讼后，该公司决定关闭该公司，与任天堂达成和解，并从其网站和相关 GitHub 帐户中删除所有模拟器。尽管 Tropic Haze 声称将向任天堂支付 240 万美元的赔偿金，但实际的庭外和解通常是保密的，没有人真正知道真正的条件是什么（以及实际涉及多少钱）。换句话说，不要轻信新闻稿。新闻稿是为了控制叙事——事实往往是另外一回事。以下是 Tropic Haze 的官方声明： &gt; 我们今天写信通知您，柚子和柚子对 Citra 的支持即将终止，立即生效。 Yuzu及其团队一直反对盗版。我们出于对任天堂及其游戏机和游戏的热情，真诚地启动了这些项目，并且无意造成伤害。但我们现在看到，由于我们的项目可以绕过任天堂的技术保护措施，允许用户在授权硬件之外玩游戏，因此导致了广泛的盗版现象。特别是，当用户在游戏发布之前使用我们的软件泄露游戏内容并破坏合法购买者和粉丝的体验时，我们深感失望。我们已经决定不能继续允许这种情况发生。盗版从来都不是我们的本意，我们相信视频游戏和视频游戏机上的盗版应该结束。从今天起，我们将关闭我们的代码存储库，停止我们的 Patreon 帐户和 Discord 服务器，并很快关闭我们的网站。我们希望我们的行动能够成为制止所有创作者作品盗版的一小步。]]></description>
       <guid>https://boilingsteam.com/yuzu-shuts-down-following-nintendos-threat-whats-next/index.html</guid>
       <pubDate>Sun, 24 Mar 2024 09:43:17 GMT</pubDate>
     </item>
     <item>
-      <title>带有本机 Linux 客户端的新 Steam 游戏 - 2024 年 3 月 20 日版</title>
+      <title>具有本机 Linux 客户端的新 Steam 游戏 - 2024 年 3 月 20 日版</title>
       <link>https://boilingsteam.com/new-steam-games-with-native-linux-clients-2024-03-20-edition/index.html</link>
-      <description><![CDATA[2024 年 3 月 13 日至 2024 年 3 月 20 日期间，使用本机 Linux 客户端发布了 25 款新 Steam 游戏。作为参考，同期 Steam 上发布了 238 款 Windows 游戏，因此 Linux 版本约占已发布游戏总数的 10.5%。本周值得讨论的新游戏并不多，所以这里快速挑选了一些最有趣的游戏：]]></description>
+      <description><![CDATA[2024 年 3 月 13 日至 2024 年 3 月 20 日期间，使用本机 Linux 客户端发布了 25 款新 Steam 游戏。作为参考，同期，Steam 上发布了 238 款 Windows 游戏，因此 Linux 版本约占已发布游戏总数的 10.5%。本周值得讨论的新游戏并不多，所以这里快速挑选了一些最有趣的游戏：]]></description>
       <guid>https://boilingsteam.com/new-steam-games-with-native-linux-clients-2024-03-20-edition/index.html</guid>
       <pubDate>Wed, 20 Mar 2024 14:40:41 GMT</pubDate>
     </item>
@@ -27,7 +34,7 @@
       <pubDate>Fri, 15 Mar 2024 14:26:45 GMT</pubDate>
     </item>
     <item>
-      <title>奇术师：发布后的早期印象</title>
+      <title>奇术师：释放后的早期印象</title>
       <link>https://boilingsteam.com/the-thaumaturge-review/index.html</link>
       <description><![CDATA[《Thaumaturge》是波兰工作室 Fool’s Theory 推出的一款新游戏，目前正在 CD Projekt Red 的监督下开发《巫师 1 重制版》。我从两个角度来看那场比赛。首先，它具有令人耳目一新的外观，发生在历史背景中，并且看起来与任何其他作品都不同。第二个角度是......它让我们很好地了解工作室在开发新的《巫师》游戏时可以做什么。]]></description>
       <guid>https://boilingsteam.com/the-thaumaturge-review/index.html</guid>
@@ -36,7 +43,7 @@
     <item>
       <title>带有原生 Linux 客户端的新 Steam 游戏，包括 KeeprRL 和 Minami Lane - 2024-03-06 版</title>
       <link>https://boilingsteam.com/new-steam-games-with-native-linux-clients-2024-03-06-edition/index.html</link>
-      <description><![CDATA[2024 年 2 月 28 日至 2024 年 3 月 6 日期间，使用本机 Linux 客户端发布了 41 款新 Steam 游戏。作为参考，同期 Steam 上发布了 378 款 Windows 游戏，因此 Linux 版本约占已发布游戏总数的 10.8%。本周有很多好东西，KeeperRL 将矮人要塞、地下城守护者和 Roguelite 元素融为一体。以下是过去一周所有有趣内容的快速精选：]]></description>
+      <description><![CDATA[2024 年 2 月 28 日至 2024 年 3 月 6 日期间，使用本机 Linux 客户端发布了 41 款新 Steam 游戏。作为参考，同期，Steam 上发布了 378 款 Windows 游戏，因此 Linux 版本约占已发布游戏总数的 10.8%。本周有很多好东西，KeeperRL 将矮人要塞、地下城守护者和 Roguelite 元素融为一体。以下是过去一周所有有趣内容的快速精选：]]></description>
       <guid>https://boilingsteam.com/new-steam-games-with-native-linux-clients-2024-03-06-edition/index.html</guid>
       <pubDate>Wed, 06 Mar 2024 13:39:58 GMT</pubDate>
     </item>
@@ -69,7 +76,7 @@
       <pubDate>Thu, 22 Feb 2024 08:23:47 GMT</pubDate>
     </item>
     <item>
-      <title>带有原生 Linux 客户端的新 Steam 游戏，包括《Stories from the Outbreak》和 TallowMere 2 - 2024 年 2 月 21 日版</title>
+      <title>带有原生 Linux 客户端的新 Steam 游戏，包括 Stories from the Outbreak 和 TallowMere 2 - 2024-02-21 版</title>
       <link>https://boilingsteam.com/new-steam-games-with-native-linux-clients-2024-02-21-edition/index.html</link>
       <description><![CDATA[2024 年 2 月 14 日至 2024 年 2 月 21 日期间，使用本机 Linux 客户端发布了 35 款新 Steam 游戏。作为参考，同期 Steam 上发布了 389 款 Windows 游戏，因此 Linux 版本约占已发布游戏总数的 9%。本周最大的发布是《爆发的故事》的 1.0 版本，经过一整年的反馈和迭代，它刚刚结束抢先体验。现在看来，这是一款非常值得尝试的可靠且强大的游戏！以下是本周值得一看的游戏的完整列表：]]></description>
       <guid>https://boilingsteam.com/new-steam-games-with-native-linux-clients-2024-02-21-edition/index.html</guid>
@@ -90,9 +97,9 @@
       <pubDate>Mon, 19 Feb 2024 14:29:25 GMT</pubDate>
     </item>
     <item>
-      <title>Steam 平台上回顾《苍翼默示录》熵效应</title>
+      <title>《苍翼默示录》熵效应在 Steam 平台上回顾</title>
       <link>https://boilingsteam.com/blaz-blue-entropy-effect/index.html</link>
-      <description><![CDATA[我去年 2023 年 7 月在日本京都的 BitSummit 上首次看到这款游戏。当时它已经在 Steam Deck 上运行，所以我知道我们可以期待对该版本的出色 Linux 支持，而且我并没有失望。 《苍翼默示录》是日本 Arc Systems 出品的一款非常知名的格斗游戏系列，《熵效应》是该系列的衍生作品。您会发现您可以在格斗游戏中扮演相同的角色，但这次是在 Roguelite 2D 平台游戏中使用。请注意，您无需熟悉格斗游戏本身，因为该游戏完全独立。游戏背后的整个故事一开始有点奇怪。你扮演一个漂浮的机器人（ACEr），其任务是找出隐藏在未来（或过去？）的一些奇怪愿景（被称为现象）背后的东西。为了做到这一点，你必须在思维训练机中通过一系列挑战，你将在其中扮演 Evotype 之一（即《苍翼默示录》系列的角色之一），尝试让他们通过不同的关卡的心智训练阶段。如果这听起来有点奇怪和无聊，那么，确实是这样，但是一旦你克服了这一点，游戏就会变得一目了然：你选择一个角色，你必须尽可能走得更远才能完成单人运行生活。你的游戏方式遵循动作平台游戏的黄金规则：你可以跳跃并执行二段跳。一开始你只能解锁 3 个角色，然后你必须选择一个或另一个来试试你的运气。根据你的角色，你会使用不同类型的武器：左轮手枪、长矛、剑，这会给你带来非常不同的感觉。例如，左轮手枪没有射程限制，而剑则更侧重于近战。你可以使用 X 按钮进行普通类型的攻击，使用 B 按钮冲刺以避免被击中，使用 Y 按钮使用特殊能力，并使用触发器执行另外两个传奇，在你可以重新启动之前，触发器有一个冷静期。 -使用它们。这一切都是为了快速移动，躲避敌人的攻击，并通过混合攻击来重击他们，以摆脱尽可能多的敌人，以避免被淹没。]]></description>
+      <description><![CDATA[我去年 2023 年 7 月在日本京都的 BitSummit 上首次看到这款游戏。当时它已经在 Steam Deck 上运行，所以我知道我们可以期待对该版本的出色 Linux 支持，而且我并没有失望。 《苍翼默示录》是日本 Arc Systems 出品的一款非常知名的格斗游戏系列，《熵效应》是该系列的衍生作品。您会发现您可以在格斗游戏中扮演相同的角色，但这次是在 Roguelite 2D 平台游戏中使用。请注意，您不需要熟悉格斗游戏本身，因为这个游戏完全独立。游戏背后的整个故事一开始有点奇怪。你扮演一个漂浮的机器人（ACEr），其任务是找出隐藏在未来（或过去？）的一些奇怪愿景（被称为现象）背后的东西。为了做到这一点，你必须在思维训练机中通过一系列挑战，你将在其中扮演 Evotype 之一（即《苍翼默示录》系列的角色之一），尝试让他们通过不同的关卡的心智训练阶段。如果这听起来有点奇怪和无聊，那么，确实是这样，但是一旦你克服了这一点，游戏就会变得一目了然：你选择一个角色，你必须尽可能走得更远才能完成单人运行生活。你的游戏方式遵循动作平台游戏的黄金规则：你可以跳跃并执行二段跳。一开始你只能解锁 3 个角色，然后你必须选择一个或另一个来试试你的运气。根据你的角色，你会使用不同类型的武器：左轮手枪、长矛、剑，这会给你带来非常不同的感觉。例如，左轮手枪没有射程限制，而剑则更注重近战。你可以使用 X 按钮进行普通类型的攻击，使用 B 按钮冲刺以避免被击中，使用 Y 按钮使用特殊能力，并使用触发器执行另外两个传奇，在你可以重新启动之前，触发器有一个冷静期。 -使用它们。这一切都是为了快速移动，躲避敌人的攻击，并通过混合攻击来重击他们，以摆脱尽可能多的敌人，以避免被淹没。]]></description>
       <guid>https://boilingsteam.com/blaz-blue-entropy-effect/index.html</guid>
       <pubDate>Sun, 18 Feb 2024 09:36:05 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[2024 年 2 月 7 日至 2024 年 2 月 14 日期间，使用本机 Linux 客户端发布了 41 款新 Steam 游戏。作为参考，同期 Steam 上发布了 467 款 Windows 游戏，因此 Linux 版本约占已发布游戏总数的 8.8%。公平地说，这次的垃圾比平时更多，所以我们留下的并不多，但这里快速挑选了一些最有趣的：]]></description>
       <guid>https://boilingsteam.com/new-steam-games-with-native-linux-clients-2024-02-14-edition/index.html</guid>
       <pubDate>Sat, 17 Feb 2024 02:01:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>您可以使用 Proton 在 Linux 上玩的 8 款热门新游戏 – 2024 年 2 月版</title>
-      <link>https://boilingsteam.com/top-8-new-games-you-can-play-on-linux-with-proton-february-2024-edition/index.html</link>
-      <description><![CDATA[我们又带着平常的每月更新回来了！ Boiling Steam 查看 ProtonDB 的最新数据转储，为您提供自 2024 年 1 月发布以来与 Proton 完美配合（几乎？查看评级）的新游戏的快速列表 - 所有这些游戏都可以开箱即用或运行良好调整： - Palworld：ProtonDB 信息 - Steam 商店 - 如龙：无限财富：ProtonDB 信息 - Steam 商店 - Momodora：月光告别：ProtonDB 信息 - Steam 商店]]></description>
-      <guid>https://boilingsteam.com/top-8-new-games-you-can-play-on-linux-with-proton-february-2024-edition/index.html</guid>
-      <pubDate>Tue, 13 Feb 2024 23:30:51 GMT</pubDate>
     </item>
     </channel>
 </rss>
