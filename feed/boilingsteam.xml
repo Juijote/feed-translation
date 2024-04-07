@@ -4,7 +4,14 @@
     <title>沸腾的蒸汽</title>
     <link>https://boilingsteam.com</link>
     <description>Linux 上的 PC 游戏就是明天！</description>
-    <lastBuildDate>Thu, 04 Apr 2024 12:26:35 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 07 Apr 2024 00:02:44 GMT</lastBuildDate>
+    <item>
+      <title>联合企鹅王国评论</title>
+      <link>https://boilingsteam.com/united-penguin-kingdom-review/index.html</link>
+      <description><![CDATA[《联合企鹅王国》是一款城市建设游戏，您必须保护您的企鹅栖息地免受海豹和逆戟鲸的攻击。这款游戏由 Turquoise Revival Games 开发，由 GrabTheGames 和 UpgradePoint 发行，听起来像是专为 Linux 开发的游戏，但不要被愚弄了。没有原生支持，但它与 Proton 配合良好。我的第一印象是，这将是一款令人放松的建筑游戏，有很多机会拍摄可爱的照片。模型很漂亮，你可以看到企鹅使用他们正在工作或放松的一些建筑物。你可以按“T”隐藏 HUD 以帮助截图。加载页面告诉你虎鲸只会摧毁建筑物，海豹会偷食物，这个游戏中没有真正的野生动物血腥。寒冷的部分是我的一个错误，当我意识到我只是在遵循任务清单而不是享受建立企鹅殖民地时，魔力就消失了。]]></description>
+      <guid>https://boilingsteam.com/united-penguin-kingdom-review/index.html</guid>
+      <pubDate>Sat, 06 Apr 2024 23:34:43 GMT</pubDate>
+    </item>
     <item>
       <title>带有原生 Linux 客户端的新 Steam 游戏，包括 Pepper Grinder 和 Maniac - 2024 年 4 月 3 日版</title>
       <link>https://boilingsteam.com/new-steam-games-with-native-linux-clients-2024-04-03-edition/index.html</link>
@@ -27,16 +34,16 @@
       <pubDate>Sun, 24 Mar 2024 09:43:17 GMT</pubDate>
     </item>
     <item>
-      <title>具有本机 Linux 客户端的新 Steam 游戏 - 2024 年 3 月 20 日版</title>
+      <title>带有本机 Linux 客户端的新 Steam 游戏 - 2024 年 3 月 20 日版</title>
       <link>https://boilingsteam.com/new-steam-games-with-native-linux-clients-2024-03-20-edition/index.html</link>
-      <description><![CDATA[2024 年 3 月 13 日至 2024 年 3 月 20 日期间，使用本机 Linux 客户端发布了 25 款新 Steam 游戏。作为参考，同期，Steam 上发布了 238 款 Windows 游戏，因此 Linux 版本约占已发布游戏总数的 10.5%。本周值得讨论的新游戏并不多，所以这里快速挑选了一些最有趣的游戏：]]></description>
+      <description><![CDATA[2024 年 3 月 13 日至 2024 年 3 月 20 日期间，使用本机 Linux 客户端发布了 25 款新 Steam 游戏。作为参考，同期 Steam 上发布了 238 款 Windows 游戏，因此 Linux 版本约占已发布游戏总数的 10.5%。本周值得讨论的新游戏并不多，所以这里快速挑选了一些最有趣的游戏：]]></description>
       <guid>https://boilingsteam.com/new-steam-games-with-native-linux-clients-2024-03-20-edition/index.html</guid>
       <pubDate>Wed, 20 Mar 2024 14:40:41 GMT</pubDate>
     </item>
     <item>
       <title>带有原生 Linux 客户端的新 Steam 游戏，包括 Bore Blasters 和 Backpack Battles - 2024 年 3 月 13 日版</title>
       <link>https://boilingsteam.com/new-steam-games-with-native-linux-clients-2024-03-13-edition/index.html</link>
-      <description><![CDATA[2024 年 3 月 6 日至 2024 年 3 月 13 日期间，使用本机 Linux 客户端发布了 51 款新 Steam 游戏。作为参考，同一时期，Steam 上发布了 399 款 Windows 游戏，因此 Linux 版本约占已发布游戏总数的 12.8%。本周有很多值得喜欢的游戏，比如 Bore Blasters 等将采矿与可升级车辆和 Roguelite 元素混合在一起的游戏。不过，还有更多内容，下面是可能值得您花时间的标题示例。]]></description>
+      <description><![CDATA[2024 年 3 月 6 日至 2024 年 3 月 13 日期间，使用本机 Linux 客户端发布了 51 款新 Steam 游戏。作为参考，同期 Steam 上发布了 399 款 Windows 游戏，因此 Linux 版本约占已发布游戏总数的 12.8%。本周有很多值得喜欢的游戏，比如 Bore Blasters 等将采矿与可升级车辆和 Roguelite 元素混合在一起的游戏。不过，还有更多内容，下面是可能值得您花时间的标题示例。]]></description>
       <guid>https://boilingsteam.com/new-steam-games-with-native-linux-clients-2024-03-13-edition/index.html</guid>
       <pubDate>Fri, 15 Mar 2024 14:26:45 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[现在是时候根据非常有用的 ProtonDB 数据转储来观察与 Linux 游戏发行版相关的最新趋势了。无需进一步说明，让我与您分享以下最近几个月的数据结果： [Linux 游戏发行版的演变：2024 年 2 月更新] 最近出现了一些趋势。]]></description>
       <guid>https://boilingsteam.com/ubuntu-and-manjaro-fall-further-into-oblivion-february-2024/index.html</guid>
       <pubDate>Mon, 19 Feb 2024 14:29:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>Steam 平台上回顾《苍翼默示录》熵效应</title>
-      <link>https://boilingsteam.com/blaz-blue-entropy-effect/index.html</link>
-      <description><![CDATA[我去年 2023 年 7 月在日本京都的 BitSummit 上首次看到这款游戏。当时它已经在 Steam Deck 上运行，所以我知道我们可以期待对该版本的出色 Linux 支持，而且我并没有失望。 《苍翼默示录》是日本 Arc Systems 出品的一款非常知名的格斗游戏系列，《熵效应》是该系列的衍生作品。您会发现您可以在格斗游戏中扮演相同的角色，但这次是在 Roguelite 2D 平台游戏中使用。请注意，您无需熟悉格斗游戏本身，因为该游戏完全独立。游戏背后的整个故事一开始有点奇怪。你扮演一个漂浮的机器人（ACEr），其任务是找出隐藏在未来（或过去？）的一些奇怪愿景（被称为现象）背后的东西。为了做到这一点，你必须在思维训练机中通过一系列挑战，你将在其中扮演 Evotype 之一（即《苍翼默示录》系列的角色之一），尝试让他们通过不同的关卡的心智训练阶段。如果这听起来有点奇怪和无聊，那么，确实是这样，但是一旦你克服了这一点，游戏就会变得一目了然：你选择一个角色，你必须尽可能走得更远才能完成单人运行生活。你的游戏方式遵循动作平台游戏的黄金规则：你可以跳跃并执行二段跳。一开始你只能解锁 3 个角色，然后你必须选择一个或另一个来试试你的运气。根据你的角色，你会使用不同类型的武器：左轮手枪、长矛、剑，这会给你带来非常不同的感觉。例如，左轮手枪没有射程限制，而剑则更侧重于近战。你可以使用 X 按钮进行普通类型的攻击，使用 B 按钮冲刺以避免被击中，使用 Y 按钮使用特殊能力，并使用触发器执行另外两个传奇，在你可以重新启动之前，触发器有一个冷静期。 -使用它们。这一切都是为了快速移动，躲避敌人的攻击，并通过混合攻击来重击他们，以尽可能多地消灭他们，以避免被淹没。]]></description>
-      <guid>https://boilingsteam.com/blaz-blue-entropy-effect/index.html</guid>
-      <pubDate>Sun, 18 Feb 2024 09:36:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
